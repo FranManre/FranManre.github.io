@@ -20,15 +20,38 @@
 <body>
 
     <h1>Trivia APC Madrid</h1>
-    <h2 id="pregunta">Cargando...</h2>
+    <h2 id="question">Cargando...</h2>
     <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
-    <button onclick="toggleModoOscuro()">🌙 Modo oscuro</button>
+    <button onclick="toggleDarkMode()">🌙 Modo oscuro</button>
     <button onclick="reset()">Reset</button>
     <div id="map-container"></div>
     <p id="logro" class="hidden">🏆 ¡Logro desbloqueado!</p>
 
     <script>
-        const municipiosAPC = {
+        const codes = [
+            "28002", "28004", "28006", "28007", "28009", "28013", "28014", "28015", "28022", "28026", "28033", "28040",
+            "28041", "28045", "28049", "28052", "28053", "28057", "28058", "28059", "28061", "28065", "28067", "28072",
+            "28073", "28074", "28075", "28079", "28080", "28084", "28085", "28086", "28089", "28090", "28091", "28092",
+            "28096", "28104", "28106", "28110", "28113", "28115", "28119", "28123", "28127", "28129", "28130", "28132",
+            "28134", "28140", "28141", "28147", "28149", "28150", "28152", "28154", "28157", "28161", "28164", "28167",
+            "28170", "28172", "28174", "28175", "28176", "28177", "28178", "28181", "28903" ];
+        
+         const names = [
+             "Ajalvir", "El Álamo", "Alcobendas", "Alcorcón", "Algete", "Aranjuez", "Arganda del Rey", "Arroyomolinos",
+             "Boadilla del Monte", "Brunete", "Campo Real", "Ciempozuelos", "Cobeña", "Colmenar Viejo", "Coslada", "Chinchón",
+             "Daganzo de Arriba", "Fresno de Torote", "Fuenlabrada", "Fuente el Saz de Jarama", "Galapagar", "Getafe",
+             "Guadalix de la Sierra", "Hoyo de Manzanares", "Humanes de Madrid", "Leganés", "Loeches", "Madrid", "Majadahonda",
+             "Mejorada del Campo", "Miraflores de la Sierra", "El Molar", "Moraleja de Enmedio", "Moralzarzal",
+             "Morata de Tajuña", "Móstoles", "Navalcarnero", "Paracuellos de Jarama", "Parla", "Perales de Tajuña",
+             "Pinto", "Pozuelo de Alarcón", "Quijorna", "Rivas-Vaciamadrid", "Las Rozas de Madrid",
+             "San Agustín del Guadalix", "San Fernando de Henares", "San Martín de la Vega",
+             "San Sebastián de los Reyes", "Serranillos del Valle", "Sevilla la Nueva", "Titulcia",
+             "Torrejón de la Calzada", "Torrejón de Velasco", "Torrelodones", "Torres de la Alameda",
+             "Valdelaguna", "Valdemoro", "Valdetorres de Jarama", "Velilla de San Antonio",
+             "Villaconejos", "Villalbilla", "Villamanta", "Villamantilla", "Villanueva de la Cañada",
+             "Villanueva del Pardillo", "Villanueva de Perales", "Villaviciosa de Odón", "Tres Cantos" ];
+        
+        /*const municipiosAPC = {
             "28002": "Ajalvir", "28004": "El Álamo", "28006": "Alcobendas", "28007": "Alcorcón",
             "28009": "Algete", "28013": "Aranjuez", "28014": "Arganda del Rey", "28015": "Arroyomolinos",
             "28022": "Boadilla del Monte", "28026": "Brunete", "28033": "Campo Real", "28040": "Ciempozuelos",
@@ -51,31 +74,31 @@
             "28172": "Villalbilla", "28174": "Villamanta", "28175": "Villamantilla",
             "28176": "Villanueva de la Cañada", "28177": "Villanueva del Pardillo",
             "28178": "Villanueva de Perales", "28181": "Villaviciosa de Odón", "28903": "Tres Cantos"
-        };
+        };*/
 
         if (localStorage.getItem("dark-mode") === "true") { document.body.classList.toggle("dark-mode"); }
-        let intentos = 0;
+        let tries = 0;
         let score = localStorage.getItem("score") || 0;
         let combo = localStorage.getItem("combo") || 0;
-        let municipiosRestantes = JSON.parse(localStorage.getItem("restantes")) || Object.values(municipiosAPC).sort(() => Math.random() - 0.5);
-        let municipioActual = localStorage.getItem("current");
+        let left = JSON.parse(localStorage.getItem("left")) || [...names].sort(() => Math.random() - 0.5);
+        let current = localStorage.getItem("current");
 
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
 
-        function siguientePregunta() {
-            if (municipiosRestantes.length > 0) {
-                intentos = 0;
-                municipioActual = municipiosRestantes.pop();
-                localStorage.setItem("current", municipioActual);
-                document.getElementById("pregunta").innerText = `Haz clic en: ${municipioActual}`;
-                localStorage.setItem("restantes", JSON.stringify(municipiosRestantes));
+        function next() {
+            if (left.length > 0) {
+                tries = 0;
+                current = left.pop();
+                localStorage.setItem("current", current);
+                document.getElementById("question").innerText = `Haz clic en: ${current}`;
+                localStorage.setItem("left", JSON.stringify(left));
             } else {
-                document.getElementById("pregunta").innerText = "¡Juego terminado!";
+                document.getElementById("question").innerText = "¡Juego terminado!";
             }
         }
 
-        function toggleModoOscuro() {
+        function toggleDarkMode() {
             document.body.classList.toggle("dark-mode");
             localStorage.setItem("dark-mode", !(localStorage.getItem("dark-mode") === "true"));
         }
@@ -83,15 +106,15 @@
         function reset() {
             localStorage.setItem("score", score = 0);
             localStorage.setItem("combo", combo = 0);
-            municipiosRestantes = Object.values(municipiosAPC).sort(() => Math.random() - 0.5);
+            left = names.sort(() => Math.random() - 0.5);
             document.getElementById("score").innerText = score;
             document.getElementById("combo").innerText = combo;
-            siguientePregunta();
+            next();
         }
 
-        function mostrarLogro(mensaje) {
+        function mostrarLogro(msg) {
             let logro = document.getElementById("logro");
-            logro.innerText = mensaje;
+            logro.innerText = msg;
             logro.classList.remove("hidden");
             setTimeout(() => logro.classList.add("hidden"), 3000);
         }
@@ -103,16 +126,16 @@
                     document.getElementById("map-container").innerHTML = svgData;
                     let svg = d3.select("#map-container svg");
                     svg.selectAll("path").filter(function() {
-                        return Object.keys(municipiosAPC).includes(this.getAttribute("id")?.substring(0, 5));
+                        return codes.includes(this.getAttribute("id")?.substring(0, 5));
                     }).classed("apc", true);
 
                     svg.on("click", function(event) {
                         let target = event.target;
-                        let municipioSeleccionado = target.getAttribute("id")?.substring(0, 5);
+                        let selected = target.getAttribute("id")?.substring(0, 5);
 
-                        if (!municipioSeleccionado || !Object.keys(municipiosAPC).includes(municipioSeleccionado)) return;
+                        if (!selected || codes.includes(selected)) return;
 
-                        if (municipiosAPC[municipioSeleccionado] === municipioActual) {
+                        if (names[codes.indexOf(selected)] === current) {
                             target.classList.add("correct");
                             score++;
                             combo++;
@@ -129,34 +152,34 @@
 
                             setTimeout(() => {
                                 target.classList.remove("correct");
-                                siguientePregunta();
+                                next();
                             }, 3000);
                         } else {
-                            intentos++;
+                            tries++;
                             target.classList.add("incorrect");
                             if ("vibrate" in navigator) navigator.vibrate(300);
                             new Audio("error.mp3").play();
 
                             setTimeout(() => target.classList.remove("incorrect"), 2000);
 
-                            if (intentos >= 3) {
-                                intentos = 0;
-                                let idCorrecto = Object.keys(municipiosAPC).find(id => municipiosAPC[id] === municipioActual);
-                                let correctoElemento = document.querySelector(`path[id*='${idCorrecto}']`);
-                                if (correctoElemento) correctoElemento.classList.add("highlight");
+                            if (tries >= 3) {
+                                tries = 0;
+                                let correct = codes[names.indexOf(current)];
+                                let cPath = document.querySelector(`path[id*='${correct}']`);
+                                if (cPath) cPath.classList.add("highlight");
 
                                 setTimeout(() => {
-                                    correctoElemento.classList.remove("highlight");
+                                    cPath.classList.remove("highlight");
                                     combo = 0;
                                     document.getElementById("combo").innerText = combo;
                                     localStorage.setItem("combo", combo);
-                                    siguientePregunta();
+                                    next();
                                 }, 3000);
                             }
                         }
                     });
-                    if (municipioActual) document.getElementById("pregunta").innerText = `Haz clic en: ${municipioActual}`;
-                    else siguientePregunta();
+                    if (current) document.getElementById("question").innerText = `Haz clic en: ${current}`;
+                    else next();
                 });
             }).catch(error => console.error("Error cargando el mapa:", error));
     </script>
