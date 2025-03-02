@@ -111,7 +111,7 @@
                         let municipioSeleccionado = target.getAttribute("id")?.substring(0, 5);
 
                         if (!municipioSeleccionado || !Object.keys(municipiosAPC).includes(municipioSeleccionado)) return;
-alert(municipioSeleccionado ? municipioSeleccionado : "FALSE");
+
                         if (municipiosAPC[municipioSeleccionado] === municipioActual) {
                             target.classList.add("correct");
                             score++;
@@ -158,8 +158,7 @@ alert(municipioSeleccionado ? municipioSeleccionado : "FALSE");
                     if (municipioActual) document.getElementById("pregunta").innerText = `Haz clic en: ${municipioActual}`;
                     else siguientePregunta();
                 });
-            })
-            .catch(error => console.error("Error cargando el mapa:", error));
+            }).catch(error => console.error("Error cargando el mapa:", error));
     </script>
 
 </body>
