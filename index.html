@@ -102,9 +102,11 @@
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
                     let svg = d3.select("#map-container svg");
-                    svg.selectAll("path").classed("apc", true);
+                    svg.selectAll("path").filter(function() {
+                        return Object.keys(municipiosAPC).includes(this.getAttribute("id")?.substring(0, 5));
+                    }).classed("apc", true);
 
-                    svg.on("pointerdown", function(event) {
+                    svg.on("click", function(event) {
                         let target = event.target;
                         let municipioSeleccionado = target.getAttribute("id")?.substring(0, 5);
 
