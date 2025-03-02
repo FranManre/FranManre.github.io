@@ -133,7 +133,7 @@
                         let target = event.target;
                         let selected = target.getAttribute("id")?.substring(0, 5);
 
-                        if (!selected || codes.includes(selected)) return;
+                        if (!selected || !codes.includes(selected)) return;
 
                         if (names[codes.indexOf(selected)] === current) {
                             target.classList.add("correct");
