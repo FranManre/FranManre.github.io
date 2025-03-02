@@ -110,7 +110,7 @@
                         let target = event.target;
                         let municipioSeleccionado = target.getAttribute("id")?.substring(0, 5);
 
-                        if (!municipioSeleccionado) return;
+                        if (!municipioSeleccionado || !Object.keys(municipiosAPC).includes(municipioSeleccionado)) return;
 alert(municipioSeleccionado ? municipioSeleccionado : "FALSE");
                         if (municipiosAPC[municipioSeleccionado] === municipioActual) {
                             target.classList.add("correct");
