@@ -118,6 +118,89 @@
             logro.classList.remove("hidden");
             setTimeout(() => logro.classList.add("hidden"), 3000);
         }
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia APC Madrid</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; transition: background 0.3s; }
+        .dark-mode { background: #222; color: #fff; }
+        svg { width: 90vw; height: auto; margin: auto; display: block; }
+        .apc { fill: lightgray; stroke: black; stroke-width: 0.5px; cursor: pointer; transition: fill 0.3s ease, transform 0.2s ease; }
+        .correct { fill: green !important; }
+        .incorrect { fill: red !important; }
+        .highlight { fill: yellow !important; }
+        .hidden { display: none; }
+        button { padding: 10px; margin: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <h1>Trivia APC Madrid</h1>
+    <h2 id="question">Cargando...</h2>
+    <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
+    <button onclick="toggleDarkMode()">🌙 Modo oscuro</button>
+    <button onclick="resetGame()">Reset</button>
+    <div id="map-container"></div>
+    <p id="achievement" class="hidden">🏆 ¡Logro desbloqueado!</p>
+
+    <script>
+        const codes = [ /* Lista de códigos */ ];
+        const names = [ /* Lista de nombres */ ];
+
+        if (localStorage.getItem("dark-mode") === "true") {
+            document.body.classList.toggle("dark-mode");
+        }
+
+        let attempts = 0;
+        let score = localStorage.getItem("score") || 0;
+        let combo = localStorage.getItem("combo") || 0;
+        let remaining = JSON.parse(localStorage.getItem("remaining")) || [...names].sort(() => Math.random() - 0.5);
+        let current = localStorage.getItem("current");
+
+        document.getElementById("score").innerText = score;
+        document.getElementById("combo").innerText = combo;
+
+        function nextQuestion() {
+            if (remaining.length > 0) {
+                attempts = 0;
+                current = remaining.pop();
+                localStorage.setItem("current", current);
+                document.getElementById("question").innerText = `Haz clic en: ${current}`;
+                localStorage.setItem("remaining", JSON.stringify(remaining));
+                enableClicks(true);
+            } else {
+                document.getElementById("question").innerText = "¡Juego terminado!";
+            }
+        }
+
+        function toggleDarkMode() {
+            document.body.classList.toggle("dark-mode");
+            localStorage.setItem("dark-mode", !(localStorage.getItem("dark-mode") === "true"));
+        }
+
+        function resetGame() {
+            localStorage.setItem("score", score = 0);
+            localStorage.setItem("combo", combo = 0);
+            remaining = [...names].sort(() => Math.random() - 0.5);
+            document.getElementById("score").innerText = score;
+            document.getElementById("combo").innerText = combo;
+            nextQuestion();
+        }
+
+        function showAchievement(msg) {
+            let achievement = document.getElementById("achievement");
+            achievement.innerText = msg;
+            achievement.classList.remove("hidden");
+            setTimeout(() => achievement.classList.add("hidden"), 3000);
+        }
+
+        function enableClicks(state) {
+            document.getElementById("map-container").style.pointerEvents = state ? "auto" : "none";
+        }
 
         fetch("mapa.svg")
             .then(response => response.text())
@@ -136,11 +219,12 @@
                         if (!selected || !codes.includes(selected)) return;
 
                         if (names[codes.indexOf(selected)] === current) {
+                            enableClicks(false);
                             target.classList.add("correct");
                             score++;
                             combo++;
 
-                            if (combo === 10) mostrarLogro("🏆 Experto: 10 aciertos seguidos");
+                            if (combo === 10) showAchievement("🏆 Experto: 10 aciertos seguidos");
 
                             document.getElementById("score").innerText = score;
                             document.getElementById("combo").innerText = combo;
@@ -152,36 +236,41 @@
 
                             setTimeout(() => {
                                 target.classList.remove("correct");
-                                next();
+                                nextQuestion();
                             }, 3000);
                         } else {
-                            tries++;
+                            attempts++;
                             target.classList.add("incorrect");
                             if ("vibrate" in navigator) navigator.vibrate(300);
                             new Audio("error.mp3").play();
 
                             setTimeout(() => target.classList.remove("incorrect"), 2000);
 
-                            if (tries >= 3) {
-                                tries = 0;
-                                let correct = codes[names.indexOf(current)];
-                                let cPath = document.querySelector(`path[id*='${correct}']`);
-                                if (cPath) cPath.classList.add("highlight");
+                            if (attempts >= 3) {
+                                enableClicks(false);
+                                let correctCode = codes[names.indexOf(current)];
+                                let correctPath = document.querySelector(`path[id*='${correctCode}']`);
+                                if (correctPath) correctPath.classList.add("highlight");
 
                                 setTimeout(() => {
-                                    cPath.classList.remove("highlight");
+                                    correctPath.classList.remove("highlight");
                                     combo = 0;
                                     document.getElementById("combo").innerText = combo;
                                     localStorage.setItem("combo", combo);
-                                    next();
+                                    nextQuestion();
                                 }, 3000);
                             }
                         }
                     });
-                    if (current) document.getElementById("question").innerText = `Haz clic en: ${current}`;
-                    else next();
+
+                    if (current) {
+                        document.getElementById("question").innerText = `Haz clic en: ${current}`;
+                    } else {
+                        nextQuestion();
+                    }
                 });
-            }).catch(error => console.error("Error cargando el mapa:", error));
+            })
+            .catch(error => console.error("Error cargando el mapa:", error));
     </script>
 
 </body>
