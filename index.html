@@ -50,33 +50,9 @@
              "Valdelaguna", "Valdemoro", "Valdetorres de Jarama", "Velilla de San Antonio",
              "Villaconejos", "Villalbilla", "Villamanta", "Villamantilla", "Villanueva de la Cañada",
              "Villanueva del Pardillo", "Villanueva de Perales", "Villaviciosa de Odón", "Tres Cantos" ];
-        
-        /*const municipiosAPC = {
-            "28002": "Ajalvir", "28004": "El Álamo", "28006": "Alcobendas", "28007": "Alcorcón",
-            "28009": "Algete", "28013": "Aranjuez", "28014": "Arganda del Rey", "28015": "Arroyomolinos",
-            "28022": "Boadilla del Monte", "28026": "Brunete", "28033": "Campo Real", "28040": "Ciempozuelos",
-            "28041": "Cobeña", "28045": "Colmenar Viejo", "28049": "Coslada", "28052": "Chinchón",
-            "28053": "Daganzo de Arriba", "28057": "Fresno de Torote", "28058": "Fuenlabrada",
-            "28059": "Fuente el Saz de Jarama", "28061": "Galapagar", "28065": "Getafe",
-            "28067": "Guadalix de la Sierra", "28072": "Hoyo de Manzanares", "28073": "Humanes de Madrid",
-            "28074": "Leganés", "28075": "Loeches", "28079": "Madrid", "28080": "Majadahonda",
-            "28084": "Mejorada del Campo", "28085": "Miraflores de la Sierra", "28086": "El Molar",
-            "28089": "Moraleja de Enmedio", "28090": "Moralzarzal", "28091": "Morata de Tajuña",
-            "28092": "Móstoles", "28096": "Navalcarnero", "28104": "Paracuellos de Jarama",
-            "28106": "Parla", "28110": "Perales de Tajuña", "28113": "Pinto", "28115": "Pozuelo de Alarcón",
-            "28119": "Quijorna", "28123": "Rivas-Vaciamadrid", "28127": "Las Rozas de Madrid",
-            "28129": "San Agustín del Guadalix", "28130": "San Fernando de Henares",
-            "28132": "San Martín de la Vega", "28134": "San Sebastián de los Reyes",
-            "28140": "Serranillos del Valle", "28141": "Sevilla la Nueva", "28147": "Titulcia",
-            "28149": "Torrejón de la Calzada", "28150": "Torrejón de Velasco", "28152": "Torrelodones",
-            "28154": "Torres de la Alameda", "28157": "Valdelaguna", "28161": "Valdemoro",
-            "28164": "Valdetorres de Jarama", "28167": "Velilla de San Antonio", "28170": "Villaconejos",
-            "28172": "Villalbilla", "28174": "Villamanta", "28175": "Villamantilla",
-            "28176": "Villanueva de la Cañada", "28177": "Villanueva del Pardillo",
-            "28178": "Villanueva de Perales", "28181": "Villaviciosa de Odón", "28903": "Tres Cantos"
-        };*/
 
         if (localStorage.getItem("dark-mode") === "true") { document.body.classList.toggle("dark-mode"); }
+        let clickDisabled = false;
         let tries = 0;
         let score = localStorage.getItem("score") || 0;
         let combo = localStorage.getItem("combo") || 0;
@@ -87,6 +63,7 @@
         document.getElementById("combo").innerText = combo;
 
         function next() {
+            clickDisabled = false;
             if (left.length > 0) {
                 tries = 0;
                 current = left.pop();
@@ -130,12 +107,14 @@
                     }).classed("apc", true);
 
                     svg.on("click", function(event) {
+                        if (clickDisabled) return;
                         let target = event.target;
                         let selected = target.getAttribute("id")?.substring(0, 5);
 
                         if (!selected || !codes.includes(selected)) return;
 
                         if (names[codes.indexOf(selected)] === current) {
+                            clickDisabled = true;
                             target.classList.add("correct");
                             score++;
                             combo++;
@@ -164,6 +143,7 @@
 
                             if (tries >= 3) {
                                 tries = 0;
+                                clickDisabled = true;
                                 let correct = codes[names.indexOf(current)];
                                 let cPath = document.querySelector(`path[id*='${correct}']`);
                                 if (cPath) cPath.classList.add("highlight");
