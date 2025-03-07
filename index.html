@@ -50,33 +50,8 @@
              "Valdelaguna", "Valdemoro", "Valdetorres de Jarama", "Velilla de San Antonio",
              "Villaconejos", "Villalbilla", "Villamanta", "Villamantilla", "Villanueva de la Cañada",
              "Villanueva del Pardillo", "Villanueva de Perales", "Villaviciosa de Odón", "Tres Cantos" ];
-        
-        /*const municipiosAPC = {
-            "28002": "Ajalvir", "28004": "El Álamo", "28006": "Alcobendas", "28007": "Alcorcón",
-            "28009": "Algete", "28013": "Aranjuez", "28014": "Arganda del Rey", "28015": "Arroyomolinos",
-            "28022": "Boadilla del Monte", "28026": "Brunete", "28033": "Campo Real", "28040": "Ciempozuelos",
-            "28041": "Cobeña", "28045": "Colmenar Viejo", "28049": "Coslada", "28052": "Chinchón",
-            "28053": "Daganzo de Arriba", "28057": "Fresno de Torote", "28058": "Fuenlabrada",
-            "28059": "Fuente el Saz de Jarama", "28061": "Galapagar", "28065": "Getafe",
-            "28067": "Guadalix de la Sierra", "28072": "Hoyo de Manzanares", "28073": "Humanes de Madrid",
-            "28074": "Leganés", "28075": "Loeches", "28079": "Madrid", "28080": "Majadahonda",
-            "28084": "Mejorada del Campo", "28085": "Miraflores de la Sierra", "28086": "El Molar",
-            "28089": "Moraleja de Enmedio", "28090": "Moralzarzal", "28091": "Morata de Tajuña",
-            "28092": "Móstoles", "28096": "Navalcarnero", "28104": "Paracuellos de Jarama",
-            "28106": "Parla", "28110": "Perales de Tajuña", "28113": "Pinto", "28115": "Pozuelo de Alarcón",
-            "28119": "Quijorna", "28123": "Rivas-Vaciamadrid", "28127": "Las Rozas de Madrid",
-            "28129": "San Agustín del Guadalix", "28130": "San Fernando de Henares",
-            "28132": "San Martín de la Vega", "28134": "San Sebastián de los Reyes",
-            "28140": "Serranillos del Valle", "28141": "Sevilla la Nueva", "28147": "Titulcia",
-            "28149": "Torrejón de la Calzada", "28150": "Torrejón de Velasco", "28152": "Torrelodones",
-            "28154": "Torres de la Alameda", "28157": "Valdelaguna", "28161": "Valdemoro",
-            "28164": "Valdetorres de Jarama", "28167": "Velilla de San Antonio", "28170": "Villaconejos",
-            "28172": "Villalbilla", "28174": "Villamanta", "28175": "Villamantilla",
-            "28176": "Villanueva de la Cañada", "28177": "Villanueva del Pardillo",
-            "28178": "Villanueva de Perales", "28181": "Villaviciosa de Odón", "28903": "Tres Cantos"
-        };*/
 
-        if (localStorage.getItem("dark-mode") === "true") { document.body.classList.toggle("dark-mode"); }
+        let clickDisabled = false;
         let tries = 0;
         let score = localStorage.getItem("score") || 0;
         let combo = localStorage.getItem("combo") || 0;
@@ -102,7 +77,7 @@
             document.body.classList.toggle("dark-mode");
             localStorage.setItem("dark-mode", !(localStorage.getItem("dark-mode") === "true"));
         }
-        
+
         function reset() {
             localStorage.setItem("score", score = 0);
             localStorage.setItem("combo", combo = 0);
@@ -112,24 +87,16 @@
             next();
         }
 
-        function mostrarLogro(msg) {
-            let logro = document.getElementById("logro");
-            logro.innerText = msg;
-            logro.classList.remove("hidden");
-            setTimeout(() => logro.classList.add("hidden"), 3000);
-        }
-
         fetch("mapa.svg")
             .then(response => response.text())
             .then(svgData => {
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
                     let svg = d3.select("#map-container svg");
-                    svg.selectAll("path").filter(function() {
-                        return codes.includes(this.getAttribute("id")?.substring(0, 5));
-                    }).classed("apc", true);
 
                     svg.on("click", function(event) {
+                        if (clickDisabled) return;
+
                         let target = event.target;
                         let selected = target.getAttribute("id")?.substring(0, 5);
 
@@ -140,25 +107,15 @@
                             score++;
                             combo++;
 
-                            if (combo === 10) mostrarLogro("🏆 Experto: 10 aciertos seguidos");
-
-                            document.getElementById("score").innerText = score;
-                            document.getElementById("combo").innerText = combo;
-                            localStorage.setItem("score", score);
-                            localStorage.setItem("combo", combo);
-
-                            if ("vibrate" in navigator) navigator.vibrate(100);
-                            new Audio("acierto.mp3").play();
-
+                            clickDisabled = true;
                             setTimeout(() => {
                                 target.classList.remove("correct");
+                                clickDisabled = false;
                                 next();
                             }, 3000);
                         } else {
                             tries++;
                             target.classList.add("incorrect");
-                            if ("vibrate" in navigator) navigator.vibrate(300);
-                            new Audio("error.mp3").play();
 
                             setTimeout(() => target.classList.remove("incorrect"), 2000);
 
@@ -168,16 +125,16 @@
                                 let cPath = document.querySelector(`path[id*='${correct}']`);
                                 if (cPath) cPath.classList.add("highlight");
 
+                                clickDisabled = true;
                                 setTimeout(() => {
                                     cPath.classList.remove("highlight");
-                                    combo = 0;
-                                    document.getElementById("combo").innerText = combo;
-                                    localStorage.setItem("combo", combo);
+                                    clickDisabled = false;
                                     next();
                                 }, 3000);
                             }
                         }
                     });
+
                     if (current) document.getElementById("question").innerText = `Haz clic en: ${current}`;
                     else next();
                 });
