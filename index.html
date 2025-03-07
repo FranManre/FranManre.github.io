@@ -52,7 +52,7 @@
              "Villanueva del Pardillo", "Villanueva de Perales", "Villaviciosa de Odón", "Tres Cantos" ];
 
         if (localStorage.getItem("dark-mode") === "true") { document.body.classList.toggle("dark-mode"); }
-		let clickDisabled = false;
+	let clickDisabled = false;
         let tries = 0;
         let score = localStorage.getItem("score") || 0;
         let combo = localStorage.getItem("combo") || 0;
@@ -63,7 +63,7 @@
         document.getElementById("combo").innerText = combo;
 
         function next() {
-			clickDisabled = false;
+		clickDisabled = false;
             if (left.length > 0) {
                 tries = 0;
                 current = left.pop();
@@ -107,7 +107,7 @@
                     }).classed("apc", true);
 
                     svg.on("click", function(event) {
-						if (clickDisabled) return;
+			if (clickDisabled) return;
                         let target = event.target;
                         let selected = target.getAttribute("id")?.substring(0, 5);
 
@@ -124,7 +124,7 @@
                             document.getElementById("combo").innerText = combo;
                             localStorage.setItem("score", score);
                             localStorage.setItem("combo", combo);
-							clickDisabled = true;
+			    clickDisabled = true;
 
                             if ("vibrate" in navigator) navigator.vibrate(100);
                             new Audio("acierto.mp3").play();
@@ -142,7 +142,7 @@
                             setTimeout(() => target.classList.remove("incorrect"), 2000);
 
                             if (tries >= 3) {
-								clickDisabled = true;
+				clickDisabled = true;
                                 tries = 0;
                                 let correct = codes[names.indexOf(current)];
                                 let cPath = document.querySelector(path[id*='${correct}']);
