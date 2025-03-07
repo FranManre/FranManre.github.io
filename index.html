@@ -6,7 +6,7 @@
     <title>Trivia APC Madrid</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; transition: background 0.3s; }
+        body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; transition: background 0.3s, color 0.3s; }
         .dark-mode { background: #222; color: #fff; }
         svg { width: 90vw; height: auto; margin: auto; display: block; }
         .apc { fill: lightgray; stroke: black; stroke-width: 0.5px; cursor: pointer; transition: fill 0.3s ease, transform 0.2s ease; }
@@ -28,6 +28,22 @@
     <p id="logro" class="hidden">🏆 ¡Logro desbloqueado!</p>
 
     <script>
+        // Aplica el modo oscuro si estaba activado antes
+        if (localStorage.getItem("darkMode") === "enabled") {
+            document.body.classList.add("dark-mode");
+        }
+
+        function toggleDarkMode() {
+            let body = document.body;
+            if (body.classList.contains("dark-mode")) {
+                body.classList.remove("dark-mode");
+                localStorage.setItem("darkMode", "disabled");
+            } else {
+                body.classList.add("dark-mode");
+                localStorage.setItem("darkMode", "enabled");
+            }
+        }
+
         const codes = [
             "28002", "28004", "28006", "28007", "28009", "28013", "28014", "28015", "28022", "28026", "28033", "28040",
             "28041", "28045", "28049", "28052", "28053", "28057", "28058", "28059", "28061", "28065", "28067", "28072",
@@ -70,10 +86,6 @@
             }
         }
 
-        function toggleDarkMode() {
-            document.body.classList.toggle("dark-mode");
-        }
-        
         function reset() {
             score = combo = tries = 0;
             left = [...names].sort(() => Math.random() - 0.5);
