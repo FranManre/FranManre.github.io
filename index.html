@@ -28,8 +28,30 @@
     <p id="achievement" class="hidden">🏆 ¡Logro desbloqueado!</p>
 
     <script>
-        const codes = [ /* Lista de códigos */ ];
-        const names = [ /* Lista de nombres */ ];
+        const codes = [
+            "28002", "28004", "28006", "28007", "28009", "28013", "28014", "28015", "28022", "28026", "28033", "28040",
+            "28041", "28045", "28049", "28052", "28053", "28057", "28058", "28059", "28061", "28065", "28067", "28072",
+            "28073", "28074", "28075", "28079", "28080", "28084", "28085", "28086", "28089", "28090", "28091", "28092",
+            "28096", "28104", "28106", "28110", "28113", "28115", "28119", "28123", "28127", "28129", "28130", "28132",
+            "28134", "28140", "28141", "28147", "28149", "28150", "28152", "28154", "28157", "28161", "28164", "28167",
+            "28170", "28172", "28174", "28175", "28176", "28177", "28178", "28181", "28903"
+        ];
+
+        const names = [
+            "Ajalvir", "El Álamo", "Alcobendas", "Alcorcón", "Algete", "Aranjuez", "Arganda del Rey", "Arroyomolinos",
+            "Boadilla del Monte", "Brunete", "Campo Real", "Ciempozuelos", "Cobeña", "Colmenar Viejo", "Coslada", "Chinchón",
+            "Daganzo de Arriba", "Fresno de Torote", "Fuenlabrada", "Fuente el Saz de Jarama", "Galapagar", "Getafe",
+            "Guadalix de la Sierra", "Hoyo de Manzanares", "Humanes de Madrid", "Leganés", "Loeches", "Madrid", "Majadahonda",
+            "Mejorada del Campo", "Miraflores de la Sierra", "El Molar", "Moraleja de Enmedio", "Moralzarzal",
+            "Morata de Tajuña", "Móstoles", "Navalcarnero", "Paracuellos de Jarama", "Parla", "Perales de Tajuña",
+            "Pinto", "Pozuelo de Alarcón", "Quijorna", "Rivas-Vaciamadrid", "Las Rozas de Madrid",
+            "San Agustín del Guadalix", "San Fernando de Henares", "San Martín de la Vega",
+            "San Sebastián de los Reyes", "Serranillos del Valle", "Sevilla la Nueva", "Titulcia",
+            "Torrejón de la Calzada", "Torrejón de Velasco", "Torrelodones", "Torres de la Alameda",
+            "Valdelaguna", "Valdemoro", "Valdetorres de Jarama", "Velilla de San Antonio",
+            "Villaconejos", "Villalbilla", "Villamanta", "Villamantilla", "Villanueva de la Cañada",
+            "Villanueva del Pardillo", "Villanueva de Perales", "Villaviciosa de Odón", "Tres Cantos"
+        ];
 
         if (localStorage.getItem("dark-mode") === "true") {
             document.body.classList.toggle("dark-mode");
@@ -71,13 +93,6 @@
             nextQuestion();
         }
 
-        function showAchievement(msg) {
-            let achievement = document.getElementById("achievement");
-            achievement.innerText = msg;
-            achievement.classList.remove("hidden");
-            setTimeout(() => achievement.classList.add("hidden"), 3000);
-        }
-
         function enableClicks(state) {
             document.getElementById("map-container").style.pointerEvents = state ? "auto" : "none";
         }
@@ -95,25 +110,11 @@
                     svg.on("click", function(event) {
                         let target = event.target;
                         let selected = target.getAttribute("id")?.substring(0, 5);
-
                         if (!selected || !codes.includes(selected)) return;
 
                         if (names[codes.indexOf(selected)] === current) {
                             enableClicks(false);
                             target.classList.add("correct");
-                            score++;
-                            combo++;
-
-                            if (combo === 10) showAchievement("🏆 Experto: 10 aciertos seguidos");
-
-                            document.getElementById("score").innerText = score;
-                            document.getElementById("combo").innerText = combo;
-                            localStorage.setItem("score", score);
-                            localStorage.setItem("combo", combo);
-
-                            if ("vibrate" in navigator) navigator.vibrate(100);
-                            new Audio("acierto.mp3").play();
-
                             setTimeout(() => {
                                 target.classList.remove("correct");
                                 nextQuestion();
@@ -121,25 +122,8 @@
                         } else {
                             attempts++;
                             target.classList.add("incorrect");
-                            if ("vibrate" in navigator) navigator.vibrate(300);
-                            new Audio("error.mp3").play();
-
                             setTimeout(() => target.classList.remove("incorrect"), 2000);
-
-                            if (attempts >= 3) {
-                                enableClicks(false);
-                                let correctCode = codes[names.indexOf(current)];
-                                let correctPath = document.querySelector(`path[id*='${correctCode}']`);
-                                if (correctPath) correctPath.classList.add("highlight");
-
-                                setTimeout(() => {
-                                    correctPath.classList.remove("highlight");
-                                    combo = 0;
-                                    document.getElementById("combo").innerText = combo;
-                                    localStorage.setItem("combo", combo);
-                                    nextQuestion();
-                                }, 3000);
-                            }
+                            if (attempts >= 3) nextQuestion();
                         }
                     });
 
