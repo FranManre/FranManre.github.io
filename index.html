@@ -96,7 +96,7 @@
             setTimeout(() => logro.classList.add("hidden"), 3000);
         }
 
-        fetch("mapa2.svg")
+        fetch("mapa.svg")
             .then(response => response.text())
             .then(svgData => {
                 requestIdleCallback(() => {
