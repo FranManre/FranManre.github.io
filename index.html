@@ -19,8 +19,13 @@
         flex-direction: column;
         height: 100vh;
         align-items: center;
-        overflow: hidden;
+        overflow-y: auto; /* Se vuelve a permitir el scroll */
         transition: background 0.3s;
+    }
+
+    body.dark-mode {
+        background: #222;
+        color: white;
     }
 
     header {
@@ -95,10 +100,6 @@
     .dark-mode-active {
         background-color: #222;
         color: #fff;
-    }
-
-    html, body {
-        background-color: #f4f4f4 !important;
     }
 
     @media (max-width: 600px) {
