@@ -145,7 +145,7 @@
                                 tries = 0;
                                 clickDisabled = true;
                                 let correct = codes[names.indexOf(current)];
-                                let cPath = document.querySelector(`path[id*='${correct}']`);
+                                let cPath = document.querySelector(`path[id^='${correct}']`);
                                 if (cPath) cPath.classList.add("highlight");
 
                                 setTimeout(() => {
