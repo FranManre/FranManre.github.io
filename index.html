@@ -6,106 +6,119 @@
     <title>Trivia APC Madrid</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            height: 100vh;
-            align-items: center;
-            overflow-y: auto;
-        }
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
 
+    body {
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        align-items: center;
+        overflow: hidden; /* Restaurado */
+        transition: background 0.3s;
+    }
+
+    header {
+        width: 100%;
+        background: #222;
+        color: white;
+        padding: 15px;
+        text-align: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 10;
+    }
+
+    h1, h2 {
+        margin: 0;
+        font-size: 1.3em;
+    }
+
+    #map-container {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        max-height: calc(100vh - 80px);
+        padding-top: 80px;
+        overflow: hidden; /* Restaurado */
+        touch-action: none;
+    }
+
+    svg {
+        width: 90vw;
+        height: auto;
+        max-height: 85vh;
+    }
+
+    .controls {
+        margin-top: 10px;
+    }
+
+    .dark-mode, .reset {
+        padding: 8px 15px;
+        margin: 8px;
+        cursor: pointer;
+        font-size: 1em;
+        background-color: #333;
+        color: white;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .dark-mode:hover, .reset:hover {
+        background-color: #555;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    #logro {
+        font-size: 1.2em;
+        margin-top: 10px;
+        color: gold;
+        padding: 10px;
+        background-color: #222;
+        border-radius: 5px;
+    }
+
+    .dark-mode-active {
+        background-color: #222;
+        color: #fff;
+    }
+
+    /* Solución para el bug del color en PC */
+    html, body {
+        background-color: #f4f4f4 !important;
+    }
+
+    @media (max-width: 600px) {
         header {
-            background-color: #222;
-            color: white;
-            text-align: center;
-            padding: 15px;
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 10;
-        }
-
-        h1, h2 {
-            margin: 0;
-            font-size: 1.3em;
-        }
-
-        #map-container {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding-top: 80px;
-            overflow: hidden;
-            width: 100%;
-            touch-action: none;
+            font-size: 0.9em;
+            padding: 10px;
         }
 
         svg {
-            width: 90vw;
-            height: auto;
-            max-height: 85vh;
-        }
-
-        .controls {
-            margin-top: 10px;
+            width: 95vw;
+            max-height: 80vh;
         }
 
         .dark-mode, .reset {
-            padding: 8px 15px;
-            margin: 8px;
-            cursor: pointer;
-            font-size: 1em;
-            background-color: #333;
-            color: white;
-            border: none;
-            border-radius: 5px;
+            padding: 6px 10px;
+            font-size: 0.9em;
         }
-
-        .dark-mode:hover, .reset:hover {
-            background-color: #555;
-        }
-
-        .hidden {
-            display: none;
-        }
-
-        #logro {
-            font-size: 1.2em;
-            margin-top: 10px;
-            color: gold;
-            padding: 10px;
-            background-color: #222;
-            border-radius: 5px;
-        }
-        
-        .dark-mode-active {
-            background-color: #222;
-            color: #fff;
-        }
-
-        @media (max-width: 600px) {
-            header {
-                font-size: 0.9em;
-                padding: 10px;
-            }
-
-            svg {
-                width: 95vw;
-                max-height: 80vh;
-            }
-
-            .dark-mode, .reset {
-                padding: 6px 10px;
-                font-size: 0.9em;
-            }
-        }
-    </style>
+    }
+</style>
 </head>
 <body>
 
