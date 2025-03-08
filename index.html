@@ -102,9 +102,18 @@
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
                     let svg = d3.select("#map-container svg");
-                    svg.selectAll("path").filter(function() {
-                        return codes.includes(this.getAttribute("id")?.substring(0, 5));
-                    }).classed("apc", true);
+                    svg.selectAll("path")
+                        .filter(function() {
+                            return !codes.includes(this.getAttribute("id")?.substring(0, 5));
+                        })
+                        .style("pointer-events", "none");
+                    
+                    svg.selectAll("path")
+                        .filter(function() {
+                            return codes.includes(this.getAttribute("id")?.substring(0, 5));
+                        })
+                        .classed("apc", true)
+                        .style("pointer-events", "auto");
 
                     svg.on("click", function(event) {
                         if (clickDisabled) return;
