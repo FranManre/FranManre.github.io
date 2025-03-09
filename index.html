@@ -72,10 +72,6 @@
                 svg.style.width = "95vw";
                 svg.style.height = "auto";
                 svg.style.display = "block";
-                svg.style.position = "absolute";
-                svg.style.top = "50%";
-                svg.style.left = "50%";
-                svg.style.transform = "translate(-50%, -35%)";
             } else {
                 let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
                 let newWidth = window.innerWidth * 0.9;
@@ -88,11 +84,11 @@
 
                 svg.style.width = `${newWidth}px`;
                 svg.style.height = `${newHeight}px`;
-                svg.style.position = "absolute";
-                svg.style.top = "50%";
-                svg.style.left = "50%";
-                svg.style.transform = "translate(-50%, -35%)";
             }
+            svg.style.position = "absolute";
+            svg.style.top = "50%";
+            svg.style.left = "50%";
+            svg.style.transform = "translate(-50%, -35%)";
             /*if (isMobile) {
                 svg.style.width = "95vw";
                 svg.style.height = "auto"; 
