@@ -71,7 +71,7 @@
         let container = document.getElementById("map-container");
 
         if (isMobile) {
-            svg.style.width = "90vw";
+            svg.style.width = "95vw";
             svg.style.height = "auto"; 
             svg.style.marginLeft = "-20px";
             svg.style.marginTop = "-80px";
@@ -82,8 +82,8 @@
             let newWidth = window.innerWidth * 0.9;
             let newHeight = newWidth / aspectRatio;
 
-            if (newHeight > window.innerHeight * 0.75) {
-                newHeight = window.innerHeight * 0.75;
+            if (newHeight > window.innerHeight * 0.70) {
+                newHeight = window.innerHeight * 0.70;
                 newWidth = newHeight * aspectRatio;
             }
 
