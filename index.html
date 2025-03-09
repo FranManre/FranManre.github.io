@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <div id="asd">
+    <div id="main">
     <h1>Trivia APC Madrid</h1>
     <h2 id="question">Cargando...</h2>
     <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
@@ -63,17 +63,13 @@
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
 
-        document.addEventListener('DOMContentLoaded', function () {
-    //setTimeout(adjustMapSize, 100); // Pequeño retraso para asegurarse de que todo el contenido esté renderizado
-});
-
-function adjustMapSize() {
+        function adjustMapSize() {
     let svg = document.querySelector("#map-container svg");
     if (!svg) return;
 
     let isMobile = window.innerWidth < 768;
-    let container = document.getElementById("map-container");
-
+    let mainHeight = document.getElementById("main").offsetHeight;
+    
     if (isMobile) {
         svg.style.width = "95vw";
         svg.style.height = "auto";
@@ -94,13 +90,13 @@ function adjustMapSize() {
 
     svg.style.position = "absolute";
     svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)"; // Mantiene el centrado horizontal
+    svg.style.transform = "translateX(-50%)"; // Centrado horizontal
 
-    // Ajuste para la alineación vertical:
-    let headerHeight = document.getElementById("asd").offsetHeight;
+    // Ajuste de posición vertical
+    let availableHeight = window.innerHeight - mainHeight || 20;
     let svgHeight = svg.getBoundingClientRect().height;
-    let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
-    alert(`${verticalOffset}px`);
+    let verticalOffset = mainHeight + (availableHeight - svgHeight) / 2;
+
     svg.style.top = `${verticalOffset}px`;
 }
         /*function adjustMapSize() {
