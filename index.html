@@ -63,7 +63,9 @@
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
 
-        window.addEventListener('load', adjustMapSize);
+        document.addEventListener('DOMContentLoaded', function () {
+    setTimeout(adjustMapSize, 100); // Pequeño retraso para asegurarse de que todo el contenido esté renderizado
+});
 
 function adjustMapSize() {
     let svg = document.querySelector("#map-container svg");
@@ -100,7 +102,6 @@ function adjustMapSize() {
     let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
 
     svg.style.top = `${verticalOffset}px`;
-    alert(verticalOffset);
 }
         
         /*function adjustMapSize() {
