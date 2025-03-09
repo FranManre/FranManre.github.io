@@ -62,9 +62,13 @@
 
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
-        function adjustMapSize() {
+
+        window.addEventListener('load', adjustMapSize);
+
+function adjustMapSize() {
     let svg = document.querySelector("#map-container svg");
     if (!svg) return;
+
     let isMobile = window.innerWidth < 768;
     let container = document.getElementById("map-container");
 
@@ -96,8 +100,8 @@
     let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
 
     svg.style.top = `${verticalOffset}px`;
-            alert(verticalOffset);
-        }
+}
+        
         /*function adjustMapSize() {
             let svg = document.querySelector("#map-container svg");
             if (!svg) return;
@@ -144,9 +148,9 @@
                 svg.style.height = `${newHeight}px`;
                 svg.style.marginTop = "-40px";
             }
-        }*/
+        }
 
-        window.addEventListener("resize", adjustMapSize);
+        window.addEventListener("resize", adjustMapSize);*/
 
         function next() {
             clickDisabled = false;
@@ -187,7 +191,7 @@
             .then(svgData => {
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
-                    adjustMapSize();
+                    //adjustMapSize();
                     let svg = d3.select("#map-container svg");
                     svg.selectAll("path")
                         .filter(function() {
