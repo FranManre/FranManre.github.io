@@ -93,9 +93,12 @@
     svg.style.width = "95vw";
     svg.style.height = "auto";
     svg.style.display = "block";
-    svg.style.position = "relative";
+    
+    // 🔹 Asegurar centrado horizontal y vertical en móviles
+    svg.style.position = "absolute";
+    svg.style.top = "50%";
     svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%) translateY(-5%)";
+    svg.style.transform = "translate(-50%, -55%)"; // Ajuste fino para centrar mejor
 } else {
     let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
     let newWidth = window.innerWidth * 0.9;
@@ -108,10 +111,13 @@
 
     svg.style.width = `${newWidth}px`;
     svg.style.height = `${newHeight}px`;
-    svg.style.position = "relative";
+    
+    // 🔹 Centrar correctamente en PC sin margen fijo
+    svg.style.position = "absolute";
     svg.style.top = "50%";
-    svg.style.transform = "translateY(-50%)";
-            }
+    svg.style.left = "50%";
+    svg.style.transform = "translate(-50%, -50%)"; // Centrado total
+}
         }
 
         window.addEventListener("resize", adjustMapSize);
