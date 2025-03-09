@@ -192,7 +192,7 @@ function adjustMapSize() {
             .then(svgData => {
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
-                    //adjustMapSize();
+                    adjustMapSize();
                     let svg = d3.select("#map-container svg");
                     svg.selectAll("path")
                         .filter(function() {
