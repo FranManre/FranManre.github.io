@@ -62,8 +62,42 @@
 
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
-        
         function adjustMapSize() {
+    let svg = document.querySelector("#map-container svg");
+    if (!svg) return;
+    let isMobile = window.innerWidth < 768;
+    let container = document.getElementById("map-container");
+
+    if (isMobile) {
+        svg.style.width = "95vw";
+        svg.style.height = "auto";
+        svg.style.display = "block";
+    } else {
+        let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
+        let newWidth = window.innerWidth * 0.9;
+        let newHeight = newWidth / aspectRatio;
+
+        if (newHeight > window.innerHeight * 0.75) {
+            newHeight = window.innerHeight * 0.75;
+            newWidth = newHeight * aspectRatio;
+        }
+
+        svg.style.width = `${newWidth}px`;
+        svg.style.height = `${newHeight}px`;
+    }
+
+    svg.style.position = "absolute";
+    svg.style.left = "50%";
+    svg.style.transform = "translateX(-50%)"; // Mantiene el centrado horizontal
+
+    // Ajuste para la alineación vertical:
+    let headerHeight = document.querySelector("header") ? document.querySelector("header").offsetHeight : 0;
+    let svgHeight = svg.offsetHeight;
+    let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
+
+    svg.style.top = `${verticalOffset}px`;
+        }
+        /*function adjustMapSize() {
             let svg = document.querySelector("#map-container svg");
             if (!svg) return;
             let isMobile = window.innerWidth < 768;
@@ -89,7 +123,7 @@
             svg.style.top = "50%";
             svg.style.left = "50%";
             svg.style.transform = "translate(-50%, -35%)";
-            /*if (isMobile) {
+            if (isMobile) {
                 svg.style.width = "95vw";
                 svg.style.height = "auto"; 
                 svg.style.marginLeft = "-20px";
@@ -108,8 +142,8 @@
                 svg.style.width = `${newWidth}px`;
                 svg.style.height = `${newHeight}px`;
                 svg.style.marginTop = "-40px";
-            }*/
-        }
+            }
+        }*/
 
         window.addEventListener("resize", adjustMapSize);
 
