@@ -19,12 +19,12 @@
     </style>
 </head>
 <body>
-
+    <div id="asd">
     <h1>Trivia APC Madrid</h1>
     <h2 id="question">Cargando...</h2>
     <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
     <button onclick="toggleDarkMode()">🌙 Modo oscuro</button>
-    <button onclick="reset()">Reset</button>
+    <button onclick="reset()">Reset</button></div>
     <div id="map-container"></div>
     <p id="logro" class="hidden">🏆 ¡Logro desbloqueado!</p>
 
@@ -97,8 +97,8 @@ function adjustMapSize() {
     svg.style.transform = "translateX(-50%)"; // Mantiene el centrado horizontal
 
     // Ajuste para la alineación vertical:
-    let headerHeight = document.querySelector("header") ? document.querySelector("header").offsetHeight : 0;
-    let svgHeight = svg.offsetHeight;
+    let headerHeight = document.getElementById("asd").offsetHeight;
+    let svgHeight = svg.getBoundingClientRect().height;
     let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
     alert(`${verticalOffset}px`);
     svg.style.top = `${verticalOffset}px`;
