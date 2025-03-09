@@ -64,41 +64,40 @@
         document.getElementById("combo").innerText = combo;
 
         function adjustMapSize() {
-    let svg = document.querySelector("#map-container svg");
-    if (!svg) return;
+            let svg = document.querySelector("#map-container svg");
+            if (!svg) return;
 
-    let isMobile = window.innerWidth < 768;
-    let mainHeight = document.getElementById("main").offsetHeight;
+            let isMobile = window.innerWidth < 768;
+            let mainHeight = document.getElementById("main").offsetHeight;
     
-    if (isMobile) {
-        svg.style.width = "95vw";
-        svg.style.height = "auto";
-        svg.style.display = "block";
-    } else {
-        let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
-        let newWidth = window.innerWidth * 0.9;
-        let newHeight = newWidth / aspectRatio;
+            if (isMobile) {
+                svg.style.width = "95vw";
+                svg.style.height = "auto";
+                svg.style.display = "block";
+            } else {
+                let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
+                let newWidth = window.innerWidth * 0.9;
+                let newHeight = newWidth / aspectRatio;
 
-        if (newHeight > window.innerHeight * 0.75) {
-            newHeight = window.innerHeight * 0.75;
-            newWidth = newHeight * aspectRatio;
+                if (newHeight > window.innerHeight * 0.75) {
+                    newHeight = window.innerHeight * 0.75;
+                    newWidth = newHeight * aspectRatio;
+                }
+
+                svg.style.width = `${newWidth}px`;
+                svg.style.height = `${newHeight}px`;
+            }
+
+            svg.style.position = "absolute";
+            svg.style.left = "50%";
+            svg.style.transform = "translateX(-50%)";
+
+            let availableHeight = window.innerHeight - mainHeight || (isMobile ? 20 : 130);
+            let svgHeight = svg.getBoundingClientRect().height;
+            let verticalOffset = mainHeight + (availableHeight - svgHeight) / 2;
+
+            svg.style.top = `${verticalOffset}px`;
         }
-
-        svg.style.width = `${newWidth}px`;
-        svg.style.height = `${newHeight}px`;
-    }
-
-    svg.style.position = "absolute";
-    svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)"; // Centrado horizontal
-
-    // Ajuste de posición vertical
-    let availableHeight = window.innerHeight - mainHeight || (isMobile ? 20 : 130);
-    let svgHeight = svg.getBoundingClientRect().height;
-    let verticalOffset = mainHeight + (availableHeight - svgHeight) / 2;
-
-    svg.style.top = `${verticalOffset}px`;
-}
         /*function adjustMapSize() {
             let svg = document.querySelector("#map-container svg");
             if (!svg) return;
