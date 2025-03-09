@@ -64,29 +64,32 @@
         document.getElementById("combo").innerText = combo;
 
         function adjustMapSize() {
-            let svg = document.querySelector("#map-container svg");
-            if (!svg) return;
+        let svg = document.querySelector("#map-container svg");
+        if (!svg) return;
 
-            let isMobile = window.innerWidth < 768;
-            let container = document.getElementById("map-container");
+        let isMobile = window.innerWidth < 768;
+        let container = document.getElementById("map-container");
 
-            if (isMobile) {
-                svg.style.width = "90vw";
-                svg.style.height = "auto";
-            } else {
-                let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
-                let newWidth = window.innerWidth * 0.9;
-                let newHeight = newWidth / aspectRatio;
+        if (isMobile) {
+            svg.style.width = "95vw";
+            svg.style.height = "auto";
+            svg.style.marginLeft = "auto";
+            svg.style.marginRight = "auto";
+            svg.style.display = "block";
+        } else {
+            let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
+            let newWidth = window.innerWidth * 0.9;
+            let newHeight = newWidth / aspectRatio;
 
-                if (newHeight > window.innerHeight * 0.8) {
-                    newHeight = window.innerHeight * 0.8;
-                    newWidth = newHeight * aspectRatio;
-                }
-
-                svg.style.width = `${newWidth}px`;
-                svg.style.height = `${newHeight}px`;
+            if (newHeight > window.innerHeight * 0.75) {
+                newHeight = window.innerHeight * 0.75;
+                newWidth = newHeight * aspectRatio;
             }
+
+            svg.style.width = `${newWidth}px`;
+            svg.style.height = `${newHeight}px`;
         }
+    }
 
         window.addEventListener("resize", adjustMapSize);
 
