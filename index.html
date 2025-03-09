@@ -62,49 +62,38 @@
 
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
-        // Esperar a que todo se cargue bien antes de calcular posiciones
-window.addEventListener("load", () => {
-    // Obtener la altura total del bloque superior
-const headerContainer = document.querySelector("body > h1");  // Primer encabezado
-const headerBottom = headerContainer.getBoundingClientRect().bottom; // Fin del bloque de encabezado
-
-if (isMobile) {
-    svg.style.width = "95vw";
-    svg.style.height = "auto";
-    svg.style.display = "block";
-
-    // 🔹 Ajustar el mapa justo debajo del encabezado
-    svg.style.position = "absolute";
-    svg.style.top = `${headerBottom + 10}px`;  // Espacio extra para separación
-    svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)";
-} else {
-    let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
-    let newWidth = window.innerWidth * 0.9;
-    let newHeight = newWidth / aspectRatio;
-
-    if (newHeight > window.innerHeight * 0.75) {
-        newHeight = window.innerHeight * 0.75;
-        newWidth = newHeight * aspectRatio;
-    }
-
-    svg.style.width = `${newWidth}px`;
-    svg.style.height = `${newHeight}px`;
-
-    // 🔹 Ajuste para que el mapa quede justo debajo de los encabezados
-    svg.style.position = "absolute";
-    svg.style.top = `${headerBottom + 20}px`;  // Espacio extra para separación en PC
-    svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)";
-}
-});
-        /*function adjustMapSize() {
+        
+        function adjustMapSize() {
             let svg = document.querySelector("#map-container svg");
             if (!svg) return;
             let isMobile = window.innerWidth < 768;
             let container = document.getElementById("map-container");
-           
             if (isMobile) {
+                svg.style.width = "95vw";
+                svg.style.height = "auto";
+                svg.style.display = "block";
+                svg.style.position = "absolute";
+                svg.style.top = "50%";
+                svg.style.left = "50%";
+                svg.style.transform = "translate(-50%, -55%)";
+            } else {
+                let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
+                let newWidth = window.innerWidth * 0.9;
+                let newHeight = newWidth / aspectRatio;
+               
+                if (newHeight > window.innerHeight * 0.75) {
+                    newHeight = window.innerHeight * 0.75;
+                    newWidth = newHeight * aspectRatio;
+                }
+
+                svg.style.width = `${newWidth}px`;
+                svg.style.height = `${newHeight}px`;
+                svg.style.position = "absolute";
+                svg.style.top = "50%";
+                svg.style.left = "50%";
+                svg.style.transform = "translate(-50%, -50%)";
+            }
+            /*if (isMobile) {
                 svg.style.width = "95vw";
                 svg.style.height = "auto"; 
                 svg.style.marginLeft = "-20px";
@@ -123,10 +112,10 @@ if (isMobile) {
                 svg.style.width = `${newWidth}px`;
                 svg.style.height = `${newHeight}px`;
                 svg.style.marginTop = "-40px";
-            }
+            }*/
         }
 
-        window.addEventListener("resize", adjustMapSize);*/
+        window.addEventListener("resize", adjustMapSize);
 
         function next() {
             clickDisabled = false;
@@ -167,7 +156,7 @@ if (isMobile) {
             .then(svgData => {
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
-                    //adjustMapSize();
+                    adjustMapSize();
                     let svg = d3.select("#map-container svg");
                     svg.selectAll("path")
                         .filter(function() {
