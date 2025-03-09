@@ -89,19 +89,20 @@
                 svg.style.height = `${newHeight}px`;
                 svg.style.marginTop = "-40px";
             }*/
-            // Obtener la altura de los encabezados dinámicamente
-const headerHeight = document.querySelector("h1").offsetHeight + document.querySelector("h2").offsetHeight + 20;
+            // Obtener la altura total del bloque superior
+const headerContainer = document.querySelector("body > h1");  // Primer encabezado
+const headerBottom = headerContainer.getBoundingClientRect().bottom; // Fin del bloque de encabezado
 
 if (isMobile) {
     svg.style.width = "95vw";
     svg.style.height = "auto";
     svg.style.display = "block";
-    
-    // 🔹 Ajustar el centrado teniendo en cuenta el encabezado
+
+    // 🔹 Ajustar el mapa justo debajo del encabezado
     svg.style.position = "absolute";
-    svg.style.top = `${headerHeight}px`;  // Espacio suficiente para los títulos
+    svg.style.top = `${headerBottom + 10}px`;  // Espacio extra para separación
     svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)";  // Solo centrado horizontal
+    svg.style.transform = "translateX(-50%)";
 } else {
     let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
     let newWidth = window.innerWidth * 0.9;
@@ -114,12 +115,12 @@ if (isMobile) {
 
     svg.style.width = `${newWidth}px`;
     svg.style.height = `${newHeight}px`;
-    
-    // 🔹 Ajuste para evitar que el mapa suba demasiado
+
+    // 🔹 Ajuste para que el mapa quede justo debajo de los encabezados
     svg.style.position = "absolute";
-    svg.style.top = `${headerHeight + 10}px`;  // Baja el mapa lo suficiente
+    svg.style.top = `${headerBottom + 20}px`;  // Espacio extra para separación en PC
     svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)";  // Solo centrado horizontal
+    svg.style.transform = "translateX(-50%)";
 }
         }
 
