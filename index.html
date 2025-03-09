@@ -9,7 +9,7 @@
         body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; transition: background 0.3s; }
         .dark-mode { background: #222; color: #fff; }
         svg { max-width: 100%; max-height: 100%; width: auto; height: auto; }
-        #map-container { width: 100vw; height: 80vh; display: flex; justify-content: center; align-items: center; }
+        #map-container { width: 100vw; height: 80vh; display: flex; }
         .apc { fill: lightgray; stroke: black; stroke-width: 0.5px; cursor: pointer; transition: fill 0.3s ease, transform 0.2s ease; }
         .correct { fill: green !important; }
         .incorrect { fill: red !important; }
@@ -71,10 +71,9 @@
         let container = document.getElementById("map-container");
 
         if (isMobile) {
-            svg.style.width = "95vw";
+            svg.style.width = "100vw";
             svg.style.height = "auto";
-            svg.style.marginLeft = "auto";
-            svg.style.marginRight = "auto";
+            
             svg.style.display = "block";
         } else {
             let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
