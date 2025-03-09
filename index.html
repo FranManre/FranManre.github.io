@@ -100,7 +100,7 @@ function adjustMapSize() {
     let headerHeight = document.querySelector("header") ? document.querySelector("header").offsetHeight : 0;
     let svgHeight = svg.offsetHeight;
     let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
-
+    alert(`${verticalOffset}px`);
     svg.style.top = `${verticalOffset}px`;
 }
         /*function adjustMapSize() {
@@ -219,7 +219,7 @@ function adjustMapSize() {
             .then(svgData => {
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
-                    adjustMapSize();
+                    //adjustMapSize();
                     let svg = d3.select("#map-container svg");
                     svg.selectAll("path")
                         .filter(function() {
