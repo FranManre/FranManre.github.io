@@ -82,13 +82,14 @@
             let newWidth = window.innerWidth * 0.9;
             let newHeight = newWidth / aspectRatio;
 
-            if (newHeight > window.innerHeight * 0.70) {
-                newHeight = window.innerHeight * 0.70;
+            if (newHeight > window.innerHeight * 0.8) {
+                newHeight = window.innerHeight * 0.8;
                 newWidth = newHeight * aspectRatio;
             }
 
             svg.style.width = `${newWidth}px`;
             svg.style.height = `${newHeight}px`;
+            svg.style.marginTop = "-50px";
         }
     }
 
