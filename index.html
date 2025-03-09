@@ -69,12 +69,11 @@
             let isMobile = window.innerWidth < 768;
             let container = document.getElementById("map-container");
            
-            if (isMobile) {
+            /*if (isMobile) {
                 svg.style.width = "95vw";
                 svg.style.height = "auto"; 
                 svg.style.marginLeft = "-20px";
                 svg.style.marginTop = "-100px";
-                /*svg.style.marginRight = "auto";*/
                 svg.style.display = "block";
             } else {
                 let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
@@ -89,6 +88,29 @@
                 svg.style.width = `${newWidth}px`;
                 svg.style.height = `${newHeight}px`;
                 svg.style.marginTop = "-40px";
+            }*/
+            if (isMobile) {
+    svg.style.width = "95vw";
+    svg.style.height = "auto";
+    svg.style.display = "block";
+    svg.style.position = "relative";
+    svg.style.left = "50%";
+    svg.style.transform = "translateX(-50%) translateY(-5%)";
+} else {
+    let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
+    let newWidth = window.innerWidth * 0.9;
+    let newHeight = newWidth / aspectRatio;
+
+    if (newHeight > window.innerHeight * 0.75) {
+        newHeight = window.innerHeight * 0.75;
+        newWidth = newHeight * aspectRatio;
+    }
+
+    svg.style.width = `${newWidth}px`;
+    svg.style.height = `${newHeight}px`;
+    svg.style.position = "relative";
+    svg.style.top = "50%";
+    svg.style.transform = "translateY(-50%)";
             }
         }
 
