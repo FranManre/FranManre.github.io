@@ -62,14 +62,51 @@
 
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
+        // Esperar a que todo se cargue bien antes de calcular posiciones
+window.addEventListener("load", () => {
+    const header = document.querySelector("h1");
+    const subheader = document.querySelector("h2");
+    const buttons = document.querySelectorAll("button");
+    const mapContainer = document.getElementById("map-container");
+    const svg = document.querySelector("#map-container svg");
 
-        function adjustMapSize() {
+    if (!header || !subheader || !svg) return; // Si falta algo, no hacer nada
+
+    // 🔹 Obtener la altura total de los elementos superiores
+    let headerHeight = header.offsetHeight + subheader.offsetHeight;
+    buttons.forEach(btn => { headerHeight += btn.offsetHeight + 10; }); // Sumar botones + margen
+
+    if (isMobile) {
+        svg.style.width = "95vw";
+        svg.style.height = "auto";
+        svg.style.display = "block";
+        
+        // 🔹 Asegurar que el mapa esté debajo de los encabezados
+        mapContainer.style.paddingTop = `${headerHeight + 10}px`;  
+    } else {
+        let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
+        let newWidth = window.innerWidth * 0.9;
+        let newHeight = newWidth / aspectRatio;
+
+        if (newHeight > window.innerHeight * 0.75) {
+            newHeight = window.innerHeight * 0.75;
+            newWidth = newHeight * aspectRatio;
+        }
+
+        svg.style.width = `${newWidth}px`;
+        svg.style.height = `${newHeight}px`;
+
+        // 🔹 Evitar que se suba demasiado en PC
+        mapContainer.style.paddingTop = `${headerHeight + 20}px`;  
+    }
+});
+        /*function adjustMapSize() {
             let svg = document.querySelector("#map-container svg");
             if (!svg) return;
             let isMobile = window.innerWidth < 768;
             let container = document.getElementById("map-container");
            
-            /*if (isMobile) {
+            if (isMobile) {
                 svg.style.width = "95vw";
                 svg.style.height = "auto"; 
                 svg.style.marginLeft = "-20px";
@@ -88,43 +125,10 @@
                 svg.style.width = `${newWidth}px`;
                 svg.style.height = `${newHeight}px`;
                 svg.style.marginTop = "-40px";
-            }*/
-            // Obtener la altura total del bloque superior
-const headerContainer = document.querySelector("body > h1");  // Primer encabezado
-const headerBottom = headerContainer.getBoundingClientRect().bottom; // Fin del bloque de encabezado
-
-if (isMobile) {
-    svg.style.width = "95vw";
-    svg.style.height = "auto";
-    svg.style.display = "block";
-
-    // 🔹 Ajustar el mapa justo debajo del encabezado
-    svg.style.position = "absolute";
-    svg.style.top = `${headerBottom + 10}px`;  // Espacio extra para separación
-    svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)";
-} else {
-    let aspectRatio = svg.viewBox.baseVal.width / svg.viewBox.baseVal.height;
-    let newWidth = window.innerWidth * 0.9;
-    let newHeight = newWidth / aspectRatio;
-
-    if (newHeight > window.innerHeight * 0.75) {
-        newHeight = window.innerHeight * 0.75;
-        newWidth = newHeight * aspectRatio;
-    }
-
-    svg.style.width = `${newWidth}px`;
-    svg.style.height = `${newHeight}px`;
-
-    // 🔹 Ajuste para que el mapa quede justo debajo de los encabezados
-    svg.style.position = "absolute";
-    svg.style.top = `${headerBottom + 20}px`;  // Espacio extra para separación en PC
-    svg.style.left = "50%";
-    svg.style.transform = "translateX(-50%)";
-}
+            }
         }
 
-        window.addEventListener("resize", adjustMapSize);
+        window.addEventListener("resize", adjustMapSize);*/
 
         function next() {
             clickDisabled = false;
@@ -165,7 +169,7 @@ if (isMobile) {
             .then(svgData => {
                 requestIdleCallback(() => {
                     document.getElementById("map-container").innerHTML = svgData;
-                    adjustMapSize();
+                    //adjustMapSize();
                     let svg = d3.select("#map-container svg");
                     svg.selectAll("path")
                         .filter(function() {
