@@ -97,7 +97,7 @@ function adjustMapSize() {
     // Ajuste para la alineación vertical:
     let headerHeight = document.querySelector("header") ? document.querySelector("header").offsetHeight : 0;
     let svgHeight = svg.offsetHeight;
-    let verticalOffset = headerHeight;
+    let verticalOffset = (window.innerHeight - svgHeight) / 2 - headerHeight;
 
     svg.style.top = `${verticalOffset}px`;
     alert(verticalOffset);
