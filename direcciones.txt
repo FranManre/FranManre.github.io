@@ -1,319 +1,389 @@
-AUDITORIOS
-AUDITORIO LATINARTE, Situado en Avenida Las Águilas 2. Antigua Avenida General Fanjul. {break=300}
-AUDITORIO PILAR BARDEM, Situado en Calle Fundición s/n. También en Rivas. {break=300}
-AUDITORIO MIGUEL RÍOS, Dirección: Rivas. {break=300}
-AUDITORIO CONDE DUQUE, Situado en Calle Conde Duque. {break=300}
-ORQUESTA Y CORO NACIONAL DE ESPAÑA, Situado en Calle Príncipe de Vergara 146. {break=700}
-CAFÉS
-CAFÉ CENTRAL, Se encuentra en Plaza del Ángel 10. {break=300}
-CAFÉ COMERCIAL, Está en Glorieta de Bilbao 7. {break=300}
-CAFÉ GIJÓN, Está en Paseo de Recoletos 21. {break=300}
-CAFÉ ORIENTE, Está en Plaza de Oriente. {break=700}
-CASINOS
-CASINO GRAN MADRID, Situado en Torrelodones. {break=300}
-CASINO DE MADRID, Dirección: Calle Alcalá 15. {break=700}
-CEMENTERIOS
-CEMENTERIO BRITÁNICO, Situado en Carabanchel. {break=300}
-CEMENTERIO, TANATORIO SUR, Se encuentra en A-42 o Avenida Princesa Juana de Austria. {break=300}
-CEMENTERIO BRITÁNICO o INGLÉS, Dirección: Calle Comandante Fontanes. También en Carabanchel. {break=300}
-CEMENTERIO MUNICIPAL DE VICÁLVARO, Situado en Calle San Cipriano. {break=300}
-CEMENTERIO DEL ESTE, Situado en Avenida Daroca. También en Avenida de las 13 rosas, Calle Arroyo de la media legua. {break=300}
-CEMENTERIO SACRAMENTAL DE SANTA MARÍA, Está en Calle Comuneros de Castilla. También en Carabanchel. {break=300}
-CEMENTERIO SACRAMENTAL DE SAN JUSTO PASTOR, Se encuentra en Paseo Ermita del Santo. {break=300}
-CEMENTERIO DE SAN ISIDRO, Está en Paseo Ermita del Santo. {break=300}
-CEMENTERIO HEBREO, Dirección: Dentro del cementerio de San Isidro. También en Carabanchel. {break=300}
-CEMENTERIO DE LA PAZ, Ubicado en Alcobendas. {break=300}
-TANATORIO DE LA PAZ, Situado en Tres Cantos. {break=300}
-TANATORIO M-30, MADRID NORTE, Situado en Calle Salvador de Madariaga. {break=300}
-TANATORIO M-40, Se encuentra en Avenida de los Rosales. También en Villaverde. {break=700}
-CENTROS CULTURALES
-CENTRO DE ARTE REINA SOFÍA, Ubicado en Calle Santa Isabel. {break=300}
-CENTRO CULTURAL AGATA, Está en Calle Doctor Martín Arévalo 2. También en Villaverde. {break=300}
-CENTRO CULTURAL ANTIGUA FÁBRICA DE CERVEZAS MADRID, Se encuentra en Calle General Lacy. {break=300}
-CENTRO CULTURAL BUERO VALLEJO, Dirección: Alcorcón. {break=300}
-CENTRO CULTURAL CONDE DUQUE, Situado en Calle Conde Duque 11. {break=300}
-CENTRO CULTURAL EGALEO, Está en Leganés. {break=300}
-CENTRO CULTURAL GALILEO, Se encuentra en Fernando el Católico. {break=300}
-CENTRO CULTURAL MIRA, Ubicado en Pozuelo. {break=300}
-CENTRO CULTURAL TOMÁS Y VALIENTE, Está en Fuenlabrada. {break=300}
-CENTRO CULTURAL EL SITIO DE MI RECREO, Dirección: Calle Real de Arganda 39 41. {break=700}
-CENTROS COMERCIALES
-BOX ALCALA NORTE, Se encuentra en Calle Alcalá 414. {break=300}
-EL PALACIO, Ubicado en Boadilla del Monte. {break=300}
-EL TORREÓN, Está en Avenida Juan XXIII 10. También en Pozuelo. {break=300}
-HERON CITY, Ubicado en Calle Camilo José Cela. También en Las Rozas. {break=300}
-LA MORALEJA, Está en Alcobendas. {break=300}
-LAS ROSAS, Situado en Avenida de Guadalajara 2. {break=300}
-LORANCA, Ubicado en Fuenlabrada. {break=300}
-LOS ANGELES, Situado en Ciudad de los Ángeles. También en Avenida Andalucía kilómetro 7 600. {break=300}
-LOS VALLES, Está en Collado Villalba. {break=300}
-M-40, Situado en Leganés. También en Barrio de la Fortuna. {break=300}
-NASSICA, Se encuentra en Getafe. {break=300}
-PLAZA NORTE II, Situado en San Sebastián de los Reyes. {break=300}
-PLENILUNIO, Dirección: Calle Aracne. También en Polígono de las Mercedes. {break=300}
-PRINCIPE PIO, Ubicado en Paseo de la Florida. {break=300}
-RIO NORTE, Se encuentra en Alcobendas. {break=300}
-TRES AGUAS, Está en Avenida América. También en Alcorcón. {break=300}
-VISTA ALEGRE, Dirección: Avenida de la Plaza de Toros s/n. {break=300}
-XANADÚ, Situado en Arroyomolinos. {break=300}
-GRAN PLAZA II, Ubicado en Majadahonda. {break=300}
-LA SEXTA AVENIDA, Situado en Avenida de la Victoria 2. También en Moncloa-Aravaca. {break=300}
-ISLA AZUL, Ubicado en Calle calderilla. {break=300}
-LA GAVIA, Dirección: Calle Adolfo Bioy Casares. {break=300}
-VALDEBERNARDO, Ubicado en Boulevard José Prat. {break=300}
-DOLCE VITA, Está en Alcobendas. {break=300}
-CIELO, Dirección: Pozuelo. {break=300}
-LA ERMITA, Situado en Paseo Ermita del Santo 48. {break=700}
-CENTROS DE SALUD
-CENTRO DE SALUD GARCÍA NOBLEJAS, Está en Ambulatorio Doctor Esquerdo. También en Calle Doctor Esquerdo. {break=300}
-CLÍNICA JUNTO A LA A6, Está en Zarzuela. {break=300}
-CLÍNICA VIRGEN DE LAS NIEVES, Dirección: Calle Jesús del Pino. {break=300}
-HOSPITAL GÓMEZ ULLA, Está en Glorieta Del Ejército. También en Metro Carabanchel. {break=300}
-ISABEL II, Ubicado en Parla. {break=300}
-SANATORIO ESQUERDO, Dirección: Avenida de los Poblados. {break=300}
-VALLE DE LA OLIVA, Ubicado en Majadahonda. {break=300}
-SANATORIO DOCTOR LOPEZ IBOR, Situado en Avenida Nueva Zelanda 44. {break=300}
-CLÍNICA DOCTOR LOPEZ IBOR, Ubicado en Avenida Cardenal Herrera Oria. {break=300}
-SANATORIO SAN JUAN DE DIOS, Situado en Ciempozuelos. {break=700}
-CENTROS DE TELECOMUNICACIONES
-CADENA DIAL, Está en LOCALIA TV MADRID. También en LOS 40 PRINCIPALES, Calle Gran Vía 32. {break=300}
-CADENA 100, Se encuentra en Calle Alfonso XI 4. {break=300}
-RADIO LIBERTAD, Situado en Paseo Castellana 129. {break=300}
-RADIO TENTACIÓN, Se encuentra en Vía Lusitana. {break=300}
-EL MUNDO, Está en MARCA. También en LA VANGUARDIA, Avenida San Luis 25, Hortaleza. {break=300}
-PERIÓDICO 20 MINUTOS, Está en Calle Condesa de Venadito. {break=300}
-PERIÓDICO EXPANSIÓN, Se encuentra en Paseo castellana 66. {break=700}
-CINES
-CINESA MÉNDEZ ÁLVARO, Situado en Calle Acanto 2. También en Méndez Álvaro. {break=300}
-CINE KINÉPOLIS, Se encuentra en Pozuelo. {break=300}
-CINES CINESA LAS ROZAS, Se encuentra en HERÓN CITY. También en Avenida de Guadalajara 2 o Calle Aquitania. {break=300}
-CINES ALPHAVILLE, Dirección: Calle Martin de los Eros. {break=300}
-CINES PAZ CINES ROXY, Situado en Calle Fuencarral. {break=700}
-CLUBS
-CLUB DE CAMPO VILLA DE MADRID, Dirección: Carretera de Castilla. {break=300}
-CLUB DE TENIS CHAMARTÍN, Está en Calle Federico Salmón. {break=300}
-CLUB HERRERÍA, Situado en CLUB DE GOLF. También en San Lorenzo de El Escorial. {break=300}
-REAL CLUB PUERTA DE HIERRO, Ubicado en Avenida de Miraflores. {break=300}
-REAL AEROCLUB DE ESPAÑA, Ubicado en Valdemoro. {break=700}
-COLEGIOS
-CEMU CIUDAD ESCUELA LOS MUCHACHOS, Se encuentra en Leganés. {break=300}
-COLEGIO ALFONSO XII, Situado en Real Monasterio de San Lorenzo de El Escorial. {break=300}
-COLEGIO KINGS COLLEGE, Está en Tres Cantos. {break=300}
-COLEGIO BRITISH NURSEREY, Dirección: Pozuelo. {break=300}
-LICEO FRANCES, Situado en Calle Silvano. {break=300}
-SAINT MICHAEL SCHOOL, Ubicado en Avenida de la Victoria 72 Madrid. {break=300}
-SAINT MICHAEL SCHOOL, Se encuentra en Boadilla Del Monte. {break=300}
-COLEGIO MAYOR BLANCA DE CASTILLA, Situado en Camino de la Zarzuela. También en Moncloa-Aravaca. {break=700}
-CUERPOS DE SEGURIDAD
-CENTRAL DE POLICÍA, Se encuentra en JUDICIAL. También en Avenida del Doctor Federico Rubio y Galí o Avenida Pablo iglesias. {break=300}
-COMISARÍA CENTRO, Se encuentra en Calle Luna o Calle Leganitos Si aparecen las dos escoger Luna. {break=300}
-DIRECCIÓN GENERAL DE LA GUARDIA CIVIL, Situado en Calle Guzmán el Bueno 110. {break=300}
-HACIENDA, Se encuentra en Calle Guzmán el Bueno 139. {break=300}
-COMANDANCIA GENERAL DE LA GUARDIA CIVIL, Dirección: Calle Batalla del Salado. {break=300}
-ACADEMIA DE ADIESTRAMIENTO CANINO DE LA GUARDIA CIVIL, Ubicado en Carretera del Pardo. También en M-605. {break=300}
-ESCUELA DE JÓVENES DE LA GUARDIA CIVIL, Dirección: Calle Príncipe de Vergara. {break=300}
-ACADEMIA DE GUARDAS JÓVENES, Situado en Valdemoro. {break=700}
-DISCOTECAS
-AIRE, Se encuentra en Calle de Cea Bermúdez. {break=300}
-BONG BONG, Está en Calle de la Princesa. {break=300}
-EMPIRE, Dirección: Paseo de Recoletos 16. {break=300}
-GABANA 1800, Situado en Calle Velázquez 6. {break=300}
-HABANA, Se encuentra en Calle de San Vicente Ferrer 23. {break=300}
-KAPITAL, Situado en Calle de Atocha 125. {break=300}
-LA RIVIERA, Se encuentra en Paseo bajo de Virgen del Puerto. {break=300}
-MACUMBA, Se encuentra en Estación de Chamartín. {break=300}
-PACHA, Está en TEATRO BARCELÓ. También en Calle Barceló 11. {break=300}
-PALACIO DE GAVIRIA, Situado en Calle Arenal. {break=300}
-PALLADIUM, Situado en Calle Don Ramón de la Cruz 28. {break=300}
-SALA NASTI, Situado en Calle de San Vicente Ferrer. {break=300}
-JOY SLAVA, Está en TEATRO ESLAVA. También en Calle Arenal. {break=300}
-SALA SOL, Situado en Calle jardines 3. {break=300}
-SALA CARACOL, Ubicado en Calle Bernardino Obregón 18. {break=700}
-ESTADIOS, CENTROS DEPORTIVOS
-CERRO ESPINO, Ubicado en Majadahonda. También en Entrenamiento Atlético de Madrid. {break=300}
-FEDERACIÓN ESPAÑOLA DE BALONCESTO, Dirección: Avenida de Burgos 6. {break=300}
-KARTING CARLOS SAINZ, Ubicado en Polígono Európolis. También en Las Rozas. {break=300}
-KARTING CARLOS SAINZ Madrid, Situado en Calle Sepúlveda. {break=300}
-LIGA NACIONAL DE FUTBOL, Se encuentra en Calle Hernández de Tejada. {break=300}
-POLIDEPORTIVO CARLOS RUIZ, Ubicado en Pozuelo. {break=300}
-C.O.E, Dirección: Calle Aconcagua Hortaleza. {break=300}
-CAJA MÁGICA, Ubicado en Camino de Perales. {break=300}
-CIUDAD DEL FUTBOL Y FEDERACIÓN ESPAÑOLA DE FUTBOL, Situado en Las Rozas. {break=300}
-ESTADIO SANTIAGO BERNABEU
-ESTADIO RAYO VALLECANO
-ESTADIO METROPOLITANO
-ESTADIO DE VALLEHERMOSO
-EDIFICIOS EMBLEMATICOS
-CASA DE AMÉRICA, Situado en Palacio De Linares. También en Paseo de Recoletos o Calle Marqués de Duero. {break=300}
-CASA DE LAS SIETE CHIMENEAS, Se encuentra en Plaza del Rey o Calle Infantas. {break=300}
-PALACIO DE CONGRESOS, Dirección: Y Exposciones. También en Paseo Castellana 99 o Calle General Perón. {break=300}
-REAL CASA DE LA PANADERÍA, Dirección: Plaza Mayor. {break=300}
-TORRE DE LOS LUJANES, Ubicado en Plaza de la Villa. {break=300}
-REAL CASA DE CORREOS, Situado en Calle Correos. {break=300}
-PALACIO DE TELECOMUNICACIONES, Dirección: Calle Montalbán o Plaza Cibeles. {break=300}
-EDIFICIO METRÓPOLIS, Situado en Calle Alcalá esquina Calle Gran Vía. {break=300}
-RESTOS MURALLA ÁRABE, Dirección: Calle Cuesta de la Vega. {break=300}
-CASA DEL RELOJ, Está en Paseo de la Chopera. {break=300}
-CASA ÁRABE, Está en Calle Alcalá esquina Calle O'Donnell. {break=700}
-FUNDACIONES
-CENTRO DE PROTECCIÓN DE ANIMALES, Situado en Carretera de la Fortuna. {break=300}
-FUNDACIÓN BANESTO, Se encuentra en Calle de Antonio Maura. {break=300}
-FUNDACIÓN CAJA MADRID, Está en Plaza San Martín 1. También en Casa de las Alhajas. {break=700}
-SALAS DE EXPOSICIONES
-FUNDACIÓN JIMÉNEZ DÍAZ, Está en Avenida Reyes Católicos o Plaza de Cristo Rey. {break=300}
-FUNDACIÓN ONCE, Está en Calle Sebastián Herrera 15. {break=300}
-FUNDACIÓN RAMÓN ARECES, Está en Calle Vitrubio. {break=700}
-HOTELES
-AC AITANA, Situado en Paseo de la Castellana 152. {break=300}
-AC RIVAS, Está en Avenida Francisco de Quevedo 2. También en Rivas. {break=300}
-AGUMAR, Situado en Paseo de la Reina Cristina 7. {break=300}
-ANTIGUO CONVENTO, Ubicado en Calle Monjas. También en Boadilla del Monte. {break=300}
-BEST WESTERN AROSA, Situado en Calle Salud. {break=300}
-CASTELLANA INTERCONTINENTAL, Situado en Paseo de la Castellana 49. {break=300}
-DIANA PLUS, Situado en Carretera de Villaverde a Vallecas kilómetro 3 500. {break=300}
-HOLIDAY INN, Dirección: Plaza Carlos Trías Beltrán 4. También en AZCA. {break=300}
-HOTEL FRANCISCO I, Situado en Calle Arenal 15. {break=300}
-HOTEL ME – Plaza de Santa Ana
-HUSA SERRANO ROYAL, Dirección: Calle Marqués de Villamejor. {break=300}
-LA MORALEJA DE ALCOBENDAS, Dirección: Parque empresarial La Moraleja. {break=300}
-LA POSADA DEL PEINE, Situado en Calle Postas. {break=300}
-MINDANAO, Dirección: Paseo san Francisco de Sales. {break=300}
-NH COLLECTION PALACIO DE TEPA, Situado en Calle San Sebastián. {break=300}
-PRAGA, Está en Calle Antonio López. {break=300}
-POZUELO, Se encuentra en Camino de la Huerta 2. También en Pozuelo. {break=300}
-SANTOMAURO, Dirección: Calle Zurbano 36. {break=300}
-TRYP CIBELES Madrid, Ubicado en Calle Mesoneros Romanos esquina Calle Gran Vía. {break=300}
-TRYP CIBELES LAS ROZAS, Ubicado en Las Rozas de Madrid. {break=300}
-VILLAMAGNA, Está en Paseo de la castellana o Calle Marqués de Villamagna. {break=300}
-WELLINGTON, Está en Calle Velázquez 8. {break=300}
-ZENIT DE CONDE ORGAZ, Situado en Calle Moscatelar 24. {break=700}
-IGLESIAS
-CATEDRAL NUESTRA SEÑORA DE ALUMDENA, Situado en Metro Ópera. {break=300}
-CERRO DE LOS ANGELES, Dirección: Getafe. {break=300}
-CONFERENCIA EPISCOPAL ESPAÑOLA, Ubicado en Calle Añastro. {break=300}
-ERMITA DE SAN NICASIO, Ubicado en Leganés. {break=300}
-MONASTERIO DE LAS DESCALZAS, Dirección: Plaza de las Descalzas. También en Metro Sol, Ópera. {break=300}
-MONASTERIO DE LA ENCARNACIÓN, Situado en Plaza de la Encarnación. También en Metro Ópera. {break=300}
-NUESTRA SEÑORA DE LAS MARAVILLAS Y SANTOS JUSTO Y PASTOR, Situado en Plaza dos de mayo. {break=700}
-MERCADOS
-LA CEBADA, Dirección: Plaza de la Cebada 15. {break=300}
-LA GUINDALERA, Se encuentra en Calle Eraso 14. {break=300}
-LOS MOSTENSES, Situado en Plaza Mostenses. {break=300}
-MARAVILLAS, Está en Calle Bravo Murillo 122. {break=300}
-MERCADO DE CHAMARTIN, Situado en Calle Bolivia. {break=300}
-MERCADO DE SAN ANTÓN, Ubicado en Calle Barbieri. {break=300}
-SAN MIGUEL, Dirección: Calle Cuchilleros. {break=300}
-DOÑA CARLOTA, Ubicado en Puente de Vallecas. {break=300}
-ANTÓN MARTÍN, Dirección: Calle Santa Isabel 5. {break=700}
-MUSEOS
-ARQUEOLÓGICO AL AIRE LIBRE, Se encuentra en Juan Carlos I. También en Pinto. {break=300}
-CASA MUSEO, Situado en Lope De Vega. También en Calle Cervantes 11. {break=300}
-COLECCIÓN ICO, Situado en Calle Zorrilla 3. {break=300}
-DE AMÉRICA, Situado en Avenida Reyes Católicos 6. {break=300}
-DE MADRID, Está en Príncipe de Vergara 140. {break=300}
-DEL BONSAI, Dirección: Avenida Olímpica s/n. También en Alcobendas. {break=300}
-DEL VIDRIO, Situado en Avenida de los castillos. También en Alcorcón. {break=300}
-MUNICIPAL DE MADRID, Está en Calle Fuencarral 78. {break=300}
-MUNCYT, Situado en Museo Nacional Ciencia y Tecnología. También en Calle Pintor Velázquez, Alcobendas. {break=300}
-PRADO, Se encuentra en Paseo del Prado s/n o Ruiz de Alarcón. {break=300}
-THYSSEN BORNEMISZA, Ubicado en Paseo del Prado 8. {break=700}
-OCIO
-ADMINISTRACION DE LOTERÍAS DOÑA MANOLITA, Ubicado en Calle del Carmen 22. {break=300}
-FAUNIA, Dirección: Avenida de la Democracia. {break=300}
-PARQUE ATRACCIONES, Dirección: Casa de Campo. {break=300}
-PARQUES PLANETARIO, Dirección: Avenida del Planetario. {break=300}
-TELEFÉRICO, Ubicado en Paseo de Pintor Rosales. {break=300}
-WARNER BROS, Está en M-506. También en San Martín de la Vega. {break=300}
-ZOO, Está en Carretera del Zarzón. {break=300}
-PARQUE LINEAL DEL MANZANARES, Ubicado en Paseo de la chopera. {break=300}
-CASA DEL RELOJ, Situado en Paseo de la chopera. {break=700}
-ORGANISMOS
-ASAMBLEA DE MADRID, Se encuentra en Avenida de Pablo Neruda o Plaza de la Asamblea. {break=300}
-CONCEJALÍA DE URBANISMO Y VIVIENDA, Situado en Calle Ribera del Sena. {break=300}
-CONGRESO, Está en PRESIDENCIA DEL GOBIERNO. También en Calle Floridablanca s/n. {break=300}
-CONSEJERÍA DE CULTURA Y DEPORTE, Está en Calle Alcalá 31. {break=300}
-DEFENSOR DEL PUEBLO, Está en Calle Zurbano 42. {break=300}
-PALACIO MUNICIPAL DE CONGRESOS, Se encuentra en CASA CAMPO. También en Avenida de Portugal s/n. {break=300}
-PALACIO MUNICIPAL DE CONGRESOS, Situado en IFEMA. También en Avenida de la Capital de España s/n. {break=300}
-SENADO, Se encuentra en Plaza Marina Española 8. {break=700}
-EL PARDO
-CLUB SOMONTES
-LA CASITA DEL PRINCIPE
-LA ZARZUELA
-RESTAURANTE EL GAMO
-TIRO DE PICHÓN, Está en Carretera de El Pardo. {break=700}
-POLÍGONOS INDUSTRIALES
-EL CARRALERO, Dirección: Majadahonda. También en Pista de hielo. {break=300}
-EURONOVA, Ubicado en Tres Cantos. {break=300}
-EURÓPOLIS, Se encuentra en Las Rozas. {break=300}
-LOS GALLEGOS, Dirección: Fuenlabrada. {break=300}
-COBOCALLEJA, Se encuentra en Fuenlabrada. {break=300}
-LAS ARENAS, Ubicado en Pinto. {break=300}
-LAS MERCEDES, Situado en Madrid. {break=300}
-LOS LINARES, Ubicado en Humanes. {break=300}
-PARQUE EMPRESARIAL TECNOLÓGICO, Dirección: Tres Cantos. {break=300}
-SANTA ANA, Situado en Rivas. {break=300}
-MARCONI, Dirección: Villaverde. {break=300}
-VALPORTILLO, Situado en Alcobendas. {break=300}
-FINANZAUTO, Está en Arganda del Rey. {break=300}
-MALVAR, Ubicado en Arganda del Rey. {break=300}
-SAN MARCOS, Está en Getafe. {break=300}
-LOS OLIVOS, Dirección: Getafe. {break=300}
-LOS ANGELES, Está en Getafe. {break=300}
-C.L.A, Dirección: Centro Logístico de Andalucía. También en Getafe. {break=300}
-LA FORTUNA, Dirección: Leganés. {break=300}
-BUTARQUE, Ubicado en Leganés. {break=300}
-URTINSA, Ubicado en Alcorcón. {break=300}
-LAS NIEVES, Ubicado en Móstoles. {break=700}
-REALES ACADEMIAS
-REAL ACADEMIA DE ARTE DRAMÁTICO, Se encuentra en Avenida De Nazaret 2. {break=300}
-REAL ACADEMIA DE LA LENGUA, Está en Calle Felipe IV 4. {break=300}
-REAL ACADEMIA DE LA HISTORIA, Dirección: Calle León 21. {break=700}
-REGISTROS
-CIVIL, Se encuentra en Calle Pradillo 66. {break=300}
-REGISTRO DE BIENES MUEBLES, Está en REGISTRO MERCANTIL. También en Paseo de la Castellana 44. {break=300}
-REGISTRO DE LA PROPIEDAD, Se encuentra en Calle Alcalá 540 esquina Calle Cronos. {break=700}
-RESTAURANTES
-A'CASIÑA, Se encuentra en Casa de Campo. También en Paseo Puerta del Ángel. {break=300}
-ARCE, Dirección: Calle Augusto Figueroa 32. {break=300}
-ASADOR DONOSTIARRA, Dirección: Calle Infanta Mercedes 79. {break=300}
-BAR LA CHULAPA, Dirección: Calle Alcalá 35. {break=300}
-BOTIN, Está en Calle De los Cuchilleros. {break=300}
-CASA LUCIO, Se encuentra en Calle Cava Baja 35. {break=300}
-CASA MINGO, Se encuentra en Paseo de la Florida. {break=300}
-CLUB 31, Se encuentra en Calle Alcalá 58. {break=300}
-CUEVAS DE LUIS CANDELAS, Está en Arco de Cuchilleros. {break=300}
-EL AMPARO, Está en Callejón de Puig Cerdá 8. {break=300}
-EL BODEGÓN, Dirección: Calle Pinar 15. {break=300}
-EL CUCHI, Ubicado en Cuchilleros 3. {break=300}
-EL CURRITO, Ubicado en Casa de Campo. También en Avenida Provincias, Pabellón Vizcaya. {break=300}
-HORCHER, Está en Calle Alfonso XII 6. {break=300}
-L'HARDY, Está en Carrera de San Jerónimo 8. {break=300}
-M-29, Dirección: Calle Miguel Ángel 29-31. {break=300}
-PAELLA DE LA REINA, Se encuentra en Calle de la Reina. {break=300}
-PORTOBELLO, Situado en Calle Poeta Joan Maragall 55. También en Antigua Calle Capitán Haya. {break=300}
-POSADA DE LA VILLA, Está en Calle de la Cava Baja 9. {break=300}
-RIANXO, Ubicado en Calle Raimundo Fernández Villaverde 49. {break=300}
-TERRAZA-CASINO, Se encuentra en Calle Alcalá 15. {break=300}
-VIRIDIANA, Ubicado en Calle Juan de Mena 4. {break=300}
-ZALACAÍN, Ubicado en Calle Álvarez de Baena 4. {break=700}
-SALAS ROCIERAS
-CAFÉ DE CHINITAS, Situado en Calle Torija 7. {break=300}
-CASA PATAS, Dirección: Calle Cañizares 10. {break=300}
-SALA DE FIESTAS AL ANDALUS, Dirección: Calle Poeta Joan Maragall 19. {break=300}
-EL CORRAL DE LA MORERÍA, Dirección: Calle Morerías. {break=700}
-TEATROS
-ABADÍA, Situado en Calle Fernández de los Ríos 42. {break=300}
-TEATROS AMAYA, Situado en Paseo General Martínez Campos. {break=300}
-TEATROS ARLEQUÍN, Está en Calle San Bernardo 5. {break=300}
-CÍRCULO DE BELLAS ARTES, Dirección: Marqués Casa Riera 2. {break=300}
-COLISEUM, Situado en Calle Gran Vía 78. {break=300}
-DORÉ, Se encuentra en Filmoteca Española. También en Calle Santa Isabel 2. {break=300}
-ESPAÑOL, Se encuentra en Calle Príncipe 25. {break=300}
-GALILEO, Situado en Calle Galileo 39. {break=300}
-KARPAS, Situado en Calle Santa Isabel 19. {break=300}
-LA LATINA, Ubicado en Plaza de la Cebada. {break=300}
-NUEVO TEATRO ALCALÁ, Situado en Calle Jorge Juan 62. {break=300}
-TEATRO REAL, Ubicado en Plaza de Isabel II o Plaza de Oriente s/n. {break=300}
-TEATRO DE CÁMARA, Situado en CHEJOV. También en San Cosme y San Damián. {break=300}
-TEATRO DE JARAMILLA, Situado en Co
+AUDITORIOS{break=200}
+AUDITORIO LATINARTE, Se encuentra en Avenida Las Águilas 2{break=300}
+AUDITORIO PILAR BARDEM, Situado en Calle Fundición s/n. Rivas{break=300}
+AUDITORIO MIGUEL RÍOS, Se encuentra en Rivas{break=300}
+AUDITORIO CONDE DUQUE, Localizado en Calle Conde Duque{break=300}
+ORQUESTA Y CORO NACIONAL DE ESPAÑA, Ubicado en Calle Príncipe de Vergara 146{break=700}
+
+CAFÉS,{break=200}
+CAFÉ CENTRAL, Está en Plaza del Ángel 10{break=300}
+CAFÉ COMERCIAL, Ubicado en Glorieta de Bilbao 7{break=300}
+CAFÉ GIJÓN, Localizado en Paseo de Recoletos 21{break=300}
+CAFÉ ORIENTE, Está en Plaza de Oriente{break=700}
+
+CASINOS{break=200}
+CASINO GRAN MADRID, Localizado en Torrelodones{break=300}
+CASINO DE MADRID, Ubicado en Calle Alcalá 15{break=700}
+
+CEMENTERIOS{break=200}
+CEMENTERIO BRITÁNICO, Está en Carabanchel{break=300}
+CEMENTERIO Y TANATORIO SUR, Ubicado en A-42 o Avenida Princesa Juana de Austria{break=300}
+CEMENTERIO BRITÁNICO O INGLÉS, Situado en Calle Comandante Fontanes. Carabanchel{break=300}
+CEMENTERIO MUNICIPAL DE VICÁLVARO, Ubicado en Calle San Cipriano{break=300}
+CEMENTERIO DEL ESTE, Se encuentra en Avenida Daroca, o Avenida de las 13 rosas, o Calle Arroyo de la media legua{break=300}
+CEMENTERIO SACRAMENTAL DE SANTA MARÍA, Está en Calle Comuneros de Castilla. Carabanchel{break=300}
+CEMENTERIO SACRAMENTAL DE SAN JUSTO PASTOR, Situado en Paseo Ermita del Santo{break=300}
+CEMENTERIO DE SAN ISIDRO, Está en Paseo Ermita del Santo{break=300}
+CEMENTERIO HEBREO, Localizado en Dentro del cementerio de San Isidro. Carabanchel{break=300}
+CEMENTERIO DE LA PAZ, Se encuentra en Alcobendas{break=300}
+TANATORIO DE LA PAZ, Está en Tres Cantos{break=300}
+TANATORIO M-30, MADRID NORTE, Localizado en Calle Salvador de Madariaga{break=300}
+TANATORIO M-40, Ubicado en Avenida de los Rosales. Villaverde{break=700}
+
+CENTROS CULTURALES{break=200}
+CENTRO DE ARTE REINA SOFÍA, Situado en Calle Santa Isabel{break=300}
+CENTRO CULTURAL AGATA, Localizado en Calle Doctor Martín Arévalo 2. Villaverde{break=300}
+CENTRO CULTURAL ANTIGUA FÁBRICA DE CERVEZAS MADRID, Se encuentra en Calle General Lacy{break=300}
+CENTRO CULTURAL BUERO VALLEJO, Situado en Alcorcón{break=300}
+CENTRO CULTURAL CONDE DUQUE, Se encuentra en Calle Conde Duque 11{break=300}
+CENTRO CULTURAL EGALEO, Situado en Leganés{break=300}
+CENTRO CULTURAL GALILEO, Está en Calle de Fernando el Católico{break=300}
+CENTRO CULTURAL MIRA, Se encuentra en Pozuelo{break=300}
+CENTRO CULTURAL TOMÁS Y VALIENTE, Ubicado en Fuenlabrada{break=300}
+CENTRO CULTURAL EL SITIO DE MI RECREO, Se encuentra en Calle Real de Arganda 39 41{break=700}
+
+CENTROS COMERCIALES{break=200}
+BOX ALCALA NORTE, Está en Calle Alcalá 414{break=300}
+EL PALACIO, Ubicado en Boadilla del Monte{break=300}
+EL TORREÓN, Localizado en Avenida Juan XXIII 10. Pozuelo{break=300}
+HERON CITY, Situado en Calle Camilo José Cela. Las Rozas{break=300}
+LA MORALEJA, Está en Alcobendas{break=300}
+LAS ROSAS, Localizado en Avenida de Guadalajara 2{break=300}
+LORANCA, Está en Fuenlabrada{break=300}
+LOS ANGELES, Ubicado en Avenida Andalucía kilómetro 7 600. Ciudad de los Ángeles{break=300}
+LOS VALLES, Se encuentra en Collado Villalba{break=300}
+M-40, Está en El Barrio de la Fortuna. Leganés{break=300}
+NASSICA, Ubicado en Getafe{break=300}
+PLAZA NORTE II, Se encuentra en San Sebastián de los Reyes{break=300}
+PLENILUNIO, Ubicado en Calle Aracne. Polígono de las Mercedes{break=300}
+PRINCIPE PIO, Situado en Paseo de la Florida{break=300}
+RIO NORTE, Ubicado en Alcobendas{break=300}
+TRES AGUAS, Localizado en Avenida América. Alcorcón{break=300}
+VISTA ALEGRE, Está en Avenida de la Plaza de Toros s/n{break=300}
+XANADÚ, Situado en Arroyomolinos{break=300}
+GRAN PLAZA II, Localizado en Majadahonda{break=300}
+LA SEXTA AVENIDA, Se encuentra en Avenida de la Victoria 2. Moncloa-Aravaca{break=300}
+ISLA AZUL, Situado en Calle calderilla{break=300}
+LA GAVIA, Ubicado en Calle Adolfo Bioy Casares{break=300}
+VALDEBERNARDO, Situado en Boulevard José Prat{break=300}
+DOLCE VITA, Está en Alcobendas{break=300}
+CIELO, Ubicado en Pozuelo{break=300}
+LA ERMITA, Se encuentra en Paseo Ermita del Santo 48{break=700}
+
+CENTROS DE SALUD{break=200}
+CENTRO DE SALUD GARCÍA NOBLEJAS. AMBULATORIO DOCTOR ESQUERDO, Ubicado en Calle Doctor Esquerdo{break=300}
+CLÍNICA JUNTO A LA A6, Localizado en Zarzuela{break=300}
+CLÍNICA VIRGEN DE LAS NIEVES, Situado en Calle Jesús del Pino{break=300}
+HOSPITAL GÓMEZ ULLA, Se encuentra en Glorieta Del Ejército. Metro Carabanchel{break=300}
+ISABEL II, Está en Parla{break=300}
+SANATORIO ESQUERDO, Se encuentra en Avenida de los Poblados{break=300}
+VALLE DE LA OLIVA, Localizado en Majadahonda{break=300}
+SANATORIO DOCTOR LOPEZ IBOR, Situado en Avenida Nueva Zelanda 44{break=300}
+CLÍNICA DOCTOR LOPEZ IBOR, Localizado en Avenida Cardenal Herrera Oria{break=300}
+SANATORIO SAN JUAN DE DIOS, Ubicado en Ciempozuelos{break=700}
+
+CENTROS DE TELECOMUNICACIONES{break=200}
+CADENA DIAL. LOCALIA TV MADRID Y LOS 40 PRINCIPALES, Situado en Calle Gran Vía 32{break=300}
+CADENA 100, Localizado en Calle Alfonso XI 4{break=300}
+RADIO LIBERTAD, Ubicado en Paseo Castellana 129{break=300}
+RADIO TENTACIÓN, Situado en Vía Lusitana{break=300}
+EL MUNDO. MARCA Y LA VANGUARDIA, Se encuentra en Avenida San Luis 25. Hortaleza{break=300}
+PERIÓDICO 20 MINUTOS, Situado en Calle Condesa de Venadito{break=300}
+PERIÓDICO EXPANSIÓN, Ubicado en Paseo castellana 66{break=700}
+
+CINES{break=200}
+CINESA MÉNDEZ ÁLVARO, Está en Calle Acanto 2. Méndez Álvaro{break=300}
+CINE KINÉPOLIS, Localizado en Pozuelo{break=300}
+CINESA LAS ROZAS. HERÓN CITY, Se encuentra en Avenida de Guadalajara 2, o Calle Aquitania{break=300}
+CINES ALFAVIL, Está en Calle Martin de los Eros{break=300}
+CINES PAZ CINES ROXY, Localizado en Calle Fuencarral{break=700}
+
+CLUBS{break=200}
+CLUB DE CAMPO VILLA DE MADRID, Ubicado en Carretera de Castilla{break=300}
+CLUB DE TENIS CHAMARTÍN, Se encuentra en Calle Federico Salmón{break=300}
+CLUB HERRERÍA. CLUB DE GOLF, Situado en San Lorenzo de El Escorial{break=300}
+REAL CLUB PUERTA DE HIERRO, Se encuentra en Avenida de Miraflores{break=300}
+REAL AEROCLUB DE ESPAÑA, Localizado en Valdemoro{break=700}
+
+COLEGIOS{break=200}
+CEMU CIUDAD ESCUELA LOS MUCHACHOS, Está en Leganés{break=300}
+COLEGIO ALFONSO XII, Situado en Real Monasterio de San Lorenzo de El Escorial{break=300}
+COLEGIO KINGS COLLEGE, Está en Tres Cantos{break=300}
+COLEGIO BRITISH NURSEREY, Localizado en Pozuelo{break=300}
+LICEO FRANCES, Se encuentra en Calle Silvano{break=300}
+SAINT MICHAEL SCHOOL, Está en Avenida de la Victoria 72. Madrid{break=300}
+SAINT MICHAEL SCHOOL, Localizado en Boadilla Del Monte{break=300}
+COLEGIO MAYOR BLANCA DE CASTILLA, Situado en Camino de la Zarzuela. Moncloa-Aravaca{break=700}
+
+CUERPOS DE SEGURIDAD{break=200}
+CENTRAL DE POLICÍA, O JUDICIAL, Está en Avenida del Doctor Federico Rubio y Galí, o Avenida Pablo iglesias{break=300}
+COMISARÍA CENTRO, Ubicado en Calle Luna, o Calle Leganitos, Si aparecen las dos escoger Luna{break=300}
+DIRECCIÓN GENERAL DE LA GUARDIA CIVIL, Localizado en Calle Guzmán el Bueno 110{break=300}
+HACIENDA, Situado en Calle Guzmán el Bueno 139{break=300}
+COMANDANCIA GENERAL DE LA GUARDIA CIVIL, Ubicado en Calle Batalla del Salado{break=300}
+ACADEMIA DE ADIESTRAMIENTO CANINO DE LA GUARDIA CIVIL, Localizado en Carretera del Pardo. M-605{break=300}
+ESCUELA DE JÓVENES DE LA GUARDIA CIVIL, Ubicado en Calle Príncipe de Vergara{break=300}
+ACADEMIA DE GUARDAS JÓVENES, Se encuentra en Valdemoro{break=700}
+
+DISCOTECAS {break=200}
+AIRE, Está en Calle de Cea Bermúdez{break=300}
+BONG BONG, Ubicado en Calle de la Princesa{break=300}
+EMPAIR, Se encuentra en Paseo de Recoletos 16{break=300}
+GABANA 1800, Ubicado en Calle Velázquez 6{break=300}
+HABANA, Se encuentra en Calle de San Vicente Ferrer 23{break=300}
+KAPITAL, Ubicado en Calle de Atocha 125{break=300}
+LA RIVIERA, Se encuentra en Paseo bajo de Virgen del Puerto{break=300}
+MACUMBA, Situado en Estación de Chamartín{break=300}
+PACHA Y TEATRO BARCELÓ. Calle Barceló 11{break=300}
+PALACIO DE GAVIRIA, Localizado en Calle Arenal{break=300}
+PALLADIUM, Ubicado en Calle Don Ramón de la Cruz 28{break=300}
+SALA NASTI, Se encuentra en Calle de San Vicente Ferrer{break=300}
+JOY SLAVA Y TEATRO ESLAVA, Situado en Calle Arenal{break=300}
+SALA SOL, Se encuentra en Calle jardines 3{break=300}
+SALA CARACOL, Situado en Calle Bernardino Obregón 18{break=700}
+
+ESTADIOS, CENTROS DEPORTIVOS{break=200}
+CERRO ESPINO. ENTRENAMIENTO ATLÉTICO DE MADRID, Está en Majadahonda{break=300}
+FEDERACIÓN ESPAÑOLA DE BALONCESTO, Ubicado en Avenida de Burgos 6{break=300}
+KARTING CARLOS SAINZ, Localizado en Polígono Európolis. Las Rozas{break=300}
+KARTING CARLOS SAINZ MADRID, Se encuentra en Calle Sepúlveda{break=300}
+LIGA NACIONAL DE FUTBOL, Está en Calle Hernández de Tejada{break=300}
+POLIDEPORTIVO CARLOS RUIZ, Localizado en Pozuelo{break=300}
+COMITÉ OLIMPICO ESPAÑOL, Está en Calle Aconcagua Hortaleza{break=300}
+CAJA MÁGICA, Localizado en Camino de Perales{break=300}
+CIUDAD DEL FUTBOL Y FEDERACIÓN ESPAÑOLA DE FUTBOL, Está en Las Rozas{break=300}
+ESTADIO SANTIAGO BERNABEU{break=300}
+ESTADIO RAYO VALLECANO{break=300}
+ESTADIO METROPOLITANO{break=300}
+ESTADIO DE VALLEHERMOSO{break=700}
+
+EDIFICIOS EMBLEMATICOS{break=200}
+CASA DE AMÉRICA, Se encuentra en Palacio De Linares, o Paseo de Recoletos, o Calle Marqués de Duero{break=300}
+CASA DE LAS SIETE CHIMENEAS, Situado en Plaza del Rey, o Calle Infantas{break=300}
+PALACIO DE CONGRESOS Y EXPOSICIONES, Está en Paseo Castellana 99, o Calle General Perón{break=300}
+REAL CASA DE LA PANADERÍA, Localizado en Plaza Mayor{break=300}
+TORRE DE LOS LUJANES, Situado en Plaza de la Villa{break=300}
+REAL CASA DE CORREOS, Ubicado en Calle Correos{break=300}
+PALACIO DE TELECOMUNICACIONES, Está en Calle Montalbán, o Plaza Cibeles{break=300}
+EDIFICIO METRÓPOLIS, Se encuentra en Calle Alcalá esquina Calle Gran Vía{break=300}
+RESTOS MURALLA ÁRABE, Ubicado en Calle Cuesta de la Vega{break=300}
+CASA DEL RELOJ, Situado en Paseo de la Chopera{break=300}
+CASA ÁRABE, Localizado en Calle Alcalá esquina Calle O'Donnell{break=700}
+
+FUNDACIONES{break=200}
+CENTRO DE PROTECCIÓN DE ANIMALES, Está en Carretera de la Fortuna{break=300}
+FUNDACIÓN BANESTO, Localizado en Calle de Antonio Maura{break=300}
+FUNDACIÓN CAJA MADRID, Se encuentra en Casa de las Alhajas. Plaza San Martín 1{break=700}
+
+SALAS DE EXPOSICIONES{break=200}
+FUNDACIÓN JIMÉNEZ DÍAZ, Localizado en Avenida Reyes Católicos, o Plaza de Cristo Rey{break=300}
+FUNDACIÓN ONCE, Está en Calle Sebastián Herrera 15{break=300}
+FUNDACIÓN RAMÓN ARECES, Localizado en Calle Vitrubio{break=700}
+
+HOTELES{break=200}
+A C AITANA, Está en Paseo de la Castellana 152{break=300}
+A C RIVAS, Se encuentra en Avenida Francisco de Quevedo 2. Rivas{break=300}
+AGUMAR, Localizado en Paseo de la Reina Cristina 7{break=300}
+ANTIGUO CONVENTO, Situado en Calle Monjas. Boadilla del Monte{break=300}
+BEST WESTERN AROSA, Está en Calle Salud{break=300}
+CASTELLANA INTERCONTINENTAL, Se encuentra en Paseo de la Castellana 49{break=300}
+DIANA PLUS, Está en Carretera de Villaverde a Vallecas kilómetro 3 500{break=300}
+JOLIDEI INN, Situado en Plaza Carlos Trías Beltrán 4. AZCA{break=300}
+HOTEL FRANCISCO I, Ubicado en Calle Arenal 15{break=300}
+HOTEL MI, Localizado en Plaza de Santa Ana{break=300}
+HUSA SERRANO ROYAL, Ubicado en Calle Marqués de Villamejor{break=300}
+LA MORALEJA DE ALCOBENDAS, Se encuentra en Parque empresarial La Moraleja{break=300}
+LA POSADA DEL PEINE, Ubicado en Calle Postas{break=300}
+MINDANAO, Situado en Paseo san Francisco de Sales{break=300}
+N H COLLECTION PALACIO DE TEPA, Ubicado en Calle San Sebastián{break=300}
+PRAGA, Localizado en Calle Antonio López{break=300}
+POZUELO, Situado en Camino de la Huerta 2. Pozuelo{break=300}
+SANTOMAURO, Ubicado en Calle Zurbano 36{break=300}
+TRYP CIBELES MADRID, Está en Calle Mesoneros Romanos esquina Calle Gran Vía{break=300}
+TRYP CIBELES LAS ROZAS, Se encuentra en Las Rozas de Madrid{break=300}
+VILLAMAGNA, Localizado en Paseo de la castellana, o Calle Marqués de Villamagna{break=300}
+WELLINGTON, Ubicado en Calle Velázquez 8{break=300}
+ZENIT DE CONDE ORGAZ, Se encuentra en Calle Moscatelar 24{break=700}
+
+IGLESIAS{break=200}
+CATEDRAL NUESTRA SEÑORA DE ALUMDENA, Situado en Metro Ópera{break=300}
+CERRO DE LOS ANGELES, Localizado en Getafe{break=300}
+CONFERENCIA EPISCOPAL ESPAÑOLA, Ubicado en Calle Añastro{break=300}
+ERMITA DE SAN NICASIO, Localizado en Leganés{break=300}
+MONASTERIO DE LAS DESCALZAS, Ubicado en Plaza de las Descalzas. Metro Sol- Ópera{break=300}
+MONASTERIO DE LA ENCARNACIÓN, Está en Plaza de la Encarnación. Metro Ópera{break=300}
+NUESTRA SEÑORA DE LAS MARAVILLAS Y SANTOS JUSTO Y PASTOR, Se encuentra en Plaza dos de mayo{break=700}
+
+MERCADOS{break=200}
+LA CEBADA, Localizado en Plaza de la Cebada 15{break=300}
+LA GUINDALERA, Está en Calle Eraso 14{break=300}
+LOS MOSTENSES, Se encuentra en Plaza Mostenses{break=300}
+MARAVILLAS, Localizado en Calle Bravo Murillo 122{break=300}
+MERCADO DE CHAMARTIN, Situado en Calle Bolivia{break=300}
+MERCADO DE SAN ANTÓN, Ubicado en Calle Barbieri{break=300}
+SAN MIGUEL, Situado en Calle Cuchilleros{break=300}
+DOÑA CARLOTA, Se encuentra en Puente de Vallecas{break=300}
+ANTÓN MARTÍN, Está en Calle Santa Isabel 5{break=700}
+
+MUSEOS{break=200}
+ARQUEOLÓGICO AL AIRE LIBRE, Se encuentra en Parque Juan Carlos I. Pinto{break=300}
+CASA-MUSEO LOPE DE VEGA, Está en Calle Cervantes 11{break=300}
+COLECCIÓN ICO, Se encuentra en Calle Zorrilla 3{break=300}
+DE AMÉRICA, Ubicado en Avenida Reyes Católicos 6{break=300}
+DE MADRID, Se encuentra en Calle Príncipe de Vergara 140{break=300}
+DEL BONSAI, Localizado en Avenida Olímpica s/n. Alcobendas{break=300}
+DEL VIDRIO, Está en Avenida de los castillos. Alcorcón{break=300}
+MUNICIPAL DE MADRID, Situado en Calle Fuencarral 78{break=300}
+MUNCYT. MUSEO NACIONAL DE CIENCIA Y TECNOLÓGIA, Se encuentra en Calle Pintor Velázquez. Alcobendas{break=300}
+PRADO, Localizado en Paseo del Prado s/n, o Calle de Ruiz de Alarcón{break=300}
+THYSSEN BORNEMISZA, Ubicado en Paseo del Prado 8{break=700}
+
+OCIO{break=200}
+ADMINISTRACION DE LOTERÍAS DOÑA MANOLITA, Situado en Calle del Carmen 22{break=300}
+FAUNIA, Localizado en Avenida de la Democracia{break=300}
+PARQUE ATRACCIONES, Se encuentra en Casa de Campo{break=300}
+PARQUES PLANETARIO, Localizado en Avenida del Planetario{break=300}
+TELEFÉRICO, Ubicado en Paseo de Pintor Rosales{break=300}
+WARNER BROS, Se encuentra en M-506. San Martín de la Vega{break=300}
+ZOO, Localizado en Carretera del Zarzón{break=300}
+PARQUE LINEAL DEL MANZANARES, Situado en Paseo de la chopera{break=300}
+CASA DEL RELOJ, Ubicado en Paseo de la chopera{break=700}
+
+ORGANISMOS{break=200}
+ASAMBLEA DE MADRID, Localizado en Avenida de Pablo Neruda, o Plaza de la Asamblea{break=300}
+CONCEJALÍA DE URBANISMO Y VIVIENDA, Se encuentra en Calle Ribera del Sena{break=300}
+CONGRESO Y PRESIDENCIA DEL GOBIERNO, Ubicado en Calle Floridablanca s/n{break=300}
+CONSEJERÍA DE CULTURA Y DEPORTE, Localizado en Calle Alcalá 31{break=300}
+DEFENSOR DEL PUEBLO, Se encuentra en Calle Zurbano 42{break=300}
+PALACIO MUNICIPAL DE CONGRESOS CASA DE CAMPO, Ubicado en Avenida de Portugal s/n{break=300}
+PALACIO MUNICIPAL DE CONGRESOS IFEMA, Localizado en Avenida de la Capital de España s/n{break=300}
+SENADO, Ubicado en Plaza Marina Española 8{break=700}
+
+EL PARDO{break=200}
+CLUB SOMONTES{break=300}
+LA CASITA DEL PRINCIPE{break=300}
+LA ZARZUELA{break=300}
+RESTAURANTE EL GAMO{break=300}
+TIRO DE PICHÓN, Situado en Carretera de El Pardo{break=700}
+
+POLÍGONOS INDUSTRIALES{break=200}
+PISTA DE HIELO EL CARRALERO, Se encuentra en Majadahonda{break=300}
+EURONOVA, Ubicado en Tres Cantos{break=300}
+EURÓPOLIS, Localizado en Las Rozas{break=300}
+LOS GALLEGOS, Está en Fuenlabrada{break=300}
+COBOCALLEJA, Localizado en Fuenlabrada{break=300}
+LAS ARENAS, Ubicado en Pinto{break=300}
+LAS MERCEDES, Se encuentra en Madrid{break=300}
+LOS LINARES, Ubicado en Humanes{break=300}
+PARQUE EMPRESARIAL TECNOLÓGICO, Situado en Tres Cantos{break=300}
+SANTA ANA, Está en Rivas{break=300}
+MARCONI, Situado en Villaverde{break=300}
+VALPORTILLO, Ubicado en Alcobendas{break=300}
+FINANZAUTO, Situado en Arganda del Rey{break=300}
+MALVAR, Se encuentra en Arganda del Rey{break=300}
+SAN MARCOS, Ubicado en Getafe{break=300}
+LOS OLIVOS, Situado en Getafe{break=300}
+LOS ANGELES, Está en Getafe{break=300}
+C.L.A. CENTRO LOGÍSTICO DE ANDALUCÍA, Localizado en Getafe{break=300}
+LA FORTUNA, Situado en Leganés{break=300}
+BUTARQUE, Localizado en Leganés{break=300}
+URTINSA, Situado en Alcorcón{break=300}
+LAS NIEVES, Localizado en Móstoles{break=700}
+
+REALES ACADEMIAS{break=200}
+REAL ACADEMIA DE ARTE DRAMÁTICO, Situado en Avenida De Nazaret 2{break=300}
+REAL ACADEMIA DE LA LENGUA, Se encuentra en Calle Felipe IV 4{break=300}
+REAL ACADEMIA DE LA HISTORIA, Localizado en Calle León 21{break=700}
+
+REGISTROS{break=200}
+REGISTRO CIVIL, Se encuentra en Calle Pradillo 66{break=300}
+REGISTRO DE BIENES MUEBLES Y REGISTRO MERCANTIL, Situado en Paseo de la Castellana 44{break=300}
+REGISTRO DE LA PROPIEDAD, Localizado en Calle Alcalá 540 esquina Calle Cronos{break=700}
+
+RESTAURANTES{break=200}
+A'CASIÑA, Ubicado en Casa de Campo. Paseo Puerta del Ángel{break=300}
+ARCE, Se encuentra en Calle Augusto Figueroa 32{break=300}
+ASADOR DONOSTIARRA, Está en Calle Infanta Mercedes 79{break=300}
+BAR LA CHULAPA, Localizado en Calle Alcalá 35{break=300}
+BOTIN, Situado en Calle De los Cuchilleros{break=300}
+CASA LUCIO, Está en Calle Cava Baja 35{break=300}
+CASA MINGO, Se encuentra en Paseo de la Florida{break=300}
+CLUB 31, Situado en Calle Alcalá 58{break=300}
+CUEVAS DE LUIS CANDELAS, Ubicado en Arco de Cuchilleros{break=300}
+EL AMPARO, Localizado en Callejón de Puig Cerdá 8{break=300}
+EL BODEGÓN, Se encuentra en Calle Pinar 15{break=300}
+EL CUCHI, Está en Cuchilleros 3{break=300}
+EL CURRITO, Ubicado en Casa de Campo. Pabellón Vizcaya. Avenida Provincias{break=300}
+JORCHER, Situado en Calle Alfonso XII 6{break=300}
+ELJARDY, Localizado en Carrera de San Jerónimo 8{break=300}
+M-29, Está en Calle Miguel Ángel 29-31{break=300}
+PAELLA DE LA REINA, Se encuentra en Calle de la Reina{break=300}
+PORTOBELLO, Localizado en Calle Poeta Joan Maragall 55{break=300}
+POSADA DE LA VILLA, Ubicado en Calle de la Cava Baja 9{break=300}
+RIANXO, Situado en Calle Raimundo Fernández Villaverde 49{break=300}
+TERRAZA-CASINO, Localizado en Calle Alcalá 15{break=300}
+VIRIDIANA, Situado en Calle Juan de Mena 4{break=300}
+ZALACAÍN, Localizado en Calle Álvarez de Baena 4{break=700}
+
+SALAS ROCIERAS{break=200}
+CAFÉ DE CHINITAS, Está en Calle Torija 7{break=300}
+CASA PATAS, Ubicado en Calle Cañizares 10{break=300}
+SALA DE FIESTAS AL ANDALUS, Se encuentra en Calle Poeta Joan Maragall 19{break=300}
+EL CORRAL DE LA MORERÍA, Situado en Calle Morerías{break=700}
+
+TEATROS{break=200}
+ABADÍA, Está en Calle Fernández de los Ríos 42{break=300}
+TEATROS AMAYA, Se encuentra en Paseo General Martínez Campos{break=300}
+TEATROS ARLEQUÍN, Está en Calle San Bernardo 5{break=300}
+CÍRCULO DE BELLAS ARTES, Se encuentra en Marqués Casa Riera 2{break=300}
+COLISEUM, Está en Calle Gran Vía 78{break=300}
+DORÉ, Situado en Filmoteca Española. Calle Santa Isabel 2{break=300}
+ESPAÑOL, Localizado en Calle Príncipe 25{break=300}
+GALILEO, Se encuentra en Calle Galileo 39{break=300}
+KARPAS, Situado en Calle Santa Isabel 19{break=300}
+LA LATINA, Se encuentra en Plaza de la Cebada{break=300}
+NUEVO TEATRO ALCALÁ, Situado en Calle Jorge Juan 62{break=300}
+TEATRO REAL, Ubicado en Plaza de Isabel II, o Plaza de Oriente s/n{break=300}
+TEATRO DE CÁMARA CHEJOV, Se encuentra en Calle San Cosme y San Damián{break=300}
+TEATRO DE JARAMILLA, Está en Coslada{break=300}
+VALLE INCLÁN, Ubicado en Plaza de Lavapiés{break=300}
+VICTORIA, Se encuentra en Pizarro 19{break=300}
+VIDRIO-CERAMICO, Está en Alcorcón{break=300}
+REINA VICTORIA, Situado en Carrera de San Jerónimo{break=700}
+
+TRANSPORTES{break=200}
+AERÓDROMO CUATRO VIENTOS, Ubicado en Avenida de la Aviación{break=300}
+AEROPUERTO, Situado en Avenida de la Hispanidad, o M-14{break=300}
+ESTACIÓN NORTE, Localizado en Paseo de la Florida. Príncipe Pío{break=300}
+ESTACIÓN SUR DE AUTOBUSES, Se encuentra en Méndez Álvaro{break=300}
+OFICINA MUNICIPAL DE OBJETOS PERDIDOS, Ubicado en Paseo del Molino 7{break=300}
+RENFE ATOCHA, Se encuentra en Glorieta del Emperador Carlos V{break=300}
+RENFE CHAMARTÍN, Ubicado en Calle Agustín de Foxá{break=700}
+
+URBANIZACIONES{break=200}
+COLONIA EL VISO, Situado en Chamartín{break=300}
+LA FLORIDA, Se encuentra en Moncloa-Aravaca{break=300}
+MINGORUBIO, Situado en Fuencarral-El Pardo{break=300}
+MIRASIERRA, Está en Fuencarral-El Pardo{break=300}
+MONTECARMELO, Localizado en Fuencarral-El Pardo{break=700}
+
+FUERA DE MADRID{break=200}
+CIUDALCAMPO, Situado en San Sebastián De Los Reyes{break=300}
+LA POVEDA, Está en Arganda Del Rey{break=300}
+SECTOR 3, Ubicado en Getafe{break=300}
+PARQUE COIMBRA, Se encuentra en Móstoles{break=300}
+CAMPODÓN, Está en Villaviciosa De Odón{break=300}
+EL BOSQUE, Localizado en Villaviciosa De Odón{break=300}
+MONTEPRÍNCIPE, Se encuentra en Boadilla Del Monte{break=300}
+LAS LOMAS, Ubicado en Boadilla Del Monte{break=300}
+LA FINCA, Localizado en Pozuelo{break=300}
+MONTECLARO, Ubicado en Pozuelo{break=300}
+URBANIZACIÓN EL PLANTÍO, Se encuentra en Majadahonda{break=300}
+URBANIZACIÓN LA CASTAÑERA, Localizado en Arroyomolinos{break=300}
+MONTEROZAS, Ubicado en Las Rozas{break=700}
+
+MONUMENTOS Y ESTATUAS{break=200}
+MONUMENTOS A LOS CAIDOS POR ESPAÑA, Está en Plaza de la Lealtad{break=300}
+MUJER CON ESPEJO, Se encuentra en Plaza de Colón{break=300}
+ESTATUA DE ANDRÓMACA, Situado en Paseo de Recoletos{break=300}
+ESTATUA ECUESTRE DE FELIPE III, Está en Plaza Mayor{break=300}
