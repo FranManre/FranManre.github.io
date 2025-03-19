@@ -157,12 +157,11 @@
                                 let correct = codes[names.indexOf(current)];
                                 let cPath = document.querySelector(`path[id^='${correct}']`);
                                 if (cPath) cPath.classList.add("highlight");
-
-                                // 🔄 **Insertar municipio fallado en una posición aleatoria de `left`**
+alert(left.length);
                                 let randomIndex = Math.floor(Math.random() * left.length);
                                 left.splice(randomIndex, 0, current);
                                 localStorage.setItem("left", JSON.stringify(left));
-
+alert(left.length);
                                 setTimeout(() => {
                                     cPath.classList.remove("highlight");
                                     combo = 0;
