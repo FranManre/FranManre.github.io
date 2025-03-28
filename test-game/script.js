@@ -1,5 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
-    loadExamList(); // Al cargar la página, cargamos automáticamente los exámenes disponibles
+    const urlParams = new URLSearchParams(window.location.search);
+    const examFile = urlParams.get("exam");
+
+    if (examFile) {
+        loadExam(examFile);  // Si se pasa un examen en la URL, lo cargamos automáticamente.
+    } else {
+        loadExamList();  // Si no hay examen en la URL, mostramos la lista de exámenes.
+    }
 });
 
 function loadExamList() {
@@ -14,7 +21,7 @@ function loadExamList() {
                 const button = document.createElement("button");
                 button.textContent = fileName.replace(/_/g, " ").replace(".json", "");
                 button.onclick = () => {
-                    window.location.href = `index.html?exam=${fileName}`;
+                    window.location.href = `index.html?exam=${fileName}`;  // Cambia la URL para cargar el examen.
                 };
                 examButtonsDiv.appendChild(button);
             });
