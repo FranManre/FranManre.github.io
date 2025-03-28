@@ -1,25 +1,76 @@
-<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPE html><html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juego de Tests</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Selección de Examen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        #exam-list {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .exam-link {
+            text-decoration: none;
+            color: #007bff;
+            font-size: 18px;
+            padding: 10px;
+            border: 1px solid #007bff;
+            border-radius: 5px;
+            width: 200px;
+            text-align: center;
+        }
+        .exam-link:hover {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
 </head>
 <body>
-    <div id="app">
-        <button onclick="window.location.href='index.html'">Volver al índice</button>
-        <h1>Juego de Tests</h1>
-        <div id="exam-list"></div>
-        <button id="load-exams">Cargar Exámenes</button>
-        <div id="quiz-container" class="hidden">
-            <h2 id="exam-title"></h2>
-            <p id="question-text"></p>
-            <div id="options"></div>
-            <button id="next-question">Siguiente</button>
-        </div>
-        <div id="results" class="hidden"></div>
-    </div>
-    <script src="script.js"></script>
+    <h1>Selecciona un Examen</h1>
+    <div id="exam-list">Cargando exámenes...</div>
+    <script>
+        async function getExamFiles() {
+            const url = "https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams";
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("No se pudo obtener la lista de archivos");const files = await response.json();
+            return files
+                .filter(file => file.name.endsWith(".json"))
+                .map(file => file.name.replace(/_/g, " ").replace(".json", ""));
+        } catch (error) {
+            console.error("Error cargando los archivos:", error);
+            return [];
+        }
+    }
+
+    async function loadExamList() {
+        const examListContainer = document.getElementById("exam-list");
+        const exams = await getExamFiles();
+
+        examListContainer.innerHTML = "";
+
+        if (exams.length === 0) {
+            examListContainer.innerHTML = "<p>No hay exámenes disponibles.</p>";
+            return;
+        }
+
+        exams.forEach(exam => {
+            const link = document.createElement("a");
+            link.href = `test-game.html?exam=${exam.replace(/ /g, "_")}.json`;
+            link.textContent = exam;
+            link.classList.add("exam-link");
+            examListContainer.appendChild(link);
+        });
+    }
+
+    loadExamList();
+</script>
+
 </body>
 </html>
