@@ -71,7 +71,7 @@
         
         exams.forEach(exam => {
             const link = document.createElement("a");
-            link.href = `test-game/index.html?exam=${exam.replace(/ /g, "_")}.json`;
+            link.href = `index.html?exam=${exam.replace(/ /g, "_")}.json`;
             link.textContent = exam;
             link.classList.add("exam-link");
             examListContainer.appendChild(link);
