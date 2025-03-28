@@ -1,12 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const examFile = urlParams.get("exam");
-
-    if (examFile) {
-        loadExam(examFile);
-    } else {
-        loadExamList();
-    }
+    loadExamList(); // Al cargar la página, cargamos automáticamente los exámenes disponibles
 });
 
 function loadExamList() {
