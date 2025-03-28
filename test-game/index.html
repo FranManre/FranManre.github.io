@@ -2,44 +2,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Selección de Examen</title>
+    <title>Juegos de Trivia</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
             margin: 20px;
         }
-        #exam-list {
+        #game-list, #exam-list {
             display: flex;
             flex-direction: column;
             align-items: center;
             gap: 10px;
         }
-        .exam-link {
+        .game-link, .exam-link {
             text-decoration: none;
             color: #007bff;
             font-size: 18px;
             padding: 10px;
             border: 1px solid #007bff;
             border-radius: 5px;
-            width: 200px;
+            width: 250px;
             text-align: center;
         }
-        .exam-link:hover {
+        .game-link:hover, .exam-link:hover {
             background-color: #007bff;
             color: white;
         }
     </style>
 </head>
 <body>
-    <h1>Selecciona un Examen</h1>
-    <div id="exam-list">Cargando exámenes...</div>
-    <script>
-        async function getExamFiles() {
-            const url = "https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams";
-            try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error("No se pudo obtener la lista de archivos");const files = await response.json();
+    <h1>Juegos de Trivia</h1><div id="game-list">
+    <h2>Juegos Disponibles</h2>
+    <a href="trivia-apc.html" class="game-link">Trivia Municipios APC Madrid</a>
+</div>
+
+<div id="exam-list">
+    <h2>Exámenes Disponibles</h2>
+    <p>Cargando exámenes...</p>
+</div>
+
+<script>
+    async function getExamFiles() {
+        const url = "https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams";
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error("No se pudo obtener la lista de archivos");
+            
+            const files = await response.json();
             return files
                 .filter(file => file.name.endsWith(".json"))
                 .map(file => file.name.replace(/_/g, " ").replace(".json", ""));
@@ -51,18 +61,17 @@
 
     async function loadExamList() {
         const examListContainer = document.getElementById("exam-list");
-        const exams = await getExamFiles();
-
         examListContainer.innerHTML = "";
-
+        
+        const exams = await getExamFiles();
         if (exams.length === 0) {
             examListContainer.innerHTML = "<p>No hay exámenes disponibles.</p>";
             return;
         }
-
+        
         exams.forEach(exam => {
             const link = document.createElement("a");
-            link.href = `test-game.html?exam=${exam.replace(/ /g, "_")}.json`;
+            link.href = `test-game/index.html?exam=${exam.replace(/ /g, "_")}.json`;
             link.textContent = exam;
             link.classList.add("exam-link");
             examListContainer.appendChild(link);
