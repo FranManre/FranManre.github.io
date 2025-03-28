@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué calle va desde la Plaza Alonso Martínez hasta la Plaza Colón?",
+        "options": {
+            "a": "Alonso Martínez",
+            "b": "Calle de Génova",
+            "c": "Santa Engracia",
+            "d": "Paseo de la Castellana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle cercana a La Plaza Mayor encontramos el bar \"La Campana\"?",
+        "options": {
+            "a": "Calle Postas",
+            "b": "Calle de Botoneras",
+            "c": "Travesía Marquesa Viuda de Pontejos",
+            "d": "Calle Mayor"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué museo encontramos en la calle Amaniel?",
+        "options": {
+            "a": "Museo de Cera",
+            "b": "Museo de Arte Contemporáneo",
+            "c": "Museo ABC",
+            "d": "Museo Reina Sofía"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué famosa calle encontramos la lujosa tienda de \"Louis Vuitton\"?",
+        "options": {
+            "a": "Calle Velázquez",
+            "b": "Calle O'Donnell",
+            "c": "Calle Serrano",
+            "d": "Avenida Ciudad de Barcelona"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Al lado de qué parque está situada la Real Canoe Natación Club?",
+        "options": {
+            "a": "Parque del Capricho",
+            "b": "Parque Tinaja",
+            "c": "Parque Enrique tierno Galván",
+            "d": "Parque Roma"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál es la calle que une las paradas de metro de Pueblo Nuevo y de Quintana?",
+        "options": {
+            "a": "Calle Virgen del Sagrario",
+            "b": "Calle José del Hierro",
+            "c": "Calle Roberto Domingo",
+            "d": "Calle de Alcalá"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué avenidas delimitan el Cementerio de Nuestra Señora de la Almudena?",
+        "options": {
+            "a": "Daroca y Trece Rosas",
+            "b": "Daroca y Alcalá",
+            "c": "Trece rosas y Francisco Largo Caballero",
+            "d": "Arroyo de la Media legua y Alcalá"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde podemos encontrar la taberna castiza \"Freiduría de Gallinejas\"?",
+        "options": {
+            "a": "Calle Embajadores",
+            "b": "Ronda de Atocha",
+            "c": "Calle Atocha",
+            "d": "Calle Bernardino Obregón"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El Madrid de los Austrias se concentra en su mayoría en el distrito:",
+        "options": {
+            "a": "Centro",
+            "b": "Moncloa - Aravaca",
+            "c": "Arganzuela",
+            "d": "Latina"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Las calles Real Madrid, Witerico, Carcastillo y Belzunegui confluyen en:",
+        "options": {
+            "a": "Plaza Olavide",
+            "b": "Plaza Cuatro Caminos",
+            "c": "Plaza Conde Casal",
+            "d": "Plaza de Barbatain"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué Ministerio está rodeado por las calles Los Madrazo, Cedaceros, Alcalá y Marqués de Casa Riera?",
+        "options": {
+            "a": "Ministerio de Sanidad y consumo",
+            "b": "Ministerio de defensa",
+            "c": "Ministerio de Asuntos exteriores",
+            "d": "Ministerio de Educación, Cultura y Deporte"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El Instituto de Formación Empresarial (IFE) está situado en:",
+        "options": {
+            "a": "Calle Pedro Salinas",
+            "b": "Calle Pablo Iglesias",
+            "c": "Calle Concha espina",
+            "d": "Calle Francos Rodriguez"
+        },
+        "solution": "a"
+    }
+]
