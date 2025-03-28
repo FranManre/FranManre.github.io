@@ -3,20 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juego de Exámenes</title>
+    <title>Trivia APC de Madrid</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Bienvenido al Juego de Exámenes</h1>
-    <div id="exam-list">
-        <h2>Selecciona un Examen</h2>
-        <div id="exam-buttons"></div>
-    </div>
 
-    <div id="quiz-container" class="hidden">
-        <h2 id="exam-title"></h2>
-        <p id="question-text"></p>
-        <div id="options"></div>
+    <div id="main-container">
+        <h1 id="exam-title"></h1>
+
+        <!-- Contenedor de la lista de exámenes -->
+        <div id="exam-list">
+            <h2>Selecciona un examen:</h2>
+            <div id="exam-buttons"></div>
+        </div>
+
+        <!-- Contenedor del cuestionario -->
+        <div id="quiz-container" class="hidden">
+            <p id="question-text"></p>
+            <div id="options"></div>
+        </div>
+
+        <!-- Resultados -->
         <div id="results" class="hidden"></div>
     </div>
 
