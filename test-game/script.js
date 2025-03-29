@@ -1,18 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
-    loadExamList(); // Cargar automáticamente la lista de exámenes cuando se carga la página
+    // Cargar la lista de exámenes al inicio
+    loadExamList(); 
 
+    // Obtener el parámetro 'exam' de la URL (ya debería estar funcionando bien)
     const urlParams = new URLSearchParams(window.location.search);
     const examFile = urlParams.get("exam");
 
     if (examFile) {
-        // Si hay un parámetro 'exam' en la URL, cargar el examen correspondiente
+        // Si se pasa un parámetro 'exam' en la URL, cargar el examen correspondiente
         loadExam(examFile);
     }
 });
 
-// Cargar la lista de exámenes
+// Función para cargar la lista de exámenes (sin cambios)
 function loadExamList() {
-    fetch('https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/')
+    fetch('https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/examList.json')
         .then(response => response.json())
         .then(exams => {
             const examListDiv = document.getElementById("exam-buttons");
@@ -31,13 +33,27 @@ function loadExamList() {
         });
 }
 
-// Cargar un examen
+// Función para cargar un examen en base al nombre del archivo JSON
 function loadExam(examFile) {
-    fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examFile}`)
-        .then(response => response.json())
+    // Asegurémonos de que la URL esté bien formada y apunte al archivo correcto
+    const examUrl = `https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examFile}`;
+
+    fetch(examUrl)
+        .then(response => {
+            // Verificar si la respuesta es exitosa
+            if (!response.ok) {
+                throw new Error(`No se pudo cargar el examen: ${response.statusText}`);
+            }
+            return response.json();
+        })
         .then(exam => {
-            document.getElementById("exam-title").textContent = examFile.replace(/_/g, " ").replace(".json", "");
-            startExam(exam);
+            // Asegurarnos de que el archivo JSON contiene los datos correctos
+            if (exam && exam.questions) {
+                document.getElementById("exam-title").textContent = examFile.replace(/_/g, " ").replace(".json", "");
+                startExam(exam);
+            } else {
+                throw new Error("El archivo JSON no tiene el formato correcto");
+            }
         })
         .catch(error => {
             console.error("Error cargando el examen:", error);
@@ -48,7 +64,7 @@ let currentExam = null;
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
 
-// Iniciar el examen
+// Función para iniciar el examen
 function startExam(exam) {
     currentExam = exam;
     currentQuestionIndex = 0;
@@ -58,7 +74,7 @@ function startExam(exam) {
     showQuestion();
 }
 
-// Mostrar la pregunta actual
+// Función para mostrar la pregunta actual
 function showQuestion() {
     const questionObj = currentExam.questions[currentQuestionIndex];
     document.getElementById("question-text").textContent = questionObj.question;
@@ -74,7 +90,7 @@ function showQuestion() {
     });
 }
 
-// Verificar la respuesta
+// Función para verificar la respuesta
 function checkAnswer(selected, correct) {
     if (selected === correct) correctAnswers++;
 
@@ -86,7 +102,7 @@ function checkAnswer(selected, correct) {
     }
 }
 
-// Mostrar los resultados
+// Función para mostrar los resultados
 function showResults() {
     const percentage = (correctAnswers / currentExam.questions.length) * 100;
     document.getElementById("results").innerHTML = `
