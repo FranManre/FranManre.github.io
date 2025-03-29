@@ -21,7 +21,6 @@ data.forEach(item => {
         });
     })
     .catch(error => console.error("Error cargando la lista de exámenes:", error));
-
 }
 
 let currentExam = []; let currentQuestionIndex = 0; let correctAnswers = 0;
