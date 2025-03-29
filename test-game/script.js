@@ -33,7 +33,7 @@ let currentQuestionIndex = 0;
 let correctAnswers = 0;
 
 function loadExam(examName) {
-    fetch(https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName})
+    fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`)
         .then(response => response.json())
         .then(exam => {
             if (!Array.isArray(exam)) {
