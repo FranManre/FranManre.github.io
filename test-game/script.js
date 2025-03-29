@@ -1,21 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Obtener el parámetro 'exam' de la URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const examFile = urlParams.get("exam");
-
-    if (examFile) {
-        // Si se pasa un examen en la URL, cargarlo
-        loadExam(examFile);
-    }
-});
-
-// Función para cargar un examen
-function loadExam(examFile) {
-    const examUrl = `https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examFile}`;
-
-    fetch(examUrl)
-        .then(response => {
-document.addEventListener("DOMContentLoaded", () => {
     loadExamList(); // Cargar automáticamente la lista de exámenes cuando se carga la página
 
     const urlParams = new URLSearchParams(window.location.search);
@@ -29,8 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Cargar la lista de exámenes
 function loadExamList() {
-    // Aquí asumimos que tienes un archivo JSON con una lista de exámenes en el repositorio de GitHub.
-    fetch('https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/examList.json')
+    fetch('https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/')
         .then(response => response.json())
         .then(exams => {
             const examListDiv = document.getElementById("exam-buttons");
@@ -51,9 +33,7 @@ function loadExamList() {
 
 // Cargar un examen
 function loadExam(examFile) {
-    const examUrl = `https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examFile}`;
-
-    fetch(examUrl)
+    fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examFile}`)
         .then(response => response.json())
         .then(exam => {
             document.getElementById("exam-title").textContent = examFile.replace(/_/g, " ").replace(".json", "");
