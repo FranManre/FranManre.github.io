@@ -28,37 +28,56 @@ function loadExamList() {
         })
         .catch(error => {
             console.error("Error cargando la lista de exámenes:", error);
-        });
-}
+document.addEventListener("DOMContentLoaded", () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const examFile = urlParams.get("exam");
 
-// Cargar un examen
-function loadExam(examFile) {
-    fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examFile}`)
+    if (examFile) {
+        loadExam(examFile);  // Si se pasa un examen en la URL, lo cargamos automáticamente.
+    } else {
+        loadExamList();  // Si no hay examen en la URL, mostramos la lista de exámenes.
+    }
+});
+
+function loadExamList() {
+    fetch("https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams")
         .then(response => response.json())
-        .then(exam => {
-            document.getElementById("exam-title").textContent = examFile.replace(/_/g, " ").replace(".json", "");
-            startExam(exam);
+        .then(data => {
+            const examButtonsDiv = document.getElementById("exam-buttons");
+            examButtonsDiv.innerHTML = "";
+
+            data.forEach(item => {
+                const fileName = item.name;
+                const button = document.createElement("button");
+                button.textContent = fileName.replace(/_/g, " ").replace(".json", "");
+                button.onclick = () => {
+                    window.location.href = `index.html?exam=${fileName}`;  // Cambia la URL para cargar el examen.
+                };
+                examButtonsDiv.appendChild(button);
+            });
         })
-        .catch(error => {
-            console.error("Error cargando el examen:", error);
-        });
+        .catch(error => console.error("Error cargando la lista de exámenes:", error));
 }
 
 let currentExam = null;
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
 
-// Iniciar el examen
-function startExam(exam) {
-    currentExam = exam;
-    currentQuestionIndex = 0;
-    correctAnswers = 0;
-    document.getElementById("quiz-container").classList.remove("hidden");
-    document.getElementById("exam-list").classList.add("hidden");
-    showQuestion();
+function loadExam(examName) {
+    fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`)
+        .then(response => response.json())
+        .then(exam => {
+            currentExam = exam;
+            currentQuestionIndex = 0;
+            correctAnswers = 0;
+            document.getElementById("exam-title").textContent = examName.replace(/_/g, " ").replace(".json", "");
+            document.getElementById("exam-list").classList.add("hidden");
+            document.getElementById("quiz-container").classList.remove("hidden");
+            showQuestion();
+        })
+        .catch(error => console.error("Error cargando el examen:", error));
 }
 
-// Mostrar la pregunta actual
 function showQuestion() {
     const questionObj = currentExam.questions[currentQuestionIndex];
     document.getElementById("question-text").textContent = questionObj.question;
@@ -74,7 +93,6 @@ function showQuestion() {
     });
 }
 
-// Verificar la respuesta
 function checkAnswer(selected, correct) {
     if (selected === correct) correctAnswers++;
 
@@ -86,7 +104,6 @@ function checkAnswer(selected, correct) {
     }
 }
 
-// Mostrar los resultados
 function showResults() {
     const percentage = (correctAnswers / currentExam.questions.length) * 100;
     document.getElementById("results").innerHTML = `
