@@ -1,34 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    loadExamList(); // Cargar automáticamente la lista de exámenes cuando se carga la página
-
-    const urlParams = new URLSearchParams(window.location.search);
-    const examFile = urlParams.get("exam");
-
-    if (examFile) {
-        // Si hay un parámetro 'exam' en la URL, cargar el examen correspondiente
-        loadExam(examFile);
-    }
-});
-
-// Cargar la lista de exámenes
-function loadExamList() {
-    fetch('https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/')
-        .then(response => response.json())
-        .then(exams => {
-            const examListDiv = document.getElementById("exam-buttons");
-            examListDiv.innerHTML = "";
-            exams.forEach(exam => {
-                const button = document.createElement("button");
-                button.textContent = exam.replace(/_/g, " ");
-                button.onclick = () => {
-                    window.location.href = `?exam=${exam}`;
-                };
-                examListDiv.appendChild(button);
-            });
-        })
-        .catch(error => {
-            console.error("Error cargando la lista de exámenes:", error);
-document.addEventListener("DOMContentLoaded", () => {
     const urlParams = new URLSearchParams(window.location.search);
     const examFile = urlParams.get("exam");
 
