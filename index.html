@@ -3,14 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juegos de Trivia</title>
+    <title>Juego de Test</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="main-menu">
-        <h1>Juegos de Trivia</h1>
-        <button onclick="window.location.href='apc-madrid/index.html'">Trivia APC Madrid</button>
-        <button onclick="window.location.href='test-game/index.html'">Juego de Tests</button>
+    <h1>Selecciona un Test</h1>
+    <div id="exam-list">
+        <select id="category-select">
+            <option value="">Todas las categorías</option>
+        </select>
+        <div id="exam-buttons"></div>
     </div>
+
+    <div id="quiz-container" class="hidden">
+        <h2 id="exam-title"></h2>
+        <p id="question-text"></p>
+        <div id="options"></div>
+        <button id="next-button" class="hidden">Siguiente</button>
+    </div>
+
+    <div id="results" class="hidden"></div>
+    <button id="back-button" class="hidden">Volver</button>
+    <button id="history-button">Historial</button>
+
+    <div id="history" class="hidden">
+        <h2>Historial de Exámenes</h2>
+        <ul id="history-list"></ul>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
