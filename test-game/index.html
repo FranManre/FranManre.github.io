@@ -3,32 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juego de Test</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Exámenes</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Selecciona un Test</h1>
-    <div id="exam-list">
-        <select id="category-select">
-            <option value="">Todas las categorías</option>
-        </select>
-        <div id="exam-buttons"></div>
+    <div id="main-menu">
+        <h1>Selecciona un examen</h1>
+        <select id="category-select"></select>
+        <div id="exam-list"></div>
+        <button id="back-to-index" class="hidden">Volver</button>
+    </div>
+    
+    <div id="attempts-menu" class="hidden">
+        <h1 id="exam-title"></h1>
+        <div id="attempts-list"></div>
+        <button id="retry-exam">Reintentar</button>
+        <button id="back-to-exam-list">Volver</button>
     </div>
 
     <div id="quiz-container" class="hidden">
-        <h2 id="exam-title"></h2>
-        <p id="question-text"></p>
+        <h1 id="question-text"></h1>
         <div id="options"></div>
-        <button id="next-button" class="hidden">Siguiente</button>
+        <button id="exit-exam">Salir</button>
     </div>
 
-    <div id="results" class="hidden"></div>
-    <button id="back-button" class="hidden">Volver</button>
-    <button id="history-button">Historial</button>
-
-    <div id="history" class="hidden">
-        <h2>Historial de Exámenes</h2>
-        <ul id="history-list"></ul>
+    <div id="review-container" class="hidden">
+        <h1>Revisión</h1>
+        <div id="review-content"></div>
+        <button id="back-to-attempts">Volver</button>
     </div>
 
     <script src="script.js"></script>
