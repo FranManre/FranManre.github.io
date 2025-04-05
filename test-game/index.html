@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test Game</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
     <header>
@@ -14,10 +13,10 @@
     </header>
 
     <main>
-        <!-- Lista de categorías/exámenes -->
+        <!-- Sección principal de categorías -->
         <section id="exam-list" class="visible">
             <h2>Selecciona una categoría</h2>
-            <select id="category-select" aria-label="Seleccionar categoría">
+            <select id="category-select">
                 <option value="" disabled selected>Elige una categoría</option>
             </select>
             <div id="exam-buttons"></div>
@@ -30,7 +29,7 @@
             <button id="back-to-tests">Volver a exámenes</button>
         </section>
 
-        <!-- Contenedor del examen -->
+        <!-- Examen en progreso -->
         <section id="quiz-container" class="hidden">
             <h2 id="quiz-title"></h2>
             <p id="question-text"></p>
