@@ -1,201 +1,197 @@
 document.addEventListener("DOMContentLoaded", () => {
     // ============== VARIABLES GLOBALES ==============
-    const urlParams = new URLSearchParams(window.location.search);
-    const examFile = urlParams.get("exam");
+    let currentCategory = null;
+    let currentTest = null;
+    let currentAttempts = [];
     let currentExam = [];
     let currentIndex = 0;
-    let correctAnswers = 0;
+    let userAnswers = [];
     let timer = null;
 
     // ============== ELEMENTOS DEL DOM ==============
-    const examList = document.getElementById("exam-list");
-    const quizContainer = document.getElementById("quiz-container");
-    const resultsContainer = document.getElementById("results");
-    const categorySelect = document.getElementById("category-select");
-    const examButtonsDiv = document.getElementById("exam-buttons");
-    const loader = document.getElementById("loader");
+    const sections = {
+        examList: document.getElementById("exam-list"),
+        testList: document.getElementById("test-list"),
+        attemptsList: document.getElementById("attempts-list"),
+        quizContainer: document.getElementById("quiz-container"),
+        reviewContainer: document.getElementById("review-container")
+    };
+
+    const dialogs = {
+        exit: document.getElementById("exit-dialog")
+    };
 
     // ============== FUNCIONES PRINCIPALES ==============
-    const toggleLoader = (show = true) => {
-        loader.style.display = show ? "block" : "none";
+    const toggleSection = (sectionToShow) => {
+        Object.values(sections).forEach(section => {
+            section.classList.toggle("hidden", section !== sectionToShow);
+        });
     };
 
-    const toggleSection = (section, show = true) => {
-        section.classList.toggle("hidden", !show);
-        section.classList.toggle("visible", show);
-    };
+    const loadCategories = async () => {
+        // Simulación de carga de categorías desde API
+        const categories = ["Matemáticas", "Historia", "Ciencia"];
+        const categoryButtonsDiv = document.getElementById("category-buttons");
+        categoryButtonsDiv.innerHTML = "";
 
-    const formatText = (str) => {
-        return str.replace(/_/g, " ").replace(/\.json$/, "");
-    };
-
-    // ============== CARGA DE EXÁMENES ==============
-    const loadExamList = async () => {
-        toggleLoader(true);
-        try {
-            const response = await fetch("https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams");
-            if (!response.ok) throw new Error("Error de red");
-            
-            const data = await response.json();
-            const categories = {};
-
-            // Procesar archivos JSON
-            data.filter(item => item.name.endsWith(".json")).forEach(item => {
-                const category = item.name.replace(/_\d+\.json$/, "");
-                if (!categories[category]) categories[category] = [];
-                categories[category].push(item.name);
+        categories.forEach(category => {
+            const button = document.createElement("button");
+            button.textContent = category;
+            button.addEventListener("click", () => {
+                currentCategory = category;
+                document.getElementById("category-title").textContent = category;
+                toggleSection(sections.testList);
+                loadTestsForCategory(category);
             });
-
-            // Llenar selector de categorías
-            categorySelect.innerHTML = "<option value='' disabled selected>Elige una categoría</option>";
-            Object.keys(categories).forEach(category => {
-                const option = document.createElement("option");
-                option.value = category;
-                option.textContent = formatText(category);
-                categorySelect.appendChild(option);
-            });
-
-            // Manejar cambio de categoría
-            categorySelect.addEventListener("change", () => {
-                examButtonsDiv.innerHTML = "";
-                categories[categorySelect.value].forEach(fileName => {
-                    const button = document.createElement("button");
-                    button.textContent = formatText(fileName);
-                    button.addEventListener("click", () => {
-                        toggleSection(examList, false);
-                        toggleSection(quizContainer, true);
-                        loadExam(fileName);
-                    });
-                    examButtonsDiv.appendChild(button);
-                });
-            });
-
-        } catch (error) {
-            console.error("Error:", error);
-            alert("Error cargando los exámenes. Intenta recargar la página.");
-        } finally {
-            toggleLoader(false);
-        }
+            categoryButtonsDiv.appendChild(button);
+        });
     };
 
-    // ============== CARGAR EXAMEN ESPECÍFICO ==============
-    const loadExam = async (examName) => {
-        toggleLoader(true);
-        try {
-            const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
-            if (!response.ok) throw new Error("Examen no encontrado");
-            
-            currentExam = await response.json();
-            if (!Array.isArray(currentExam)) throw new Error("Formato de examen inválido");
+    const loadTestsForCategory = async (category) => {
+        // Simulación de carga de tests
+        const tests = ["Examen Básico", "Examen Avanzado"];
+        const testButtonsDiv = document.getElementById("test-buttons");
+        testButtonsDiv.innerHTML = "";
 
-            document.getElementById("exam-title").textContent = formatText(examName);
-            currentIndex = 0;
-            correctAnswers = 0;
-            showQuestion();
-        } catch (error) {
-            console.error("Error:", error);
-            alert(`Error al cargar el examen: ${error.message}`);
-            toggleSection(examList, true);
-            toggleSection(quizContainer, false);
-        } finally {
-            toggleLoader(false);
-        }
+        tests.forEach(test => {
+            const button = document.createElement("button");
+            button.textContent = test;
+            button.addEventListener("click", () => {
+                currentTest = test;
+                document.getElementById("test-title").textContent = test;
+                toggleSection(sections.attemptsList);
+                loadAttemptsForTest(test);
+            });
+            testButtonsDiv.appendChild(button);
+        });
     };
 
-    // ============== MOSTRAR PREGUNTAS ==============
+    const loadAttemptsForTest = async (test) => {
+        // Simulación de carga de intentos anteriores
+        currentAttempts = [
+            { id: 1, date: "2023-10-01", score: "8/10" },
+            { id: 2, date: "2023-10-05", score: "6/10" }
+        ];
+
+        const attemptsButtonsDiv = document.getElementById("attempts-buttons");
+        attemptsButtonsDiv.innerHTML = "";
+
+        currentAttempts.forEach(attempt => {
+            const button = document.createElement("button");
+            button.textContent = `Intento ${attempt.id} - ${attempt.date} - ${attempt.score}`;
+            button.addEventListener("click", () => {
+                loadAttemptReview(attempt.id);
+            });
+            attemptsButtonsDiv.appendChild(button);
+        });
+    };
+
+    const startNewAttempt = async () => {
+        // Cargar examen desde API
+        currentExam = [
+            {
+                question: "¿Cuál es la capital de Francia?",
+                options: { a: "Madrid", b: "París", c: "Roma" },
+                solution: "b"
+            },
+            // ... más preguntas
+        ];
+        userAnswers = [];
+        currentIndex = 0;
+        toggleSection(sections.quizContainer);
+        document.getElementById("quiz-title").textContent = currentTest;
+        showQuestion();
+    };
+
     const showQuestion = () => {
-        const questionObj = currentExam[currentIndex];
-        document.getElementById("question-text").textContent = questionObj.question;
+        const question = currentExam[currentIndex];
+        document.getElementById("question-text").textContent = question.question;
         const optionsDiv = document.getElementById("options");
         optionsDiv.innerHTML = "";
 
-        Object.entries(questionObj.options).forEach(([key, text]) => {
-            const btn = document.createElement("button");
-            btn.textContent = `${key.toUpperCase()}: ${text}`;
-            btn.classList.add("option-btn");
-            
-            btn.addEventListener("click", () => {
-                checkAnswer(key === questionObj.solution, btn);
-                disableAllOptions();
-                showNextButton();
+        Object.entries(question.options).forEach(([key, value]) => {
+            const button = document.createElement("button");
+            button.textContent = `${key.toUpperCase()}: ${value}`;
+            button.addEventListener("click", () => {
+                userAnswers[currentIndex] = key;
+                document.getElementById("next-question").disabled = false;
             });
+            optionsDiv.appendChild(button);
+        });
+
+        document.getElementById("next-question").disabled = true;
+    };
+
+    const loadAttemptReview = (attemptId) => {
+        toggleSection(sections.reviewContainer);
+        const reviewContent = document.getElementById("review-content");
+        reviewContent.innerHTML = "";
+
+        currentExam.forEach((question, index) => {
+            const questionDiv = document.createElement("div");
+            questionDiv.classList.add("question-review");
             
-            optionsDiv.appendChild(btn);
-        });
-    };
+            // Mostrar pregunta
+            questionDiv.innerHTML = `
+                <h3>Pregunta ${index + 1}</h3>
+                <p>${question.question}</p>
+                <div class="options-review"></div>
+            `;
 
-    // ============== MANEJO DE RESPUESTAS ==============
-    const checkAnswer = (isCorrect, clickedBtn) => {
-        const correctBtn = [...document.querySelectorAll("#options button")].find(
-            btn => btn.textContent.startsWith(currentExam[currentIndex].solution.toUpperCase())
-        );
+            // Mostrar opciones con estilos
+            const optionsDiv = questionDiv.querySelector(".options-review");
+            Object.entries(question.options).forEach(([key, value]) => {
+                const option = document.createElement("div");
+                option.classList.add("option-review");
+                if (key === userAnswers[index]) option.classList.add("user-answer");
+                if (key === question.solution) option.classList.add("correct-answer");
+                option.textContent = `${key.toUpperCase()}: ${value}`;
+                optionsDiv.appendChild(option);
+            });
 
-        if (isCorrect) {
-            correctAnswers++;
-            clickedBtn.classList.add("correct-answer");
-        } else {
-            clickedBtn.classList.add("incorrect-answer");
-            correctBtn.classList.add("correct-answer");
-        }
-    };
-
-    const disableAllOptions = () => {
-        document.querySelectorAll("#options button").forEach(btn => {
-            btn.disabled = true;
-        });
-    };
-
-    const showNextButton = () => {
-        const nextBtn = document.createElement("button");
-        nextBtn.textContent = currentIndex < currentExam.length - 1 ? "Siguiente" : "Ver resultados";
-        nextBtn.id = "next-btn";
-        
-        nextBtn.addEventListener("click", () => {
-            currentIndex++;
-            if (currentIndex < currentExam.length) {
-                showQuestion();
-            } else {
-                showResults();
-            }
-        });
-        
-        document.getElementById("options").appendChild(nextBtn);
-    };
-
-    // ============== MOSTRAR RESULTADOS ==============
-    const showResults = () => {
-        const percentage = (correctAnswers / currentExam.length) * 100;
-        resultsContainer.innerHTML = `
-            <h2>Resultados</h2>
-            <p>Preguntas correctas: ${correctAnswers}/${currentExam.length}</p>
-            <p>Porcentaje de aciertos: ${percentage.toFixed(2)}%</p>
-            <button id="restart-btn">Reintentar</button>
-            <button id="new-exam">Nuevo examen</button>
-        `;
-        
-        toggleSection(quizContainer, false);
-        toggleSection(resultsContainer, true);
-        
-        document.getElementById("restart-btn").addEventListener("click", () => {
-            currentIndex = 0;
-            correctAnswers = 0;
-            toggleSection(resultsContainer, false);
-            toggleSection(quizContainer, true);
-            showQuestion();
-        });
-
-        document.getElementById("new-exam").addEventListener("click", () => {
-            toggleSection(resultsContainer, false);
-            toggleSection(examList, true);
+            reviewContent.appendChild(questionDiv);
         });
     };
 
     // ============== MANEJO DE NAVEGACIÓN ==============
-    document.getElementById("back-to-list").addEventListener("click", () => {
-        toggleSection(examList, true);
-        toggleSection(quizContainer, false);
+    document.getElementById("back-to-categories").addEventListener("click", () => {
+        toggleSection(sections.examList);
+    });
+
+    document.getElementById("back-to-tests").addEventListener("click", () => {
+        toggleSection(sections.testList);
+    });
+
+    document.getElementById("back-to-attempts").addEventListener("click", () => {
+        toggleSection(sections.attemptsList);
+    });
+
+    document.getElementById("retry-test").addEventListener("click", startNewAttempt);
+
+    document.getElementById("next-question").addEventListener("click", () => {
+        currentIndex++;
+        if (currentIndex < currentExam.length) {
+            showQuestion();
+        } else {
+            saveAttempt();
+            toggleSection(sections.attemptsList);
+        }
+    });
+
+    // ============== DIÁLOGOS Y CONFIRMACIONES ==============
+    document.getElementById("exit-quiz").addEventListener("click", () => {
+        dialogs.exit.showModal();
+    });
+
+    document.getElementById("confirm-exit").addEventListener("click", () => {
+        dialogs.exit.close();
+        toggleSection(sections.attemptsList);
+    });
+
+    document.getElementById("cancel-exit").addEventListener("click", () => {
+        dialogs.exit.close();
     });
 
     // ============== INICIALIZACIÓN ==============
-    examFile ? loadExam(examFile) : loadExamList();
+    loadCategories();
 });
