@@ -8,38 +8,68 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
+    <!-- Header -->
     <header>
         <h1>Test Game</h1>
-        <p>Elige un examen y pon a prueba tus conocimientos.</p>
+        <p>Tu herramienta definitiva para aprender y practicar.</p>
     </header>
 
+    <!-- Main content -->
     <main>
-        <!-- Lista de exámenes -->
+        <!-- Lista de temáticas -->
         <section id="exam-list" class="visible">
-            <h2>Selecciona un examen</h2>
-            <select id="category-select" aria-label="Categoría de examen"></select>
-            <div id="exam-buttons"></div>
+            <h2>Selecciona una temática</h2>
+            <div id="category-buttons"></div>
         </section>
 
-        <!-- Contenedor del cuestionario -->
+        <!-- Lista de tests dentro de una temática -->
+        <section id="test-list" class="hidden">
+            <h2 id="category-title"></h2>
+            <div id="test-buttons"></div>
+            <button id="back-to-categories">Volver a temáticas</button>
+        </section>
+
+        <!-- Lista de intentos anteriores -->
+        <section id="attempts-list" class="hidden">
+            <h2 id="test-title"></h2>
+            <div id="attempts-buttons"></div>
+            <button id="retry-test">Realizar examen</button>
+            <button id="back-to-tests">Volver a lista de tests</button>
+        </section>
+
+        <!-- Examen en curso -->
         <section id="quiz-container" class="hidden">
-            <h2 id="exam-title"></h2>
+            <h2 id="quiz-title"></h2>
             <p id="question-text"></p>
             <div id="options"></div>
-            <button id="back-to-list">Volver a la lista</button>
+            <button id="next-question">Siguiente pregunta</button>
+            <button id="exit-quiz">Salir del examen</button>
         </section>
 
-        <!-- Resultados -->
-        <section id="results" class="hidden"></section>
+        <!-- Revisión de un intento -->
+        <section id="review-container" class="hidden">
+            <h2>Revisión de intento</h2>
+            <div id="review-content"></div>
+            <button id="back-to-attempts">Volver a intentos</button>
+        </section>
 
         <!-- Loader -->
         <div id="loader"></div>
+
+        <!-- Diálogo de confirmación -->
+        <dialog id="exit-dialog">
+            <p>¿Estás seguro de que deseas salir del examen?</p>
+            <button id="confirm-exit">Sí, salir</button>
+            <button id="cancel-exit">Cancelar</button>
+        </dialog>
     </main>
 
+    <!-- Footer -->
     <footer>
         <p>&copy; 2025 Test Game. Todos los derechos reservados.</p>
     </footer>
 
+    <!-- Script -->
     <script src="script.js"></script>
 </body>
 </html>
