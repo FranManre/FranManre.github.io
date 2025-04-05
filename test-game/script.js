@@ -1,106 +1,201 @@
-/* Reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+document.addEventListener("DOMContentLoaded", () => {
+    // ============== VARIABLES GLOBALES ==============
+    const urlParams = new URLSearchParams(window.location.search);
+    const examFile = urlParams.get("exam");
+    let currentExam = [];
+    let currentIndex = 0;
+    let correctAnswers = 0;
+    let timer = null;
 
-/* Estilo general */
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f4;
-    color: #333;
-    min-height: 100vh;
-    padding: 20px;
-}
+    // ============== ELEMENTOS DEL DOM ==============
+    const examList = document.getElementById("exam-list");
+    const quizContainer = document.getElementById("quiz-container");
+    const resultsContainer = document.getElementById("results");
+    const categorySelect = document.getElementById("category-select");
+    const examButtonsDiv = document.getElementById("exam-buttons");
+    const loader = document.getElementById("loader");
 
-header {
-    margin-bottom: 30px;
-}
+    // ============== FUNCIONES PRINCIPALES ==============
+    const toggleLoader = (show = true) => {
+        loader.style.display = show ? "block" : "none";
+    };
 
-h1 {
-    color: #007bff;
-}
+    const toggleSection = (section, show = true) => {
+        section.classList.toggle("hidden", !show);
+        section.classList.toggle("visible", show);
+    };
 
-main {
-    max-width: 800px;
-    margin: 0 auto;
-}
+    const formatText = (str) => {
+        return str.replace(/_/g, " ").replace(/\.json$/, "");
+    };
 
-/* Contenedores */
-#quiz-container, #results, #exam-list {
-    padding: 20px;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
+    // ============== CARGA DE EXÁMENES ==============
+    const loadExamList = async () => {
+        toggleLoader(true);
+        try {
+            const response = await fetch("https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams");
+            if (!response.ok) throw new Error("Error de red");
+            
+            const data = await response.json();
+            const categories = {};
 
-/* Selector de categorías */
-#category-select {
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    margin-bottom: 15px;
-}
+            // Procesar archivos JSON
+            data.filter(item => item.name.endsWith(".json")).forEach(item => {
+                const category = item.name.replace(/_\d+\.json$/, "");
+                if (!categories[category]) categories[category] = [];
+                categories[category].push(item.name);
+            });
 
-/* Botones generales */
-button {
-    display: block;
-    margin: 10px auto;
-    padding: 12px 25px;
-    background: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: all 0.3s ease-in-out;
-}
+            // Llenar selector de categorías
+            categorySelect.innerHTML = "<option value='' disabled selected>Elige una categoría</option>";
+            Object.keys(categories).forEach(category => {
+                const option = document.createElement("option");
+                option.value = category;
+                option.textContent = formatText(category);
+                categorySelect.appendChild(option);
+            });
 
-button:hover {
-    background-color: #0056b3;
-}
+            // Manejar cambio de categoría
+            categorySelect.addEventListener("change", () => {
+                examButtonsDiv.innerHTML = "";
+                categories[categorySelect.value].forEach(fileName => {
+                    const button = document.createElement("button");
+                    button.textContent = formatText(fileName);
+                    button.addEventListener("click", () => {
+                        toggleSection(examList, false);
+                        toggleSection(quizContainer, true);
+                        loadExam(fileName);
+                    });
+                    examButtonsDiv.appendChild(button);
+                });
+            });
 
-/* Botones de opciones en preguntas */
-#options button {
-    display: inline-block;
-    margin: 8px auto;
-    width: calc(100% - 40px);
-    text-align: left;
-    background-color: #f8f9fa;
-    color: #333;
-}
+        } catch (error) {
+            console.error("Error:", error);
+            alert("Error cargando los exámenes. Intenta recargar la página.");
+        } finally {
+            toggleLoader(false);
+        }
+    };
 
-#options button:hover {
-    background-color: #e9ecef;
-}
+    // ============== CARGAR EXAMEN ESPECÍFICO ==============
+    const loadExam = async (examName) => {
+        toggleLoader(true);
+        try {
+            const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
+            if (!response.ok) throw new Error("Examen no encontrado");
+            
+            currentExam = await response.json();
+            if (!Array.isArray(currentExam)) throw new Error("Formato de examen inválido");
 
-/* Botones correctos/incorrectos */
-.correct-answer {
-    background-color: #28a745 !important; /* Verde */
-}
+            document.getElementById("exam-title").textContent = formatText(examName);
+            currentIndex = 0;
+            correctAnswers = 0;
+            showQuestion();
+        } catch (error) {
+            console.error("Error:", error);
+            alert(`Error al cargar el examen: ${error.message}`);
+            toggleSection(examList, true);
+            toggleSection(quizContainer, false);
+        } finally {
+            toggleLoader(false);
+        }
+    };
 
-.incorrect-answer {
-    background-color: #dc3545 !important; /* Rojo */
-}
+    // ============== MOSTRAR PREGUNTAS ==============
+    const showQuestion = () => {
+        const questionObj = currentExam[currentIndex];
+        document.getElementById("question-text").textContent = questionObj.question;
+        const optionsDiv = document.getElementById("options");
+        optionsDiv.innerHTML = "";
 
-/* Loader */
-#loader {
-    border: 4px solid #f3f3f3; /* Gris claro */
-    border-top-color: #007bff; /* Azul */
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    animation: spin 1s linear infinite; /* Animación de giro */
-}
+        Object.entries(questionObj.options).forEach(([key, text]) => {
+            const btn = document.createElement("button");
+            btn.textContent = `${key.toUpperCase()}: ${text}`;
+            btn.classList.add("option-btn");
+            
+            btn.addEventListener("click", () => {
+                checkAnswer(key === questionObj.solution, btn);
+                disableAllOptions();
+                showNextButton();
+            });
+            
+            optionsDiv.appendChild(btn);
+        });
+    };
 
-@keyframes spin {
-   from { transform: rotate(0deg); }
-   to { transform: rotate(360deg); }
-}
+    // ============== MANEJO DE RESPUESTAS ==============
+    const checkAnswer = (isCorrect, clickedBtn) => {
+        const correctBtn = [...document.querySelectorAll("#options button")].find(
+            btn => btn.textContent.startsWith(currentExam[currentIndex].solution.toUpperCase())
+        );
 
-/* Ocultar elementos dinámicamente */
-.hidden {
-   opacity: 0; 
-   visibility:hidden; 
-}
+        if (isCorrect) {
+            correctAnswers++;
+            clickedBtn.classList.add("correct-answer");
+        } else {
+            clickedBtn.classList.add("incorrect-answer");
+            correctBtn.classList.add("correct-answer");
+        }
+    };
+
+    const disableAllOptions = () => {
+        document.querySelectorAll("#options button").forEach(btn => {
+            btn.disabled = true;
+        });
+    };
+
+    const showNextButton = () => {
+        const nextBtn = document.createElement("button");
+        nextBtn.textContent = currentIndex < currentExam.length - 1 ? "Siguiente" : "Ver resultados";
+        nextBtn.id = "next-btn";
+        
+        nextBtn.addEventListener("click", () => {
+            currentIndex++;
+            if (currentIndex < currentExam.length) {
+                showQuestion();
+            } else {
+                showResults();
+            }
+        });
+        
+        document.getElementById("options").appendChild(nextBtn);
+    };
+
+    // ============== MOSTRAR RESULTADOS ==============
+    const showResults = () => {
+        const percentage = (correctAnswers / currentExam.length) * 100;
+        resultsContainer.innerHTML = `
+            <h2>Resultados</h2>
+            <p>Preguntas correctas: ${correctAnswers}/${currentExam.length}</p>
+            <p>Porcentaje de aciertos: ${percentage.toFixed(2)}%</p>
+            <button id="restart-btn">Reintentar</button>
+            <button id="new-exam">Nuevo examen</button>
+        `;
+        
+        toggleSection(quizContainer, false);
+        toggleSection(resultsContainer, true);
+        
+        document.getElementById("restart-btn").addEventListener("click", () => {
+            currentIndex = 0;
+            correctAnswers = 0;
+            toggleSection(resultsContainer, false);
+            toggleSection(quizContainer, true);
+            showQuestion();
+        });
+
+        document.getElementById("new-exam").addEventListener("click", () => {
+            toggleSection(resultsContainer, false);
+            toggleSection(examList, true);
+        });
+    };
+
+    // ============== MANEJO DE NAVEGACIÓN ==============
+    document.getElementById("back-to-list").addEventListener("click", () => {
+        toggleSection(examList, true);
+        toggleSection(quizContainer, false);
+    });
+
+    // ============== INICIALIZACIÓN ==============
+    examFile ? loadExam(examFile) : loadExamList();
+});
