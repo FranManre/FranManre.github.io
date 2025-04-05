@@ -3,36 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exámenes</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Test Game</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="main-menu">
-        <h1>Selecciona un examen</h1>
+    <h1>Test Game</h1>
+    <div id="exam-list">
+        <h2>Selecciona un examen</h2>
         <select id="category-select"></select>
-        <div id="exam-list"></div>
-        <button id="back-to-index" class="hidden">Volver</button>
+        <div id="exam-buttons"></div>
     </div>
-    
-    <div id="attempts-menu" class="hidden">
-        <h1 id="exam-title"></h1>
-        <div id="attempts-list"></div>
-        <button id="retry-exam">Reintentar</button>
-        <button id="back-to-exam-list">Volver</button>
-    </div>
-
     <div id="quiz-container" class="hidden">
-        <h1 id="question-text"></h1>
+        <h2 id="exam-title"></h2>
+        <p id="question-text"></p>
         <div id="options"></div>
-        <button id="exit-exam">Salir</button>
+        <button id="back-to-list">Volver a la lista</button>
     </div>
-
-    <div id="review-container" class="hidden">
-        <h1>Revisión</h1>
-        <div id="review-content"></div>
-        <button id="back-to-attempts">Volver</button>
-    </div>
-
+    <div id="results" class="hidden"></div>
     <script src="script.js"></script>
 </body>
 </html>
