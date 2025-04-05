@@ -5,21 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test Game</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <h1>Test Game</h1>
-    <div id="exam-list">
-        <h2>Selecciona un examen</h2>
-        <select id="category-select"></select>
-        <div id="exam-buttons"></div>
-    </div>
-    <div id="quiz-container" class="hidden">
-        <h2 id="exam-title"></h2>
-        <p id="question-text"></p>
-        <div id="options"></div>
-        <button id="back-to-list">Volver a la lista</button>
-    </div>
-    <div id="results" class="hidden"></div>
+    <header>
+        <h1>Test Game</h1>
+        <p>Elige un examen y pon a prueba tus conocimientos.</p>
+    </header>
+
+    <main>
+        <!-- Lista de exámenes -->
+        <section id="exam-list" class="visible">
+            <h2>Selecciona un examen</h2>
+            <select id="category-select" aria-label="Categoría de examen"></select>
+            <div id="exam-buttons"></div>
+        </section>
+
+        <!-- Contenedor del cuestionario -->
+        <section id="quiz-container" class="hidden">
+            <h2 id="exam-title"></h2>
+            <p id="question-text"></p>
+            <div id="options"></div>
+            <button id="back-to-list">Volver a la lista</button>
+        </section>
+
+        <!-- Resultados -->
+        <section id="results" class="hidden"></section>
+
+        <!-- Loader -->
+        <div id="loader"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Test Game. Todos los derechos reservados.</p>
+    </footer>
+
     <script src="script.js"></script>
 </body>
 </html>
