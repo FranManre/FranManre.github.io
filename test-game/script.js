@@ -8,9 +8,8 @@ document.addEventListener("DOMContentLoaded", () => {
     // ============== ELEMENTOS DEL DOM ==============
     const examList = document.getElementById("exam-list");
     const quizContainer = document.getElementById("quiz-container");
-    const resultsContainer = document.getElementById("results");
-    const reviewContainer = document.getElementById("review-container");
     const attemptsList = document.getElementById("attempts-list");
+    const reviewContainer = document.getElementById("review-container");
     const categorySelect = document.getElementById("category-select");
     const examButtonsDiv = document.getElementById("exam-buttons");
     const attemptsButtonsDiv = document.getElementById("attempts-buttons");
@@ -18,8 +17,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // ============== FUNCIONES PRINCIPALES ==============
     const toggleSection = (sectionToShow) => {
-        [examList, quizContainer, resultsContainer, reviewContainer, attemptsList]
-            .forEach(section => section.classList.toggle("hidden", section !== sectionToShow));
+        [examList, quizContainer, attemptsList, reviewContainer]
+            .filter(section => section !== null)
+            .forEach(section => {
+                const isVisible = section === sectionToShow;
+                section.classList.toggle("hidden", !isVisible);
+                section.classList.toggle("visible", isVisible);
+            });
     };
 
     const formatText = (str) => str.replace(/_/g, " ").replace(/\.json$/, "");
@@ -31,14 +35,12 @@ document.addEventListener("DOMContentLoaded", () => {
             const data = await response.json();
             const categories = {};
 
-            // Organizar exámenes por categoría
             data.filter(item => item.name.endsWith(".json")).forEach(item => {
                 const category = item.name.replace(/_\d+\.json$/, "");
                 categories[category] = categories[category] || [];
                 categories[category].push(item.name);
             });
 
-            // Llenar selector de categorías
             categorySelect.innerHTML = `<option value="" disabled selected>Elige categoría</option>`;
             Object.keys(categories).forEach(category => {
                 const option = document.createElement("option");
@@ -52,11 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 categories[categorySelect.value].forEach(fileName => {
                     const button = document.createElement("button");
                     button.textContent = formatText(fileName);
-                    button.addEventListener("click", () => {
-                        currentExam = [];
-                        userAnswers = [];
-                        loadAttemptsList(fileName);
-                    });
+                    button.addEventListener("click", () => loadAttemptsList(fileName));
                     examButtonsDiv.appendChild(button);
                 });
             });
@@ -67,12 +65,11 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // ============== LISTA DE INTENTOS ==============
+    // ============== GESTIÓN DE INTENTOS ==============
     const loadAttemptsList = (examName) => {
         const attempts = attemptsHistory[examName] || [];
         attemptsButtonsDiv.innerHTML = "";
 
-        // Mostrar intentos anteriores
         attempts.forEach((attempt, index) => {
             const button = document.createElement("button");
             button.textContent = `Intento ${index + 1} - ${attempt.date} - ${attempt.score}`;
@@ -80,7 +77,6 @@ document.addEventListener("DOMContentLoaded", () => {
             attemptsButtonsDiv.appendChild(button);
         });
 
-        // Botón para nuevo intento
         const newAttemptBtn = document.createElement("button");
         newAttemptBtn.textContent = "Nuevo intento";
         newAttemptBtn.classList.add("primary");
@@ -119,7 +115,7 @@ document.addEventListener("DOMContentLoaded", () => {
             button.classList.toggle("selected", key === userAnswers[currentIndex]);
             button.addEventListener("click", () => {
                 userAnswers[currentIndex] = key;
-                showQuestion(); // Actualizar selección
+                showQuestion();
             });
             optionsDiv.appendChild(button);
         });
