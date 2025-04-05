@@ -29,7 +29,7 @@ main {
     margin: 0 auto;
 }
 
-/* ===== SECCIONES PRINCIPALES ===== */
+/* ===== SECCIONES Y CONTENEDORES ===== */
 section {
     background: white;
     border-radius: 10px;
@@ -53,18 +53,7 @@ section {
     display: block;
 }
 
-/* ===== FORMULARIOS Y CONTROLES ===== */
-select {
-    display: block;
-    margin: 1rem auto;
-    padding: 0.5rem;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    width: 80%;
-    max-width: 300px;
-}
-
-/* ===== BOTONES ===== */
+/* ===== BOTONES Y CONTROLES ===== */
 button {
     display: block;
     margin: 0.5rem auto;
@@ -86,19 +75,17 @@ button:active {
     transform: translateY(0);
 }
 
-button.primary {
-    background: #28a745;
+#back-to-tests,
+#back-to-attempts {
+    background: #6c757d;
 }
 
-button.primary:hover {
-    background: #218838;
+#back-to-tests:hover,
+#back-to-attempts:hover {
+    background: #5a6268;
 }
 
-/* ===== EXAMEN ===== */
-#quiz-container {
-    position: relative;
-}
-
+/* ===== EXAMEN INTERACTIVO ===== */
 #options button {
     width: 100%;
     text-align: left;
@@ -114,7 +101,7 @@ button.primary:hover {
     border-color: #007bff;
 }
 
-/* ===== REVISIÓN ===== */
+/* ===== REVISIÓN DE RESPUESTAS ===== */
 .question-review {
     margin: 1.5rem 0;
     padding: 1rem;
@@ -157,7 +144,7 @@ button.primary:hover {
     100% { transform: rotate(360deg); }
 }
 
-/* ===== DIÁLOGO ===== */
+/* ===== DIÁLOGO DE CONFIRMACIÓN ===== */
 #exit-dialog {
     border: none;
     border-radius: 8px;
