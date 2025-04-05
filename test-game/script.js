@@ -65,14 +65,14 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // ============== GESTIÓN DE INTENTOS Y REVISIÓN ============
+    // ============== GESTIÓN DE INTENTOS ==============
     const loadAttemptsList = (examName) => {
-        const attempts = attemptsHistory[examName] || [];
+        const attempts = (attemptsHistory[examName] || []).slice(-5); // Últimos 5 intentos
         attemptsButtonsDiv.innerHTML = "";
 
         attempts.forEach((attempt, index) => {
             const button = document.createElement("button");
-            button.textContent = `${attempt.score} ${attempt.percentage}% ${attempt.time} ${attempt.date}`;
+            button.textContent = `${attempt.score} - ${attempt.percentage}% (${attempt.date})`;
             button.addEventListener("click", () => loadReview(examName, index));
             attemptsButtonsDiv.appendChild(button);
         });
@@ -87,7 +87,82 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("test-title").textContent = formatText(examName);
     };
 
-    // Revisión detallada
+    // ============== EXAMEN ==============
+    const startExam = async (examName) => {
+        try {
+            const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
+            currentExam = await response.json();
+            currentIndex = 0;
+            userAnswers = new Array(currentExam.length).fill(null);
+            toggleSection(quizContainer);
+            showQuestion();
+        } catch (error) {
+            console.error("Error:", error);
+            alert("Error cargando examen");
+        }
+    };
+
+    const showQuestion = () => {
+        const question = currentExam[currentIndex];
+        document.getElementById("question-text").textContent = question.question;
+        const optionsDiv = document.getElementById("options");
+        optionsDiv.innerHTML = "";
+
+        Object.entries(question.options).forEach(([key, text]) => {
+            const button = document.createElement("button");
+            button.textContent = `${key.toUpperCase()}: ${text}`;
+            button.classList.toggle("selected", key === userAnswers[currentIndex]);
+            button.addEventListener("click", () => {
+                userAnswers[currentIndex] = key;
+                showQuestion();
+            });
+            optionsDiv.appendChild(button);
+        });
+
+        document.getElementById("previous-question").disabled = currentIndex === 0;
+        document.getElementById("next-question").disabled = currentIndex === currentExam.length - 1;
+    };
+
+    // ============== NAVEGACIÓN ==============
+    document.getElementById("previous-question").addEventListener("click", () => {
+        if (currentIndex > 0) {
+            currentIndex--;
+            showQuestion();
+        }
+    });
+
+    document.getElementById("next-question").addEventListener("click", () => {
+        if (currentIndex < currentExam.length - 1) {
+            currentIndex++;
+            showQuestion();
+        } else {
+            saveAttempt();
+            toggleSection(attemptsList);
+        }
+    });
+
+    // ============== GUARDAR INTENTO ==============
+    const saveAttempt = () => {
+        const examName = categorySelect.value;
+        const score = userAnswers.filter((ans, index) => ans === currentExam[index].solution).length;
+        const total = currentExam.length;
+        const percentage = ((score / total) * 100).toFixed(1);
+        const now = new Date();
+
+        const attempt = {
+            score: `${score}/${total}`,
+            percentage: percentage,
+            date: now.toLocaleDateString(),
+            time: now.toLocaleTimeString(),
+            answers: [...userAnswers]
+        };
+
+        attemptsHistory[examName] = attemptsHistory[examName] || [];
+        attemptsHistory[examName].push(attempt);
+        localStorage.setItem("attemptsHistory", JSON.stringify(attemptsHistory));
+    };
+
+    // ============== REVISIÓN ==============
     const loadReview = (examName, attemptIndex) => {
         const attempt = attemptsHistory[examName][attemptIndex];
         const reviewContent = document.getElementById("review-content");
@@ -96,8 +171,8 @@ document.addEventListener("DOMContentLoaded", () => {
         currentExam.forEach((question, index) => {
             const questionDiv = document.createElement("div");
             questionDiv.classList.add("question-review");
-
-            questionDiv.innerHTML += `
+            
+            questionDiv.innerHTML = `
                 <h3>Pregunta ${index + 1}</h3>
                 <p>${question.question}</p>
                 <div class="options-review"></div>
@@ -105,14 +180,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
             const optionsDiv = questionDiv.querySelector(".options-review");
             Object.entries(question.options).forEach(([key, text]) => {
-                const optionDiv = document.createElement("div");
-                optionDiv.classList.add(
-                    "option-review",
-                    key === attempt.answers[index] ? "user-answer" : "",
-                    key === question.solution ? "correct-answer" : ""
-                );
-                optionDiv.textContent += `${key.toUpperCase()}: ${text}`;
-                optionsDiv.appendChild(optionDiv);
+                const option = document.createElement("div");
+                option.classList.add("option-review");
+                
+                if (key === attempt.answers[index]) {
+                    option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
+                }
+                
+                if (key === question.solution && key !== attempt.answers[index]) {
+                    option.classList.add("correct-answer");
+                }
+
+                option.textContent = `${key.toUpperCase()}: ${text}`;
+                optionsDiv.appendChild(option);
             });
 
             reviewContent.appendChild(questionDiv);
@@ -121,8 +201,20 @@ document.addEventListener("DOMContentLoaded", () => {
         toggleSection(reviewContainer);
     };
 
-    // Guardar intento
-    const saveAttemptAndNavigateBackToAttempts=()=>{
-        
-toggleSection(attemptContainer)
-}
+    // ============== DIÁLOGO SALIR ==============
+    document.getElementById("exit-quiz").addEventListener("click", () => {
+        exitDialog.showModal();
+    });
+
+    document.getElementById("confirm-exit").addEventListener("click", () => {
+        exitDialog.close();
+        toggleSection(attemptsList);
+    });
+
+    document.getElementById("cancel-exit").addEventListener("click", () => {
+        exitDialog.close();
+    });
+
+    // ============== INICIALIZACIÓN ==============
+    loadExamList();
+});
