@@ -108,3 +108,12 @@ button:active {
     width: auto;
     margin: 1rem 0.5rem;
 }
+
+/* ===== BOTÓN FINALIZAR ===== */
+#next-question.finalizar {
+    background-color: #28a745;
+}
+
+#next-question.finalizar:hover {
+    background-color: #218838;
+}
