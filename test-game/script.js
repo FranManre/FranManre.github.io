@@ -184,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             currentExam.forEach((question, index) => {
                 const questionDiv = document.createElement("div");
-                questionDiv.classList.add("question-review");
+                questionDiv.classList.add("review-question");
                 
                 questionDiv.innerHTML = `
                     <h3>Pregunta ${index + 1}</h3>
@@ -219,7 +219,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // Event listeners globales
     document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
     document.getElementById("confirm-exit").addEventListener("click", () => {
         exitDialog.close();
@@ -228,7 +227,38 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());
     document.getElementById("back-to-attempts").addEventListener("click", () => toggleSection(attemptsList));
     document.getElementById("back-to-tests").addEventListener("click", () => toggleSection(examList));
-
-    // Inicialización
+    
     loadExamList();
+
+    function showReview(examName, attemptIndex) {
+        const attempt = attemptsHistory[examName][attemptIndex];
+        const reviewContainer = document.getElementById("review-container");
+        const reviewContent = document.getElementById("review-content");
+    
+        const reviewTitle = document.getElementById("review-container").querySelector("h2");
+        reviewTitle.textContent = `
+            Revisión del Intento
+            ${attempt.score} (${attempt.percentage}%) - ${attempt.date} ${attempt.time}
+        `;
+
+        reviewContent.innerHTML = currentExam.map((question, index) => {
+            const userAnswer = attempt.answers[index];
+            const isCorrect = userAnswer === question.solution;
+            
+            return `
+                <div class="review-question">
+                    <h3>Pregunta ${index + 1}</h3>
+                    <p>${question.question}</p>
+                    <div class="review-answer ${isCorrect ? 'correct-answer' : 'incorrect-answer'}">
+                        Tu respuesta: ${userAnswer ? userAnswer.toUpperCase() : 'Sin respuesta'}
+                    </div>
+                    <div class="review-answer correct-answer">
+                        Respuesta correcta: ${question.solution.toUpperCase()}
+                    </div>
+                </div>
+            `;
+        }).join("");
+
+        toggleSection(reviewContainer);
+    }
 });
