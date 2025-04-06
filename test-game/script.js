@@ -1,11 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // ============== VARIABLES GLOBALES ==============
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
     let attemptsHistory = JSON.parse(localStorage.getItem("attemptsHistory")) || {};
 
-    // ============== ELEMENTOS DEL DOM ==============
     const examList = document.getElementById("exam-list");
     const quizContainer = document.getElementById("quiz-container");
     const attemptsList = document.getElementById("attempts-list");
@@ -15,21 +13,17 @@ document.addEventListener("DOMContentLoaded", () => {
     const attemptsButtonsDiv = document.getElementById("attempts-buttons");
     const exitDialog = document.getElementById("exit-dialog");
 
-	// ============== MANEJO DE DIÁLOGO ==============
     document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
     document.getElementById("confirm-exit").addEventListener("click", () => {
         exitDialog.close();
         toggleSection(attemptsList);
     });
-    document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());
-	
-	// ============== MANEJO DE BOTONES DE NAVEGACIÓN ==============
+    document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());	
 	document.getElementById("back-to-attempts").addEventListener("click", () => {
 		toggleSection(attemptsList);
 	});
 
 
-    // ============== FUNCIONES UTILITARIAS ==============
     const toggleSection = (sectionToShow) => {
         [examList, quizContainer, attemptsList, reviewContainer].forEach(section => {
             section.classList.toggle("hidden", section !== sectionToShow);
@@ -39,7 +33,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const formatText = (str) => str.replace(/_/g, " ").replace(/\.json$/, "");
 
-    // ============== CARGA DE EXÁMENES ==============
     const loadExamList = async () => {
         try {
             const response = await fetch("https://api.github.com/repos/FranManre/FranManre.github.io/contents/test-game/exams");
@@ -76,12 +69,10 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // ============== GESTIÓN DE INTENTOS ==============
     const loadAttemptsList = (examName) => {
         const attempts = attemptsHistory[examName] ? [...attemptsHistory[examName]] : [];
         attemptsButtonsDiv.innerHTML = "";
 
-        // Mostrar últimos 5 intentos (más reciente primero)
         attempts.slice(-5).reverse().forEach((attempt, index) => {
             const button = document.createElement("button");
             button.textContent = `Intento ${attempts.length - index}: ${attempt.score} (${attempt.percentage}%) - ${attempt.date} ${attempt.time}`;
@@ -89,7 +80,6 @@ document.addEventListener("DOMContentLoaded", () => {
             attemptsButtonsDiv.appendChild(button);
         });
 
-        // Botón para nuevo intento
         const newAttemptBtn = document.createElement("button");
         newAttemptBtn.textContent = "Nuevo intento";
         newAttemptBtn.classList.add("primary");
@@ -100,7 +90,6 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("test-title").textContent = formatText(examName);
     };
 	
-	// ============== FUNCIÓN startExam ACTUALIZADA ==============
 	const startExam = async (examName) => {
 		try {
 			const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
@@ -109,10 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
 			userAnswers = new Array(currentExam.length).fill(null);
 			toggleSection(quizContainer);
 			
-			// Guardar el nombre original del examen (ej: "historia_1.json")
 			document.getElementById("quiz-title").dataset.originalName = examName;
-			
-			// Mostrar nombre formateado (sin .json y con espacios)
 			document.getElementById("quiz-title").textContent = formatText(examName);
 			
 			showQuestion();
@@ -122,7 +108,6 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 	};
 
-    // ============== MOSTRAR PREGUNTA ==============
     const showQuestion = () => {
         const question = currentExam[currentIndex];
         document.getElementById("question-text").textContent = question.question;
@@ -140,13 +125,12 @@ document.addEventListener("DOMContentLoaded", () => {
             optionsDiv.appendChild(button);
         });
 
-        // Actualizar estado de botones de navegación
         const nextButton = document.getElementById("next-question");
         nextButton.textContent = currentIndex === currentExam.length - 1 ? "Finalizar Test" : "Siguiente pregunta";
+		nextButton.classList.toggle("finish-btn", currentIndex === currentExam.length - 1);
         document.getElementById("previous-question").disabled = currentIndex === 0;
     };
 
-    // ============== NAVEGACIÓN ENTRE PREGUNTAS ==============
     document.getElementById("previous-question").addEventListener("click", () => {
         if (currentIndex > 0) {
             currentIndex--;
@@ -164,9 +148,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // ============== FUNCIÓN saveAttempt CORREGIDA ==============
 	const saveAttempt = () => {
-		// Obtener el nombre del examen actual (usando el último archivo cargado)
 		const examName = document.getElementById("quiz-title").textContent.replace(/ /g, "_") + ".json";
 		
 		const score = userAnswers.filter((ans, index) => ans === currentExam[index].solution).length;
@@ -190,12 +172,11 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 	
 		localStorage.setItem("attemptsHistory", JSON.stringify(attemptsHistory));
+		loadAttemptsList(examName);
 	};
 	
-    // ============== REVISIÓN DE INTENTOS ==============
 	const loadReview = async (examName, attemptIndex) => {
 		try {
-			// Cargar el examen correspondiente
 			const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
 			currentExam = await response.json();
 	
@@ -218,12 +199,10 @@ document.addEventListener("DOMContentLoaded", () => {
 					const option = document.createElement("div");
 					option.classList.add("option-review");
 					
-					// Respuesta seleccionada por el usuario
 					if (key === attempt.answers[index]) {
 						option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
 					}
 					
-					// Respuesta correcta (si el usuario falló)
 					if (key === question.solution && key !== attempt.answers[index]) {
 						option.classList.add("correct-answer");
 					}
@@ -242,6 +221,5 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 	};
 
-    // ============== INICIALIZACIÓN ==============
     loadExamList();
 });
