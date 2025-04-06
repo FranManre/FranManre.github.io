@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {//
+document.addEventListener("DOMContentLoaded", () => {
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
