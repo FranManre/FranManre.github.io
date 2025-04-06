@@ -80,11 +80,6 @@ button.primary {
     border: 2px solid #138496 !important;
 }
 
-button.primary,
-button#back-to-tests {
-    color: white !important;
-}
-
 button.finish-btn {
     background-color: #28a745 !important;
 }
@@ -199,6 +194,11 @@ button.finish-btn:hover {
     padding: 0.8rem 1.2rem;
     width: auto;
     margin: 0.5rem auto;
+}
+
+button.primary,
+button#back-to-tests {
+    color: white !important;
 }
 
 #attempts-list button:hover {
