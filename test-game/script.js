@@ -13,17 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const attemptsButtonsDiv = document.getElementById("attempts-buttons");
     const exitDialog = document.getElementById("exit-dialog");
 
-    document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
-    document.getElementById("confirm-exit").addEventListener("click", () => {
-        exitDialog.close();
-        toggleSection(attemptsList);
-    });
-    document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());	
-	document.getElementById("back-to-attempts").addEventListener("click", () => {
-		toggleSection(attemptsList);
-	});
-
-
     const toggleSection = (sectionToShow) => {
         [examList, quizContainer, attemptsList, reviewContainer].forEach(section => {
             section.classList.toggle("hidden", section !== sectionToShow);
@@ -89,24 +78,22 @@ document.addEventListener("DOMContentLoaded", () => {
         toggleSection(attemptsList);
         document.getElementById("test-title").textContent = formatText(examName);
     };
-	
-	const startExam = async (examName) => {
-		try {
-			const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
-			currentExam = await response.json();
-			currentIndex = 0;
-			userAnswers = new Array(currentExam.length).fill(null);
-			toggleSection(quizContainer);
-			
-			document.getElementById("quiz-title").dataset.originalName = examName;
-			document.getElementById("quiz-title").textContent = formatText(examName);
-			
-			showQuestion();
-		} catch (error) {
-			console.error("Error cargando examen:", error);
-			alert("Error cargando examen");
-		}
-	};
+
+    const startExam = async (examName) => {
+        try {
+            const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
+            currentExam = await response.json();
+            currentIndex = 0;
+            userAnswers = new Array(currentExam.length).fill(null);
+            toggleSection(quizContainer);
+            document.getElementById("quiz-title").dataset.originalName = examName;
+            document.getElementById("quiz-title").textContent = formatText(examName);
+            showQuestion();
+        } catch (error) {
+            console.error("Error cargando examen:", error);
+            alert("Error cargando examen");
+        }
+    };
 
     const showQuestion = () => {
         const question = currentExam[currentIndex];
@@ -127,7 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const nextButton = document.getElementById("next-question");
         nextButton.textContent = currentIndex === currentExam.length - 1 ? "Finalizar Test" : "Siguiente pregunta";
-		nextButton.classList.toggle("finish-btn", currentIndex === currentExam.length - 1);
+        nextButton.classList.toggle("finish-btn", currentIndex === currentExam.length - 1);
         document.getElementById("previous-question").disabled = currentIndex === 0;
     };
 
@@ -144,82 +131,87 @@ document.addEventListener("DOMContentLoaded", () => {
             showQuestion();
         } else {
             saveAttempt();
-            toggleSection(attemptsList);
+            loadAttemptsList(categorySelect.value);
         }
     });
 
-	const saveAttempt = () => {
-		const examName = document.getElementById("quiz-title").textContent.replace(/ /g, "_") + ".json";
-		
-		const score = userAnswers.filter((ans, index) => ans === currentExam[index].solution).length;
-		const total = currentExam.length;
-		const percentage = ((score / total) * 100).toFixed(1);
-		const now = new Date();
-	
-		const attempt = {
-			score: `${score}/${total}`,
-			percentage: percentage,
-			date: now.toLocaleDateString("es-ES"),
-			time: now.toLocaleTimeString("es-ES", { hour: '2-digit', minute: '2-digit' }),
-			answers: [...userAnswers]
-		};
-	
-		attemptsHistory[examName] = attemptsHistory[examName] || [];
-		attemptsHistory[examName].push(attempt);
-	
-		if (attemptsHistory[examName].length > 5) {
-			attemptsHistory[examName].shift();
-		}
-	
-		localStorage.setItem("attemptsHistory", JSON.stringify(attemptsHistory));
-		loadAttemptsList(examName);
-	};
-	
-	const loadReview = async (examName, attemptIndex) => {
-		try {
-			const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
-			currentExam = await response.json();
-	
-			const attempt = attemptsHistory[examName][attemptIndex];
-			const reviewContent = document.getElementById("review-content");
-			reviewContent.innerHTML = "";
-	
-			currentExam.forEach((question, index) => {
-				const questionDiv = document.createElement("div");
-				questionDiv.classList.add("question-review");
-				
-				questionDiv.innerHTML = `
-					<h3>Pregunta ${index + 1}</h3>
-					<p>${question.question}</p>
-					<div class="options-review"></div>
-				`;
-	
-				const optionsDiv = questionDiv.querySelector(".options-review");
-				Object.entries(question.options).forEach(([key, text]) => {
-					const option = document.createElement("div");
-					option.classList.add("option-review");
-					
-					if (key === attempt.answers[index]) {
-						option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
-					}
-					
-					if (key === question.solution && key !== attempt.answers[index]) {
-						option.classList.add("correct-answer");
-					}
-	
-					option.textContent = `${key.toUpperCase()}: ${text}`;
-					optionsDiv.appendChild(option);
-				});
-	
-				reviewContent.appendChild(questionDiv);
-			});
-	
-			toggleSection(reviewContainer);
-		} catch (error) {
-			console.error("Error cargando revisión:", error);
-			alert("Error al cargar la revisión");
-		}
-	};
+    const saveAttempt = () => {
+        const examName = document.getElementById("quiz-title").dataset.originalName;
+        const score = userAnswers.filter((ans, index) => ans === currentExam[index].solution).length;
+        const total = currentExam.length;
+        const percentage = ((score / total) * 100).toFixed(1);
+        const now = new Date();
+
+        const attempt = {
+            score: `${score}/${total}`,
+            percentage: percentage,
+            date: now.toLocaleDateString("es-ES"),
+            time: now.toLocaleTimeString("es-ES", { hour: '2-digit', minute: '2-digit' }),
+            answers: [...userAnswers]
+        };
+
+        attemptsHistory[examName] = attemptsHistory[examName] || [];
+        attemptsHistory[examName].push(attempt);
+
+        if (attemptsHistory[examName].length > 5) {
+            attemptsHistory[examName].shift();
+        }
+
+        localStorage.setItem("attemptsHistory", JSON.stringify(attemptsHistory));
+    };
+
+    const loadReview = async (examName, attemptIndex) => {
+        try {
+            const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
+            currentExam = await response.json();
+            const attempt = attemptsHistory[examName][attemptIndex];
+            const reviewContent = document.getElementById("review-content");
+            reviewContent.innerHTML = "";
+
+            currentExam.forEach((question, index) => {
+                const questionDiv = document.createElement("div");
+                questionDiv.classList.add("question-review");
+                
+                questionDiv.innerHTML = `
+                    <h3>Pregunta ${index + 1}</h3>
+                    <p>${question.question}</p>
+                    <div class="options-review"></div>
+                `;
+
+                const optionsDiv = questionDiv.querySelector(".options-review");
+                Object.entries(question.options).forEach(([key, text]) => {
+                    const option = document.createElement("div");
+                    option.classList.add("option-review");
+                    
+                    if (key === attempt.answers[index]) {
+                        option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
+                    }
+                    
+                    if (key === question.solution && key !== attempt.answers[index]) {
+                        option.classList.add("correct-answer");
+                    }
+
+                    option.textContent = `${key.toUpperCase()}: ${text}`;
+                    optionsDiv.appendChild(option);
+                });
+
+                reviewContent.appendChild(questionDiv);
+            });
+
+            toggleSection(reviewContainer);
+        } catch (error) {
+            console.error("Error cargando revisión:", error);
+            alert("Error al cargar la revisión");
+        }
+    };
+
+    document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
+    document.getElementById("confirm-exit").addEventListener("click", () => {
+        exitDialog.close();
+        toggleSection(attemptsList);
+    });
+    document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());
+    document.getElementById("back-to-attempts").addEventListener("click", () => toggleSection(attemptsList));
 
     loadExamList();
 });
