@@ -59,9 +59,6 @@ section {
 
 button {
     display: block;
-    width: 80%;
-    max-width: 300px;
-    margin: 0.5rem auto;
     padding: 1rem;
     background: #007bff;
     color: white;
@@ -95,7 +92,9 @@ button.finish-btn:hover {
 
 #back-to-tests {
     background: #6c757d;
-    margin-top: 1.5rem;
+    margin: 1.5rem auto 0;
+    width: auto;
+    min-width: 200px;
 }
 
 #quiz-container {
@@ -175,12 +174,11 @@ button.finish-btn:hover {
     color: #333;
     border: 2px solid #dee2e6;
     white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
     text-align: left;
     padding: 0.8rem 1.2rem;
-    width: 100%;
-    max-width: 500px;
+    width: auto;
+    min-width: 300px;
+    margin: 0.5rem auto;
 }
 
 #attempts-list button:hover {
