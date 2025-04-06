@@ -43,6 +43,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
             categorySelect.addEventListener("change", () => {
                 examButtonsDiv.innerHTML = "";
+                categories[categorySelect.value].sort((a, b) => a.localeCompare(b, undefined, {
+                    numeric: true,
+                    sensitivity: 'base'
+                }));
+
                 categories[categorySelect.value].forEach(fileName => {
                     const button = document.createElement("button");
                     button.textContent = formatText(fileName);
