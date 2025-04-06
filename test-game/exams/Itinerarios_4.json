@@ -1,0 +1,122 @@
+[
+    {
+        "question": "REGISTRO CIVIL HASTA PLAZA DE LA ASAMBLEA DE MADRID",
+        "options": {
+            "a": "Pradillo - Av. Alfonso XIII - Av. Ramón y Cajal - López de Hoyos - Av. De la Paz (M-30) - Méndez Álvaro - La Mancha - Av. S. Diego - Pza. Asamblea de Madrid",
+            "b": "Pradillo - Av. De la Paz (M-30) - Av. de la Albufera - Pza. Asamblea de Madrid",
+            "c": "Pradillo - Av. Alfonso XIII - Av. De la Paz (M-30) - Av. De la Albufera - Pza. Asamblea de Madrid",
+            "d": "Pradillo - Av. De la Paz (M-30) - Carlos Martín Álvarez - Pza. Asamblea de Madrid"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PARQUE BIOLÓGICO FAUNIA HASTA ESTACIÓN ATOCHA",
+        "options": {
+            "a": "Av. Democracia - Av. Mediterráneo - Pza. Conde Casal - Av. Mediterráneo - Pza. Mariano de Cavia - Pº Reina Cristina - Pº Infanta Isabel - Gta. Emperador Carlos V",
+            "b": "Av. Democracia - M-40 - Gta Emperador Carlos V",
+            "c": "Av. Democracia - Av. Mediterráneo - Pza. Mariano de Cavia - Menéndez Pelayo - Gta. Emperador Carlos V",
+            "d": "Av. Democracia - M-30 - Pº Sta. Mª Cabeza - Ferrocarril - Pº Delicias"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "ESTACIÓN SUR HASTA HOSPITAL NIÑO JESÚS",
+        "options": {
+            "a": "Méndez Álvaro - Comercio - Av. Menéndez Pelayo",
+            "b": "Méndez Álvaro - Retama - M-30 - Av. Menéndez Pelayo",
+            "c": "Méndez Álvaro - M-40 - Pza. Niño Jesús - Av. Menéndez Pelayo",
+            "d": "Comercio - Av. Ciudad Barcelona - Pe Reina Cristina - Av. Niño Jesús"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CAMPUS SOMOSAGUAS HASTA PLAZA ESPAÑA",
+        "options": {
+            "a": "Ctra. Húmera a Aravaca - Vía de las Dos Castillas - Ctra. Castilla (M-500) - Pza. República Chile - M-30 - Princesa - Pza. España",
+            "b": "Ctra. Húmera a Aravaca - Vía de las Dos Castillas - M-30 - Pza. España",
+            "c": "Ctra. Húmera a Aravaca - Via de las Dos Castillas - Ctra. Castilla (M-500) - Pza. República Chile - Av. Valladolid - Pº de la Florida - Gta. S Vicente - Cuesta de S. Vicente - Pza. España",
+            "d": "Ctra. Húmera a Aravaca - Ctra. Carabanchel a Aravaca - M-30 - Avda. de la Memoria - Princesa - Pza. España"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "HOSPITAL 12 DE OCTUBRE HASTA AERODROMO DE CUATRO VIENTOS",
+        "options": {
+            "a": "Av. Córdoba - Gta. Cádiz - Marcelo Usera - Vía Lusitana - Av. De la Peseta - Av. De la Aviación",
+            "b": "Doctor Tolosa Latour - Av. De los Poblados - Eugenia de Montijo - Joaquín Turina - Av. De la Aviación",
+            "c": "Doctor Tolosa Latour - Av. Córdoba - Gta. Málaga - Eduardo Barreiros - Av. De los Poblados - P Extremadura - Av. De la Aviación",
+            "d": "Doctor Tolosa Latour - M-40 - Av. De la Aviación"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "J.M.D. HORTALEZA HASTA JEFATURA PROVINCIAL DE TRÁFICO",
+        "options": {
+            "a": "Ctra. Canillas - López de Hoyos - Asura - Arturo Soria",
+            "b": "Ctra. Canillas - Gta. Pilar Miró - López de Hoyos - Navarro Amandi - Arturo Soria",
+            "c": "Ctra. Canillas - Mesena - Asura - Belisana - Arturo Soria",
+            "d": "Ctra. Canillas - López de Hoyos - M-30 - Av. Ramón y Cajal - Arturo Soria"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "J.M.D. USERA HASTA JEFATURA PROVINCIAL DE TRÁFIO",
+        "options": {
+            "a": "Av. Rafaela Ybarra - Av. De los Poblados - Av. De Andalucía - Av. De Córdoba - M-30 (Av. De la Paz) - Pza. José Mª Soler - Costa Rica - Arturo Soria",
+            "b": "Av. Rafaela Ybarra - Av. De los Poblados - M-40 - Arturo Soria",
+            "c": "Av. Rafaela Ybarra - Av. De los Poblados - Av. De Córdoba - Arturo Soria",
+            "d": "Av. Rafaela Ybarra - M-30 (Av. De la Paz) salida Cuesta Sagrado Corazón - Arturo Soria"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOSPITAL GOMEZ ULLA HASTA PUERTA DE TOLEDO",
+        "options": {
+            "a": "Gta. del Ejército - Oca - General Ricardos - Marqués de Vadillo - Gta. Pirámides - Toledo",
+            "b": "Gta. del Ejército - Oca - Gta. Marqués de Vadillo - Pº Yeserías - Gta. Pirámides - Pº Acacias",
+            "c": "M-30 - Puerta Toledo",
+            "d": "A-42 - M-40 - Pirámides"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AERÓDROMO CUATRO VIENTOS HASTA SERRANO ESQUINA AYALA",
+        "options": {
+            "a": "Av. De la Aviación - Pº Extremadura - Cuesta S. Vicente - Gran Vía - Alcalá - Pza. Independencia - Alcalá - Velázquez - Ayala",
+            "b": "A-5 - Av. Portugal - Gran Vía",
+            "c": "Pº Extremadura - M-40 - A-4 - M-30 - M-23 - Odonell - Lope de Rueda - General Diez Porlier - Ayala",
+            "d": "M-30 - Alcalá - A-5"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PLAZA DE TOROS VISTA ALEGRE HASTA EL AEROPUERTO",
+        "options": {
+            "a": "Av. Pza. Toros - General Ricardos - Av. Las Águilas - Av. De los Poblados - Av. De la Hispanidad",
+            "b": "Av. Pza. Toros - General Ricardos - Av. De los Poblados - M-40 - Av. De la Hispanidad",
+            "c": "Av. Pza. Toros - Manuel Galindo - Ramón Sainz - Eduardo Morales - Oca - General Ricardos - Gta. Marqués de Vadillo - Av. Del Manzanares (M-30) - Av. De la Paz (M-30) - Av. América - Nudo de Eisenhower - Av. De la Hispanidad",
+            "d": "Av. Pza. Toros - Manuel Galindo - Ramón Sainz - Eduardo Morales - Oca - General Ricardos - Gta. Marqués de Vadillo - M-30 - M-40 - Av. De la Hispanidad"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CLINICA LA ZARZUELA HASTA LA GLORIETA MARQUÉS DE VADILLO",
+        "options": {
+            "a": "Pléyades - Av. Padre Huidobro - M-30 - Puerta de Hierro - Alberto Aguilera - Gta. Marqués de Vadillo",
+            "b": "Pléyades - Av. Padre Huidobro - Pº Marqués de Monistrol (M-30) - Av. Del Manzanares (M-30) - Gta. Marqués de Vadillo",
+            "c": "Pléyades - Av. Padre Huidobro - Puerta de Hierro (M-30) - Gta. Marqués de Vadillo",
+            "d": "Pléyades - Av. Padre Huidobro - M-30 - Puerta de Hierro - Gta. Marqués de Vadillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "J.M.D. CHAMARTIN HASTA PLAZA TOROS VENTAS",
+        "options": {
+            "a": "Príncipe de Vergara - Pza. Marqués de Salamanca - Francisco Silvela - Doctor Esquerdo - Alcalá",
+            "b": "Príncipe de Vergara - Av. Ramón y Cajal - Av. De la Paz (M-30) - Av. América - Alcalá",
+            "c": "Príncipe de Vergara - Pza. Marqués de Salamanca - Ortega y Gasset - Francisco Silvela - Pza.",
+            "d": "Príncipe de Vergara - Pio XII - Costa Rica - M-30 - Alcalá"
+        },
+        "solution": "c"
+    }
+]

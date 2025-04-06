@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir de la sede del diario EI Mundo a la parada de metro Pinar de Chamartín, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. San Luis - C/ Arturo Soria",
+            "b": "C/ Mesena - C/ Arturo Soria",
+            "c": "Av. De San Luis - C/ Dalia",
+            "d": "Arturo Soria"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Estrecho a la Plaza Alcira?",
+        "options": {
+            "a": "C/ Francos Rodríguez - Av. Santo Ángel de la Guarda",
+            "b": "C/ Bravo Murillo - C/ Francos Rodríguez - Ctra. Dehesa de la villa",
+            "c": "C/ Bravo Murillo - C/ Lope de Haro - C/ Francos Rodríguez - Av. Santo Ángel de la Guarda",
+            "d": "C/ Bravo Murillo - C/ Francos Rodríguez - Av. Santo Ángel de la Guarda"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la parada de metro Pinar de Chamartín al Hospital Universitario HM Nuevo Belén, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Arturo Soria - Av. de San Luis",
+            "b": "C/ Arturo Soria - C/ López de Hoyos",
+            "c": "C/ Arturo Soria - C/ José Silva",
+            "d": "C/ Arturo Soria - c/ Costa Rica"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Plaza Cataluña a la parada de metro Nuevos Ministerios, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "c/ Príncipe de Vergara - Alberto Alcocer - Pe de la Castellana",
+            "b": "Av. Dr. Arce a C/ Joaquín Costa - C/ Raimundo Fdez. Villaverde",
+            "c": "C/ Principe de Vergara - Serrano - C/ Joaquín Costa - C/ Raimundo Fdez. Villaverde",
+            "d": "Av. Dr. Arce - Vitruvio"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza de los Sagrados Corazones a la Plaza de la República Argentina, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Avda. Concha Espina - P° de la Castellana - Vitruvio",
+            "b": "Avda. Concha Espina - Príncipe de Vergara - Av. Dr. Arce",
+            "c": "Avda. Concha Espina - P° de la habana - Joaquín Costa",
+            "d": "Avda. Concha Espina - C/ Serrano"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la parada de metro Valdeacederas a Plaza Virgen Guadalupana, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Bravo Murillo - Av. Concha Espina - Av. Ramón y Cajal",
+            "b": "Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "c": "C/ Bravo Murillo - Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "d": "C/ Bravo Murillo - Paseo de la Castellana - Av. Ramón y Cajal - Av. Concha Espina"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Plaza Murillo a la parada de metro Sainz de Baranda, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ruiz de Alarcón - C/ Alfonso XII - C/ Alcalá - C/ O'Donnell - M-23 - M-30 Lateral - C/ Alcalde Sainz de Baranda",
+            "b": "C/ Ruiz de Alarcón - C/ Alfonso XII - C/ Alcalá - C/ O'Donnell - Av. Menéndez Pelayo - C/ Doce de Octubre - C/ Dr. Esquerdo",
+            "c": "C/ Claudio Moyano - C/ Alfonso XII - C/ Alcalá - C/ O'Donnell - Av. Menéndez Pelayo - C/ Doce de Octubre - C/ Dr. Esquerdo",
+            "d": "C/ Claudio Moyano - C/ Alfonso XII - C/ Alcalá - C/ O'Donnell - M-23 - M-30 Lateral - C/ Alcalde"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del centro comercial La Vaguada a la estación de Atocha, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Monforte de Lemos - Paseo de la Castellana - Paseo del Prado - Paseo Infanta Isabel",
+            "b": "Av. Monforte de Lemos - Av. llustración - M-30 - Plaza Moncloa - C/ Princesa - C/ Gran Vía - C/ Alcalá - Paseo del Prado - Paseo Infanta Isabel",
+            "c": "Av. Monforte de Lemos - Av. llustración - M-30 - Av. Ciudad de Barcelona",
+            "d": "Av. Monforte de Lemos - Ginzo de Limia - Av. Asturias - Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Plaza de España a la Plaza de Puerta del ángel, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Cuesta de San Vicente - Pe de la Florida - Av. Valladolid - M-30 - Paseo de Extremadura",
+            "b": "Cuesta San Vicente - Av. Portugal",
+            "c": "Cuesta San Vicente - Paseo de la Virgen del Puerto - C/ Segovia - Paseo de Extremadura",
+            "d": "C/ Princesa - Moncloa - Paseo de Moret - Paseo del Pintor Rosales - C/ Ferraz - Cuesta San Vicente - Paseo de la Virgen del Puerto - C/ Segovia - Paseo de Extremadura"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir desde el metro Esperanza al Restaurante Casa Labra?",
+        "options": {
+            "a": "Av. Madroños - M-30 - c/ embajadores - Ronda de Toledo - c/ Bailén - c/ Mayor - c/ Tetuán.",
+            "b": "c/ Silvano - Av. de Machupichu - Av. de los Andes - c/ Alcalá - Av. de Logroño",
+            "c": "c/ Ulises - Autovía del Norte - Maria de Molina - Rio Rosas - Av. Filipinas - c/ Princesa - c/ Ferraz - c/ Bailén - c/ Mayor - c/ Tetuán.",
+            "d": "Av. Madroños - M-30 - c/ Segovia - c/ Mayor - c/ Carrera de San Francisco - c/ Tetuán"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Pueblo Nuevo al Centro de Exposiciones Arte del Canal?",
+        "options": {
+            "a": "C/ Alcalá - Plaza Canillejas - A-2 María de Molina - Paseo de la Castellana",
+            "b": "C/ Alcalá - M-30 - Salida Plaza Castilla - Paseo de la Castellana",
+            "c": "C/ Alcalá - Alfonso XII - Paseo Infanta Isabel - Paseo del Prado - Paseo de Recoletos - Paseo",
+            "d": "C/ Alcalá - M-30 Lateral - Av. Alberto Alcocer - Paseo de la Castellana"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la parada de metro Ríos Rosas a la Plaza del 2 de Mayo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ríos Rosas - C/ Bravo Murillo - C/ Fuencarral - C/ Palma",
+            "b": "C/ Ríos Rosas - C/ Bravo Murillo - C/ Fuencarral - C/ Palma - C/ San Andrés",
+            "c": "C/ Ríos Rosas - C/ Bravo Murillo - C/ Fuencarral - C/ Velarde",
+            "d": "C/ Ríos Rosas - C/ Bravo Murillo - C/ Fuencarral"
+        },
+        "solution": "c"
+    }
+]

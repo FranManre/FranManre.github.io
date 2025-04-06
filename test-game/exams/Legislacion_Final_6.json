@@ -1,0 +1,212 @@
+[
+    {
+        "question": "¿En qué artículo de la LOTT se fija el importe de las sanciones?",
+        "options": {
+            "a": "En el 120",
+            "b": "En el 145",
+            "c": "En el 143",
+            "d": "En el 138"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El artículo 142 de la ley 29/2003 de 8 de Octubre de Ordenación de los transportes terrestres, determina las causas para calificar una infracción como:",
+        "options": {
+            "a": "Muy grave",
+            "b": "Leve",
+            "c": "Grave",
+            "d": "Está dedicado a otra cuestión"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "En la LOTT, la responsabilidad administrativa por las infracciones de las normas reguladoras de los transportes terrestres y de sus actividades auxiliares y complementarias corresponderá, en las infracciones cometidas con ocasión de la realización de transportes o actividades sujetas a concesión o autorización administrativa a:",
+        "options": {
+            "a": "El conductor del transporte",
+            "b": "La persona fisica o jurídica titular de la concesión o de la autorización",
+            "c": "La persona jurídica",
+            "d": "Ninguna de las tres es valida"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué documento no necesita llevar un autotaxi?",
+        "options": {
+            "a": "Último informe de situados del ayuntamiento",
+            "b": "Cartilla taxímetro",
+            "c": "Libro de reclamaciones",
+            "d": "Guía"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde debe dirigirse un conductor de autotaxi para renovar la Tarjeta identificativa?",
+        "options": {
+            "a": "Plaza de la villa",
+            "b": "Puerta del sol",
+            "c": "Palacio de la Moncloa",
+            "d": "Albarracin"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué tienen que tener en cuenta los organismos competentes para la adjudicación de nuevas licencias?",
+        "options": {
+            "a": "La repercusión que puede tener la concesión de nuevas en las ya existentes",
+            "b": "La posible demanda de estas nuevas licencias",
+            "c": "El número de conductores dados de alta",
+            "d": "Cuantas licencias se transfieren al año y el coste de estas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Quiénes tendrán que observar con mayor diligencia las tarifas vigentes?",
+        "options": {
+            "a": "Los titulares de emisoras",
+            "b": "Las asociaciones representativas del sector",
+            "c": "Los titulares de licencias, conductores de vehículos y usuarios habilitándose por los municipios las medidas oportunas para el control debido",
+            "d": "La oficina municipal de denuncias"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la LOTT, ¿qué artículo hace referencia a las faltas muy graves?",
+        "options": {
+            "a": "141",
+            "b": "140",
+            "c": "44",
+            "d": "43"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál es el número de plazas máximo en un taxi con mampara?",
+        "options": {
+            "a": "5, con autorización del conductor",
+            "b": "No está limitado",
+            "c": "3",
+            "d": "4"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Quién marca el precio de la tarifa?",
+        "options": {
+            "a": "La comunidad de Madrid a propuesta de los municipios",
+            "b": "Lo que marque el taxímetro más el suplemento del aeropuerto",
+            "c": "No se puede hacer, esta fuera del APC",
+            "d": "Ninguna de estas es valida"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "En el reglamento 74/2005 dice que para la obtención de una licencia de autotaxi será necesaria la presentación de la correspondiente solicitud, acompañada de original o fotocopia compulsada de los siguientes documentos:",
+        "options": {
+            "a": "DNI en vigor del solicitante o cuando este fuere extranjero, así como en todo caso, acreditación de encontrarse en posesión del correspondiente número de identificación fiscal y permiso de residencia y trabajo valido para efectuar transporte en nombre propio",
+            "b": "DNI en vigor del solicitante o cuando este fuere extranjero, documento de identificación que surta efectos equivalentes en su país de origen o pasaporte, y permiso de residencia y trabajo valido para efectuar transporte en nombre propio",
+            "c": "DNI en vigor del solicitante o cuando este fuere extranjero, documento de identificación que surta efectos equivalentes en su país de origen o pasaporte, así como en todo caso, acreditación de encontrarse en posesión del correspondiente número de identificación fiscal",
+            "d": "DNI en vigor del solicitante o cuando este fuere extranjero, documento de identificación que surta efectos equivalentes en su país de origen o pasaporte, así como en todo caso, acreditación de encontrarse en posesión del correspondiente número de identificación fiscal y permiso de residencia y trabajo valido para efectuar transporte en nombre propio."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "En el reglamento 74/2005, dice que para la obtención de una licencia de autotaxi será necesaria la presentación de la correspondiente solicitud, acompañada de original o fotocopia compulsada de los siguientes documentos.",
+        "options": {
+            "a": "Certificación justificativa de inexistencia de deudas. Se considerara que se cumple este requisito cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones",
+            "b": "Certificación justificativa de inexistencia de deudas en periodo ejecutivo referida al IRPF, al IVA y al impuesto sobre Actividades Económicas",
+            "c": "Certificación justificativa de inexistencia de deudas en periodo ejecutivo referida al IRPF, al IVA y al impuesto sobre Actividades Económicas. Se considerara que se cumple este requisito cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones",
+            "d": "Certificado de empadronamiento y licencia fiscal"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "En el reglamento 74/2005, dice que para la obtención de una licencia de autotaxi será necesaria la presentación de la correspondiente solicitud, acompañada de original o fotocopia compulsada de los siguientes documentos. Cuando el solicitante ya sea titular de otras licencias otorgadas por el mismo municipio...",
+        "options": {
+            "a": "Bastará con la presentación del correspondiente impreso de solicitud",
+            "b": "Bastará con comunicarlo al ayuntamiento",
+            "c": "Bastará con comunicarlo a la comunidad de Madrid",
+            "d": "No hay q comunicarlo a nadie."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El reglamento 74/2005 ¿se aprobó el día?",
+        "options": {
+            "a": "28 de julio",
+            "b": "5 de agosto",
+            "c": "27 de julio",
+            "d": "4 agosto"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el reglamento 74/2005, las licencias municipales para la prestación de servicios de transporte urbano en automóviles de turismo corresponderán a una categoría única denominándose:",
+        "options": {
+            "a": "Licencias de servicio público",
+            "b": "Licencias de gran turismo",
+            "c": "Licencias de autotaxi",
+            "d": "Licencias de servicios urbanos e interurbanos"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "En el reglamento 74/2005, habla de las limitaciones cuantitativas al otorgamiento de licencias los municipios de hasta 100.000 habitantes de derecho",
+        "options": {
+            "a": "2 licencias por cada 1000 habitantes de derecho",
+            "b": "1 por cada 1000 habitantes de derecho",
+            "c": "1 por cada 2500 habitantes de derecho",
+            "d": "1 por cada 2000 habitantes de derecho"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "En los vehículos adaptados para el transporte de personas en sillas de ruedas, en el certificado de características debe constar...",
+        "options": {
+            "a": "Que una corresponde a la silla de ruedas",
+            "b": "No dice nada",
+            "c": "Que las cinco plazas son para sillas de ruedas",
+            "d": "Solo pueden ser usados para el transporte de minusválidos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál es el número de plazas de vehículos Eurotaxi durante la prestación del servicio?",
+        "options": {
+            "a": "6 plazas incluido el conductor",
+            "b": "5 plazas incluido el conductor",
+            "c": "No tiene limite",
+            "d": "4 plazas"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuánto tiempo será la excedencia de un titular de licencia de autotaxi?",
+        "options": {
+            "a": "Un mínimo de cinco años y un máximo de diez",
+            "b": "Un mínimo de tres y un máximo de cinco",
+            "c": "No está legislado",
+            "d": "Un mínimo de un año y un máximo de cinco"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué decreto deroga la ley de agosto 2005?",
+        "options": {
+            "a": "La LOTT",
+            "b": "Real Decreto 763/1979 de 16 de marzo",
+            "c": "La ley 20/1198",
+            "d": "Esta ley no afecta al transporte publico"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál es el número de plazas en los autotaxi?",
+        "options": {
+            "a": "5",
+            "b": "6",
+            "c": "5 incluido el conductor",
+            "d": "6 incluido el conductor"
+        },
+        "solution": "c"
+    }
+]

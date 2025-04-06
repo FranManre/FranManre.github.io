@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Las licencias y los vehículos van asociados de carácter...",
+        "options": {
+            "a": "De forma individual y voluntaria",
+            "b": "De carácter circunstancial y nunca circunscrito",
+            "c": "De forma individual y obligatoria",
+            "d": "De carácter independiente y obligatorio"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012, el ámbito de una licencia municipal será siempre de:",
+        "options": {
+            "a": "Únicamente en el núcleo urbano o urbanizable donde el Ayuntamiento concesor de la licencia tenga competencia.",
+            "b": "Únicamente en el núcleo urbano o urbanizable donde la Comunidad de Madrid tenga acuerdos con el resto de municipios",
+            "c": "En la totalidad del área de prestación conjunta territorial",
+            "d": "En todo el territorio Nacional"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Se estipula una caducidad para el visado de transportes de:",
+        "options": {
+            "a": "4 años desde su emisión sin posibilidad de prórroga para su rehabilitación",
+            "b": "El visado de Transportes no caduca, pero sí hay que renovarlo",
+            "c": "Ninguna de ellas",
+            "d": "4 años desde su expedición con un año de prórroga para su rehabilitación"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La ordenanza reguladora del taxi del 28 de Noviembre de 2012, estipula que la competencia para el otorgamiento de licencias la última palabra la tendrá:",
+        "options": {
+            "a": "El Ayuntamiento u órgano municipal competente",
+            "b": "Siempre el Comprador",
+            "c": "Siempre la Comunidad de Madrid",
+            "d": "El Ayuntamiento u órgano municipal u órgano municipal competente"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012, ¿en que consta la revisión ordinaria?",
+        "options": {
+            "a": "Es una revisión meramente administrativa, de carácter semestral y obligatoria.",
+            "b": "Es una revisión meramente administrativa, de carácter anual y obligatoria.",
+            "c": "Es una revisión física del vehículo para cotejar que sigue cumpliendo con todos los requisitos",
+            "d": "Es circunstancial y solamente se ha de pasar cuando haya que modificar la documentación adjunta a la licencia o al visado de transportes."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012, ¿Cuándo habrá que pasar una revisión extraordinaria?",
+        "options": {
+            "a": "Siempre que nos lo solicite la Comunidad de Madrid",
+            "b": "Por instalación de Mampara de seguridad o sustitución de vehículo",
+            "c": "Por petición de un Agente administrativo",
+            "d": "Ninguna es correcta"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012, para la transmisión de una licencia, habrá que presentar, en primer término:",
+        "options": {
+            "a": "Derecho de tanteo y retracto firmado por el comprador",
+            "b": "Derecho de tanteo y retracto firmado por los conductores asociados a la licencia",
+            "c": "Certificado de libre de cargas de Ayuntamiento",
+            "d": "Contrato de transmisión y arras"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012 el Ayuntamiento será el encargado de:",
+        "options": {
+            "a": "Llevar un registro de todas las licencias en el que irá constatando las incidencias de cada una",
+            "b": "Llevar un registro de todas las licencias en el que irá constatando las incidencias de cada una",
+            "c": "La creación de licencias así como la gestión, sanción y renovación",
+            "d": "La gestión administrativa de todas las licencias incluidas las de fuera del APC que pertenezcan"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012, una de las características que deberá llevar de forma obligatoria un vehículo con licencia Autotaxi, ha de ser:",
+        "options": {
+            "a": "Aire acondicionado o calefacción y climatizador",
+            "b": "Aire acondicionado, calefacción y climatizador",
+            "c": "Aire acondicionado y calefacción o climatizador",
+            "d": "Aire acondicionado o climatizador"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Las características técnicas de los vehículos adscritos a las licencias autotaxi de la ordenanza reguladora del taxi del 28 de Noviembre de 2012, deberán llevar de forma obligatoria:",
+        "options": {
+            "a": "Tapicería discreta y de fácil limpieza e iluminación exterior del vehículo",
+            "b": "Carrocería cerrada, 5 puertas y lunas entintadas para evitar deslumbramientos",
+            "c": "Tapicería de fácil limpieza y alfombrillas antideslizantes",
+            "d": "Extintor de incendios e iluminación interior como medida de seguridad activa y mampara de seguridad"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012, las franjas rojas laterales han de ser:",
+        "options": {
+            "a": "Serigrafia siempre roja homologada e irán distribuidas desde la parte inferior de los retrovisores hasta la esquina inferior de las mismas",
+            "b": "Pintura roja homologada e irán distribuidas desde la parte inferior de los retrovisores hasta la esquina inferior de las mismas.",
+            "c": "Irán distribuidas desde la parte inferior de los retrovisores hasta la esquina inferior de las mismas siempre y cuando el color sea rojo",
+            "d": "Pintura roja homologada e irán distribuidas desde el corte anterior a las aletas delanteras hasta el corte inferior de las aletas de las puertas traseras de pasajeros."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La ordenanza reguladora del taxi estipula un número mínimo de letras de libranza distribuidas en el vehículo, ¿sabrías decir cuáles son?",
+        "options": {
+            "a": "Siempre 3, salvo vehiculos Eurotaxi que llevarán solo dos",
+            "b": "3",
+            "c": "2",
+            "d": "Solo la del maletero"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012 la placa distintiva del vehículo será:",
+        "options": {
+            "a": "Placa redondeada y de metacrilato con información de la licencia",
+            "b": "Placa redondeada y transparente visible desde cualquier parte del vehículo",
+            "c": "Placa con las aristas en pátina en cada una de las puertas traseras",
+            "d": "Placa con las aristas en pátina para evitar cortes al tacto visible desde cualquier parte del vehículo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012 la placa distintiva del vehículo deberá llevar la siguiente información:",
+        "options": {
+            "a": "El número de la licencia, el número de identificación de conductor y el número de plazas",
+            "b": "El número de la licencia, el número de matrícula y el nombre del titular de la licencia",
+            "c": "El número de la licencia, el número de matrícula y el número de plazas",
+            "d": "El número de la licencia, el número de identificación del conductor y los días de libranza"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la ordenanza reguladora del taxi del 28 de Noviembre de 2012 ¿Dónde ha de llevar se la placa distintiva del vehículo?",
+        "options": {
+            "a": "En el exterior del mismo, en la parte de la carrocería que quede disponible en el portón trasero.",
+            "b": "En el interior del mismo, situada encima del cinturón de seguridad de conductor o copiloto",
+            "c": "No está legislado, salvo que tendrá que ser visible desde cualquier parte interior del vehiculo",
+            "d": "En la guantera, visible desde el interior como el exterior del vehículo"
+        },
+        "solution": "c"
+    }
+]

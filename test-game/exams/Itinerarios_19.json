@@ -1,0 +1,122 @@
+[
+    {
+        "question": "AVENIDA COMPLUTENSE HASTA AVENIDA OSA MAYOR",
+        "options": {
+            "a": "Ctra. Dehesa de la Villa - A-6",
+            "b": "A-6 - M-30 - Pléyades",
+            "c": "M-30 - Av. Puerta de Hierro",
+            "d": "M-30 - M-40 - Pleyades"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AVENIDA OSA MAYOR (ARAVACA) HASTA TIRO DEL PICHÓN",
+        "options": {
+            "a": "A-6 - M-30 - M-605",
+            "b": "A-5 - M-40 - Ctra. del Pardo",
+            "c": "A-6 - M-40 - M-3° - Arroyo fresno",
+            "d": "Pléyades - M-605"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PARQUE DE ATRACCIONES HASTA ESTACIÓN SUR",
+        "options": {
+            "a": "P° Extremadura - Puente de Segovia - Ronda de Segovia - Ronda de Toledo - Ronda de Atocha - P° Infanta Isabel - Av. Ciudad de Barcelona - Pedro Bosch",
+            "b": "P° Extremadura - Cuesta de S. Vicente - Gran Vía - P° del Prado",
+            "c": "Villamanín - Av. Portugal - Pe Ermita del Santo - Sepúlveda - M-30 - P° Sta. Me de la Cabeza",
+            "d": "A-5 - Puente de Segovia - Ronda de Toledo - Toledo - Comercio"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "TRÁFICO HASTA CAMPUS DE SOMOSAGUAS",
+        "options": {
+            "a": "M-30 - Av. De la Paz - Torrelaguna - Av. Ramón y Cajal - Príncipe de Vergara",
+            "b": "Av. De la Paz - M-30 - M-500 - M-503",
+            "c": "Av. De la Paz - Av. llustración - Sinesio Delgado - Av. Complutense",
+            "d": "Av. América - Me Molina - P° Castellana - Ríos Rosas - Islas Filipinas - Cea Bermúdez - Av. Reyes Católicos - Av. Séneca - Ctra. Castilla - M-503"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "ALCORCÓN HASTA MAJADAHONDA",
+        "options": {
+            "a": "A-5 - M-40 - M-503",
+            "b": "M-50",
+            "c": "A-5 - M-50 - M-509",
+            "d": "M-40"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PARQUE BIOLÓGICO FAUNIA HASTA EL REGISTRO CIVIL",
+        "options": {
+            "a": "Av. Democracia - Av. Mediterráneo - M-30 - Torrelaguna - Av. Ramón y Cajal - Alfonso XII Pradillo",
+            "b": "Av. Democracia - M-30 - Pradillo",
+            "c": "Av. Mediterráneo - M-40 - Alfonso XIl - Pradillo",
+            "d": "A-3 - M-30 - Pradillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CENTRO COMERCIAL LA VAGUADA HASTA LA ESTACIÓN DE CHAMARTÍN",
+        "options": {
+            "a": "Monforte de Lemos - Sinesio Delgado - P Castellana - Agustín de Foxá",
+            "b": "Av. llustración - Av. Asturias - Sinesio Delgado - Av. Complutense",
+            "c": "Av. llustración - Sinesio Delgado - Padre Francisco Palau y Quer",
+            "d": "Av. Monforte de Lemos - Arzobispo Morcillo - Pedro Rico"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "POLÍGONO LAS MERCEDES HASTA CLÍNICA LA ZARZUELA",
+        "options": {
+            "a": "Nudo Eisenhower - Av. América - M-30 - Pléyades",
+            "b": "A-2 - Av. América - M-40 - Av. Padre Huidobro",
+            "c": "Nudo Eisenhower - Av. América - Me Molina - Pe Castellana - Ríos Rosas - Islas Filipinas - Cea Bermúdez - Av. Reyes Católicos - Av. Puerta Hierro - Av. Padre Huidobro",
+            "d": "A-3 - M-30 - A-6"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "BASE AÉREA DE GETAFE HASTA VILLAVICIOSA DE ODÓN",
+        "options": {
+            "a": "A-4 - M-506",
+            "b": "A-42 - M-50 - M-506",
+            "c": "A-4 - M-50 - A-5",
+            "d": "M-40"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PARQUE TECNOLÓGICO HASTA PAU DE SAN CHINARRO",
+        "options": {
+            "a": "M-605 - A-1",
+            "b": "Ctra. Colmenar - A-1",
+            "c": "Ctra. Colmenar - M-30 - Manuel Azaña",
+            "d": "M-402 - Av. Princesa Juana de Austria - M-607"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "SAN SEBASTIAN DE LOS REYES HASTA CENTRO COMERCIAL LA VAGUADA",
+        "options": {
+            "a": "A-1 - M-30 - Av. Ilustración",
+            "b": "P°Castellana - Bravo Murillo - Av. Asturias",
+            "c": "A-1 - M-607 - M-30 - P° Castellana",
+            "d": "Av. Burgos - P° Castellana - Av. Asturias"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HIPERCOR DE POZUELO HASTA ESTACIÓN DE ATOCHA",
+        "options": {
+            "a": "M-506 - M-30 - P° Sta. Me de la Cabeza",
+            "b": "A-6 - M-30 - P° Sta. Me de la Cabeza - P° Delicias",
+            "c": "M-500 - M-40 - P° Delicias",
+            "d": "A-6 - Av. Padre Huidobro - Av. Reyes Católicos - Cea Bermúdez - José Abascal - P° Castellana"
+        },
+        "solution": "b"
+    }
+]

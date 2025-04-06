@@ -1,0 +1,152 @@
+[
+    {
+        "question": "¿Cuánto tiempo podrán dejar de prestar servicio los titulares de licencia?",
+        "options": {
+            "a": "Inferiores a 60 días naturales",
+            "b": "No superiores a 30 días consecutivos o 60 alternos",
+            "c": "Superior a 60 días naturales",
+            "d": "Superiores a 30 días consecutivos o 60 alternos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuándo se pondrá el taxímetro en marcha?",
+        "options": {
+            "a": "Cuando el viajero entre en el vehículo",
+            "b": "Cuando el viajero indique el punto de retorno",
+            "c": "Cuando el conductor decida",
+            "d": "Cuando el viajero haya indicado el punto de destino y el equipaje se encuentre en el maletero"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para renovar la cartilla, ¿Qué tiempo hay que acreditar para el ejercicio habitual de la profesión? (art 31)",
+        "options": {
+            "a": "1 año",
+            "b": "12 meses durante los últimos 5 años",
+            "c": "No es necesario acreditar el ejercicio habitual de la profesión",
+            "d": "2 años"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué tipo de sanción es no llevar la hoja de tarifa?",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué documento no necesita llevar un vehículo de autotaxi?",
+        "options": {
+            "a": "Ficha de inspección técnica",
+            "b": "Permiso de circulación",
+            "c": "Último informe de la ITV",
+            "d": "Impuesto de circulación"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "los vehículos a los que hayan de referirse las licencias habrán de cumplir los siguientes requisitos:",
+        "options": {
+            "a": "Deberán obtener el certificado de la inspección técnica de vehículos y aparecer en el registro correspondiente como apto para el transporte de viajeros",
+            "b": "Deberán estar matriculados, habilitados para circular y hallarse vigente la última inspección técnica periódica,",
+            "c": "Deberán ser aceptados por la autoridad municipal y obtener el certificado de la inspección",
+            "d": "Deberán ser nuevos y estar abonados en su totalidad."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "En los vehículos que prestan el servicio de autotaxi se hará constar de manera visible el número de licencia:",
+        "options": {
+            "a": "Unicamente cuando se presta servicio fuera del área de prestación conjunta.",
+            "b": "Cuando haya más de un conductor asociado a dicha licencia",
+            "c": "En el exterior mediante placa",
+            "d": "En el exterior y en el interior de vehículo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El vehículo adscrito a una licencia de autotaxi, ¿podrá sustituirse por otro en caso de avería o accidente?",
+        "options": {
+            "a": "Sí, durante el tiempo que dure la reparación, mediante un vehículo de características superiores al accidentado o averiado y que haya obtenido el certificado de la inspección técnica de vehículos",
+            "b": "No, en ningún caso",
+            "c": "Únicamente en los casos de averías cuya reparación no exceda el límite máximo de dos meses que impone el Reglamento.",
+            "d": "Si, durante el tiempo que dure la reparación, mediante un vehículo de similares características al accidentado o averiado y que cumpla el resto de requisitos para poder prestar servicio."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Los vehículos a los que hayan de adscribirse las licencias deberán estar dotados de:",
+        "options": {
+            "a": "Carrocería abierta con puertas de fácil acceso y funcionamiento que facilite la maniobra con suavidad.",
+            "b": "Dos extintores de incendios",
+            "c": "Puertas dotadas del mecanismo de seguridad conveniente que evite que el usuario pueda accionar sus vidrios",
+            "d": "Aire acondicionado y calefacción o climatizador"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Los vehículos a los que hayan de adscribirse las licencias deberán estar dotados de:",
+        "options": {
+            "a": "Cilindrada y prestaciones técnicas idóneas que garanticen una correcta conducción y una",
+            "b": "Todas las respuestas son válidas",
+            "c": "Dispositivos de alumbrado eléctrico exterior que permitan la visibilidad del cuadro de mandos",
+            "d": "Ventanillas provistas de lunas opacas e inastillables en todas las puertas y en la parte posterior del vehículo."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué será necesario para la realización de servicios de transporte urbano de viajeros en automóviles turismo?",
+        "options": {
+            "a": "La obtención previa de la correspondiente licencia habilitante",
+            "b": "Estar en posesión del carnet de conducir de la clase necesaria para la prestación del servicio",
+            "c": "Tener contratada una póliza de seguros que cubra los riesgos que de la legislación vigente",
+            "d": "Estar en posesión del vehículo destinado a la prestación de los servicios de transporte urbano de viajeros."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la ley 29/2003, ¿Cuál será la multa con la que se sancionara la carencia de cambio de moneda metálica o billetes hasta la cantidad que, en su caso, se encuentre reglamentariamente determinada?",
+        "options": {
+            "a": "La ley 29/2003 no contempla esta circunstancia como infracción",
+            "b": "301 a 400 euros",
+            "c": "1001 a 1500 euros",
+            "d": "Hasta 200 euros"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Los vehículos a los que se adscriban las licencias de autotaxi deberán ir provistos de un aparato taxímetro y un módulo luminoso que permitan:",
+        "options": {
+            "a": "Conocer la situación de disponible del vehículo",
+            "b": "La aplicación de las tarifas vigentes y su visualización",
+            "c": "Conocer los suplementos aplicados en cada recorrido",
+            "d": "Aplicar cobro con recibo cuando la impresora no funcione correctamente"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Dónde debe dirigirse un conductor de autotaxi, para renovar la tarjeta identificativa?",
+        "options": {
+            "a": "Plaza Cibeles",
+            "b": "Ayuntamiento de Madrid, c/ Albarracín 33",
+            "c": "Plaza de la Villa",
+            "d": "c/ Miguel Fleta 31"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué tipo de validez tendrán las licencias de autotaxi?",
+        "options": {
+            "a": "Las licencias de autotaxi, se otorgarán sin limitación específica del plazo de validez, si bien esta quedará condicionada, en su caso a lo establecido por el correspondiente municipio.",
+            "b": "Las licencias de autotaxi se otorgarán con limitación específica de 5 años renovables",
+            "c": "Ninguna es correcta",
+            "d": "Todas son correctas"
+        },
+        "solution": "a"
+    }
+]

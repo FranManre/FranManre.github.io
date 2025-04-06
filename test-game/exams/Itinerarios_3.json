@@ -1,0 +1,122 @@
+[
+    {
+        "question": "AERÓDROMO DE CUATRO VIENTOS HASTA EL RECINTO FERIAL JUAN CARLOS I",
+        "options": {
+            "a": "Av. De la Aviación Po. Extremadura - M-40 - Av. Consejo de Europa - Gta. S.A.R. Juan de Borbón y Battemberg - Av. Capital de España Madrid",
+            "b": "Av. De la Aviación - Av. De los Poblados - M-40 - Av. Capital España Madrid",
+            "c": "Av. De la Aviación - Ctra. Fortuna - Av. de la Peseta - Vía Lusitana - M-40 (Manuela Azaña) - Av. Consejo de Europa - Gta. S.A.R. Don Juan de Borbón y Battemberg - Av. De la Capital de España Madrid",
+            "d": "Av. De la Aviación - Av. Rafael Finat - M-30 - Av. Capital España Madrid"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "ESTACIÓN SUR AUTOBUSES HASTA ESTACIÓN ATOCHA",
+        "options": {
+            "a": "Méndez Álvaro - Av. De la Paz - Av. Mediterráneo - Pza. Conde Casal - Pza. Mariano Cavia - Po. Reina Cristina - Po. Infanta Isabel - Gta. Emperador Carlos V",
+            "b": "Méndez Álvaro - Gta. Emperador Carlos V",
+            "c": "Av. De la Paz - Av. Ciudad de Barcelona - Méndez Álvaro",
+            "d": "Méndez Álvaro - Av. De la Paz - Cerro Negro - Nudo Sur - Gta. Emperador Carlos V"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "HOSPITAL GREGORIO MARAÑÓN HASTA LA PLAZA DE ESPAÑA",
+        "options": {
+            "a": "Doctor Esquerdo - Ibiza Menéndez Pelayo - Pº Reina Cristina - Pº del Prado - Pza. Cibeles - Alcalá - Gran Via - Pza. España",
+            "b": "Doctor Esquerdo - Odonell - Alcalá - Pza. Cibeles - Alcalá - Gran Vía - Pza. España",
+            "c": "Doctor Esquerdo - Av. Nazaret - Pza. Niño Jesús - Menéndez Pelayo - Ibiza - Menorca - Odonell - Alcalá - Pza. España",
+            "d": "Doctor Esquerdo - Av. Nazaret - Pza. Niño Jesús - Menéndez Pelayo - Alcalá - Gran Via - Pza. España"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "J.M.D. CIUDAD LINEAL HASTA J.M.D. MORATALAZ",
+        "options": {
+            "a": "Hermanos Garcia Noblejas - Pza. Alsacia - Fuente Carrantona",
+            "b": "Hermanos García Noblejas - Av. Guadalajara - Doctor García Tapia - Fuente Carrantona",
+            "c": "Hermanos García Noblejas - Alcalá - Arturo Soria - Fuente Carrantona",
+            "d": "Hermanos García Noblejas - Ciudad Lineal - Ascao - Fco Largo Caballero - Fuente Carrantona"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AV. COMPLUTENSE HASA EL HOSPITAL CLINICO SAN CARLOS",
+        "options": {
+            "a": "Av. Complutense - Av. de la Memoria - Av. Reyes Católicos - Pza. Cristo Rey - Profesor Martín Lagos",
+            "b": "Av. Complutense - Av. de la Memoria - Cea Bermúdez - Guzmán el Bueno - Julián Romea - Isaac Peral - Profesor Martin Lagos",
+            "c": "Av. Complutense - Paraninfo - Av. Puerta Hierro - Av. de la Memoria - Profesor Martín Lagos",
+            "d": "Av. Complutense - José Antonio Nováis - Av. Gregorio del Amo - Isaac Peral - Profesor Martín Lagos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOSPITAL NIÑO JESÚS HASTA J.M.D. CHAMARTÍN",
+        "options": {
+            "a": "Menéndez Pelayo - Doctor Castelo - Montesa - Lombia - José Ortega y Gasset - Pza. Marqués de Salamanca - Príncipe de Vergara",
+            "b": "Menéndez Pelayo - Príncipe de Vergara",
+            "c": "Menéndez Pelayo - Odonell - Lope de Rueda - General Diez Porlier - Ayala - Príncipe de Vergara",
+            "d": "Menéndez Pelayo - Alcalá - Castelló - General Oraá - Príncipe de Vergara"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CASITA DEL PRINCIPE HASTA LA CLINICA LA ZARZUELA",
+        "options": {
+            "a": "Pº del Pardo - M-30 - A-6",
+            "b": "Pº del Pardo - Av. De la Guardia - M-605 Ctra. del Pardo - M-30 - Av. Padre Huidobro - Pléyades",
+            "c": "Pº del Pardo - Av. Padre Huidobro - A-6 - Aravaca",
+            "d": "Av. Del Palacio - M-30 - Crta El Pardo - M-40 - Aravaca"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CLINICA RUBER INTERNACIONAL HASTA ESTACIÓN ATOCHA",
+        "options": {
+            "a": "La Masó - Ventisquero de la Condesa - M-40 - Gta Sta. Mª de la Cabeza - P° Sta. Mª de la Cabeza Ferrocarril - P° Delicias - Gta. Emperador Carlos V",
+            "b": "La Masó - Cardenal Herrera Oria - M-30 salida a Gta. Sta. Mª de la Cabeza - P° Sta. M.ª de la Cabeza - Ferrocarril - P° Delicias - Gta. Emperador Carlos V",
+            "c": "La Masó - Pico Milano - Laguna Grande - Cardenal Herrera Oria - Ginzo Limia - Gta. Reales Academias - Ginzo Limia - Av. Asturias - Pza. Castilla - Po. Castellana - Pza. Colón - Pº Recoletos - Pza. Cibeles - Pº Prado - Gta. Emperador Carlos V",
+            "d": "La Masó - Pico Milano - Laguna Grande - Cardenal Herrera Oria - Ginzo Limia - Gta. Reales"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "TIRO DEL PICHÓN HASTA LA VAGUADA - MADRID 2",
+        "options": {
+            "a": "Ctra. del Pichón - Ctra. del Pardo (M-30) - Av. Ilustración (M-30) - Ginzo de Limia - Monforte de Lemos",
+            "b": "Ctra. del Pichón - Ctra. del Pardo (M-30) - Gta. Salvador Maella - Monforte Lemos",
+            "c": "Ctra. del Pichón - Cita del Pardo (M-30) - Doctor Ramón Castroviejo - Monforte Lemos",
+            "d": "Ctra. del Pichón - Ctra. del Pardo (M-30) - Av. Ilustración (M-30) - Arzobispo Morcillo - Monforte de Lemos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "ESTACIÓN SUR AUTOBUSES HASTA REGISTRO CIVIL",
+        "options": {
+            "a": "Méndez Álvaro - Av. De la Paz (M-30) - Av. Ramón y Cajal - Arturo Soria - Pradillo",
+            "b": "Méndez Álvaro - Av. De la Paz (M-30) - Torrelaguna - Av. Ramón y Cajal - Av. Alfonso XIII - Pradillo",
+            "c": "Méndez Álvaro - Av. De la Paz (M-30) - Cuesta Sagrado Corazón - Av. Comandante Franco - Pio XII - Costa Rica - Príncipe Vergara - Pradillo",
+            "d": "Méndez Álvaro - Av. De la Paz (M-30) - Av. América - Corazón de María - López de Hoyos - Pradillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "GLORIETA MARQUÉS DE VADILLO HASTA J.M.D. LATINA",
+        "options": {
+            "a": "General Ricardos - Eugenia de Montijo - Av. Poblados - Av. Las Águilas",
+            "b": "Antonio López - Marcelo Usera - Av. Oporto - Pza. Elíptica - Gta. Ejército - Eugenia Montijo - Av. Las Águilas.",
+            "c": "Antonio Leyva - Av. Oporto - Pza Elíptica - General Ricardos - Monseñor - Oscar Romero - Av. Las Águilas",
+            "d": "General Ricardos - P° Quince de Mayo - Pº Ermita del Santo - Vía Carpetana - Gta. Ejército - Na Sra. de Fátima - Av. Las Águilas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PLAZA TOROS VENTAS HASTA EL RECINTO FERIAL JUAN CARLOS I",
+        "options": {
+            "a": "Alcalá - Av. 25 Septiembre - Gta. Yucatán - Silvano - M-40 - Manuel Azaña - Av. Consejo Europa - Gta. S.A.R. Juan de Borbón y Battemberg - Av. Capital de España Madrid",
+            "b": "Alcalá - Av. De la Paz (M-30) - Av. América - M-30 - M-40 - Av. Consejo Europa",
+            "c": "Alcalá - Av. 25 Septiembre - Gta. Yucatán - Av. De los Andes - Av. Consejo Europa - Gta. S.A.R. Juan De Borbón y Battemberg - Av. Capital de España Madrid",
+            "d": "Alcalá - Av. América - M-40 - Av. De la Capital de España Madrid"
+        },
+        "solution": "c"
+    }
+]

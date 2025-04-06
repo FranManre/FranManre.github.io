@@ -1,0 +1,122 @@
+[
+    {
+        "question": "PUENTE ALCOCER HASTA CLÍNICA LA ZARZUELA",
+        "options": {
+            "a": "Villalonso - Pe Plata y Castañar - Av. Princesa Juana de Austria - p° Sta. Me de la Cabeza - M-30 - Av. Padre Huidobro - Pléyades",
+            "b": "p° Plata y Castañar - M-40 - Pléyades",
+            "c": "A-42 - M-45 - Av. Padre Huidobro - Pléyades",
+            "d": "Villalonso - Ctra. Carabanchel a Villaverde - Av. Rafaela Ybarra - Av. De los Poblados - Pléyades"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CEMENTERIO LA ALMUDENA HASTA HOSPITAL NIÑO JESÚS",
+        "options": {
+            "a": "Marqués de Corbera - M-30 - Av. Mediterráneo",
+            "b": "M-40 - Av. Daroca",
+            "c": "Marqués de Corbera - Odonell - Doctor Esquerdo",
+            "d": "M-30 - Alfonso XII"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "J.M.D. LATINA HASTA HOSPITAL RAMÓN Y CAJAL",
+        "options": {
+            "a": "P° Extremadura - A-1",
+            "b": "Av. Las Águilas - Av. De los Poblados - A-5 - M-30 - Ctra. Colmenar - S. Modesto",
+            "c": "M-40 - Av. Ilustración - Arzobispo Morcillo",
+            "d": "A-2 - M-30"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "GLORIETA MARQUES DE VADILLO HASTA PLAZA DE LAS VENTAS",
+        "options": {
+            "a": "M-30 - Alcalá",
+            "b": "General Ricardos - Antonio López - M-40 - Alcalá",
+            "c": "M-40 - Puente Ventas",
+            "d": "Puente de Toledo - Toledo - Atocha - P° Prado - Alcalá"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "J.M.D. MORATALAZ HASTA AVENIDA DE LA PESETA",
+        "options": {
+            "a": "Av. Mediterráneo - M-30 - Antonio lópez - Av. Córdoba - Av. Poblados",
+            "b": "Av. Mediterráneo - M-40 - Av. Carabanchel Alto",
+            "c": "Pza. Conde Casal - M-30 - Doctor Tolosa Latour",
+            "d": "Av. Córdoba - Av. De los Poblados - Av. Carabanchel Alto"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "AEROPUERTO HASTA SERRANO ESQUINA AYALA",
+        "options": {
+            "a": "Av. América - M-40 - Goya - Velázquez",
+            "b": "A-3 - M-30 - Ayala",
+            "c": "Av. América - M-30 - Alcalá",
+            "d": "A-2 - Alcalá"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "SERRANO ESQUINA AYALA HASTA HOSPITAL NIÑO JESÚS",
+        "options": {
+            "a": "Av. Mediterráneo - Menéndez Pelayo",
+            "b": "Menéndez Pelayo - Príncipe de Vergara",
+            "c": "Serrano - Alcalá",
+            "d": "Alcalá - Gran Vía - Pza. España"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "HOSPITAL GOMEZ ULLA HASTA J.M.D. ARGANZUELA",
+        "options": {
+            "a": "Gta. Ejército - Oca - Av. Oporto - Pza. Elíptica - Marcelo Usera - Vado Sta. Catalina - Pza. Legazpi - P° Chopera",
+            "b": "Gta. Ejército - Av. Carabanchel Alto - M-30 - Legazpi",
+            "c": "General Ricardos - Marqués de Vadillo - Pza. Legazpi",
+            "d": "M-30 - Marqués de Vadillo - Av. Córdoba"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CAMPUS DE SOMOSAGUAS HASTA PLAZA TOROS DE LAS VENTAS",
+        "options": {
+            "a": "M-40 - Alcalá",
+            "b": "M-503 - M-500 - M-30 - Alcalá",
+            "c": "M-503 - M-40 - Av. De los Poblados",
+            "d": "Ctra. Boadilla - Av. De los Poblados - Alcalá"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "UNIVERSIDAD AUTÓNOMA HASTA EL REGISTRO CIVIL",
+        "options": {
+            "a": "M-607 - M-30 - Pradillo",
+            "b": "M-605 - P° Castellana - Caídos División Azul",
+            "c": "M-607 - M-45 - Pradillo",
+            "d": "M-30 - Pradillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AVENIDA DE EUROPA (POZUELO) HASTA EL REGISTRO CIVIL",
+        "options": {
+            "a": "Vía de los Dos Castillas - M-500 - Av. Séneca - Av. de la Memoria - Av. Reyes Católicos - Cea Bermúdez - José Abascal - Pza. Doctor Marañón - Me Molina - López de Hoyos - Príncipe de Vergara",
+            "b": "M-503 - M-500 - M-30 - Pradillo",
+            "c": "A-6 - M-30 - Pradillo",
+            "d": "Av. Andalucía - M-40 - Pradillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CAMPUS DE SOMOSAGUAS HASTA NUEVOS MINISTERIOS",
+        "options": {
+            "a": "Vía de las Dos Castillas - M-500 - Av. Séneca - Av. de la Memoria - Av. Reyes Católicos - Pza. Cristo Rey - P° S. Fco. De Sales - Av. Reina Victoria - Gta. Cuatro Caminos - Raimundo Fernández Villaverde",
+            "b": "Vía de las Dos Castillas - M-500 - A-6 - Princesa - Gran Vía - Alcalá - P° Castellana",
+            "c": "M-500 - M-30",
+            "d": "Ctra. Húmera a Pozuelo - M-500 - Pe Castellana"
+        },
+        "solution": "a"
+    }
+]

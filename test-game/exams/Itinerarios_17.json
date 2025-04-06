@@ -1,0 +1,122 @@
+[
+    {
+        "question": "HOSPITAL GOMEZ ULLA HASTA J.M.D. ARGANZUELA",
+        "options": {
+            "a": "Gta. Ejército - Oca - Av. Oporto - Pza. Elíptica - Marcelo Usera - Vado Sta. Catalina - Pza. Legazpi - P° Chopera",
+            "b": "Gta. Ejército - Av. Carabanchel Alto - M-30 - Legazpi",
+            "c": "General Ricardos - Marqués de Vadillo - Pza. Legazpi",
+            "d": "M-30 - Marqués de Vadillo - Av. Córdoba"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CAMPUS DE SOMOSAGUAS HASTA PLAZA TOROS DE LAS VENTAS",
+        "options": {
+            "a": "M-40 - Alcalá",
+            "b": "M-503 - M-500 - M-30 - Alcalá",
+            "c": "M-503 - M-40 - Av. Poblados",
+            "d": "Ctra. Boadilla - Av. Poblados - Alcalá"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "UNIVERSIDAD AUTÓNOMA HASTA EL REGISTRO CIVIL",
+        "options": {
+            "a": "M-607 - M-30 - Pradillo",
+            "b": "M-605 - P° Castellana - Caídos División Azul",
+            "c": "M-607 - M-45 - Pradillo",
+            "d": "M-30 - Pradillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AVENIDA DE EUROPA (POZUELO) HASTA EL REGISTRO CIVII",
+        "options": {
+            "a": "Vía de las Dos Castillas - M-500 - Av. Séneca - Av. de la Memoria - Av. Reyes Católicos - Cea Bermúdez - José Abascal - Pza. Doctor Marañón - Me Molina - López de Hoyos - Príncipe de Vergara",
+            "b": "M-503 - M-500 - M-30 - Pradillo",
+            "c": "A-6 - M-30 - Pradillo",
+            "d": "Av. Andalucía - M-40 - Pradillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CAMPUS SOMOSAGUAS HASTA NUEVOS MINISTERIOS",
+        "options": {
+            "a": "Vía de las Dos Castillas - M-500 - Av. Séneca - Av de la Memoria - Av. Reyes Católicos - Pza.Cristo Rey - P° S. Fco. Sales - Av. Reina Victoria - Gta. Cuatro Caminos - Raimundo Fernández Villaverde",
+            "b": "Vía de las Dos Castillas - M-500 - A-6 - Princesa - Gran Vía - Alcalá - Pe Castellana",
+            "c": "M-500 - M-30",
+            "d": "Ctra. Humera a Pozuelo - M-500 - P° Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AVENIDA COMPLUTENSE HASTA AVENIDA OSA MAYOR",
+        "options": {
+            "a": "Ctra. Dehesa de la Villa - A-6",
+            "b": "A-6 - M-30 - c/ Pléyades",
+            "c": "M-30 - Av. Puerta Hierro",
+            "d": "M-30 - M-40 - Pléyades"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AVENIDA OSA MAYOR (ARAVACA) HASTA EL TIRO DEL PICHÓN",
+        "options": {
+            "a": "A-6 - M-30 - M-605",
+            "b": "A-5 - M-40 - Ctra. El Pardo",
+            "c": "A-6 - M-40 - M-30 - Arroyofresno",
+            "d": "Pléyades - M-605"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "J.M.D. MORATALAZ HASTA HOSPITAL NIÑO JESÚS",
+        "options": {
+            "a": "Hacienda de Pavones - C° Vinateros - Av. Mediterráneo",
+            "b": "Fuente Carrantona - Av. Mediterráneo",
+            "c": "Arroyo Fontarrón - M-30 - Av. Moratalaz - Odonell",
+            "d": "Fuente Carrantona - Conde Casal - M-40 - Av. Mediterráneo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "ZOO CASA DE CAMPO HASTA NUEVOS MINISTERIOS",
+        "options": {
+            "a": "P° de Extremadura - Alcalá - Gran Vía - P° Castellana",
+            "b": "P° de Extremadura - Gta. San Vicente - Príncipe Pío",
+            "c": "Ctra. Batán - P° Extremadura - M-30 - Sinesio Delgado - Pza. Castilla - p° Castellana",
+            "d": "Ctra. Batán - Av. Portugal - M-30 - Av. Séneca - S. Fco. Sales - Raimundo Fernández Villaverde - P° Castellana"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "POLIGONO INDUSTRIAL DE LAS MERCEDES HASTA ESTADIO DE LA PEINETA",
+        "options": {
+            "a": "M-40 - Fco. Largo Caballero - Pza. Grecia",
+            "b": "Campezo - M-30 - Av. Arcentales",
+            "c": "M-40 - Av. Canillejas - Av. Arcentales",
+            "d": "Nudo Eisenhower - M-40 - Av. Arcentales"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "TIRO DEL PICHÓN HASTA PARQUE TECNOLÓGICO",
+        "options": {
+            "a": "M-30 - M-605 - Autovía de Colmenar",
+            "b": "Ctra. El Pardo - M-30 - M-607",
+            "c": "Av. De la Guardia - M-3° - Autovía de Colmenar",
+            "d": "Ctra. El Pardo - M-40 - Autovía de Colmenar"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PARQUE DEPORTIVO PUERTA DE HIERRO HASTA JUZGADO DE GUARDIA",
+        "options": {
+            "a": "Av. Ilustración - Cardenal Herrera Oria - Pza. Castilla",
+            "b": "Cardenal Herrera Oria - M-40 - Pza. Castilla",
+            "c": "Ctra. Dehesa de la Villa - Sinesio Delgado - Av. Asturias",
+            "d": "M-30 - Av. Ilustración - Bravo Murillo - Pza. Castilla"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de Castilla al Hospital Carlos III?",
+        "options": {
+            "a": "Paseo de la Castellana - C/ de Sinesio Delgado",
+            "b": "Paseo de la Castellana",
+            "c": "C/ Arzobispo Morcillo",
+            "d": "C/ Bravo Murillo - Plaza Castilla - Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Mirasierra a Puerta de Europa?",
+        "options": {
+            "a": "Av. del Ventisquero de la Condesa - C/ Camino de Ganapanes - C/ de Sor Ángela de la Cruz - Paseo de la Castellana",
+            "b": "Av. del Ventisquero de la Condesa - C/ Camino de Ganapanes - C/ de Sor Ángela de la Cruz",
+            "c": "Av. del Ventisquero de la Condesa - C/ Camino de Ganapanes - C/ de Sor Ángela de la Cruz - Paseo de la Castellana - Mateo Inurria",
+            "d": "Herrera Oria - M-30 - Avenida de la Ilustración - M-30 - Plaza de Castilla"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Duque de Pastrana a la parada de metro Barrio del Pilar?",
+        "options": {
+            "a": "C/ Mateo Inurria - Av. de Asturias - C/ Ginzo de Limia",
+            "b": "Plaza de Castilla - Av. Asturias - C/Ginzo de Limia",
+            "c": "C/ Platerías - Paseo de la habana - Paseo de la Castellana - Av. Asturias - c/Ginzo de Limia",
+            "d": "C/ Mateo Inurria - Av. Asturias - Sinesio Delgado"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Valdeacederas a la Hospital Universitario La Paz?",
+        "options": {
+            "a": "Plaza de Castilla - Paseo de la Castellana - Av. Monforte de Lemos - C/ Pedro Rico - C/",
+            "b": "C/ Bravo Murillo - Paseo de la Castellana - Av. Monforte de Lemos - C/ Pedro Rico - C/ Arzobispo Morcillo",
+            "c": "C/ Bravo Murillo - Paseo de la Castellana - C/ Pedro Rico - C/ Arzobispo Morcillo",
+            "d": "Paseo de la Castellana - Av. Monforte de Lemos - C/ Pedro Rico - C/ Arzobispo Morcillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza del Conde de Eleta al Hospital Central Gómez Ulla?",
+        "options": {
+            "a": "C/ Medina Sidonia - Av. Ntra. Sra. de Fátima - C/ San Sinesio - C/ de la Oca",
+            "b": "C/ Medina Sidonia - Av. Ntra. Sra. de Fátima - Paseo Marcelino Camacho",
+            "c": "C/ Medina Sidonia - Av. Ntra. Sra. de Fátima - C/ Del Espinar/C/General Ricardos",
+            "d": "C/ Medina Sidonia - Av. Ntra. Sra. de Fátima General Ricardos - Pº Marcelino Camacho"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Hilanderas a la Plaza de Méndez Parada?",
+        "options": {
+            "a": "Av. Abrantes Camino Viejo de Leganés Av. Oporto Campoamor - C/ Álvarez Abellán - C/ Chiclana General Ricardos - C/ Clara Campoamor - C/ Álvarez Abellán - C/ Chiclana",
+            "b": "Av. Abrantes - Pza. Alcalde Brell - C/ Clara Campoamor - C/ Álvarez Abellán",
+            "c": "C/ Del pelícano - C/Jilguero - Plaza de Tarifa C/ Álvarez Abellán - C/ Chiclana",
+            "d": "Av. Abrantes - Pza. Alcalde Brell - C/ Clara Campoamor - C/ Álvarez Abellán - C/ Chiclana"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Centro Deportivo Orcasur a la Estación 12 de Octubre?",
+        "options": {
+            "a": "C/ Moreja C/ Salvador Martínez - C/ Eduardo Barreiros - Av. De los Poblados - Dr. Tolosa Latour",
+            "b": "C/ Moreja - Av. Orcasur - Av. de los Poblados - C/ Dr. Tolosa Latour",
+            "c": "C/Moreja - Av. Orcasur - Av. de los Poblados",
+            "d": "C/ Moreja - Av. de los Poblados - C/ Dr. Tolosa Latour"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Museo Nacional Centro de Arte Reina Sofía al edificio de la CNMV (Comisión Nacional del Mercado de Valores)?",
+        "options": {
+            "a": "Ronda de Atocha - C/ Alfonso XII - C/ Alcalá - C/ Serrano - C/López de Hoyos - C/ Edison",
+            "b": "Av. Ciudad de Barcelona - C/ Alfonso XII - C/ Alcalá - C/ Velázquez - C/ López de Hoyos - C/Edison",
+            "c": "Ronda de Atocha C/ Alfonso XII - C/Alcalá - C/ Velázquez - C/López de Hoyos - C/ Edison",
+            "d": "Ronda de Atocha - Av. Alfonso XIII - C/ Alcalá - C/ Velázquez - C/ López de Hoyos - C/ Edison"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de parada de metro La Peseta a la Caja Mágica?",
+        "options": {
+            "a": "Av. Euro - M-40 - Av. Andalucía Av. de los Rosales - C/ Corindón",
+            "b": "Av. Peseta - M-45 - Av. Andalucía Av. de los Rosales - C/ Corindón",
+            "c": "Av. Peseta - M-40 - Av. Andalucía Av. de los Rosales - C/ Corindón",
+            "d": "Av. Peseta - M-40 - Av. Córdoba - Av. de los Rosales - C/ Corindón"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Pío XII al Arco de la Victoria?",
+        "options": {
+            "a": "Av. Pío XII - M-30 Lateral - Av. de la Memorial",
+            "b": "Av. Pío XII - C/ Príncipe de Vergara - C/ Serrano - C/ Ríos Rosas - Av. Filipinas - C/ Guzmán el Bueno - C/Fernando el Católico - Av. Puerta de Hierro",
+            "c": "Av. Pío XII - C/ Principe de Vergara - C/ Velázquez - C/ Ríos Rosas - Av. Filipinas - C/ Guzmán el Bueno - C/ Fernando el Católico - Av. de la Memoria",
+            "d": "Av. Pío XII - C/ Príncipe de Vergara - C/ Serrano - C/ Ríos Rosas - Av. Filipinas - C/ Guzmán el Bueno - C/Fernando el Católico - Av. de la Memoria"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital Universitario de la Princesa a la parada de metro La Elipa, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Diego de León - C/ Francisco Silvela - C/ Dr. Esquerdo - C/O'Donnell - C/ Alcalde Sainz de Baranda - Av. Marqués de Corbera",
+            "b": "C/ Diego de León - C/ Francisco Silvela - C/ Dr. Esquerdo - C/ O'Donnell - Av. Marqués de Corbera - C/ Alcalde Sainz de Baranda",
+            "c": "C/ Diego de León - C/Francisco Silvela - C/ Dr. Esquerdo - M-23 - C/Alcalde Sainz de Baranda - Av. Marqués de Corbera",
+            "d": "C/ Diego de León - C/Francisco Silvela - c/Alcalá - C/ Dr. Esquerdo - C/O'Donnell - C/Alcalde Sainz de Baranda"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Estadio Santiago Bernabéu al aeropuerto Adolfo Suárez - Madrid Barajas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Concha Espina - Av. Ramón y Cajal - M-30 - A-3 - M-14",
+            "b": "Av. Concha Espina - Av. Ramón y Cajal - M-30 - A-2 - M-14",
+            "c": "Av. Concha Espina - Av. Ramón y Cajal - M-30 - M21 - M-14",
+            "d": "Av. Concha Espina - Av. Ramón y Cajal - M-30 - A-2 - M-11"
+        },
+        "solution": "b"
+    }
+]

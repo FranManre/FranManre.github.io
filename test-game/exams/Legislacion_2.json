@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Según la Ley 29/2003, de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987, de 30 de julio, de ordenación de los transportes\", la manipulación del aparato taxímetro tendrá una cuantía de:",
+        "options": {
+            "a": "4601 a 6000€",
+            "b": "2001 a 3300€",
+            "c": "200€",
+            "d": "3301 a 4600€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la ley 29/2003 de 8 de Octubre, el incumplimiento tarifario se considerará falta:",
+        "options": {
+            "a": "Muy grave: 4601 a 6000€",
+            "b": "Muy grave: 3301 a 4600€",
+            "c": "Grave: 3301 a 4006€",
+            "d": "Leve: 200€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ley 29/2003, de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987, de 30 de julio, de ordenación de los transportes\", los actos de los usuarios se considerarán infracción...",
+        "options": {
+            "a": "Grave.",
+            "b": "Leve.",
+            "c": "Muy grave.",
+            "d": "No se considerarán infracción."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ley 29/2003, de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987, de 30 de julio, de ordenación de los transportes\", la falta de cuidado y aseo personal del conductor supondrá una cuantía de...",
+        "options": {
+            "a": "300€",
+            "b": "1800€",
+            "c": "200€",
+            "d": "1501 a 2000€"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ley 29/2003 de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987 de 30 de julio, de ordenación de los transportes\", sobrepasar el número de plazas autorizadas se considerará una infracción:",
+        "options": {
+            "a": "Grave: 1501 a 2000€",
+            "b": "Muy grave: 2001 a 5000€",
+            "c": "Leve: 200€",
+            "d": "Muy grave: 3301 a 4600€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ley 29/2003 de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987 de 30 de julio, de ordenación de los transportes\", el quebrantamiento de órdenes",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No se considera como falta."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el reglamento (74/2005) los vehículos que presten servicio de autotaxi sólo podrán",
+        "options": {
+            "a": "Carnet C.",
+            "b": "Permiso para ejercer la profesión.",
+            "c": "BTP",
+            "d": "A+VT"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Los municipios son competentes con carácter general para:",
+        "options": {
+            "a": "La ordenación, gestión, inspección y sanción dentro de los términos municipales.",
+            "b": "No tienen potestad para sancionar.",
+            "c": "Sólo sancionar.",
+            "d": "Crear."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ley 29/2003 de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987 de 30 de julio, de ordenación de los transportes\", la manipulación del aparato taxímetro tendrá una cuantía de:",
+        "options": {
+            "a": "4601 a 6000€",
+            "b": "2001 a 3300€",
+            "c": "200€",
+            "d": "3301 a 4600€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el reglamento 74/2005, las licencias de autotaxi serán transmisibles a favor de cualquier...",
+        "options": {
+            "a": "Persona jurídica que lo solicite, dando cuenta al órgano municipal competente.",
+            "b": "Persona física o jurídica que lo solicite, previa autorización del órgano municipal competente",
+            "c": "Funcionario público que lo solicite, para posteriormente venderlas.",
+            "d": "Todas las respuestas son correctas."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿El decreto 74/2005 a qué hace referencia?",
+        "options": {
+            "a": "A las tarjetas de identificación.",
+            "b": "Al reglamento de los servicios de transporte público urbano de servicio público.",
+            "c": "Al reglamento sobre incorporación de mamparas.",
+            "d": "Al servicio de viajeros fuera del APC"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La no disposición de número mínimo de conductores tendrá consideración de infracción:",
+        "options": {
+            "a": "Muy grave",
+            "b": "Grave",
+            "c": "Leve",
+            "d": "Ninguna"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el reglamento (74/2005), para la obtención de licencias municipales de autotaxi será necesario acreditar ante el órgano competente el cumplimiento de los siguientes requisitos.",
+        "options": {
+            "a": "Disponer de vehículos a los que han de referirse las licencias que cumplan con los requisitos previstos en el reglamento y no superen la antigüedad de 5 años, contados desde su primera matriculación, cualquiera que sea el país donde ésta se haya producido.",
+            "b": "Disponer de vehículos a los que han de referirse las licencias que cumplan con los requisitos previstos en el reglamento y no superen la antigüedad de 1 años, contados desde su primera matriculación, cualquiera que sea el país donde ésta se haya producido.",
+            "c": "Disponer de vehículos a los que han de referirse las licencias que cumplan con los requisitos previstos en el reglamento y no superen la antigüedad de 2 años, contados desde su primera matriculación, cualquiera que sea el país donde ésta se haya producido.",
+            "d": "Ninguna de las respuestas es correcta."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la ley 29/2003, de 8 de Octubre, el incumplimiento tarifario se considerará falta:",
+        "options": {
+            "a": "Muy grave de 4601 a 6000€",
+            "b": "Muy grave de 3301 a 4600€",
+            "c": "Grave de 3301 a 4006€",
+            "d": "Leve de 200€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Ordenanza fue aprobada",
+        "options": {
+            "a": "12 Noviembre",
+            "b": "28 Noviembre",
+            "c": "28 Julio",
+            "d": "12 Agosto"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el reglamento 74/2005, las personas que obtengan licencias de autotaxi, deberán iniciar la prestación del servicio en el plazo máximo de... de la concesión de las normas.",
+        "options": {
+            "a": "60 días",
+            "b": "De 30 a 60 días.",
+            "c": "De 30 dias consecutivos a 60 alternos.",
+            "d": "No tienen plazo."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ley 29/2003, de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987, de 30 de julio, de ordenación de los transportes\", los actos de los usuarios se considerarán infracción...",
+        "options": {
+            "a": "Grave.",
+            "b": "Leve.",
+            "c": "Muy grave.",
+            "d": "No se considerarán infracción."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el reglamento 74/2005, el municipio receptor de la solicitud conjunta de licencia de autotaxi y de la autorización de transporte público interurbano, la remitirá acompañada de una copia de la documentación prevista en el Nº1 del artículo anterior...",
+        "options": {
+            "a": "Al órgano competente para el otorgamiento de la autorización de transporte público",
+            "b": "Al Ministerio de Defensa.",
+            "c": "Al Órgano Estatal.",
+            "d": "Ninguna de las respuestas es correcta."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ley 29/2003, de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987, de 30 de julio, de ordenación de los transportes\", la falta de cuidado y aseo personal del conductor supondrá una cuantía de....",
+        "options": {
+            "a": "300€",
+            "b": "1800€",
+            "c": "200€",
+            "d": "1501 a 2000€"
+        },
+        "solution": "c"
+    },
+    {
+        "question": ", ¿Cuándo prescriben las faltas leves?",
+        "options": {
+            "a": "Un año.",
+            "b": "De 3 a 6 meses",
+            "c": "15 días.",
+            "d": "2 años."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el reglamento 74/2005, el municipio receptor de la solicitud conjunta de licencia de autotaxi y de autorización de transporte público interurbano la remitirá a dicho órgano teniendo en cuenta la situación de la oferta y la demanda del transporte e informará con carácter autovinculante, en un plazo de...",
+        "options": {
+            "a": "3 años.",
+            "b": "3 meses",
+            "c": "3 días.",
+            "d": "6 meses."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el reglamento (74/2005), los vehículos en circulación no podrán tomar viajeros a menos de... de los puntos de espera establecidos en el sentido de la marcha.",
+        "options": {
+            "a": "100 metros.",
+            "b": "100 metros en el mismo sentido en el que esté la parada.",
+            "c": "10 metros.",
+            "d": "1000 metros"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Fumar en el interior de un taxi se considera una falta...",
+        "options": {
+            "a": "Grave.",
+            "b": "Muy Grave.",
+            "c": "Leve",
+            "d": "No se considera falta"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ley 29/2003, de 8 de Octubre, sobre \"Mejora de las condiciones de competencia y seguridad en el mercado de transporte por carretera por la que se modifica, parcialmente, la ley 16/1987, de 30 de julio, de ordenación de los transportes\", sobrepasar el número de plazas autorizadas se considerará una infracción:",
+        "options": {
+            "a": "Grave: 1501 a 2000€",
+            "b": "Muy grave: 2001 a 5000€",
+            "c": "Leve: 200€",
+            "d": "Muy grave: 3301 a 4600€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el reglamento 74/2005, queda prohibido...",
+        "options": {
+            "a": "Instalar mamparas de seguridad en el vehículo auto-taxi.",
+            "b": "El contrato de dos conductores para el taxi de la propiedad.",
+            "c": "El arrendamiento, cesión o traspaso de la explotación de las licencias y de los vehículos afectos a las mismas.",
+            "d": "Transportar comida en el vehículo mientras se le esté dando uso de auto-taxi."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el reglamento 74/2005, no se permitirán modificaciones que impliquen aumento del número de plazas, salvo las excepciones contempladas en el artículo...",
+        "options": {
+            "a": "19 (vehículo adaptado para mascotas)",
+            "b": "20 (posibilidad de duplicar el nº de plazas cuando se trate de niños menores de 9",
+            "c": "21 (excepciones especiales para familias numerosas)",
+            "d": "22 (vehículo adaptado para silla de ruedas."
+        },
+        "solution": "d"
+    }
+]

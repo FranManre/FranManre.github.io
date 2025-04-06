@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Cuando usted atienda a una persona con discapacidad:",
+        "options": {
+            "a": "No haga muchas preguntas, tome las decisiones que considere necesarias.",
+            "b": "Pregúntele acerca de su discapacidad",
+            "c": "Preste atención a la persona y no a sus limitaciones.",
+            "d": "Va a necesitar ayuda, anticípese a sus necesidades para evitar que tenga que pedírsela de forma explícita."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Cuando una persona con discapacidad entre es su Autotaxi la actitud CORRECTA es:",
+        "options": {
+            "a": "Preguntar desde cuándo tiene la discapacidad.",
+            "b": "No realizar preguntas relacionadas con la discapacidad ya que pertenecen a su intimidad.",
+            "c": "Realizar preguntas para averiguar por qué tiene discapacidad.",
+            "d": "No hablar ni preguntar nada a la persona con discapacidad."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "En un vehículo de Autotaxi, ¿Cómo y dónde viajará un invidente con un perro guía?",
+        "options": {
+            "a": "La persona invidente viajará en el vehículo con el perro guía tumbado a sus pies y si el cliente está de acuerdo, el perro guía también podrá viajar en el maletero.",
+            "b": "La persona invidente viajará en el vehículo con el perro guía sentado en el asiento del",
+            "c": "La persona invidente viajará en el vehículo con el perro guía dentro de un trasportin",
+            "d": "La persona invidente viajará en el vehículo con el perro guía sobre sus piernas."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Una forma correcta, para una persona con discapacidad visual sepa que usted está ahí sería:",
+        "options": {
+            "a": "Agarrarle por el brazo que sujeta el arnés o perro guía.",
+            "b": "Chasquear los dedos para que el sonido le indique dónde se encuentra.",
+            "c": "Utilizar señales acústicas como palmadas, silbidos o pitidos para que el cliente advierta su presencia.",
+            "d": "Utilizar el nombre de su cliente, si lo sabe, o tocarle ligeramente el brazo mientras le habla."
+        },
+        "solution": "d"
+    }
+]

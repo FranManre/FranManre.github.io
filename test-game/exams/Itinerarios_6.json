@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir del Hospital Carlos IIl a la Estación Chamartín, ¿cuál de los siguientes itinerarios es",
+        "options": {
+            "a": "C/ de Sinesio Delgado - Paseo de la Castellana",
+            "b": "Paseo de la Castellana",
+            "c": "C/ de Sinesio Delgado - Estación de Chamartin",
+            "d": "C/ de Sinesio delgado - Monforte de Lemos - c/ de Sinesio Delgado - Estación de Chamartín"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de Cuatro Torres Business Área a la parada de metro Moncloa, ¿cuál de los siguientes",
+        "options": {
+            "a": "Paseo de la Castellana - Av. de Filipinas - C/ Guzmán el Bueno - C/ Princesa",
+            "b": "Paseo de la Castellana - C/ Ríos Rosas - Av. de Filipinas - C/ Guzmán el Bueno",
+            "c": "Paseo de la Castellana - C/ Ríos Rosas - Av. de Filipinas - C/ Guzmán el Bueno - C/ Princesa",
+            "d": "Paseo de la Castellana - M-30 Lateral - Plaza de Moncloa - C/ Princesa"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la parada de metro Barrio del Pilar a la parada de metro Cuzco, ¿cuál de los",
+        "options": {
+            "a": "C/ Ginzo de Limia - Av. de Asturias - Paseo de la Castellana",
+            "b": "C/ Ginzo de Limia - C/ Sinesio Delgado - Paseo de la Castellana",
+            "c": "C/ Ginzo de Limia - Avenida de la llustración - M-30 - Salida Paseo de la Castellana",
+            "d": "C/ Ginzo de Limia - Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Hospital Universitario La Paz a la parada de metro Tetuán, ¿cuál de los siguientes",
+        "options": {
+            "a": "Paseo de la Castellana - Av. Asturias",
+            "b": "Paseo de la Castellana - mateo Inurria",
+            "c": "Paseo de la Castellana - C/ Bravo Murillo - C/ San Germán",
+            "d": "Paseo de la Castellana - C/ Bravo Murillo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital Central Gómez Ulla a la parada de metro Eugenia de Montijo, ¿cuál de",
+        "options": {
+            "a": "Camino de los Ingenieros - C/ Ntra. Sra. de Fátima - C/ Ocaña",
+            "b": "Camino de los Ingenieros - C/ Ocaña",
+            "c": "Camino de los Ingenieros - C/ Ntra. Sra. de la Luz",
+            "d": "Camino de los Ingenieros - C/ Ntra. Sra. de la Luz. - C/ Ocaña"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la Plaza Gándara de Oro a la Plaza del Poeta Rioja, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Gta. Valle de Oro - Av. Oporto - C/ Camino Viejo de Leganés - C/ Carrero Juan Ramón - Av. Abrantes - Pza. Vulcano",
+            "b": "C/ Río del Oro - Gta. Valle de Oro - Av. Oporto - C/ Camino Viejo de Leganés - C/ Carrero Juan Ramón - Av. Abrantes - Pza. Vulcano",
+            "c": "C/ Río del Oro - Gta. Valle de Oro - C/ Camino Viejo de Leganés - C/ Carrero Juan Ramón - Av. Abrantes - Pza. Vulcano",
+            "d": "C/ Río del Oro - Gta. Valle de Oro - Av. Oporto - C/ Camino Viejo de Leganés - C/ Carrero Juan Ramón"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza Mirador de Orcasitas a la Plaza Puerto de Urquiola, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Cristo de la Victoria - Av. de Rafael Ybarra - C/ Marcelo Usera",
+            "b": "C/ Cristo de la Victoria - Av. de Rafael Ybarra",
+            "c": "Av. De Córdoba - C/ Marcelo Usera - Av. de Rafael Ybarra",
+            "d": "Av. de Rafael Ybarra"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Alvarado a la Plaza Alcira?",
+        "options": {
+            "a": "C/ Bravo Murillo - C/ Marqués de viana - P° de la dirección - C/ Ofelia Nieto - C/ Francos Rodríguez",
+            "b": "C/ Bravo Murillo - C/ Lope de Haro - C/ Francos Rodríguez - Av. Santo Ángel de la Guarda",
+            "c": "C/ Bravo Murillo - C/ Francos Rodríguez - Av. Santo Ángel de la Guarda",
+            "d": "C/ Bravo Murillo - C/ Francos Rodríguez - C/ Antonio Machado - C/ Alcalde Martín de Alzaga"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Parroquia de Nuestra Señora de la Merced a la parada de metro Miguel Hernández, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Corregidor Juan Fco. De Luján - C/ Arroyo de Fontarrón - C/ Fuente Carrantona - Av. Pablo Neruda",
+            "b": "C/ Corregidor Juan Fco. De Luján - C/ Arroyo de Fontarrón - C/ Fuente Carrantona - Av. Pablo Neruda - Av. Albufera",
+            "c": "C/ Corregidor Juan Fco. De Luján - C/ Fuente Carrantona - Av. Pablo Neruda - Av. Albufera",
+            "d": "C/ Corregidor Juan Fco. De Luján - C/ Hermanos García Noblejas - C/ Fuente Carrantona - Av.Pablo Neruda - Av. Albufera"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del Colegio Público Alberto Alcocer a la parada de metro Simancas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Canillejas/Vicálvaro - C/ Arcos de Jalón - C/ Pobladura del Valle - C/ Hermanos García Noblejas",
+            "b": "Av. Canillejas/Vicálvaro - C/ Arcos de Jalón - C/ Pobladura del Valle - C/ Hermanos Garcia Noblejas - C/ Castillo de Uclés",
+            "c": "Av. Canillejas/Vicálvaro - C/ Pobladura del Valle - C/ Hermanos García Noblejas - C/ Castillo de Uclés",
+            "d": "Av. Canillejas/Vicálvaro - C/ Arcos de Jalón - C/ Pobladura del Valle - C/ Arturo Soria - C/ Castillo de Uclés."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del edificio del INE (Instituto Nacional de Estadística) al Museo Arqueológico Nacional?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo de la Castellana - C/ Armada Española",
+            "c": "Paseo de la Castellana - Gta. Emperador Carlos V",
+            "d": "Paseo de la Castellana - Paseo del Prado"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del aeropuerto Adolfo Suárez - Madrid Barajas al Estadio Santiago Bernabéu?",
+        "options": {
+            "a": "M-11 - M30 - C/Costa Rica - Av. Alberto Alcocer - C/ Padre Damián",
+            "b": "M-11 - Paseo de la Castellana - Av. Concha Espina",
+            "c": "M-14 - A-2 - Av. Ramón y Cajal - Av. Concha Espina",
+            "d": "C/ de los Astros - M40 - Paseo del Prado"
+        },
+        "solution": "c"
+    }
+]

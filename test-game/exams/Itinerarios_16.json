@@ -1,0 +1,122 @@
+[
+    {
+        "question": "JEFATURA DE TRÁFICO HASTA ESTADIO DE LA PEINETA",
+        "options": {
+            "a": "Arturo Soria - Av. Arcentales",
+            "b": "Hermanos García Noblejas - Av. Arcentales",
+            "c": "Hermanos García Noblejas - Pza. Grecia",
+            "d": "Arturo Soria - Fco. Largo Caballero - Pza. Grecia"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PLAZA CASTILLA HASTA MENDEZ ALVARO",
+        "options": {
+            "a": "Pe Castellana - P° Recoletos - P° Prado - Av. Ciudad Barcelona",
+            "b": "Mateo Inurria - Príncipe de Vergara - Av. Mediterráneo - M-30 - Méndez Álvaro",
+            "c": "Pe Castellana - Serrano - Alfonso XII - Av. Ciudad Barcelona - Pedro Bosch",
+            "d": "Mateo Inurria - M-30 - Puente Vallecas - M-30 - Méndez Álvaro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DOCTOR RAMON CASTROVIEJO HASTA HOSPITAL RAMÓN Y CAJAL",
+        "options": {
+            "a": "Ginzo Limia - Av. Cardenal Herrera Oria - S Modesto",
+            "b": "Av. Ilustración - M-607 - S. Modesto",
+            "c": "Monforte de Lemos - Sinesio Delgado - Pza. Castilla",
+            "d": "Av. Asturias - P° Castellana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DOCTOR RAMÓN CASTROVIEJO HASTA CLUB DE CAMPO VILLA DE MADRID",
+        "options": {
+            "a": "M-30 - Pz República de Chile - Ctra. Castilla",
+            "b": "M-40 - Repiiblica de Chile",
+            "c": "Av. Ilustración - Pza. República Chile - Ctra. Boadilla",
+            "d": "M-40 - Crta Castilla"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CLUB DE CAMPO VILLA DE MADRID HASTA ESTACIÓN DE CHAMARTÍN",
+        "options": {
+            "a": "Ctra. Castilla - M-30 - Sinesio Delgado - Feo Palau y Quer",
+            "b": "A-6 - M-40 - A-1",
+            "c": "Ctra. Coruña - M-30 - P° Castellana - Pza. Castilla",
+            "d": "A-4 - M-30 - P% Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AERÓDROMO CUATRO VIENTOS HASTA POZUELO",
+        "options": {
+            "a": "Ctra. Barrio de la Fortuna - M-40",
+            "b": "M-40",
+            "c": "Av. Aviación - A-5 - M-30",
+            "d": "Av. Poblados - M-50"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CLÍNICA MONCLOA HASTA J.M.D CHAMBERI",
+        "options": {
+            "a": "Av. Valladolid - M-30 - Alcalá - Hortaleza - Sta. Engracia",
+            "b": "P° Florida - Cuesta S. Vicente - Pza. Chamberi",
+            "c": "Pe Florida - Cuesta S. Vicente - Princesa - Alberto Aguilera - Carranza - Gta. Bilbao - Luchana",
+            "d": "Av. Valladolid - M-40 - Av. Princesa Juana Austria"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "J.M.D. USERA HASTA SERRANO ESQUINA AYALA",
+        "options": {
+            "a": "Av. Rafaela Ybarra - Av. Córdoba - M-30 - Alcalá - Pe Castellana",
+            "b": "Marcelo Usera - Pza. Elíptica - pe Sta. Me Cabeza - p° Delicias - Pe Prado - Alcalá - Velázquez - Ayala",
+            "c": "Av. Córdoba - Av. Andalucía - Gta. Cádiz - Vado Sta. Catalina - Pe Delicias",
+            "d": "Marcelo Usera - M-30 - Alcalá"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "POZUELO HASTA INTERCAMBI ADOR AVENIDA AMÉRICA",
+        "options": {
+            "a": "M-500 - Av. América",
+            "b": "A-4 - Av. Córdoba - Marqués de Vadillo - M-30 - Av. América",
+            "c": "M-40 - Nudo Sur - Méndez Álvaro - Pe Prado - P° Recoletos - Pe Castellana - Ma Molina",
+            "d": "A-6 - Av. Complutense - Reina Victoria - Raimundo Fernández Villaverde - Joaquín Costa - Francisco Silvela"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "MORATALAZ HASTA HOSPITAL GOMEZ ULLA",
+        "options": {
+            "a": "Fuente Carrantona - A-3 - Av. Mediterráneo - P° Sta. Me de la Cabeza - Av. Oporto - Oca",
+            "b": "Fuénte Carantona - AV. Daroca - Av. Mediterráneo - Menéndez Pelayo",
+            "c": "A-3 - M-30 - Marqués de Vadillo - General Ricardos - P° Marcelino Camacho",
+            "d": "A-5 - M-40 - Av. Rafaela Ybarra - Av. Poblados"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CERRO DE LOS ANGELES HASTA EL AERÓDROMO DE CUATRO VIENTOS",
+        "options": {
+            "a": "A-42 - M-30 - M-40",
+            "b": "A-4 - M-45 - M-40",
+            "c": "A-4 - Av. De la Aviación",
+            "d": "A-42 - M-30 - AV. Aviación"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "HIPERCOR POZUELO HASTA LA ESTACIÓN DE ATOCHA",
+        "options": {
+            "a": "Av. Padre Huidobro - M-40 - P° Sta. Me de la Cabeza",
+            "b": "A-6 - M-30 - Méndez Álvaro",
+            "c": "Av. Osa Mayor - Ctra. Castilla - Princesa",
+            "d": "Av. Padre Huidobro - Av. Puerta Hierro - Princesa - Gran Vía - Alcalá - P° Prado"
+        },
+        "solution": "d"
+    }
+]

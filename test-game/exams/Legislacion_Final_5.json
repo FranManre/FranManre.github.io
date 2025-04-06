@@ -1,0 +1,142 @@
+[
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, la cuantía para la responsabilidad civil será de:",
+        "options": {
+            "a": "500.000.000€",
+            "b": "500.000€",
+            "c": "No especifica una cuantía mínima",
+            "d": "55.000.000€"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, Sólo se admitirá una solicitud referida exclusivamente a la licencia municipal de autotaxi, cuando el solicitante ya sea titular de autorización de transporte público interurbano con una antigüedad inferior a:",
+        "options": {
+            "a": "7 años",
+            "b": "10 años",
+            "c": "4 Años",
+            "d": "5 años"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, para la obtención de la licencia de autotaxi será necesaria la presentación de la correspondiente solicitud, acompañada de original y fotocopia de:",
+        "options": {
+            "a": "DNI o pasaporte o documento de identificación equivalente en su país de origen, más la acreditación del nº de identificación fiscal y permiso de residencia y trabajo. Certificado de inexistencia de deudas en periodo ejecutivo del IRPF, IVA e IAE.",
+            "b": "DNI o pasaporte o documento de identificación equivalente en su país y certificado de inexistencia de multas en tráfico.",
+            "c": "Certificado de inexistencia de deudas en periodo ejecutivo en la renta.",
+            "d": "DNI o pasaporte o documento de identificación equivalente en su país de origen, y permiso de residencia y trabajo. Certificado de inexistencia de multas con el Ayuntamiento."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, ¿en qué plazo el órgano competente nos informará sobre la denegación u otorgamiento de la autorización de transporte público interurbano?",
+        "options": {
+            "a": "2 meses",
+            "b": "4 meses",
+            "c": "3 meses",
+            "d": "5 meses"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, ¿qué pasa cuando el informe del órgano competente para el otorgamiento de la autorización de transporte municipal sea desfavorable?",
+        "options": {
+            "a": "El órgano municipal autorizará la licencia de autotaxi.",
+            "b": "El órgano municipal aprobará la licencia de autotaxi.",
+            "c": "No se tendrá en cuenta.",
+            "d": "No se podrá continuar con la tramitación del expediente"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005 ¿Qué pasa cuando el informe del órgano competente para el otorgamiento de la autorización de transporte interurbano sea favorable?",
+        "options": {
+            "a": "El órgano municipal competente determinará, según corresponda, si procede otorgar la licencia.",
+            "b": "El órgano nacional procede directamente a otorgar la licencia sin más trámite.",
+            "c": "El órgano competente determinará, si cumple todos los requisitos.",
+            "d": "El órgano municipal competente procede otorgar la licencia si existen licencias libres y si no se la quita a algún taxista."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005 ¿Qué pasa cuando hayan transcurrido 3 meses desde que el órgano municipal hubiera solicitado el citado informe y éste no haya sido emitido?",
+        "options": {
+            "a": "No se considera una respuesta afirmativa.",
+            "b": "Se considera denegada.",
+            "c": "Se considerará que no se ha observado ningún movimiento y no se producirá el otorgamiento de la autorización de transporte interurbano.",
+            "d": "Se considerará que no se ha observado ningún inconveniente para el otorgamiento de la autorización de transporte interurbano."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, cuando resulte procedente otorgar la licencia de autotaxi ¿qué plazo se tiene para la entrega de documentos?",
+        "options": {
+            "a": "15 días desde la fecha de otorgamiento",
+            "b": "3 meses",
+            "c": "1 mes",
+            "d": "1 mes y 15 días"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, ¿Qué pasará si una vez que se ha otorgado la licencia no se entrega la documentación?",
+        "options": {
+            "a": "Si es en los próximos 3meses y medio no afectará nada.",
+            "b": "Se archivará sin más trámite.",
+            "c": "Se archivará con un nuevo plazo de entrega.",
+            "d": "En los próximos 3 meses y medio deberán volver a solicitarlo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, ¿Qué documentos se deben aportar cuando resulte procedente otorgar la licencia?",
+        "options": {
+            "a": "Justificante de afiliación y alta en el régimen de la Seguridad Social que corresponda, justificante del INEM del alta en la Seguridad Social de los conductores, justificante de alta de la actividad en el IAE, permiso de circulación del vehículo, ficha de las características técnicas del vehículo y justificante de cobertura de responsabilidad jurídica",
+            "b": "Justificante de afiliación y alta en el régimen de la Seguridad Social que corresponda, del alta en la Seguridad Social de los conductores, del alta de la actividad en el IAE. Permiso de circulación del vehículo, ficha de las características técnicas del vehículo y justificante de cobertura de responsabilidad civil",
+            "c": "Justificante de afiliación y alta en el régimen de la Seguridad Social que corresponda, justificante del alta en la Seguridad Social de los conductores, justificante de alta de la actividad en el IVA, permiso de circulación del vehículo, ficha de las características técnicas del vehículo y justificante de cobertura de responsabilidad civil",
+            "d": "Justificante de afiliación y alta en el régimen de la Seguridad Social que corresponda, justificante del alta en la Seguridad Social de los conductores, justificante de alta de la actividad en el IAE, permiso de circulación del vehículo, ficha de las características técnicas del vehículo y justificante de cobertura de responsabilidad civil"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, ¿Quién tiene que autorizar la publicidad en el taxi?",
+        "options": {
+            "a": "El Órgano Municipal",
+            "b": "Comunidad de Madrid",
+            "c": "Ministerio de Fomento",
+            "d": "Ministerio de Interior"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, señale la respuesta correcta:",
+        "options": {
+            "a": "Las licencias se otorgarán con limitación específica de plazo de validez.",
+            "b": "Si el órgano nacional observa que se cumplen alguno de los requisitos se podrá revocar la licencia municipal.",
+            "c": "Las licencias de autotaxi serán transmisibles a favor de cualquier persona fisica que lo solicite, pero los conductores asalariados del titular tendrán derecho de tanteo para la obtención de la misma.",
+            "d": "Las licencias no son transmisibles a cualquier persona física, serán transmisibles a una persona jurídica."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, ¿Hasta cuándo no se podrá volver a obtener ninguna otra licencia, si ya se ha transmitido una?",
+        "options": {
+            "a": "5 años",
+            "b": "3años",
+            "c": "4años",
+            "d": "2años"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el Reglamento de los servicios de transporte público urbano 74/2005, para la obtención de licencias municipales de autotaxi será necesario acreditar ante el órgano competente el cumplimiento de los siguientes requisitos:",
+        "options": {
+            "a": "Disponer de vehículos, a los que han de referirse las licencias y no superen la antigüedad de 5 años contados desde su primera matriculación, disponer del número de conductores que resulte pertinente, tener cubierta la responsabilidad civil por los daños que causen el transporte y obtener simultáneamente la autorización de transporte público discrecional interurbano en automóvil de turismo.",
+            "b": "Disponer de vehículos, a los que han de referirse las licencias y no superen la antigüedad de 2 años contados desde su primera matriculación, disponer del número de conductores que resulte pertinente, tener cubierta la responsabilidad civil por los daños que causen el transporte y obtener simultáneamente la autorización de transporte público discrecional interurbano en automóvil de turismo.",
+            "c": "Disponer de vehículos, a los que han de referirse las licencias y no superen la antigüedad de 3 años contados desde su primera matriculación, disponer del número de conductores que resulte pertinente, tener cubierta la responsabilidad civil por los daños que causen el transporte y obtener simultáneamente la autorización de transporte público discrecional interurbano en automóvil de turismo.",
+            "d": "Disponer de vehículos, a los que han de referirse las licencias y no superen la antigüedad de 4 años contados desde su primera matriculación, disponer del número de conductores que resulte pertinente, tener cubierta la responsabilidad civil por los daños que causen el transporte y obtener simultáneamente la autorización de transporte público discrecional interurbano en automóvil de turismo, salvo que se den las circunstancias previstas en los números 2 o 3 del artículo 11 solicitud de la licencia."
+        },
+        "solution": "b"
+    }
+]

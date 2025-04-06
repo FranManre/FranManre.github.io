@@ -1,0 +1,152 @@
+[
+    {
+        "question": "¿A qué distancia se divisa el módulo Luminoso (capilla)?",
+        "options": {
+            "a": "50m",
+            "b": "100m",
+            "c": "No legislado",
+            "d": "200m"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "No proporcionar al usuario cambio y moneda metálica o billetes hasta la cantidad establecida, ¿se considera una falta?",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El incumplimiento de las obligaciones de prestación del servicio se considera una falta:",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué organismo impone los dispositivos de color, franjas y demás características de los taxis?",
+        "options": {
+            "a": "El Ayuntamiento",
+            "b": "La Comunidad de Madrid",
+            "c": "El Ministerio de Fomento",
+            "d": "El Ministerio de Industria"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué tipo de infracción es que un usuario se baje del vehículo en marcha?",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "No tener cartilla conduciendo es una falta:",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué tipo de infracción es falsificar datos en la tarjeta identificativa?",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La carencia, falta de diligencia o falta de datos de la documentación cuyo cumplimiento resulte en su caso obligatoria, ¿se considera una falta?",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El incumplimiento del régimen tarifario se considera una falta:",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Después de cuanto tiempo de haber traspasado una licencia se puede adquirir una nueva?",
+        "options": {
+            "a": "1 año",
+            "b": "2 años",
+            "c": "3 años",
+            "d": "4 años"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Plazo de Prescripción de las sanciones graves:",
+        "options": {
+            "a": "2 años de producirse el hecho",
+            "b": "3 años de producirse el hecho",
+            "c": "1 año desde que se puso la sanción",
+            "d": "2 años desde el día en que la infracción se hubiera cometido."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La licencia de autotaxi habrá de referirse a vehículos turismo que disponga el titular de aquella en virtud de algunos de los siguientes títulos:",
+        "options": {
+            "a": "Propiedad o Usufructo",
+            "b": "Leasing",
+            "c": "Renting",
+            "d": "Todas las anteriores son correctas"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Está prohibido poner publicidad?",
+        "options": {
+            "a": "No está permitido en ningún caso.",
+            "b": "Si está permitido bajo la opinión del conductor",
+            "c": "Solamente bajo autorización municipal",
+            "d": "Si está permitido bajo la autoridad del autopatrono."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La negativa u obstrucción a la actuación de los servicios de inspección que impida el ejercicio de las funciones que legal o reglamentariamente tenga atribuidas, ¿Es falta?",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Las infracciones pueden ser:",
+        "options": {
+            "a": "Con multa y sin multa",
+            "b": "Leves, Graves y muy graves",
+            "c": "Con cuantía y sin cuantía",
+            "d": "No existen infracciones."
+        },
+        "solution": "b"
+    }
+]

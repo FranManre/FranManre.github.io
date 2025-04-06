@@ -1,0 +1,122 @@
+[
+    {
+        "question": "CEMENTERIO SUR HASTA LA ESTACIÓN DE ATOCHA",
+        "options": {
+            "a": "Av. Princesa Juana Austria - Av. de los poblados - General Ricardos - Po. acacias - Ronda Toledo - Ronda valencia - Ronda atocha",
+            "b": "Av. Princesa Juana Austria - Av. De los Poblados - Pª Extremadura - Segovia - Mayor - Sol - Carrera San Jerónimo - Po. Prado",
+            "c": "Av. Princesa Juana Austria - Pza. Elíptica - Po. Sta. Cabeza - Ferrocarril - Po. Delicias Gta. Emperador Carlos V",
+            "d": "Av. Princesa Juana Austria - Pza. Pza. Elíptica - Po. Sta. M Cabeza - M-30 - Po. Del Rey - Pza. España - Po. Del Prado - Gta. Emperador Carlos V"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "ASAMBLEA DE MADRID HASTA EL CAMPUS DE SOMOSAGUAS",
+        "options": {
+            "a": "Pza. Asamblea - Av. Pablo Neruda - M-40 - Av. Andalucía - Ctra. Fortuna - Ctra. Carabanchel a Aravaca",
+            "b": "Pza. Asamblea - Puerto Balbarán - Méndez Álvaro - M-30 - Av. de la Ilustración - Ctra. Castilla - Vía de las dos Castillas",
+            "c": "Pza. Asamblea - Av. San Diego - M-30 - Ctra. Castilla - Vía de las dos Castillas - Ctra. Húmera a Aravaca",
+            "d": "Pza. Asamblea - Puerto Balbarán - Méndez Álvaro - Ancora - Embajadores - Ronda Toledo - Ronda Segovia - Po. Extremadura - Ctra. Boadilla del Monte - Ctra. Carabanchel a Aravaca - Ctra. Húmera a Aravaca."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CASITA DEL PRINCIPE HASTA LA PLAZA DE ESPAÑA",
+        "options": {
+            "a": "Po. Del Pardo - Av. Guardia - Ctra. El Pardo - M-30 - Av. Puerta Hierro - Av. de la Memoria - Princesa - Pza. España",
+            "b": "Po. Del Pardo - Av. Guardia - Ctra. El Pardo - M-30 - Toledo - Gran Vía - Pza. España",
+            "c": "Po. Del Pardo - Av. Guardia - A-6 - Av. Reyes Católicos Cea Bermúdez - Vallehermoso",
+            "d": "Po. Del Pardo - Av. Guardia - A-6 - Av. Reyes Católicos Cea Bermúdez - Bravo Murillo Fuencarral - Gran Vía - Pza. España"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DELEGACIÓN DE HACIENDA HASTA REGISTRO CIVIL",
+        "options": {
+            "a": "Av. Reina Victoria - Gta. Cuatro Caminos - Sta. Engracia - José Abascal - Mª Molina - Pradillo",
+            "b": "Guzmán el Bueno - S Fco. Sales - Av. Pablo Iglesias - Bravo Murillo - Gta. Quevedo - Fuencarral",
+            "c": "Guzmán el Bueno - Alberto Aguilera - Carranza - Gta. Bilbao - Sagasta - Pza. Alonso Martínez - Génova - Po. Castellana - Pradillo",
+            "d": "Guzmán el Bueno - Av. Reina Victoria - Gta. Cuatro Caminos - Raimundo Fdez. Villaverde - Joaquín Costa - Velázquez - Av. Doctor Arce - Pza. Cataluña - Pradillo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "JEFATURA PROVINCIAL DE TRÁFICO HASTA AERÓDROMO DE CUATRO VIENTOS",
+        "options": {
+            "a": "Arturo Soria Alcalá Gran Vía Pza. España Cuesta S Vicente Av. Portugal - Po. Extremadura - Av. de la Aviación",
+            "b": "Arturo Soria - M-30 - Av. América - José Abascal - Sta. Engracia - Po. Recoletos - Po. Prado - Av. de la Aviación",
+            "c": "Arturo Soria - Costa Rica - Alberto Alcocer - Po. Castellana - Gran Vía - Pza. España - A-5",
+            "d": "Arturo Soria - M-30 - Av. Mediterráneo - Av. Ciudad Barcelona - Pza. España - Po. Extremadura - A-5"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CLINICA MONCLOA HASTA CASITA DEL PRINCIPE",
+        "options": {
+            "a": "Av. Valladolid - Plaza República Chile - M-30 - Crta El Pardo o M-605 - Av. Del Palacio - Av. Guardia - Pº del Pardo",
+            "b": "Av. Valladolid - Plaza República Chile - Av. Séneca - Ciudad Universitaria - M-30 - Av. Padre Huidobro - Pº del Pardo",
+            "c": "Pº Florida - Cuesta S Vicente - Plaza España - Princesa - Av. Moncloa - M-30 - Crta el Pardo",
+            "d": "Av. Valladolid - Plaza República Chile - M-30 - Ctra. el Pardo - M-40 - Pº del Pardo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOSPITAL RAMON Y CAJ AL HASTA EL AEROPUERTO",
+        "options": {
+            "a": "S. Modesto - Av. Cardenal Herrera Oria - M-607 - M-30 - M-11 - Gta. Ermita Virgen de la Soledad - Av. de la Hispanidad",
+            "b": "S. Modesto - Av. Cardenal Herrera Oria - M-30 - Av. América - A-2",
+            "c": "S. Modesto - Av. Cardenal Herrera Oria - M-30 - M-40 - Av. Hispanidad",
+            "d": "S. Modesto - Av. Ilustración - Ctra. M-605 - M-30 - M-40"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "ESTADIO LA PEINETA HASTA LA ESTACIÓN DE ATOCHA",
+        "options": {
+            "a": "Pza. Grecia - Hermanos García Noblejas - Arturo Soria - M-30 -  0'donell - Av. Menéndez Pelayo",
+            "b": "Av. Arcentales - Fco. Largo Caballero - Hermanos García Noblejas - Alcalá - Odonell - Pza.",
+            "c": "Av. Arcentales - Av. Daroca - Alcalá - Arturo Soria - Hermanos García Noblejas - Pza. Mariano de Cavia",
+            "d": "Av. Arcentales - Av. Daroca - Marqués de Corbera - Alcalde Sainz de Baranda - O`donnell - P° del Prado"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "ESTACIÓN ATOCHA HASTA EL CEMENTERIO SUR",
+        "options": {
+            "a": "Gta. Emperador Carlos V - Pe Delicias - Ronda Atocha - Ronda Valencia - Gta. Embajadores - Pº Acacias - Pº Sta. Mª de la Cabeza",
+            "b": "Méndez Álvaro - M-30 - Embajadores - Pº Sta. Mª Cabeza",
+            "c": "Gta. Emperador Carlos V - Pº Sta. Mª de la Cabeza - Gta. Sta. Mª de la Cabeza - Pza. Eliptica - ",
+            "d": "Gta. Emperador Carlos V - Pº Sta. Mª de la Cabeza - Av. De los Poblados - M-40 - A-42"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "AVENIDA DE LA PESETA HASTA LA JUNTA MUNICIPAL DE LATINA",
+        "options": {
+            "a": "Av. De la Peseta - Vía Lusitana - Av. Oporto - Eugenia de Montijo - General Ricardos - Gta. Marqués De Vadillo",
+            "b": "Av. de la Peseta - Vía Lusitana - Pza. Elíptica - Marcelo Usera - Gta. Cádiz - Av. Princesa Juana Austria",
+            "c": "Av. De la Peseta - Av. Carabanchel Alto - Joaquín Turina - Pza. Parterre - Av. De los Poblados-Av. Las Águilas",
+            "d": "Av. De la Peseta - Av. Abrantes - Av. Oporto-C\" Viejo Leganés - Pza. Eliptica -Marcelo Usera"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CEMENTERIO DE LA ALMUDENA HASTA PARQUE BIOLÓGICO FAUNIA",
+        "options": {
+            "a": "Av. Daroca - M-40-Av. Albufera - M-30-Av. De la Democracia",
+            "b": "Av. Daroca - Fuente Carrantona - Doctor Esquerdo - Méndez Álvaro - Av. De la Democracia",
+            "c": "Av. Daroca Fuente Carrantona Hacienda de Pavones Bulevar José Prat Av. De la Democracia",
+            "d": "Av. Daroca - Fuente Carrantona - M-40-Av. Pablo Neruda - Av. Democracia"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "AEROPUERTO HASTA LA DELEGACIÓN DE HACIENDA",
+        "options": {
+            "a": "Av. De la Hispanidad - Av. De América - M-30-Alcalá - Gran Vía - Po. Castellana-Guzmán el Bueno",
+            "b": "Av. De la Hispanidad - Av. De América - Fco. Silvela - Joaquín Costa - Pza. República Argentina",
+            "c": "A-2 - Av. Aragón - Av. América-M-40-M-30-Guzmán el Bueno",
+            "d": "Av. De la Hispanidad - Av. América - Príncipe de Vergara - Alberto Alcocer - Po. Castellana -Av. Reina Victoria"
+        },
+        "solution": "b"
+    }
+]

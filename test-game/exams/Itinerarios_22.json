@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir de la Plaza Puerto de la Cruz al Colegio Público Lepanto, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ de Santiago de Compostela - c/ César Manrique - c/ Francos Rodríguez - c/ Valderrey",
+            "b": "C/ de Santiago de Compostela - c/ Antonio Machado - c/ César Manrique - c/ Valderrey",
+            "c": "C/ de Santiago de Compostela - C/ César Manrique - C/ Antonio Machado - Sinesio Delgado",
+            "d": "C/ de Santiago de Compostela - C/ César Manrique - C/ Antonio Machado - C/ de Valderrey"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital Carlos III a la parada de metro Tetuán, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Sinesio Delgado - Paseo de la Castellana - C/ Bravo Murillo",
+            "b": "C/ Sinesio Delgado - Paseo de la Castellana - Av. De Asturias",
+            "c": "c/ Melchor Fernández Almagro - c/ Monforte de Lemos - C/ Sinesio Delgado - Paseo de la Castellana - C/ Bravo Murillo",
+            "d": "c/ Melchor Fernández Almagro - Ginzo de Limia - c/ Sinesio Delgado - c/ Capitán Blanco Argibay - C/ Bravo Murillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Museo Nacional Centro de Arte Reina Sofía al Centro Comercial Madrid Sur?",
+        "options": {
+            "a": "C/ Ronda de Atocha - Paseo Infanta Isabel - Paseo Reina Cristina - Avda. Del Mediterráneo - Dr. Esquerdo - Av. Albufera",
+            "b": "C/ Ronda de Atocha - Paseo Infanta Isabel - Av. Ciudad de Barcelona - C/ Méndez Álvaro - Av. Entrevías - Av. Pablo Neruda",
+            "c": "C/ Ronda de Atocha - Paseo Infanta Isabel - Av. Ciudad de Barcelona - Av. Albufera",
+            "d": "C/ Ronda Valencia - Paseo Infanta Isabel - Av. Ciudad de Barcelona - C/ Méndez Álvaro - Av. Entrevías - Av. Pablo Neruda"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro Barrio del Pilar a la Plaza de Castilla, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ginzo de Limia - C/ Sinesio Delgado",
+            "b": "C/ Ginzo de Limia - Av de Asturias",
+            "c": "c/ Ginzo de Limia - C/ Monforte de Lemos - P° Castellana",
+            "d": "c/ Ginzo de Limia - C/ Monforte de Lemos - c/ Sinesio Delgado - pe Castellana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del Hospital Universitario La Paz a la parada de metro Estrecho, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de la Castellana - C/ Bravo Murillo",
+            "b": "c/ Pedro Rico - M-30 - Pe Castellana - Bravo Murillo",
+            "c": "C/ Arzobispo Morcillo - C/ Pedro Rico - c/ Monforte de Lemos - C/ Sinesio Delgado - P1 Castellana - Bravo Murillo",
+            "d": "c/ Sinesio Delgado - Pe Castellana - c/ Bravo Murillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de Caixa Forum Madrid a la parada de metro Alsacia, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Almadén - P° Prado - c/ Alcalá - C/ Hermanos García Noblejas",
+            "b": "C/ Almadén - C/ Atocha - Paseo de la Infanta Isabel - Paseo R. Cristina - Av. Mediterráneo - M-30 Lateral - M-23 - Ctra. Eje O'Donnell - C/ Fuente Carrantona",
+            "c": "C/ Almadén - P° Prado - c/ Alcalá - Av. Daroca - Fuente Carrantona",
+            "d": "C/ Almadén - C/ Atocha - Paseo de la Infanta Isabel - Paseo R. Cristina - Av. Mediterráneo - M-30 Lateral - M-23 - Ctra. Eje O'Donnell"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza de San Vicente Paul a la Plaza Barbataín, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "General Ricardos - Avenida de Oporto - c/ Marcelo Usera - C/ Carcastillo",
+            "b": "General Ricardos - c/ Alejandro Sánchez - C/ Antonio Leyva - C/ Carcastillo",
+            "c": "Av. Oporto - General Ricardos - Oscar Romero - c/ Padre Amigó - C/ Carcastillo",
+            "d": "Av. Oporto - C/ Camino Viejo de Leganés - C/ Carcastillo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la Biblioteca de Usera José Hierro a la Estación de Orcasitas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Rafael Ybarra - Av. de los Poblados - C/ de la Expropiación - C/ Campotéjar",
+            "b": "Av. Rafael Ybarra - Dr. Tolosa Latour - Av. de los Poblados - C/ de la Expropiación - C/ Campotéjar",
+            "c": "Av. Rafael Ybarra - M-40 - Av. Eduardo Barreiros - Av. De los Poblados - C/ de la Expropiación - C/ Campotéjar",
+            "d": "Av. Rafael Ybarra - Av. de los Poblados - C/ Campotéjar"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Centro Cultural Carril del Conde la parada de metro Callao, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Belisana - C/ Arturo Soria - A-2 - C/ María de Molina - C/ Serrano - C/ Alcalá - C/ Gran Vía",
+            "b": "C/ Belisana - C/ Arturo Soria - Cuesta Sagrado Corazón - Caídos división Azul - Mateo Inurria - Plaza Castilla - Alcalá - Gran Vía",
+            "c": "C/ Arturo Soria - A-2 - C/ Serrano - C/ Alcalá - C/ Gran Vía",
+            "d": "C/ Belisana - C/ Arturo Soria - A-2 - C/ María de Molina - C/ Serrano - C/ Gran Vía"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Puerta del Ángel al Museo Casa de la Moneda?",
+        "options": {
+            "a": "C/ san Crispín - c/ Caramuel - C/ Paseo de la Ermita del santo - c/ Dr. Esquerdo",
+            "b": "c/ Cuesta de San Vicente - C/ Gran Vía - C/ Alcalá - C/ Goya - C/ Dr. Esquerdo",
+            "c": "c/ Cuesta de San Vicente - C/ Gran Vía - C/ Alcalá - C/ Goya - C/ Dr. Esquerdo - C/ Alcalde Sainz de baranda - Av. Marqués de corbera.",
+            "d": "C/ San Crispín - Paseo de la Virgen del Puerto - C/ Gran Vía - C/ Alcalá - C/ Goya - C/ Dr Esquerdo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital Nuestra Señora del Rosario a la parada de metro Alto de Extremadura, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Serrano - Eduardo Dato - C/ Almagro - c/ Génova - C/ Sagasta - C/ Carranza",
+            "b": "Príncipe de Vergara - C/ Alcalá - C/ Gran Vía - Cuesta de San Vicente",
+            "c": "C/ Príncipe de Vergara - C/ Alcalá - C/ Gran Via - Paseo Virgen del Puerto - Paseo de Extremadura",
+            "d": "Serrano - Eduardo Dato - C/ Almagro - c/ Génova - C/ Sagasta - C/ Carranza - Alberto Aguilera - C/ Princesa - Cuesta de San Vicente - Paseo Virgen del Puerto - Paseo de Extremadura"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Museo Arqueológico Nacional edificio del INE (Instituto Nacional de Estadística)?",
+        "options": {
+            "a": "C/ Pradillo - Paseo de la Castellana",
+            "b": "AV. General Perón - Concha Espina - c/ Serrano - C/ Vitruvio - Paseo de la castellana",
+            "c": "Paseo de la Castellana",
+            "d": "Paseo de la castellana - Paseo de Recoletos - Paseo de Prado"
+        },
+        "solution": "c"
+    }
+]

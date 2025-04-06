@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Según La Ordenanza Municipal la aplicación de los transportes públicos urbanos de viajeros realizados en automóviles de turismo será:",
+        "options": {
+            "a": "En el ámbito de la Comunidad de Madrid",
+            "b": "En el ámbito de la Comunidad de Madrid y alrededores",
+            "c": "En el ámbito de Madrid Centro",
+            "d": "En todo el territorio español"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para la realización de servicios de transporte público de viajeros en automóviles de turismo será preciso obtener previamente:",
+        "options": {
+            "a": "B+ Licencia Municipal",
+            "b": "B+ cartilla Municipal",
+            "c": "Licencia Municipal",
+            "d": "Carnet B"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Las licencias municipales para la prestación de servicios de transporte urbano en automóviles de turismo se denominan:",
+        "options": {
+            "a": "Cartilla",
+            "b": "Carnet B + Carnet Taxi",
+            "c": "Licencia autotaxi",
+            "d": "Carnet autotaxi"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "En las licencias de autotaxi habilitadas para la realización de transporte urbano con un vehículo propio, ¿la identificación deberá figurar en las mismas?",
+        "options": {
+            "a": "No es necesario",
+            "b": "Si siempre",
+            "c": "Siempre junto con fotocopias DNI",
+            "d": "No, nunca se utiliza"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Ordenanza Municipal dicta que la competencia para el otorgamiento de las licencias de autotaxi:",
+        "options": {
+            "a": "Corresponderá al municipio en el que se pretenda desarrollar la actividad",
+            "b": "Es válido en todos los municipios.",
+            "c": "No aparece municipio, La actividad para desarrollar la actividad de transporte urbano será la",
+            "d": "Corresponderá al domicilio del titular de la licencia"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según las limitaciones cuantitativas, el número máximo a otorgar por cada municipio será:",
+        "options": {
+            "a": "Municipios con más de 100.000 habitantes de derecho: 1 licencia por cada 2000 habitantes",
+            "b": "Municipios con más de 100.000 habitantes de derecho: 2 licencias por cada 1000 habitantes.",
+            "c": "Municipios de 100.001 a 500.000 habitantes de derecho: 1 licencia por cada 2000 habitantes",
+            "d": "Municipios hasta 100.000 habitantes de derecho: 1 licencia por cada 2000 habitantes."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Un mismo titular no podrá disponer de más de 15 licencias en el ámbito territorial de la Comunidad de Madrid?",
+        "options": {
+            "a": "Si que puede disponer de más de 15 licencias.",
+            "b": "No podrá disponer de más de 15 licencias.",
+            "c": "No está fijado.",
+            "d": "No podrá disponer de más de 16 licencias."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Administración mediante planes periódicos ¿velará por?",
+        "options": {
+            "a": "Porque el colectivo de jubilados dispongan de suficientes vehículos que cubran las necesidades de los mismos.",
+            "b": "Porque el colectivo de disminuidos psíquicos dispongan de suficientes vehículos adaptados que cubran las necesidades de los mismos.",
+            "c": "Porque el colectivo de los minusválidos dispongan de suficientes vehículos adaptados que cubran las necesidades de los mismos.",
+            "d": "Porque el colectivo de residentes de la Comunidad de Madrid dispongan de suficientes vehículos adaptados que cubran las necesidades de los mismos."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Señala la respuesta correcta:",
+        "options": {
+            "a": "Excepcionalmente los municipios podrán establecer un módulo o contingente específico, aun cuando del mismo resulte un número de licencias superior al que correspondería por aplicación del baremo general.",
+            "b": "Normalmente la comunidad de Madrid podrá establecer un módulo o contingente especifico, aun cuando del mismo resulte un número de licencias inferior al que correspondería por aplicación del baremo general.",
+            "c": "Excepcionalmente los municipios podrán establecer un módulo o contingente específico, aun cuando del mismo resulte un número de licencias inferior al que correspondería por aplicación del baremo general.",
+            "d": "Excepcionalmente los municipios podrán establecer un módulo o contingente de fuera de la Comunidad de Madrid, aun cuando del mismo resulte un número de licencias superior al que corresponderia por aplicación del baremo general."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para acreditar la necesidad y conveniencia de aumentar el número de licencias, se analizará:",
+        "options": {
+            "a": "La situación del servicio en calidad y cobertura después del otorgamiento de nuevas licencias, la configuración urbanística y de población del municipio.",
+            "b": "La situación del servicio en calidad y cobertura después del otorgamiento de nuevas licencias, la configuración urbanística y de población del municipio y la repercusión en el conjunto del transporte de las nuevas licencias a otorgar.",
+            "c": "La situación del servicio en calidad y cobertura antes del otorgamiento de nuevas licencias, la configuración urbanística y de población del municipio.",
+            "d": "La situación del servicio en calidad y cobertura después del otorgamiento de nuevas licencias, la configuración urbanística y de población del municipio, las necesidades reales de un mejor y más extenso servicio y la repercusión en el conjunto del transporte de las nuevas licencias a otorgar."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuánto tarda el Ayuntamiento en responder a la solicitud conjunta?",
+        "options": {
+            "a": "2 meses",
+            "b": "4 meses",
+            "c": "5 meses",
+            "d": "3 meses"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según la Ordenanza Municipal, para la obtención de licencias municipales de autotaxi será necesario acreditar ante el órgano competente el cumplimiento de los siguientes requisitos:",
+        "options": {
+            "a": "Ser persona jurídica, nacionalidad española o miembro de la UE, permiso de trabajo al ser extranjero, domiciliado en la Comunidad de Madrid, cumplir las obligaciones de carácter social establecidas en la legislación vigente, cumplir las obligaciones laborales y sociales exigidas en la legislación.",
+            "b": "Ser persona física, nacionalidad española o miembro de la UE, permiso de trabajo al ser extranjero, domiciliado en la Comunidad de Madrid, cumplir las obligaciones de carácter fiscal establecidas en la legislación vigente, cumplir las obligaciones laborales y sociales exigidas en la legislación.",
+            "c": "Ser persona fisica, nacionalidad colombiana o miembro de la UE, permiso de trabajo al ser extranjero, domiciliado en la Comunidad de Madrid, cumplir las obligaciones de carácter social establecidas en la legislación vigente, cumplir las obligaciones laborales y sociales exigidas en la legislación",
+            "d": "Ser persona física y persona juridica, nacionalidad española o miembro de la UE, permiso de trabajo al ser extranjero, domiciliado en la Comunidad de Madrid, cumplir las obligaciones de carácter laboral establecidas en la legislación vigente, cumplir las obligaciones fiscales y sociales exigidas en la legislación"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El número máximo de Licencias Autotaxi a otorgar por cada municipio será:",
+        "options": {
+            "a": "Municipios con menos de 500.000 habitantes de derecho 2 licencias por cada 2000 habitantes.",
+            "b": "Municipios de más de 500.000 habitantes de derecho: 2 licencias por cada 1000 habitantes.",
+            "c": "Municipios hasta 500.000 habitantes de derecho: 1 licencia por cada 1500 habitantes",
+            "d": "Municipios con más de 500.000 habitantes de derecho: 2 licencias por cada 1500 habitantes"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Que será preciso obtener simultáneamente y presentar ante el órgano municipal competente?",
+        "options": {
+            "a": "La licencia municipal de autotaxi y la autorización de transporte público discrecional interurbano en automóvil de turismo, presentando la solicitud conjunta.",
+            "b": "La licencia municipal de autotaxi y la cartilla municipal, presentando la solicitud conjunta.",
+            "c": "La licencia municipal de autotaxi y la autorización de transporte público discrecional interurbano en automóvil de turismo, sin necesidad de presentar nada ante el órgano competente.",
+            "d": "La licencia municipal de autotaxi, la autorización de transporte público discrecional interurbano en automóvil de turismo y cartilla municipal, presentando la solicitud conjunta."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La ordenanza Municipal determina que para obtener la licencia los titulares de la misma pueden ser:",
+        "options": {
+            "a": "Persona jurídica",
+            "b": "Comunidad de bienes y persona física",
+            "c": "Persona fisica y jurídica.",
+            "d": "Persona física"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "question": "Para ir de la Plaza de Puerto de Cruz a la parada de metro Herrera Oria, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de la Vaguada - Av. De la llustración",
+            "b": "Paseo de la Vaguada - C/ Ginzo de Limia - Av. Monforte de Lemos",
+            "c": "Paseo de la Vaguada - Pedro Rico - Arzobispo Morcillo - Pedro Rico - Monforte de Lemos - C/ Ginzo de Limia",
+            "d": "Paseo de la Vaguada - C/ Ginzo de Limia"
+        }
+    },
+    {
+        "question": "Para ir de la Carlos Sainz Center Madrid a la parada de metro Menéndez Pelayo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de los Pontones - Ronda de Toledo - C/ Ronda de Atocha - Paseo Infanta lsabel - Paseo de la R. Cristina - Av. Menéndez Pelayo",
+            "b": "C/ Sepúlveda - Paseo de los Pontones - Paseo Infanta lsabel - Paseo de la R. Cristina - Av. Menéndez Pelayo",
+            "c": "C/ Sepúlveda - Paseo de los Pontones - Ronda de Toledo - C/ Ronda de Atocha - Paseo Infanta Isabel - Paseo de la R. Cristina",
+            "d": "C/ Sepúlveda - Paseo de los Pontones - Ronda de Toledo - C/ Ronda de Atocha - Paseo Infanta Isabel - Paseo de la R. Cristina - Av. Menéndez Pelayo"
+        }
+    },
+    {
+        "question": "Para ir del Hospital Carlos IIl a la parada de metro Duque de Pastrana, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ de Sinesio Delgado - Av. Padre Francisco Palau y Quer - c/Hiedra - Av. Pio XII - C/ Caídos de la división azul",
+            "b": "C/ de Sinesio Delgado - Paseo de la Castellana - C/ Mateo Inurria",
+            "c": "C/ de Sinesio Delgado - Monforte de Lemos - Paseo de la Castellana - C/ Mateo Inurria",
+            "d": "Paseo de la Castellana - C/ Mateo Inurria"
+        }
+    },
+    {
+        "question": "Para ir del Hospital Universitario La Paz a la parada de metro Ventilla, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo de la Castellana - Mateo Inurria",
+            "c": "Paseo de la Castellana - Av. de Asturias",
+            "d": "Paseo de la Castellana - Bravo Murillo"
+        }
+    },
+    {
+        "question": "Para ir del Hospital Central Gómez Ulla al Centro Deportivo Las Cruces, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "c/ Guabairo - C/ Ntra. Sra. de la Luz - C/ Ocaña - Av. de los Poblados",
+            "b": "Camino de los Ingenieros - C/ Ntra. Sra. de la Luz - C/ Ocaña - Av. de los Poblados",
+            "c": "Camino de los Ingenieros - C/ Ntra. Sra. de la Luz - C/ Nuestra señora de Fátima - C/ Eugenia de Montijo - Av. De los poblados",
+            "d": "c/ Guabairo - C/ Ntra. Sra. de la Luz - C/ Nuestra señora de Fátima - C/ Eugenia de Montijo - Av. De los poblados"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Alsacia a Caixa Forum Madrid?",
+        "options": {
+            "a": "C/ Fuente Carrantona - M-40 - C/ Bailén - Paseo del Prado",
+            "b": "C/ Fuente Carrantona - M-23 - C/ O'Donnell - M-302 - Av. Mediterráneo - Paseo Reina Cristina - Paseo Infanta lsabel - C/ Atocha - C/ Gobernador",
+            "c": "C/ Fuente Carrantona - A-3 - Autovía del este - Av. Del mediterráneo - Paseo Reina Cristina - Paseo Infanta lsabel - C/ Atocha - C/ Gobernador",
+            "d": "C/ Fuente Carrantona - M-23 - Ctra. Eje O'Donnell - C/ O'Donnell - C/ Alcalá - Paseo del Prado"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Manoteras al Hospital del Aire?",
+        "options": {
+            "a": "C/ Arturo Soria - C/ Gral. Aranaz",
+            "b": "C/ Arturo Soria - C/ Josefa Valcárcel - C/ Gral. Aranaz",
+            "c": "C/ Arturo Soria - C/ Telémaco",
+            "d": "C/ Arturo Soria - C/ Josefa Valcárcel - C/ Telémaco"
+        }
+    },
+    {
+        "question": "Para ir del Ateneo de Madrid a la parada de metro Casa de Campo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ del Prado - C/ Atocha - C/ Concepción Jerónima - C/ Sacramento - C/ Bailén - Cuesta San Vicente - A-5 - C/ San Manuel",
+            "b": "C/ del Prado - C/ Ronda de Atocha - C/ Concepción Jerónima - C/ Sacramento - C/ Bailén - Cuesta San Vicente - A-5 - C/ San Manuel",
+            "c": "C/ del Prado - C/ Atocha - C/ Concepción Jerónima - C/ Sacramento - C/ Bailén - Cuesta San Vicente - A-4 - C/ San Manuel",
+            "d": "C/ del Prado - C/ Atocha - C/ Concepción Jerónima - C/ Sacramento - C/ Bailén - Cuesta San Vicente - A-5"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Menéndez Pelayo a los Teatros del Canal?",
+        "options": {
+            "a": "Av. Ciudad de Barcelona - Paseo del Prado - Paseo de Recoletos - C/ Génova - C/ Carranza - C/ Vallehermoso - C/ Cea Bermúdez",
+            "b": "Paseo del Prado - Paseo de Recoletos - C/ Génova - C/ Carranza - C/Vallehermoso - C/ Cea Bermúdez",
+            "c": "Av. Del mediterráneo - Paseo de la Reina Cristina - Paseo Infanta Isabel - Paseo del Prado - Paseo de Recoletos - C/ Génova - C/ Carranza - C/ Vallehermoso - C/ Cea Bermúdez",
+            "d": "Av. Ciudad de Barcelona - Paseo de Recoletos - Paseo del Prado - C/ Génova - C/ Carranza - C/ Vallehermoso - C/ Cea Bermúdez"
+        }
+    },
+    {
+        "question": "Para ir de la Agencia Estatal de Meteorología a la Plaza Menéndez Pelayo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Leonardo Prieto de Castro - C/ Plaza Cardenal Cisneros - Av. Complutense",
+            "b": "C/ Leonardo Prieto de Castro - C/ Plaza Cánovas del Castillo - Av. Complutense",
+            "c": "C/ Leonardo Prieto de Castro - C/ Plaza Ciencias - Av. Complutense",
+            "d": "C/ Leonardo Prieto de Castro - C/ Plaza Isla de Alborán - Av. Complutense"
+        }
+    },
+    {
+        "question": "Para ir del Hospital San Rafael a la parada de metro Lavapiés, ¿cuál de los siguientes",
+        "options": {
+            "a": "C/ Serrano - C/ Joaquín Costa - C/ Dr. Esquerdo - Av. Menéndez Pelayo - C/ Ronda de Atocha - C/ Valencia",
+            "b": "C/ Serrano - C/ Ríos Rosas - C/ Alberto Aguilera - C/ Génova - C/ Serrano - C/ Alfonso XII - C/ Ronda de Atocha",
+            "c": "Av. Concha Espina - Paseo de la Castellana - Av. Asturias - C/ Sinesio Delgado - C/ Valle de Mena",
+            "d": "C/ Serrano - C/ Ronda de Atocha - C/ Valencia"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Museo Thyssen Bornemisza a la parada de metro Iglesia?",
+        "options": {
+            "a": "C/ Zorrilla - C/ Alcalá - C/ Gran Vía - C/ Princesa - C/ Alberto Aguilera - C/ Carranza - C/ Luchana",
+            "b": "C/ Zorrilla - C/ Alcalá - C/ Gran Vía - C/ Fuencarral - C/ Sta. Engracia",
+            "c": "C/ Zorrilla - C/ Alcalá - C/ Gran Vía - C/ Hortaleza - C/ Sta. Engracia",
+            "d": "C/ Zorrilla - C/ Alcalá - C/ Gran Vía - C/ Hortaleza - C/ Sagasta - C/ Fuencarral - C/ Eloy Gonzalo - Gta. Pintor Sorolla"
+        }
+    }
+]

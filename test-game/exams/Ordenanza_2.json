@@ -1,0 +1,152 @@
+[
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula que los soportes o anuncios publicitarios para ser autorizados deberán:",
+        "options": {
+            "a": "Ninguna",
+            "b": "Incluir información del servicio del taxi de las licencias de Madrid",
+            "c": "Fabricarse con materiales ecológicos",
+            "d": "ubicarse en el reposacabezas del vehículo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 el vehículo autotaxi deberá tener como mínimo un elemento obligatorio:",
+        "options": {
+            "a": "Lector de tarjetas de crédito",
+            "b": "Mampara de Seguridad",
+            "c": "Impresora para la confección de tickets",
+            "d": "ambientador"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 el Ayuntamiento de Madrid podrá determinar el número máximo de:",
+        "options": {
+            "a": "Paradas para personas con movilidad reducida",
+            "b": "vehiculos que pueden concurrir simultáneamente a cada punto de parada",
+            "c": "paradas por distrito",
+            "d": "paradas por municipios del APC"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula un mínimo requisito para la obtención del permiso municipal:",
+        "options": {
+            "a": "No padecer enfermedades infectocontagiosas o impedimentos fisicos o psíquicos graves",
+            "b": "No padecer enfermedades infectocontagiosas ni enfermedades cardiovasculares",
+            "c": "Ninguna",
+            "d": "Apto en el examen práctico de conducción de licencia municipal"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 el ticket de la impresora deberá llevar como mínimo:",
+        "options": {
+            "a": "Marca y modelo del vehículo",
+            "b": "Matricula",
+            "c": "APC encabezando el ticket",
+            "d": "Número de identificación fiscal así como nombre y apellidos del conductor del taxi"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012, ¿Qué fue permitido a partir de Agosto de 2014?",
+        "options": {
+            "a": "La placa braille",
+            "b": "Cobro con tarjeta de débito",
+            "c": "Modo luminoso con dispositivos de iluminación led de color verde",
+            "d": "Publicidad exterior"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El conductor dejará un cartel de ocupado sobre el parabrisas al objeto de advertencia a los agentes de tráfico cuando abandone transitoriamente el vehículo en el siguiente supuesto:",
+        "options": {
+            "a": "Ayuda a un pasajero",
+            "b": "Ninguna",
+            "c": "No tenga sitio para aparcar",
+            "d": "En función del tráfico"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Las tarjetas identificativas de conductor de licencia autotaxi, son propiedad exclusiva de:",
+        "options": {
+            "a": "El titular de la licencia",
+            "b": "El ayuntamiento",
+            "c": "El conductor",
+            "d": "La comunidad de Madrid"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 ¿Qué es obligatorio desde enero de 2014?",
+        "options": {
+            "a": "Publicidad interior como exterior",
+            "b": "Ejemplar de las tarifas en braille en el interior del vehículo",
+            "c": "Extintor",
+            "d": "Visado de transportes asociado a la licencia"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 podrá negarse a prestar servicio en los casos en que...",
+        "options": {
+            "a": "El servicio vaya a transitarse por rutas de peaje",
+            "b": "Cuando el cliente muestre estado de embriaguez y su vida corra peligro",
+            "c": "Superar el número de plazas",
+            "d": "Ninguna es correcta"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula que las mamparas de seguridad instaladas en el vehículo deberán:",
+        "options": {
+            "a": "Tener cajón para el cambio y sistema para comunicarse con accionamiento manual",
+            "b": "Ser de metacrilato y estar atornillada al vehiculo homologada por la ITV",
+            "c": "Tener cajón para el cambio y sistema para comunicarse careciendo de accionamiento manual.",
+            "d": "Tener cajón para el cambio y sistema de aumento de la voz para la fácil comunicación con el cliente."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 la capilla de las licencias autotaxi estarán compuestas por:",
+        "options": {
+            "a": "En la parte central la palabra taxi, en la derecha el módulo indicativo de disponibilidad del vehículo, y en la parte izquierda el módulo tarifario.",
+            "b": "En la parte central la palabra taxi, en la izquierda el módulo indicativo de disponibilidad del vehículo, y en la parte derecha el módulo tarifario.",
+            "c": "En la parte central la palabra taxi, el módulo indicativo de disponibilidad del vehículo, y el módulo tarifario dependiendo del sentido de la marcha del vehículo",
+            "d": "En la parte superior la palabra taxi, en la derecha el módulo indicativo de disponibilidad del vehículo, y en la parte izquierda el módulo tarifario."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 recoge tres tipos de tarjeta identificativa de conductor para licencias Autotaxi, las rojas hacen referencia a conductores...",
+        "options": {
+            "a": "Titulares de licencia",
+            "b": "Conductores asalariados a tiempo completo",
+            "c": "Conductores asalariados a tiempo parcial de 8 horas",
+            "d": "Conductores asalariados a tiempo parcial de 4 horas"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 determine la distribución de las hojas del libro de reclamaciones adjuntos a los vehículos:",
+        "options": {
+            "a": "La primera para la entidad que ha tramitado el libro, la segunda para el reclamante, la tercera para el titular de la licencia y la cuarta se quedará en el interior del libro",
+            "b": "La primera para la entidad que ha tramitado el libro, la segunda y la tercera para el reclamante y la cuarta se quedará en el interior del libro",
+            "c": "La primera para el reclamante, la segunda para el conductor, la tercera para el titular de la licencia y la cuarta se quedará en el vehículo",
+            "d": "La primera y la segunda para el reclamante, la segunda para la entidad que ha tramitado el libro y la tercera y la cuarta se quedarán en el vehículo, debiendo el conductor llevar una de ellas al ministerio de consumo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012, determina que habrá que llevar un número concreto de las tarifas en vigor en las ventanillas traseras del vehículo. ¿Sabría decir cuántas?",
+        "options": {
+            "a": "1",
+            "b": "3",
+            "c": "2",
+            "d": "4"
+        },
+        "solution": "c"
+    }
+]

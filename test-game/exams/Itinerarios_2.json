@@ -1,0 +1,122 @@
+[
+    {
+        "question": "PARQUE TECNOLÓGICO DE MADRID HASTA LA ESTACIÓN SUR",
+        "options": {
+            "a": "A-1 - M-607 - Po. Castellana - Po. Recoletos - Alcalá - Av. Menéndez Pelayo - Méndez Álvaro",
+            "b": "A-1 - M-607 - M-30 - Av. Mediterráneo - Méndez Álvaro",
+            "c": "M-607 - Po. Castellana - Po. Recoletos - Po. Prado - Gta. Emperador Carlos V - Av. Ciudad Barcelona - Comercio - Méndez Álvaro",
+            "d": "M-607 - Av. Ilustración - Av. Séneca - Av. de la Memoria - Princesa - Méndez Álvaro"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "AYUNTAMIENTO MOSTOLES HASTA LA UNIVERSIDAD COMPLUTENSE",
+        "options": {
+            "a": "A-5 - Av. Portugal - Av. Córdoba - M-30 - Princesa - Universidad Complutense",
+            "b": "A-4 - Av. Andalucía - Gran Vía - Moncloa - Pza. Cristo Rey",
+            "c": "A-5 - Po. Extremadura - Gta. S Vicente - Pza. España - Princesa - Av. de la Memoria - Av. Complutense",
+            "d": "A-5 - Po. Extremadura - M-40 - Av. Complutense"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "J.M.D USERA HASTA POLIGONO EURONOVA",
+        "options": {
+            "a": "Av. Rafaela Ybarra - Marcelo Usera - M-40 - Av. América - A-2",
+            "b": "Av. Rafaela Ybarra - Marcelo Usera - Gta. Cádiz - M-30 - Av. De la Paz - Av. Burgos - A-1",
+            "c": "Av. Rafaela Ybarra - Av. De los Poblados - Vía Lusitana - Segovia - Mayor - Alcalá - Pº. Castellana",
+            "d": "Av. Rafaela Ybarra - Marcelo Usera - Pza. Eliptica - Po. Sta. Mª de la Cabeza - Ferrocarril - Po. Delicias - Gta. Emperador Carlos V - Po. Prado - Po. Recoletos - Po. Castellana - M-607"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "CLINICA RUBER INTERNACIONAL HASTA EL AEROPUERTO",
+        "options": {
+            "a": "La Masó - Av. Cardenal Herrera Oria - Ginzo de Limia - Sinesio Delgado - Po. Castellana - A-1",
+            "b": "La Masó - Av. Cardenal Herrera Oria - M-40 - Po. Castellana - M-30 - Av. De la Hispanidad",
+            "c": "La Masó - Av. Cardenal Herrera Oria - M-607 - M-30 - Manuel Azaña - Ariadna/M-11 - Gta. Ermita Virgen de la Soledad",
+            "d": "La Masó - Av. Monforte de Lemos - Po. Castellana - Mª Molina - Av. América"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "TIRO DEL PICHÓN HASTA EL TANATORIO NORTE",
+        "options": {
+            "a": "Ctra. Tiro del Pichón - Ctra. el Pardo o M-605 - M-30 - Av. Séneca - Av. Reyes Católicos - Cea Bermúdez - José Abascal - Mª Molina - Av. América - M-30 - Puente de la paz - Salvador de Madariaga",
+            "b": "Ctra. Tiro del Pichón - M-40 - Arturo Soria M-30 - Alcalá - Hermanos García Noblejas - Av. Daroca - Salvador Madariaga",
+            "c": "Ctra. el Pardo - M-50 - Av. Aragón - Manuel Azaña - Av. Donostiarra - Joaquín Costa",
+            "d": "Ctra. El Pardo - M-40 - Av. Ilustración - M-30 - Salvador Madariaga"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AYUNTAMIENTO FUENLABRADA HASTA EL TIRO DEL PICHÓN",
+        "options": {
+            "a": "Cta. De Toledo - M-30 - Crta Castilla",
+            "b": "A-4 - M-30 - A-6 - Las Rozas - Ctra. Tiro del Pichón",
+            "c": "Ctra. De Toledo - M-30 - Ctra. del Pardo - Ctra. del Tiro del Pichón",
+            "d": "A-5 - M-30 - Crta Toledo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "AYUNTAMIENTO NUEVO FUENLABRADA HASTA LA JUNTA MUNICIPAL DE MORATALAZ",
+        "options": {
+            "a": "M-409 - A-42 - M-40 - A-2 - AV. América - Príncipe de Vergara - Pza. Emperador Carlos V - Av. Ciudad Barcelona - Av. Albufera - Av. Pablo Neruda",
+            "b": "M-409 - M-40 - A-5 - Pº Extremadura - M-3º - Ventas - Manuel Becerra - Conde Casal - Av. Mediterráneo - Fuente Carrantona",
+            "c": "M-409 - A-42 - M-40 - Av. Mediterráneo - Fuente Carrantona",
+            "d": "M-409 - M-40 - A-5 - Pº Extremadura - M-30 - Av. Ilustración - Av. Mediterráneo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CEMENTERIO DE LA ALMUDENA HASTA EL HOSPITAL 12 DE OCTUBRE",
+        "options": {
+            "a": "Av. Daroca - M-40 - Av. De los Poblados - Doctor Tolosa Latour",
+            "b": "M-30 - Gta. Marqués de Vadillo - Antonio Leyva - Marcelo Usera - Antonio López - Doctor Tolosa Latour",
+            "c": "Alcalá - Av. Menéndez Pelayo - Méndez Álvaro - Av. Planetario - Pza. Legazpi - Av. Córdoba",
+            "d": "Av. Daroca - Av. Marqués de Corbera - Alcalde Sainz de Baranda - M-30 - Av. Córdoba - Doctor Tolosa Latour"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "REGISTRO CIVIL HASTA JUNTA MUNICIPAL DE VILLA DE VALLECAS",
+        "options": {
+            "a": "A-1 - M-40 - Av. Mediterráneo - Pedro Bosch - Av. Ciudad de Barcelona - Av. Albufera - Po. Federico García Lorca",
+            "b": "M-30 - Gta. Marqués de Vadillo - Antonio Leyva - Av. Princesa Juana de Austria - M-40 - Ctra. Villaverde a Vallecas - Sierra Vieja",
+            "c": "M-30 - Av. Manuel Azaña - M-40 - Av. Albufera - Pza. Sierra Gador",
+            "d": "M-30 - Av. Albufera - Po. Federico García Lorca"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "PAU DE MONTECARMELO HASTA EL HIPERCOR DE POZUELO",
+        "options": {
+            "a": "A-1 - M-40 - A-6",
+            "b": "M-605 - M-30 - A-6",
+            "c": "M-40",
+            "d": "M-603 - M-30 - Po. Castellana - José Abascal - Cea Bermúdez - Isaac Peral - Av. De la Victoria - Av. Puerta Hierro - A-6"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "TANATORIO SUR HASTA MUSEO DEL PRADO",
+        "options": {
+            "a": "Av. de los Poblados - General Ricardos - Po. De las Acacias - Ronda de Valencia - Ronda de Atocha",
+            "b": "Av. de los Poblados - Po. Extremadura - Segovia - Mayor - Sol - Carrera S. Jerónimo - Po. Prado",
+            "c": "Av. Princesa - Juana Austria - Po. Sta. Mª Cabeza - Po. Delicias - Po. Prado",
+            "d": "M-30 - Po. Del Rey - Puente de la Princesa - Po. Prado"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "HOSPITAL FUENLABRADA HASTA LA CASITA DEL PRINCIPE",
+        "options": {
+            "a": "M-506 - A-42 - AV. Princesa Juana de Austria - Pza. Elíptica - Po. Sta. Mª de la Cabeza - M-30 - Ctra. el Pardo - Av. Del Palacio - Av. De la Guardia - Po. Del Prado",
+            "b": "M-506 - M-40 - AV. De Andalucía - Po. Del Pardo",
+            "c": "A-42 - M-30 - Ctra. El Pardo",
+            "d": "A-42 - M-40 - Po. Del Pardo"
+        },
+        "solution": "a"
+    }
+]

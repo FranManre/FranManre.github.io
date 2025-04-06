@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Museo Casa de la Moneda a la Plaza de Cibeles?",
+        "options": {
+            "a": "C/ Duque de Sesto - C/ Antonio Acuña - C/ O'Donnell - C/ Alcalá",
+            "b": "C/ Dr. Esquerdo - Av. Mediterráneo - Paseo Reina Cristina - Paseo Infanta Isabel - Paseo del prado - Paseo de recoletos",
+            "c": "C/ Duque de Sesto - C/ de Samaria - C/ O'Donnell - C/ Alcalá",
+            "d": "C/ Duque de Sesto - C/ Antonio Acuña - C/ O'Donnell"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Hospital Central de la Cruz Roja San José y Santa Adela a la parada de metro Estrecho, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Almansa - C/ Juan XXIII - Av. Moncloa - Av. Reina Victoria - Bravo Murillo",
+            "b": "C/ Almansa - C/ Topete - C/ Juan Pantoja - C/ Bravo Murillo",
+            "c": "C/ Almansa - C/ Juan XXIII - Paseo Isaac Peral - Paseo de San Francisco de Sales - Av. Reina Victoria - Bravo Murillo",
+            "d": "C/ Almansa - C/ Topete - C/ San Raimundo - C/ Bravo Murillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Plaza Castilla al Ministerio de Defensa (28033)?",
+        "options": {
+            "a": "C/ Mateo Inurria - Cuesta del Sagrado Corazón - C/ Berlanga de Duero - C/ Roquetas de Mar - Av. San Luis",
+            "b": "C/ Mateo Inurria - Paseo de la Castellana",
+            "c": "C/ Mateo Inurria - Cuesta del Sagrado Corazón - C/ Berlanga de Duero - C/ Ramonet - Av. San Luis",
+            "d": "C/ Mateo Inurria - Paseo de la Castellana - M30 - M-11 - C/ Arturo Soria - Av. San Luis"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir del Hospital Central de la Cruz Roja San José y Santa Adela a la Plaza Alcira, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo San Francisco de Sales - Av. Pablo Iglesias - Av. Dr. Federico Rubio y Gali - Av. Santo Ángel de la Guarda",
+            "b": "C/ Bravo Murillo - C/ López de Haro - C/ Francos Rodríguez - Av. Santo Ángel de la Guarda",
+            "c": "C/ Almansa - Av. Pablo lglesias - Av. Dr. Federico Rubio y Gali - Av. Santo Ángel de la Guarda",
+            "d": "Av. Pablo Iglesias - Av. Dr. Federico Rubio y Galí - Av. Santo Ángel de la Guarda"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Concha Espina a la parada de metro Nuevos Ministerios?",
+        "options": {
+            "a": "C/ Príncipe de Vergara - Av. Dr. Arce - C/ Joaquín Costa",
+            "b": "C/ Príncipe de Vergara - C/ Joaquín Costa",
+            "c": "C/ Príncipe de Vergara - Av. Concha Espina - Paseo de la Castellana",
+            "d": "C/ Príncipe de Vergara - Av. Dr. Arce - C/ Vitruvio - Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Estadio Santiago Bernabéu a la Plaza de la República Argentina?",
+        "options": {
+            "a": "Av. Concha Espina - C/ Príncipe de Vergara - Dr. Arce",
+            "b": "Avda. Concha Espina - C/ Serrano",
+            "c": "pe de la Castellana - Vitruvio",
+            "d": "pe de la Castellana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Tetuán a la Plaza Virgen Guadalupana?",
+        "options": {
+            "a": "C/ Bravo Murillo - Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "b": "C/ Bravo Murillo - C/ Mateo Inurria - Av. Pio XII - C/ Príncipe de Vergara - Av. Ramón y Cajal",
+            "c": "C/ Sor Ángela de la Cruz - Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "d": "C/ Sor Ángela de la Cruz - Paseo de la Castellana - Av. Concha Espina"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital Sanitas La Moraleja a la Parroquia Sta. Me Soledad Torres Acosta y San Pedro Póveda en la avenida del Camino de Santiago 35?",
+        "options": {
+            "a": "Av. Francisco Pi y Margall - C/ Quintanavides - C/ Puente la Reina - ",
+            "b": "Av. Francisco Piy Margall - Av. Camino de Santiago",
+            "c": "Av. Francisco Pi y Margall - C/ Quintanavides - C/ Puente la Reina - Av. Camino de Santiago",
+            "d": "Av. Francisco Pi y Margall - C/ Puente la Reina - C/ Quintanavides - Av. Camino de Santiago"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Jefatura Provincial de Tráfico (28043) a la Glorieta Ruiz Giménez?",
+        "options": {
+            "a": "C/ Arturo Soria - C/ Emilio Vargas - A-2 - Av. América - C/ Me de Molina - C/ Serrano - Paseo Eduardo Dato - C/ Luchana - C/ Carranza",
+            "b": "C/ Arturo Soria - M-11 - M-30 Lateral - Salida Paseo Castellana - Paseo de la Castellana - Paseo Eduardo Dato - C/ Luchana - C/ Carranza",
+            "c": "C/ Arturo Soria a C/ Josefa Valcárcel - A-2 - Av. América - C/ Me de Molina - C/ Serrano - Paseo Eduardo Dato - C/ Luchana - C/ Carranza",
+            "d": "C/ Arturo Soria - C/ Costa Rica - C/ Alberto Alcocer - Paseo de la Castellana - C/ Carranza"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Colegio Público Joaquín Costa en el paseo de los Pontones 8 a la parada de metro Puerta del Sol?",
+        "options": {
+            "a": "Paseo de los Pontones - Paseo J.A.Vallejo - Nágera Botas - C/ Embajadores - Ronda de Toledo - C/ Toledo - Gran Vía de San Francisco - C/ Bailén - C/ Mayor",
+            "b": "Paseo de los Pontones - Paseo J.A.Vallejo - Nágera Botas - C/ Toledo - Gran Vía de San Francisco - C/ Bailén - C/ Mayor",
+            "c": "Paseo de los Pontones - C/ Bailén - C/ Mayor",
+            "d": "Paseo de los Pontones - Paseo J.A.Vallejo - Nágera Botas - C/ Toledo - Gran Vía de San Francisco - C/ Bailén"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Antón Martín a la Real Basílica San Francisco El Grande?",
+        "options": {
+            "a": "C/ Atocha - c/ de la Magdalena - C/ Duque de Alba - Plaza de la Cebada - Carrera de San Francisco",
+            "b": "C/ Atocha - Paseo del Prado - Paseo de Recoletos - C/ Alcalá - C/ Gran vía - Cuesta de San Vicente - C/ Bailén",
+            "c": "Carrera de San Jerónimo - C/ Mayor - C/ Bailén",
+            "d": "C/ Atocha - C/ Concepción Jerónima - C/ Toledo - Plaza de la Cebada - Carrera de San Francisco"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital San Rafael a la parada de metro Francos Rodríguez?",
+        "options": {
+            "a": "Av. Concha Espina - Av. Gral. Perón - C/ Infanta Mercedes - C/ Juan Olías - C/ Pamplona - C/ Francos Rodríguez",
+            "b": "Joaquín Costa - Av. Gral. Perón - C/ Infanta Mercedes - C/ Juan Olías - C/ Pamplona - C/ Francos Rodríguez",
+            "c": "Av. Concha Espina - Paseo de la Castellana - Bravo Murillo - López de Haro - Francos Rodríguez",
+            "d": "C/ Serrano - C/ Joaquín Costa - Av. Gral. Perón - C/ Bravo Murillo - C/ Francos Rodríguez"
+        },
+        "solution": "a"
+    }
+]

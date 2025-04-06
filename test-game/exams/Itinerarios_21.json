@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir del centro comercial ABC Serrano al Templo de Debod, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Serrano - C/ Sagasta - C/ Carranza - C/ Génova —C/ Alberto Aguilera - C/ Quintana - Paseo Pintor Rosales",
+            "b": "C/ Serrano - C/ Génova - C/ Sagasta - C/ Carranza - C/ Alberto Aguilera - C/ Quintana - Paseo Pintor Rosales",
+            "c": "Po de recoletos - C/ Génova - C/ Sagasta - C/ Carranza - C/ Alberto Aguilera - C/ Quintana - Paseo Pintor Rosales",
+            "d": "C/ Serrano - C/ Génova - C/ Sagasta - C/ Carranza - C/ Alberto Aguilera - C/ Quintana - C Ferraz"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del Ministerio de la sede del diario el Mundo a la Estación Fuente de la Mora, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Po de la Castellana - M30 - M-11 - C/ Arturo Soria - C/ Dulce Chacón",
+            "b": "Av. San Luis - C/ Arturo Soria - C/ Dulce Chacón",
+            "c": "Av. San Luis - C/ Gran vía de Hortaleza - C/ Dulce Chacón",
+            "d": "Av. San Luis - C/ Juan de Urbieta - C/ Dulce Chacón"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro República Argentina a la Plaza de Olavide?",
+        "options": {
+            "a": "C/ Joaquín Costa - Paseo de la Castellana - Raimundo Fernández Villaverde - C/ Eloy Gonzalo - C/ Trafalgar",
+            "b": "C/ Joaquín Costa - Paseo de la Castellana - Paseo del Gral. Martínez Campos - C/ Santa Engracia - C/ Trafalgar",
+            "c": "C/ Joaquín Costa - Paseo de la Castellana - Paseo del Gral. Martínez Campos - C/ Eloy Gonzalo - C/ Trafalgar",
+            "d": "C/ Joaquín Costa - Paseo de la Castellana - Paseo del Gral. Martínez Campos - C/ Eloy Gonzalo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Canal a la Plaza de las Ciencias?",
+        "options": {
+            "a": "C/ Cea Bermúdez - C/ Sta. Engracia - C/ Ríos Rosas - Av. Pablo Iglesias - Paseo Juan XXIII a C/ José Antonio Novais",
+            "b": "C/ Cea Bermúdez - C/ Sta. Engracia - Av. Reina Victoria - Av. Pablo Iglesias - Paseo Juan XXII a C/ José Antonio Novais",
+            "c": "Pe de la Castellana - Alcalá - Gran vía - Princesa - Av. de la Memoria - Av. Complutense",
+            "d": "Gran vía - Princesa - Av. de la Memoria - Av. Complutense - C/ José Antonio Novais"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Nuevos Ministerios a la parada de metro Concha Espina, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa - C/ Príncipe de Vergara",
+            "b": "Paseo de la Castellana - López de Hoyos C/ Príncipe de Vergara",
+            "c": "C/ Raimundo Fdez. Villaverde - Paseo de la Habana - Av. Concha Espina - C/ Príncipe de Vergara",
+            "d": "Av. General Perón - Av. Concha Espina"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Plaza de la República Argentina al Estadio Santiago Bernabéu, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Serrano - Concha Espina",
+            "b": "C/ Joaquín Costa - Paseo de la Castellana - Av. Concha Espina",
+            "c": "Av. Dr. Arce - C/ Príncipe de Vergara - Av. Concha Espina",
+            "d": "Av. Concha Espina"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza Virgen Guadalupana a la parada de metro Tetuán, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Ramón y Cajal - Av. Concha Espina - C/ Alberto Alcocer - C/ Sor Ángela de la Cruz",
+            "b": "Av. Ramón y Cajal - Av. Concha Espina - C/ Espronceda - C/ Alberto Alcocer - C/ Sor Ángela de la Cruz",
+            "c": "Av. Ramón y Cajal - Av. Concha Espina - C/ Rodríguez Marín - C/ Alberto Alcocer",
+            "d": "Av. Ramón y Cajal - Av. Concha Espina - C/ Rodríguez Marín - C/ Alberto Alcocer - C/ Sor Ángela de la Cruz"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la Real Basílica San Francisco El Grande a la parada de metro de Núñez Balboa, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Bailén - C/ Mayor - C/ Alcalá - C/ Princesa - C/ Alberto Aguilera - C/ Carranza - Paseo Eduardo Dato - C/ Juan Bravo",
+            "b": "C/ Bailén - C/ Ventura Rodríguez - C/ Princesa - C/ Alberto Aguilera - C/ Génova - Paseo Eduardo Dato - C/ Juan Bravo",
+            "c": "C/ Bailén - C/ Ventura Rodríguez - C/ Princesa - C/ Alberto Aguilera - C/ Carranza - Paseo Eduardo Dato - C/ Juan Bravo",
+            "d": "C/ Bailén - C/ Ventura Rodríguez - C/ Princesa - C/ Alberto Aguilera - C/ Carranza - Paseo Eduardo Dato - C/ Jorge Juan"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Glorieta Ruiz Giménez a la Jefatura Provincial de Tráfico (28043), ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Alberto Aguilera - C/ Vallehermoso - C/ Cea Bermúdez - C/ Me de Molina - Av. De América - M-30 Lateral - C/ José Silva - C/ Arturo Soria",
+            "b": "C/ Alberto Aguilera - C/ Princesa - A6 - M-30 Lateral - C/ José Silva - C/ Arturo Soria",
+            "c": "C/ Alberto Aguilera - C/ Vallehermoso - C/ Cea Bermúdez - C/ Me de Molina - Av. De América - M-30 Lateral - C/ José Silva - C/ Arturo Soria - C/ Josefa Valcárcel",
+            "d": "C/ San Bernardo - C/ Bravo Murillo - C/ Mateo Inurria - C/ Caídos División Azul - Cuesta Sagrado Corazón - C/Arturo Soria"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Puerta del Sol al Colegio Público Joaquín Costa, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Carretas - C/ Atocha - C/ Concepción Jerónima - C/ Toledo - Paseo de los Pontones",
+            "b": "C/ Carretas - Ronda de Atocha - C/ Concepción Jerónima - C/ Toledo - Paseo de los Pontones",
+            "c": "C/ Carretas - C/ Atocha - C/ Concepción Jerónima - C/ Gran vía - Paseo de los Pontones",
+            "d": "C/ Carretas - C/ de la Reina - C/ Atocha - C/ Concepción Jerónima - C/ Toledo - Paseo de los Pontones"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Real Basílica San Francisco El Grande a la parada de metro Antón Martín, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Buenaventura - C/ Bailén - Carr. De San Francisco - C/ Toledo - Plaza Tirso de Molina - C Magdalena - C/ Sta. Isabel - C/ Atocha",
+            "b": "C/ del águila tabernillas - C/ Bailén - Carr. De San Francisco - C/ Toledo - Plaza Tirso de Molina - C/ Magdalena - C/ Sta. Isabel - C/ Atocha",
+            "c": "C/ Buenaventura - C/ Bailén - C/ Mayor - C/ Atocha",
+            "d": "C/ del águila tabernillas - C/ Bailén - C/ Mayor - C/ Atocha"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Francos Rodríguez al Hospital San Rafael, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Pablo Iglesias - Av. Dr. Federico Rubio y Gali - C/ San Raimundo - C/ de Tenerife - C/ de carolinas - C/ Castilla - Av. Concha Espina",
+            "b": "Av. Pablo Iglesias - C/ Jerónima Llorente - C/ Castilla - Av. Gral. Perón - Av. Concha Espina",
+            "c": "Av. Pablo Iglesias - Av. Dr. Federico Rubio y Galí - C/ Jerónima Llorente - C/ Castilla - Av. Gral.Perón - Av. Concha Espina",
+            "d": "Av. Pablo Iglesias - Av. Dr. Federico Rubio y Galí - C/ Jerónima Llorente - C/ Castilla - Av. Gral Perón"
+        },
+        "solution": "c"
+    }
+]

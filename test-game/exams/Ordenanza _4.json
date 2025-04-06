@@ -1,0 +1,152 @@
+[
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula un tiempo máximo de duración de los vehículos con licencias Autotaxi será de:",
+        "options": {
+            "a": "10 años con 1 año de prórroga por excedencia o suspensión temporal",
+            "b": "2 años como máximo para vehículos de segunda mano",
+            "c": "10 años sin posibilidad de prórroga",
+            "d": "No tienen limite de años"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 el pago con datafono irá provisto para cobros con:",
+        "options": {
+            "a": "American Express",
+            "b": "Tarjeta de crédito",
+            "c": "Tarjeta de crédito y débito",
+            "d": "Todas son correctas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula que el pago de las sanciones pecuniarias impuestas por resolución que ponga fin a la vía administrativa, por alguna de las infracciones de la normativa reguladora de los servicios de transporte público urbano en automóviles de turismo será:",
+        "options": {
+            "a": "Requisito necesario para la concesión de una licencia siempre y cuando el vehículo no venga adjunto en el momento de transmisión de la misma.",
+            "b": "Todas las anteriores son correctas",
+            "c": "Requisito necesario para autorizar la transmisión de la licencia en concreto que sea titular el infractor, pudiendo transmitir en el caso de disponerlas del resto de licencias siempre y cuando estén libre de cargas.",
+            "d": "Requisito necesario para autorizar la transmisión de cualquiera de las licencias que sea titular el infractor."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 el ticket de la impresora deberá de llevar al menos alguno de los siguientes datos:",
+        "options": {
+            "a": "A.P.C encabezando el ticket y número de identificación fiscal asi como nombre y apellidos completos del conductor de la licencia",
+            "b": "Número de licencia, número y en su caso, serie del ticket y número de matrícula",
+            "c": "Cantidad total facturada con la expresión IVA incluido",
+            "d": "Origen y destino del viaje, distancia recorrida expresada en km y número de identificación del conductor"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El módulo tarifario marcará:",
+        "options": {
+            "a": "Indicará el número de la tarifa o letra que en cada momento marque el taximetro",
+            "b": "Indicará el número de tarifa que marque el taxímetro",
+            "c": "Reflejará únicamente la tarifa 0 para viajes con retorno al APC con el cliente",
+            "d": "Reflejará exclusivamente las tarifas vigentes del año en vigor"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula un plazo de diez días hábiles como máximo cuando se cese en el ejercicio de la actividad de conductor de autotaxi por alguno de estos motivos:",
+        "options": {
+            "a": "Por jubilación",
+            "b": "Por haber transcurrido el plazo de validez sin haber solicitado la renovación",
+            "c": "Todas son correctas",
+            "d": "Por fallecimiento del titular"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 Los titulares de las licencias podrán desempeñar otra actividad laboral siempre que sea compatible con:",
+        "options": {
+            "a": "Cualquier otro trabajo o actividad comercial o mercantil",
+            "b": "Cualquier actividad industrial siempre que se acredite disponer del número mínimo de conductores",
+            "c": "No se podrá desempeñar ninguna otra actividad profesional",
+            "d": "Cualquier trabajo o actividad comercial o mercantil siempre y cuando se acredite disponer del número mínimo de conductores"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Determina según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 que documentación se llevará obligatoriamente a bordo del vehículo:",
+        "options": {
+            "a": "Licencia Autotaxi, tarjeta identificativa y extintor",
+            "b": "Permiso Municipal, hoja de reclamaciones y ficha técnica",
+            "c": "Dos ejemplares de las tarifas vigentes, calendario de descansos y libranza y seguro",
+            "d": "Permiso de circulación, callejero, permiso de conducir y teléfono del titular de la licencia"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 en el registro Municipal de Licencias se anotarán, en todo caso:",
+        "options": {
+            "a": "Las subvenciones otorgadas por la Comunidad de Madrid a los titulares de las licencias",
+            "b": "Los titulares de permisos nacionales de conductor de autotaxi y sus datos identificativos",
+            "c": "La situación administrativa en la que se encuentra la licencia, en actividad, suspensión o excedencia.",
+            "d": "Los vehículos afectos a las licencias para el transporte público urbano de viajero en automóviles de turismo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 la publicidad exterior de los vehículos ha de ser:",
+        "options": {
+            "a": "Institucional o corporativa",
+            "b": "Tiene validez anual por lo tanto caducará el 31 de diciembre de cada año",
+            "c": "Todas son correctas",
+            "d": "Podrá ocupar el total de la carrocería de las puertas traseras"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 la renovación del permiso municipal de conductor de autotaxi podrá solicitarse con un plazo de antelación de:",
+        "options": {
+            "a": "No es necesario renovar el permiso municipal de conductor de autotaxi",
+            "b": "Con 15 días de antelación",
+            "c": "Con 10 días de antelación",
+            "d": "No se puede solicitar de manera anticipada"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 la interrupción del taxímetro dejará de computar como tiempo de prestación del servicio en el siguiente caso:",
+        "options": {
+            "a": "Tiempo inferior a 60 minutos",
+            "b": "Tiempo superior a 60 minutos",
+            "c": "Tiempo igual o inferior a 60 minutos",
+            "d": "Tiempo igual o superior a 60 minutos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 el período de prestación del servicio se dará dentro de alguno de los siguientes casos:",
+        "options": {
+            "a": "De lunes a domingo con un mínimo de 7 horas y un máximo de 24 con un período entre las 06 h y las 06 h del día siguiente",
+            "b": "De lunes a viernes con un mínimo de 7 horas y un máximo de 16 con un período entre las 06",
+            "c": "De lunes a viernes con un mínimo de 7 horas y un máximo de 24 con un período entre las 07",
+            "d": "De lunes a domingo con un minimo de 7 horas y un máximo de 16 con un período entre las"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 uno de los requisitos para obtener la licencia de autotaxi será:",
+        "options": {
+            "a": "Cumplir las obligaciones sociales exigidas",
+            "b": "Cumplir las obligaciones laborales y sociales exigidas",
+            "c": "Cumplir las obligaciones sociales y fiscales exigidas",
+            "d": "cumplir las obligaciones laborales sociales y fiscales exigidas"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 cuando finaliza una excedencia, en caso de no retornar a la actividad el Ayuntamiento podrá:",
+        "options": {
+            "a": "Catalogarlo como falta grave entre 1.501€ y 2.000€",
+            "b": "Catalogario como falta muy grave entre 4.601 € y 6.000€",
+            "c": "Proceder a la retirada definitiva de la licencia",
+            "d": "Sancionar con la respectiva multa según el régimen sancionador del Art. 140"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Colegio Público Lepanto a la Plaza de Puerto de Cruz?",
+        "options": {
+            "a": "C/ de Valderrey - C/ de Antonio Machado - C/ César Manrique - C/ de Dr. Ramón Castroviejo",
+            "b": "C/ Valderrey - c/ Dr. Ramón Castroviejo",
+            "c": "C/ Valderrey - c/ Antonio Machado - c/ Camino de Peñagrande - C/ Camino de ganapanes - c/ Santiago de Compostela",
+            "d": "Av. Monforte de Lemos - c/ C/ Camino de Ganapanes - c/ Dr. Ramón Castroviejo"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Tetuán al Hospital Carlos IIl?",
+        "options": {
+            "a": "C/ Bravo Murillo - Paseo de la Castellana",
+            "b": "C/ Bravo Murillo - Paseo de la Castellana - C/ Sinesio Delgado",
+            "c": "C/ Bravo Murillo - Paseo de la Castellana - C/ Sinesio Delgado - Ginzo de Limia - Av. Monforte de Lemos",
+            "d": "C/ Bravo Murillo - Paseo de la Castellana - Av. Monforte de Lemos - C/ Arzobispo Morcillo"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro República Argentina al Colegio Público Lepanto en la calle Valderrey 9?",
+        "options": {
+            "a": "/ Joaquín Costa - Av. Reina Victoria - Av. Pablo Iglesias - C/ Francos Rodríguez - C/ Antonio Machado - C/ Valderrey",
+            "b": "/ Joaquín Costa - C/ Raimundo Fdez. Villaverde - Av. Reina Victoria - Av. Pablo Iglesias - C/ Francos Rodríguez - C/ Antonio Machado",
+            "c": "/ Joaquín Costa - C/ Raimundo Fdez. Villaverde - Av. Reina Victoria - Av. Pablo Iglesias - C/Ofelia Nieto - C/ Villamil - C/ Camino de chorrillo - c/ Sinesio Delgado - Antonio Machado - c/Valderrey",
+            "d": "C/ Joaquín Costa - C/ Raimundo Fdez. Villaverde - Av. Reina Victoria - Av. Pablo Iglesias - C/ Francos Rodríguez - C/ Antonio Machado - C/ Valderrey"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de Castilla a la parada de metro Barrio del Pilar?",
+        "options": {
+            "a": "Av. de Asturias - C/ Ginzo de Limia",
+            "b": "C/ Bravo Murillo - C/ Sor Ángela de la Cruz - San Germán - Paseo de la castellana",
+            "c": "Pe Castellana - M-30 - Av. De la llustración - c/ Ginzo de Lima",
+            "d": "Av. De Asturias - C/ Sinesio Delgado - C/ Finisterre"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Estrecho al Hospital Universitario La Paz?",
+        "options": {
+            "a": "C/ Bravo Murillo - Paseo de la Castellana - C/ Sinesio Delgado - Av. Monforte de Lemos - C/ Arzobispo Morcillo",
+            "b": "Av. Monforte de Lemos - C/ Arzobispo Morcillo",
+            "c": "C/ Bravo Murillo - Paseo de la Castellana - Av. Monforte de Lemos - C/ Arzobispo Morcillo",
+            "d": "C/ Bravo Murillo - C/ Arzobispo Morcillo"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del parque del Retiro al Palacio Vistalegre?",
+        "options": {
+            "a": "C/ Alfonso XII - C/ Gral Ricardos - C/ Luisa Muñoz",
+            "b": "C/ Alfonso XII - Ronda de Atocha - Ronda de Valencia - Paseo de las Acacias - Gta General San Martín - C/ Gral Ricardos - C/ Luisa Muñoz",
+            "c": "C/ Alfonso XII - Ronda de Atocha - Ronda de Valencia - Paseo de las Acacias - C/ Gral Ricardos - C/ Luisa Muñoz",
+            "d": "C/ Alfonso XII - Calle Atocha - Ronda de Valencia - Paseo de las Acacias - C/ Gral Ricardos - C/ Luisa Muñoz"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Barbataín a la Plaza de San Vicente Paul?",
+        "options": {
+            "a": "C/ Carcastillo - C/ Cno Viejo de Leganés - C/ Antonio Moreno",
+            "b": "C/ Carcastillo - C/ Cno Villaverde a vallecas - C/ Antonio Moreno",
+            "c": "C/ Carcastillo - C/ Cno Viejo de Leganés - C/ Antonio Moreno - c/ Oporto",
+            "d": "C/ Carcastillo - C/ Cno Viejo de Leganés - C/ Oporto"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Estación de Orcasitas a la Biblioteca de Usera José Hierro?",
+        "options": {
+            "a": "C/ Campotéjar - Av de los Poblados - Av Rafael Ybarra - C/ Marcelo Usera",
+            "b": "C/ Campotéjar - Av de los Poblados - Av Rafael Ybarra - c/ Del Cristo de la Victoria",
+            "c": "C/ Campotéjar - Av de los Poblados - Av Rafael Ybarra - C/ Ricardo Beltrán y Rózpide - C/ Avena - C/ de Cerro Blanco - c/ de Fornillos - Av. Rafael Ybarra",
+            "d": "C/ Campotéjar - Av de los Poblados - Av Rafael Ybarra - C/ Ricardo Beltrán y Rózpide - C. Avena - C/ Parque de la Paloma - Av Rafael Ybarra"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Callao al Centro Cultural Carril del Conde?",
+        "options": {
+            "a": "C/ Gran Vía - C/ O'Donnell - M-30 Lateral - C/ José Silva - C/ Carril del Conde - C/ Puerto Sta. María",
+            "b": "c/ Gran vía - c/ Princesa - M-30 Lateral - Av. De la llustración - M-30 - c/ Arturo Soria",
+            "c": "c/ Gran vía - c/ Princesa - M-30 Lateral - Av. De la llustración - M-30 - c/ Arturo Soria - c/ belisana",
+            "d": "C/ Gran Vía - C/ O'Donnell - M-30 Lateral - C/ Carril del Conde - C/ Puerto Sta. María"
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Centro de Salud Federica Montseny a la Plaza Conde de Covatillas?",
+        "options": {
+            "a": "Av. Rafael Alberti - C/ San Claudio - Av. Pablo Neruda - C/ Fuente Carrantona - Dr. García tapia.",
+            "b": "Av. Rafael Alberti - C/ San Claudio - Av. Pablo Neruda - C/ Fuente Carrantona - C/ Arroyo de Fontarrón",
+            "c": "Av. Rafael Alberti - C/ San Claudio - Av. Pablo Neruda - c/ Arroyo de Fontarrón",
+            "d": "Av. Rafael Alberti - C/ San Claudio - Av. Pablo Neruda - C/ Benjamín Palencia - c/ Pío Felipe - c/ Arroyo Fontarrón."
+        }
+    },
+    {
+        "question": "Para ir de la Parroquia Virgen de la Candelaria al Colegio Público República de Panamá n9 1, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Hinojal - Av. Hellín - C/ Pobladura del Valle - C/ Aparejadores",
+            "b": "c/ Hinojal - Av. Canillejas a Vicálvaro - c/peones",
+            "c": "c/ Hinojal - Av. Canillejas a Vicálvaro - Av. Arcentales",
+            "d": "C/ Hinojal - Av. Hellín - C/ Pobladura del Valle - C/ Aparejadores - C/ Peones"
+        }
+    },
+    {
+        "question": "Para ir de la parada de metro Eugenia de Montijo a la Plaza de la Rendición de Breda, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ocaña - Nstra. Señora de la luz - C/ Espinar - C/ Gral. Ricardos",
+            "b": "C/ Ocaña - C/ Espinar - C/ Gral. Ricardos - C/ Padre Amigo - C/ Carcastillo - C/ Besolla - Av. Abrantes",
+            "c": "C/ Ocaña - Nstra. Señora de la luz - C/ Espinar - C/ Gral. Ricardos - Padre Amigó",
+            "d": "C/ Ocaña - C/ Espinar - C/ Gral. Ricardos - C/ Padre Amigo - C/ Carcastillo - C/ Besolla"
+        }
+    }
+]

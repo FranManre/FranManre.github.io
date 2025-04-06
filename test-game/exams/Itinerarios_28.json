@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir de la parada de metro O'Donnell al Monumento a los Caídos por España, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Jorge Juan - C/ Iturbe - C/ Vicálvaro - C/ O'Donnell - C/ Alcalá - C/ Alfonso XII - C/ Antonio Maura",
+            "b": "C/ Jorge Juan - C/ Iturbe - C/ Vicálvaro - C/ O'Donnell - C/ Alcalá - C/ Alfonso XII - Paseo Infanta Isabel - Paseo del Prado",
+            "c": "C/ Jorge Juan - C/ Iturbe - C/ Vicálvaro - C/ O'Donnell - C/ Alcalá",
+            "d": "C/ Jorge Juan - C/ Iturbe - C/ Vicálvaro - C/ O'Donnell - C/ Menéndez Pelayo - Av. Ciudad de Barcelona - Paseo Reina Cristina - Paseo Infanta lsabel - Paseo del Prado - Plaza de la Lealtad"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la sede del diario EI Mundo a la parada de metro Duque Pastrana, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. San Luis - C/ Emilio Rubín - C/ Arturo Soria - C/ de los Caídos de la División Azul - Plaza Duque de Pastrana",
+            "b": "Av. San Luis - C/ Julio Dánvila - C/ Arturo Soria - C/ de los Caídos de la División Azul - Plaza Duque de Pastrana",
+            "c": "Paseo de la Castellana - Av. Concha Espina - Príncipe de Vergara - Av. Pio XII - C/ de los Caídos de la División Azul - Plaza Duque de Pastrana",
+            "d": "C/ Costa Rica - Príncipe de Vergara - Av. Pio XII - C/ de los Caídos de la División Azul - Plaza Duque de Pastrana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del aeropuerto Adolfo Suárez - Madrid Barajas a la estación de Atocha, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "M-14 - E-5 - A-3 - Av. Mediterráneo - Paseo R. Cristina",
+            "b": "M12 - E-5 - A-3 - Av. Mediterráneo - Paseo R. Cristina",
+            "c": "M-14 - E-5 - A-42 - Av. Mediterráneo - Paseo R. Cristina",
+            "d": "M-14 - E-5 - A-3 - Av. Mediterráneo - Paseo Prado"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Cámara de Madrid a la Jefatura Provincial de Tráfico (28043), ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Pedro Salinas - C/ López de Hoyos - C/ Torrelaguna - C/ Ramírez de Arellano - C/ Arturo Soria",
+            "b": "C/ Pedro Salinas - C/ López de Hoyos - C/ Torrelaguna - C/ José Silva - C/ Arturo Soria",
+            "c": "C/ Pedro Salinas - C/ López de Hoyos - Av. Asturias",
+            "d": "C/ Pedro Salinas - C/ López de Hoyos - C/ Asura - C/ Julián Hernández"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro Concha Espina a la parada de metro Gregorio Marañón, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Príncipe de Vergara - Av. Dr. Arce - Plaza de la República Argentina - C/ Vitrubio - Paseo de la Castellana",
+            "b": "C/ Príncipe de Vergara - Av. Dr. Arce - Plaza de la República Argentina - C/ Joaquín Costa - Paseo de la Castellana",
+            "c": "Av. Concha Espina - Paseo de la Castellana",
+            "d": "Av. Concha Espina - Paseo de la Habana - Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de los Juzgados de Plaza de Castilla a la Plaza de la República del Ecuador, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Mateo Inurria - Av. Alberto Alcocer - C/ Bolivia",
+            "b": "Paseo de la Castellana - Av. Alberto Alcocer - C/ Bolivia",
+            "c": "Bravo Murillo - Av. Alberto Alcocer - C/ Bolivia",
+            "d": "Paseo de la Castellana - Mateo Inurria - Pio XII - C/ Príncipe de Vergara"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza San Amaro a la Plaza Virgen Guadalupana, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ de las Margaritas - C/ San Germán - Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "b": "C/ Gral. Cabrera - C/ San Germán - Av. Concha Espina - Av. Ramón y Cajal",
+            "c": "C/ Gral. Cabrera - C/ San Germán - Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "d": "C/ de las Margaritas - C/ San Germán - Paseo de la Castellana - Av. Ramón y Cajal"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la parada de metro Mar de Cristal a la Plaza de Manuel Rodrigo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Gran Vía de Hortaleza",
+            "b": "C/ Silvano - Avda. Machupichu",
+            "c": "Gran Vía de Hortaleza - C/ Emigrantes",
+            "d": "C/ Emigrantes - Avda. Machupichu"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Centro Comercial Gran Vía Hortaleza a la parada de metro Esperanza, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ayacucho - Av. Gran Vía de Hortaleza - C/ Andrés Obispo - Carrera de Canillas - C/ Andorra",
+            "b": "C/ Ayacucho - Gran vía de Hortaleza - C/ Arturo Soria - C/ Ulises - C/ Moscatelar - C/ Silvano",
+            "c": "C/ Ayacucho - C/ Andrés Obispo - C/ Nápoles",
+            "d": "C/ Añastro - C/ Arturo Soria - C/ Andrés Obispo - Carrera de Canillas - C/ Andorra"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Gran Vía a la Plaza Tirso de Molina, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Gran Vía - C/ Sevilla - C/ del Príncipe - C/ San Sebastián - C/ Cañizares - C/ de la magdalena",
+            "b": "C/ Gran Vía - C/ Sevilla - C/ del Príncipe - C/ San Sebastián - C/ Atocha - C/ Concepción Jerónima - C/ Conde de los Romanones",
+            "c": "C/ Gran Via - C/ Sevilla - C/ del Príncipe - C/ San Sebastián - C/ Luis V. de Guevara - C/ de la magdalena",
+            "d": "C/ Gran Vía - C/ Sevilla - C/ del Príncipe - C/ San Sebastián - C/ Toledo - C/ de la colegiata"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro Santo Domingo a la Plaza de la Morería, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ San Bernardo - C/ Gran Vía - C/ Bailén - Costanilla de San Andrés - C/ Alamino - C/ de la Morería",
+            "b": "C/ San Bernardo - C/ Isabel la Católica - C/ Gran Vía - C/ Bailén - Costanilla de San Andrés - C/ Alamino - C/ de la Morería",
+            "c": "C/ San Bernardo - C/ Isabel la Católica - C/ Gran Vía - C/ Bailén - Costanilla de San Andrés - C/ Alamino",
+            "d": "C/ San Bernardo - C/ Gran Vía - C/ Alcalá - C/ Mayor - C/ Bailén - Costanilla de San Andrés - C/ Alamino - C/ de la Morería"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro Tetuán al Hospital Central de la Cruz Roja San José y Santa Adela, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Sor Ángela de la Cruz - C/ Infanta Mercedes - AV. General Perón - Paseo de la Castellana - Raimundo Fdez. Villaverde - Av. Reina Victoria",
+            "b": "Av. Asturias - C/ Bravo Murillo - Av. Reina Victoria",
+            "c": "C/ Sor Ángela de la Cruz - C/ Infanta Mercedes - C/ San Germán - C/ Bravo Murillo - Av. Reina Victoris",
+            "d": "C/ Sor Ángela de la Cruz - C/ Bravo Murillo - C/ López de Haro - C/ Francos Rodríguez - Av. Pablo Iglesias"
+        },
+        "solution": "c"
+    }
+]

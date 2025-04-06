@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Si por indicación del usuario o por necesidad del servicio, éste se presta por rutas que tengan peajes que impliquen un sobreprecio:",
+        "options": {
+            "a": "Este será por cuenta del conductor",
+            "b": "Este será por cuenta del usuario",
+            "c": "Los taxis están exentos de pago",
+            "d": "Está prohibido circular por estas vías con usuario."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Los animales de compañía como deberán viajar y que suplementos se aplicaran:",
+        "options": {
+            "a": "Obligatorio y gratuito siempre que viajen en trasportin, el perro lazarillo siempre será obligatorio y gratuitos.",
+            "b": "Obligatorio y gratuitos siempre que viajen en trasportin",
+            "c": "Solo será obligatorio y gratuito el perro lazarillo",
+            "d": "Todos los animales son obligatorios y gratuitos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Con mampara cual es el número máximo de viajeros que puede transportar?",
+        "options": {
+            "a": "No hay limite",
+            "b": "Cinco",
+            "c": "Tres incluido el conductor",
+            "d": "Cuatro, con autorización del conductor"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Los conductores aceptarán que los viajeros transporten consigo maletas u otros bultos de equipaje normal:",
+        "options": {
+            "a": "Siempre que quepan en la baca",
+            "b": "Siempre que quepan en la baca o portamaletas del vehículo, no lo deterioren y no infrinjan con ello disposiciones en vigor",
+            "c": "Siempre que quepan en la baca del vehiculo, no lo deterioren y no infrinjan con ello disposiciones en vigor",
+            "d": "Todas las maletas y bultos que porten"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿La excedencia no podrá tener una duración inferior a?",
+        "options": {
+            "a": "Cinco años",
+            "b": "Dos años",
+            "c": "No hay limite",
+            "d": "Un año"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En el sistema de módulos que facturas se desgravan?",
+        "options": {
+            "a": "Se desgravan todas las que corresponden al ejercicio de la actividad",
+            "b": "Todo menos el taxímetro",
+            "c": "Las que no llevan IVA",
+            "d": "No se desgrava ninguna"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el articulo 29 de la Ordenanza Municipal quienes habiendo sido titulares del permiso municipal de conductor y hayan permanecido más de cinco años sin practicar habitualmente la profesión de conductor de vehículo autotaxi en el municipio de que se trate deberán renovar el permiso municipal para volver a ejercerla.",
+        "options": {
+            "a": "A estos efectos se entenderá que no existe ejercicio habitual de la profesión si no se acredita haber trabajado en ella doce meses.",
+            "b": "A estos efectos se entenderá que no existe ejercicio habitual de la profesión si no se acredita haber trabajado en ella seis meses, al menos durante los cinco últimos años.",
+            "c": "A estos efectos se entenderá que no existe ejercicio habitual de la profesión si no se acredita haber trabajado en ella doce meses, al menos durante los últimos diez años.",
+            "d": "El articulo 29 de la Ordenanza quedó suprimido según las modificaciones efectuadas por el acuerdo de 1 de junio de 2021, por lo que no es necesario acreditar la práctica habitual de la profesión"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La Ordenanza reguladora del servicio de vehículos de alquiler con aparato taxímetro, indica que uno de los siguientes documentos no es necesario para la obtención de la tarjeta de identificación de los titulares de licencia.",
+        "options": {
+            "a": "Solicitud dirigida al ayuntamiento de Madrid",
+            "b": "Fotocopia de la licencia municipal con la revista del vehiculo adscrita a la misma en vigor",
+            "c": "Fotocopia del contrato de trabajo debidamente cumplimentado y diligenciado en el INEM,",
+            "d": "Fotocopia del DNI"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La ordenanza reguladora del servicio de vehículos de alquiler con aparato taxímetro, indica que uno de los siguientes documentos no es necesario para la obtención de la tarjeta de identificación de los conductores.",
+        "options": {
+            "a": "Fotocopia de la licencia municipal adscrita al vehículo en el que vaya a prestar servicio, con la revista en vigor.",
+            "b": "Fotocopia del permiso municipal de conducir",
+            "c": "Fotocopia del alta en la seguridad social correspondiente al contrato de trabajo",
+            "d": "Certificado de penales"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La ordenanza reguladora del servicio de Vehículos de alquiler con aparato taxímetro dice que los titulares de licencia de autotaxi y en su caso, los conductores adscritos a la mencionada licencia deberán llevar visible:",
+        "options": {
+            "a": "El taximetro",
+            "b": "El extintor",
+            "c": "La tarjeta de identificación",
+            "d": "Las tarifas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La ordenanza reguladora del servicio de Vehículos de alquiler con aparato taximetro, indica cada cuanto tiempo se renovara la tarjeta de identificación en la Oficina Municipal del Taxi.",
+        "options": {
+            "a": "Cada vez que se cambie de vehículo",
+            "b": "Cada dos años obligatoriamente y en todo caso cuando se produzca la sustitución del vehículo que esté autorizado en la mencionada tarjeta",
+            "c": "Cada cinco años y en todo caso cuando se produzca la sustitución del vehículo que esté autorizado en la mencionada tarjeta",
+            "d": "Cada año y en todo casi cuando se produzca la sustitución del vehículo que esté autorizado en la mencionada tarjeta."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "En el reglamento 74/2005 se dice que las mamparas llevaran, en todo caso, dispositivos para permitir el pago de las tarifas desde el interior del vehículo y para comunicar verbalmente a los usuarios con el conductor cuando ello sea necesario a:",
+        "options": {
+            "a": "Juicio del conductor",
+            "b": "Juicio de los usuarios",
+            "c": "Según dictamine cada municipio",
+            "d": "No habla de nada de esto"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La ordenanza reguladora del servicio de Vehículos de alquiler con aparato taxímetro, indica como deberá ir colocada la tarjeta de identificación en los vehículos. Esta será colocada:",
+        "options": {
+            "a": "De manera que sea visible desde el interior del vehículo como desde el exterior",
+            "b": "De manera que sea visible desde el interior",
+            "c": "De manera que sea visible desde el exterior",
+            "d": "Solo hay que llevarla el lugar es lo de menos."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el reglamento de los servicios de transporte público urbano en automóviles de turismo de 2005, como regla general será preciso obtener simultáneamente la licencia municipal de autotaxi y la autorización de transporte público discrecional interurbano en automóvil de turismo, debiendo presentarse la correspondiente solicitud conjunta ante:",
+        "options": {
+            "a": "Ante la comunidad de Madrid",
+            "b": "Ante la unión Europea",
+            "c": "Ante el órgano municipal competente",
+            "d": "No hay que acreditarlo ante nadie."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el reglamento de los servicios de transporte público urbano en automóviles de turismo de 2005, para la obtención de licencias municipales de auto taxi será necesario acreditar ante el órgano competente el cumplimiento de los siguientes requisitos:",
+        "options": {
+            "a": "Ser persona física, no pudiendo otorgarse las licencias de forma conjunta a más de una persona ni a comunidades de bienes",
+            "b": "Ser persona jurídica, pudiendo otorgarse las licencias de forma conjunta a más de una",
+            "c": "Ser persona física o jurídica cuyo objeto social no sea el transporte público de viajeros",
+            "d": "Ser persona juridica cuyo objeto social sea el transporte de mercancías"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿El instalador autorizado de un aparato taxímetro está facultado para precintarlo?",
+        "options": {
+            "a": "Solo bajo la autorización del ayuntamiento",
+            "b": "Si",
+            "c": "No, nunca",
+            "d": "Solo bajo la autorización de la Dirección de Hacienda"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Las personas que obtengan una licencia de autotaxi deberán iniciar la prestación del servicio en el plazo máximo de?",
+        "options": {
+            "a": "Treinta días naturales, contados desde la fecha de notificación de la concesión de la misma",
+            "b": "Noventa días naturales, contados desde la fecha de notificación de la concesión de la misma",
+            "c": "Sesenta días naturales, contados desde la fecha de notificación de la concesión de la misma",
+            "d": "No existe una limitación, ya que es imposible comprobarlo."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La realización de servicio de transporte urbano careciendo de la preceptiva licencia otorgada por el correspondiente municipio, o cuando la misma hubiere sido retirada o se encontrare caducada, se considera como falta...",
+        "options": {
+            "a": "Leve",
+            "b": "Grave",
+            "c": "Muy grave",
+            "d": "No es una infracción"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según el reglamento de los servicios de transporte público urbano en automóviles de turismo de 2005, excepcionalmente los municipios podrán establecer un módulo o contingente especifico, aun cuando del mismo resulte un número de licencias superior al que correspondería de aplicación del baremo general. ¿Para acreditar dicha necesidad y conveniencia se analizará?",
+        "options": {
+            "a": "La situación del servicio en calidad",
+            "b": "La situación del servicio en calidad y cobertura antes del otorgamiento de nuevas licencias",
+            "c": "La configuración urbanística",
+            "d": "Ninguna de estas respuestas es correcta."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ordenanza Municipal, los municipios establecerán los colores y distintivos que permitan identificar a los vehículos que prestan el servicio de autotaxi:",
+        "options": {
+            "a": "Únicamente cuando se presta fuera del área de prestación conjunta",
+            "b": "Cuando haya más de un conductor asociado a dicha licencia",
+            "c": "En el exterior mediante placa",
+            "d": "En el exterior y en el interior del vehículo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el reglamento de los servicios de transporte público urbano en automóviles de turismo de 2005, los vehículos a los que haya de adscribirse las licencias deberán estar dotados de:",
+        "options": {
+            "a": "Carrocería abierta con puertas de fácil acceso y funcionamiento que facilite la maniobra con suavidad",
+            "b": "Dos extintores de incendios",
+            "c": "Puertas dotadas del mecanismo de seguridad conveniente que evite que el usuario pueda accionar sus vidrios.",
+            "d": "Aire acondicionado y calefacción o climatizador"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el reglamento de los servicios de transporte público urbano en automóviles de turismo de 2005, el vehículo adscrito a una licencia de autotaxi, ¿podrá sustituirse por otro en caso de avería o accidente?",
+        "options": {
+            "a": "Si, durante el tiempo que dure la reparación, mediante un vehículo de características superiores al accidentado o averiado y que haya obtenido el certificado de inspección técnica de vehículos",
+            "b": "No, en ningún caso",
+            "c": "Únicamente en los casos de averías cuya reparación no exceda el límite máximo de dos meses que impone el reglamento",
+            "d": "Si, durante el tiempo que dure la reparación, mediante un vehículo de similares características al accidentado o averiado y que cumpla el resto de requisitos para poder prestar servicio"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La Ordenanza Municipal determina que los vehículos a los que hayan de describirse las licencias deberán estar dotados de:",
+        "options": {
+            "a": "Cilindrada y prestaciones técnicas idóneas que garanticen una correcta conducción y una adecuada prestación del servicio.",
+            "b": "Todas son validas",
+            "c": "Dispositivo de alumbrado eléctrico exterior que permitan la visibilidad del cuadro de mandos",
+            "d": "Ventanillas provistas de lunas opacas e inastillables en todas las puertas y en la parte posterior del vehículo."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el reglamento de los servicios de transporte público urbano en automóviles de turismo de 2005, excepcionalmente los municipios podrán establecer un módulo o contingente específico, aun cuando del mismo resulte un número de licencias superior a las que correspondería de aplicación del baremo general. En el expediente que a este efecto se tramite se dará audiencia a:",
+        "options": {
+            "a": "Las asociaciones de consumidores y usuarios",
+            "b": "Las asociaciones representativas del sector del transporte en auto taxi y a las asociaciones",
+            "c": "Las administraciones",
+            "d": "Los municipios y a las asociaciones representativas del sector del transporte del auto taxi."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué será necesario para la realización de servicios de transporte urbano de viajeros en automóviles turismo?",
+        "options": {
+            "a": "La obtención previa de la correspondiente licencia habilitante",
+            "b": "Estar en vías de obtención del carnet de conducir de la clase necesaria para la prestación de servicio",
+            "c": "Tener concertada una póliza de seguros de 500.000 de €",
+            "d": "Conocer el sector y sus obligaciones"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la ley 29/2003, ¿Cuál será la multa con la que se sancionara la carencia de cambio de moneda metálica o billetes hasta la cantidad que, se encuentre reglamentariamente determinada?",
+        "options": {
+            "a": "La ley 29/2003 no contempla esta circunstancia como infracción",
+            "b": "De 601 a 800€",
+            "c": "De 1001 a 1500 €",
+            "d": "Hasta 200€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuánto tiempo mínimo puede durar una excedencia?",
+        "options": {
+            "a": "Cinco años",
+            "b": "No está legislado",
+            "c": "Un año",
+            "d": "No tiene limite"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El conductor debería seguir el itinerario:",
+        "options": {
+            "a": "Más directo, salvo que el tráfico no lo permita",
+            "b": "Más directo",
+            "c": "Más directo, salvo que el viajero exprese voluntad de utilizar otro distinto",
+            "d": "El que considere oportuno y el viajero no puede decir nada"
+        },
+        "solution": "c"
+    }
+]

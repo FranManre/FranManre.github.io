@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Lacoma a la Plaza de Puerto de Cruz?",
+        "options": {
+            "a": "C/ de Ramón de la Serna - C/ la Isla de Tabarca - C/ Rosalía de Castro - c/ Ramón de la Serna",
+            "b": "C/ de Ramón de la Serna - C/ la Isla de Tabarca - C/ de Dr. Ramón Castroviejo C/ Rosalía de Castro",
+            "c": "C/ de Ramón de la Serna - C/ la Isla de Tabarca - C/ de Dr. Ramón Castroviejo",
+            "d": "C/ de Ramón de la Serna - C/ la Isla de Tabarca - C/ de Dr. Ramón Castroviejo C/ Rosalía de Castro - c/ Dr. Ramón de Castroviejo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Colegio Nuestra Señora del Pilar en la calle Castelló 56 al Museo San Isidro?",
+        "options": {
+            "a": "C/ Castelló - C/ Príncipe de Vergara - C/ Alcalá - Paseo del Prado - C/ Atocha - C/ Segovia Costanilla de San Pedro",
+            "b": "C/ Castelló - C/ Príncipe de Vergara - Paseo de la Castellana - Paseo del Prado - C/ Atocha - C/ Segovia - Costanilla de San Pedro",
+            "c": "C/ Castelló - C/ Príncipe de Vergara - Paseo de la Castellana - Paseo del Prado - C/ Atocha - C/ Bailén - Costanilla de San Pedro",
+            "d": "C/ Príncipe de Vergara - C/ Alcalá - Paseo del Prado - C/ Atocha - C/ Segovia - Costanilla de San Pedro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Cuzco al Hospital Carlos III?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo de la Castellana - Av. de Sinesio Delgado",
+            "c": "Rio Rosas - Paseo de la castellana - Av. Sinesio Delgado",
+            "d": "Paseo de la castellana - Monforte de Lemos - Sinesio Delgado"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Estadio Santiago Bernabéu a la parada de metro Barrio del Pilar?",
+        "options": {
+            "a": "Paseo de la Castellana - C/ Ginzo de Limia",
+            "b": "Paseo de la Castellana - Av. De Asturias",
+            "c": "Paseo de la Castellana - Av. de Sinesio Delgado - C/ Ginzo de Limia",
+            "d": "Paseo de la Castellana - Av. de Asturias - C/ Ginzo de Limia"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Ópera a la lglesia de San Agustín?",
+        "options": {
+            "a": "C/ Caños del Peral - Costanilla de los Ángeles - C/ San Bernardo - C/ Eloy Gonzalo - C/ Sta. Engracia - C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa",
+            "b": "C/ Caños del Peral - Costanilla de los Ángeles - C/ San Bernardo - C/ Eloy Gonzalo - C/ Sta Engracia - C/ Joaquín Costa",
+            "c": "C/ Caños del Peral - Costanilla de los Ángeles - C/ San Bernardo - C/ Eloy Gonzalo - C/ Sta. Engracia - C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa",
+            "d": "C/ Caños del Peral - Costanilla de los Ángeles - C/ San Bernardo - C/ Sta. Engracia - C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Estadio Vicente Calderón a la Plaza Almodóvar?",
+        "options": {
+            "a": "Paseo Virgen del Puerto - Paseo Ermita del Santo - Paseo de la Florida - Av. Valladolid - M-30 - General Ricardos - Calle de la Oca",
+            "b": "Paseo Virgen del Puerto - Cta. San Vicente - Gran vía - Prado - Sta. maría de la Cabeza - Vía Lusitana",
+            "c": "Paseo Virgen del Puerto - Paseo Ermita del Santo - C/ Vía Carpetana - C/ Zaida",
+            "d": "Paseo Virgen del Puerto - Paseo Ermita del Santo - C/ Vía Carpetana"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de Duque de Módena a la parada de metro Vista Alegre?",
+        "options": {
+            "a": "C/ Clara Campoamor - C/ Gral. Ricardos - C/ De la Oca",
+            "b": "C/ Clara Campoamor - C/ Gral. Ricardos - C/ De la Oca - C/ Pinzón",
+            "c": "C/ Clara Campoamor - C/ Gral. Ricardos - C/ Ramón Sainz - c/ Petirrojo - C/ Pinzón",
+            "d": "C/ Clara Campoamor - C/ Gral. Ricardos - C/ Ramón Sainz - C/ Alondra - C/ Pinzón"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Atocha al Palacio Vistalegre?",
+        "options": {
+            "a": "Paseo de Sta. Ma de la Cabeza - A-4 - Av. Oporto - C/ Gral. Ricardos - C/ Ramón Sainz - C/ Castrogeriz - C/ Utebo",
+            "b": "Paseo de Sta. Me de la Cabeza - A-42 - Av. Oporto - C/ Gral. Ricardos - C/ Ramón Sainz - C/ Castrogeriz - C/ Utebo",
+            "c": "Paseo de Sta. Me de la Cabeza - A-42 - Av. Oporto - C/ Gral. Ricardos - C/ Ramón Sainz",
+            "d": "Paseo de Sta. Me de la Cabeza - A-42 - Av. Oporto - C/ Gral. Ricardos - C/ Ramón Sainz - C/ Castrogeriz - C/ Utebo - C/ Matilde Hernández - P° Marcelino Camacho"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Jefatura Provincial de Tráfico (28043) al Hospital Universitario HM Nuevo Belén?",
+        "options": {
+            "a": "C/ Arturo Soria - C/ Ulises",
+            "b": "C/ Josefa Valcárcel - C/ Arturo Soria - C/ José Silva",
+            "c": "C/ Arturo Soria - C/ José Silva",
+            "d": "C/ Josefa Valcárcel - C/ Arturo Soria - c/ Belisana"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro República Argentina al Mercado Puerta de Toledo?",
+        "options": {
+            "a": "C/ Joaquín Costa - Paseo de la Castellana - Paseo de Recoletos - Paseo del Prado - C/ Ronda de Valencia - C/ Ronda de Toledo",
+            "b": "C/ Joaquín Costa - Paseo de la Habana - Av. Ramón y Cajal - M-30 - Glorieta Pirámides - C/ Toledo",
+            "c": "C/ Joaquín Costa - M-30 - Glorieta Pirámides - C/ Toledo",
+            "d": "C/ Joaquín Costa - Paseo de la Castellana - Paseo de Recoletos - Paseo del Prado - C/ Ronda de Valencia"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Ciudad Lineal a la Policlínica Universitaria Alfonso X el Sabio, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Hermanos García Noblejas - C/ Julián Camarillo - C/ Albarracín",
+            "b": "C/ Alcalá - C/ Albarracín",
+            "c": "C/ Hermanos García Noblejas - Emilio Muñoz - C/ Albarracín",
+            "d": "c/ Alcalá - Hermanos García Noblejas - Julián Camarillo - Miguel Yuste - C/ Albarracín"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Estación Atocha al Hospital General Universitario Gregorio Marañón, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Méndez Álvaro - Paseo de la Infanta Isabel - Paseo de la R. Cristina - Av. Del Mediterráneo - C/ Dr. Esquerdo - C/ Ibiza",
+            "b": "C/ Méndez Álvaro - Paseo del Prado - Alcalá - Menéndez Pelayo - C/ Ibiza",
+            "c": "C/ Méndez Álvaro - Paseo del Prado - Alcalá - Menéndez Pelayo",
+            "d": "C/ Méndez Álvaro - Paseo de la Infanta Isabel - Paseo de la R. Cristina - Av. Del Mediterráneo - C/ Dr. Esquerdo"
+        },
+        "solution": "a"
+    }
+]

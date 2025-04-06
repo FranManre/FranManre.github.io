@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Estación Chamartín a la Hospital Carlos III?",
+        "options": {
+            "a": "C/ de Sinesio Delgado",
+            "b": "C/ Ginzo de Limia",
+            "c": "C/ Agustín de Foxá",
+            "d": "C/ Hiedra"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Moncloa a Cuatro Torres Business Área?",
+        "options": {
+            "a": "C/ Isaac Peral - Paseo S. Fco. De Sales - Av. Reina Victoria - C/ Raimundo Fdez. Villaverde - Paseo de la Castellana",
+            "b": "C/ Princesa - C/ Gran vía - C/ Alcalá - Paseo de la Castellana",
+            "c": "C/ Princesa - C/ Alcalá - Paseo de la Castellana",
+            "d": "C/ Isaac Peral - Paseo S. Fco. De Sales - Av. Cea Bermúdez - C/ Raimundo Fdez. Villaverde - Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Cuzco a la parada de metro Barrio del Pilar?",
+        "options": {
+            "a": "Paseo de la Castellana - Av. de Asturias - C/ Ginzo de Limia",
+            "b": "Paseo de la Castellana - Av. de Asturias",
+            "c": "Paseo de la Castellana - C/ Ginzo de Limia",
+            "d": "Paseo de la Castellana - c/ Bravo Murillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Tetuán al Hospital Universitario La Paz?",
+        "options": {
+            "a": "C/ Bravo Murillo - Paseo de la Castellana - Av. Monforte de Lemos - C/ Arzobispo Morcillo",
+            "b": "C/ Bravo Murillo - Paseo de la Castellana - Plaza Castilla",
+            "c": "C/ Bravo Murillo / Av. Asturias",
+            "d": "Paseo de la Castellana - Av. Monforte de Lemos - C/ Arzobispo Morcillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Eugenia de Montijo al Hospital Central Gómez Ulla?",
+        "options": {
+            "a": "C/ Ocaña - C/ Ntra. Sra. de la Luz - C/ Alonso Cano - Av. Ntra. Sra. de Fátima - Paseo Marcelino Camacho",
+            "b": "C/ Ocaña - C/ Ntra. Sra. de la Luz - Camino de los Ingenieros - C/ Juan Alonso - Av. Ntra. Sra. de Fátima - General Ricardos",
+            "c": "C/ Ocaña - C/ Ntra. Sra. de la Luz - Camino de los Ingenieros - C/ Juan Alonso - Av. Ntra. Sra. de Fátima - Paseo Marcelino Camacho",
+            "d": "C/ Ocaña - C/ Ntra. Sra. de la Luz - Camino de los Ingenieros - C/ Juan Alonso - Av. Ntra. Sra. de Fátima"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Templo de Debod al centro comercial ABC Serrano?",
+        "options": {
+            "a": "C/ Evaristo San Miguel - C/ Princesa - C/ Alberto Aguilera - C/ Sagasta - C/ Luchana - Paseo Eduardo Dato - C/ Serrano",
+            "b": "C/ Evaristo San Miguel - C/ Princesa - C/ Alberto Aguilera - C/ Génova - C/ Luchana - Paseo Eduardo Dato - C/ Serrano",
+            "c": "C/ Evaristo San Miguel - C/ Princesa - C/ Alberto Aguilera - C/ Carranza - C/ Luchana - Paseo Eduardo Dato - C/Serrano",
+            "d": "C/ Evaristo San Miguel - C/ Princesa - C/ Alberto Aguilera - C/ Carranza - C/ Luchana - Paseo Eduardo Dato"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir del Palacio Vistalegre a la parada de metro Atocha, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Eduardo Morales - C/ Gral. Ricardos - Paseo de las Yeserías - M-30 - Paseo de Mª de la Cabeza - Paseo de las Delicias",
+            "b": "C/ Matilde Hdez. - C/ Eduardo Morales - C/ Gral. Ricardos - Paseo de las Yeserías - M-30 - Paseo de Mª de la Cabeza - Paseo de las Delicias",
+            "c": "C/ Matilde Hdez. - C/ Gral. Ricardos - Paseo de las Yeserías - M-30 - Paseo de Mª de la Cabeza - Paseo de las Delicias",
+            "d": "C/ Matilde Hdez. - C/ Eduardo Morales - C/ Gral. Ricardos - Paseo de las Yeserias - M-30 - Paseo de Mª de la Cabeza"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Avenida de la Paz al Centro Deportivo Municipal Luis Aragonés?",
+        "options": {
+            "a": "C/ José Silva - C/Silvano - C/ de las Pedroñeras - C/ Mota del Cuervo",
+            "b": "C/ José Silva - C/Silvano - C/ Mota del Cuervo",
+            "c": "C/ Silvano - C/ de las Pedroñeras - C/ Mota del Cuervo",
+            "d": "C/ Silvano - C/ de las Pedroñeras - C/ Emigrantes"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Museo Casa de la Moneda a la parada de metro Puerta del Ángel, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la R. Cristina - Paseo de la Infanta Isabel",
+            "b": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la Infanta Isabel - Paseo de la R. Cristina - Paseo de Sta. María de la Cabeza - M-30 - Paseo de Extremadura",
+            "c": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la R. Cristina - Paseo de la Infanta Isabel - Paseo de Sta. María de la Cabeza - M-40 - Paseo de Extremadura",
+            "d": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la R. Cristina Paseo de la Infanta Isabel - Paseo de Sta. María de la Cabeza - M-30"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Simancas al Colegio Público Alberto Alcocer?",
+        "options": {
+            "a": "C/ Castillo de Uclés - C/ Miguel Yuste - c/ Julián Camarillo - c/ Hermanos García Noblejas - Av. Arcentales - Av. Canillejas/Vicálvaro",
+            "b": "C/ Castillo de Uclés - C/ Miguel Yuste - Av. Arcentales - Av. Canillejas/Vicálvaro",
+            "c": "C/ Castillo de Uclés - Av. Arcentales - Av. Canillejas/Vicálvaro",
+            "d": "C/ Castillo de Uclés - c/ Julián Camarillo - c/ Hermanos García Noblejas - C/ Versalles - Av. Canillejas/Vicálvaro"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro de Carabanchel a la Plaza Alcalde Brell, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Del Espinar - Av. Ntra. Sra. De Fátima - C/ Gral. Ricardos - C/ Clara Campoamor",
+            "b": "C/ Del Espinar - Av. Ntra. Sra. De La Luz - Paseo Marcelino Camacho - C/ Gral. Ricardos - C/ Clara Campoamor",
+            "c": "C/ Del Espinar - Av. Ntra. Sra. De Fátima - Paseo Marcelino Camacho",
+            "d": "C/ Del Espinar - Av. Ntra. Sra. De Fátima - Paseo Marcelino Camacho - C/ Gral. Ricardos - C/ Clara Campoamor"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Palacio Real a la Audiencia Nacional, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Mayor - C/ Bailén - Carrera S. Jerónimo - C/ Alcalá - C/ Velázquez - C/ Goya",
+            "b": "C/ Bailén - C/ Mayor - Cuesta de San Vicente - C/ Gran vía - C/ Alcalá - C/ Velázquez - C/ Goya",
+            "c": "C/ Bailén - C/ Mayor - Carrera S. Jerónimo - C/ Alcalá - C/ Velázquez - C/ Goya",
+            "d": "C/ Bailén - C/ Mayor - Carrera S. Jerónimo - C/ Gran vía - C/ Alcalá - C/ Velázquez - C/ Goya"
+        },
+        "solution": "c"
+    }
+]

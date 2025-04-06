@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Las licencias serán transmisibles cuando estén en situación de:",
+        "options": {
+            "a": "Suspensión temporal o excedencia.",
+            "b": "Suspensión total.",
+            "c": "Excedencia",
+            "d": "Suspensión total o excedencia."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál será el requisito necesario para estimar la procedencia de la transmisión de las licencias en relación con las cuales hayan cometido sus titulares las infracciones?",
+        "options": {
+            "a": "Pago parcial de las sanciones pecuniarias impuestas por resolución definitiva en vía administrativa, por alguna de las infracciones tipificadas en el reglamento.",
+            "b": "Pago parcial de las sanciones pecuniarias impuestas por prorrogación definitiva en vía administrativa, por alguna de las infracciones tipificadas en el reglamento.",
+            "c": "Pago de las sanciones pecuniarias impuestas por resolución definitiva en vía administrativa, por alguna de las infracciones tipificadas en el reglamento.",
+            "d": "Pago parcial de las sanciones pecuniarias impuestas por resolución definitiva en vía tributaria, por alguna de las infracciones tipificadas en el reglamento."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Se prohíbe el arriendo, cesión o traspaso de la explotación de las licencias y de los vehículos.",
+        "options": {
+            "a": "No, nunca",
+            "b": "No, salvo en algunos supuestos",
+            "c": "Sí, salvo en algunos supuestos.",
+            "d": "Si, siempre."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Las licencias municipales de autotaxi se extinguirán por las siguientes causas:",
+        "options": {
+            "a": "Renuncia del titular, revocación por el órgano municipal competente.",
+            "b": "Renuncia del conductor, revocación por el órgano municipal competente.",
+            "c": "Renuncia del titular, revocación por el órgano estatal competente.",
+            "d": "Renuncia del titular, revocación por el órgano estatal competente."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ordenanza Municipal Constituyen motivo de revocación de Licencias:",
+        "options": {
+            "a": "El cumplimiento de los requisitos exigidos.",
+            "b": "El incumplimiento de los requisitos exigidos.",
+            "c": "La comunicación de la finalización del periodo de excedencia al Ayuntamiento antes de que se agote.",
+            "d": "La falta de prestación del servicio en un año de 30 días consecutivos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuándo podrá el municipio revocar una licencia?",
+        "options": {
+            "a": "Por dejar inactiva una licencia 30 días consecutivos o 60 alternos.",
+            "b": "Por no iniciar el servicio en 30 días consecutivos",
+            "c": "Por no perder la VT",
+            "d": "Por incumplir los requisitos exigidos."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Los municipios llevarán un registro de las licencias concedidas, en el que se irán anotando:",
+        "options": {
+            "a": "Incidencias relativas a su titularidad, conductores afectos a las mismas, infracciones cometidas y sanciones impuestas.",
+            "b": "Incidencias relativas a su titularidad, vehículos afectos a las mismas, infracciones cometidas y tasas impuestas.",
+            "c": "Incidencias relativas a su titularidad, vehículos afectos a las mismas, infracciones cometidas y sanciones impuestas.",
+            "d": "Incidencias relativas a su titularidad, vehículos afectos a las mismas, infracciones cometidas y sanciones propuestas."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Los municipios comunicarán al órgano Competente de la Comunidad de Madrid, las incidencias registradas en relación con la titularidad de las licencias; ¿con que periodicidad mínima?",
+        "options": {
+            "a": "Anual.",
+            "b": "Semestral.",
+            "c": "Cuatrimestral.",
+            "d": "Bimestral."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La licencia de autotaxi habrá de referirse a vehículos turismo de los que disponga el titular de aquella ¿en virtud de qué títulos?:",
+        "options": {
+            "a": "Titularidad o usufructo",
+            "b": "Arrendamiento financiero y titularidad y usufructo.",
+            "c": "Leasing y renting y propiedad o usufructo",
+            "d": "Leasing o renting"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué requisitos habrán de cumplir los vehículos de las licencias?",
+        "options": {
+            "a": "Matriculados y habilitados para circular.",
+            "b": "Hallar vigente la última inspección técnica periódica.",
+            "c": "Matriculados y habilitados para circular más la última inspección técnica periódica vigente.",
+            "d": "Hallar vigente la última inspección técnica periódica y certificado"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Municipal ¿Cuál es el número de plazas de los vehículos de las licencias?",
+        "options": {
+            "a": "5, incluida la del conductor",
+            "b": "5",
+            "c": "6",
+            "d": "4, incluida del conductor"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Si el vehículo está habilitado para silla de ruedas, ¿Cuántas plazas serían?",
+        "options": {
+            "a": "6",
+            "b": "5",
+            "c": "6, incluida la del conductor",
+            "d": "6, siempre a elección del usuario"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuáles son características técnicas de los vehículos de Licencias Autotaxi según la Ordenanza Municipal?",
+        "options": {
+            "a": "Carrocería abierta, ventanillas con lunas opacas y alumbrado eléctrico.",
+            "b": "Cilindrada y prestaciones técnicas idóneas, dispositivos de calefacción y aire acondicionado o climatizador",
+            "c": "Alumbrado eléctrico interior, extintor de agua, cilindrada y prestaciones técnicas idóneas, dispositivos de calefacción y aire acondicionado.",
+            "d": "Los asientos deberán proporcionar al usuario la calidad y seguridad propia al servicio, climatizador y aire acondicionado."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué modificaciones no están permitidas?",
+        "options": {
+            "a": "Ventanillas manuales",
+            "b": "Aumento del Número de plazas",
+            "c": "Asientos de cuero",
+            "d": "Baca"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Dónde y qué distintivos tiene que llevar el vehículo de auto-taxi?",
+        "options": {
+            "a": "En el exterior e interior la placa con el número de licencia.",
+            "b": "En el interior identificación del conductor y placa con el número de licencia.",
+            "c": "Únicamente en el exterior el número de licencia.",
+            "d": "En el exterior número de licencia e interior placa con el número de licencia"
+        },
+        "solution": "d"
+    }
+]

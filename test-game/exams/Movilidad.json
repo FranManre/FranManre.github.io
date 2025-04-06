@@ -1,0 +1,62 @@
+[
+    {
+        "question": "La etiqueta 0 emisiones, ¿a qué tipo de vehículos identifica?",
+        "options": {
+            "a": "A los vehículos de gas.",
+            "b": "A los vehículos de combustión interna.",
+            "c": "A los vehículos matriculados antes del año 2006.",
+            "d": "A los vehículos más eficientes."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué zona se establece la ordenación Madrid Zona de Bajas Emisiones?",
+        "options": {
+            "a": "En el término municipal de la ciudad de Madrid.",
+            "b": "En la Zona de Prestación Conjunta de Madrid.",
+            "c": "En la M-30.",
+            "d": "En toda la Comunidad de Madrid."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de las siguientes calles se encuentra dentro de la Zona de Bajas Emisiones de Especial Protección (ZBEDEP) Distrito Centro?",
+        "options": {
+            "a": "La calle Arturo Soria.",
+            "b": "La calle Gran Via.",
+            "c": "La calle Bravo Murillo.",
+            "d": "El paseo de la Castellana."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El límite máximo de velocidad en vías urbanas que dispongan de plataforma única de calzada y acera siempre y cuando existan elementos separadores entre la calzada y la acera será de:",
+        "options": {
+            "a": "Quince Kilómetros por hora.",
+            "b": "Treinta Kilómetros por hora.",
+            "c": "Veinte Kilómetros por hora.",
+            "d": "Cincuenta Kilómetros por hora."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Quedan excluidos de la limitación de la duración del estacionamiento los vehículos autotaxi que estén en servicio...",
+        "options": {
+            "a": "Sin necesidad de que quien conduzca se encuentre presente",
+            "b": "Siempre que sean Autotaxi adaptados o Eurotaxis.",
+            "c": "Siempre que quien conduzca se encuentre presente o bien lo haya abandonado momentáneamente por las propias necesidades del servicio.",
+            "d": "Así como el resto de los vehiculos turismo."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Quién o quiénes tienen prioridad en un carril multimodal?",
+        "options": {
+            "a": "Solo las personas usuarias de bicicletas disfrutan de preferencia sobre los vehículos a motor.",
+            "b": "Las personas usuarias de bicicletas disfrutan de preferencia sobre los vehículos de movilidad personal.",
+            "c": "Ninguna de las opciones es correcta.",
+            "d": "Las personas usuarias de bicicletas y vehículos de movilidad personal disfrutan de preferencia sobre los vehículos a motor."
+        },
+        "solution": "d"
+    }
+]

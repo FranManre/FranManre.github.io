@@ -1,0 +1,122 @@
+[
+    {
+        "question": "PARLA HASTA RIVAS VACIAMADRID",
+        "options": {
+            "a": "A-42 - M-50 - A-3",
+            "b": "A-4 - M-30 - M-502",
+            "c": "A-42 - M-40 - M-402",
+            "d": "A-3 - M-30 - A-2"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "POZUELO DE ALARCÓN HASTA EL HOSPITAL DE FUENLABRADA",
+        "options": {
+            "a": "M-40 - A-5 - M-506",
+            "b": "A-4 - M-30 - M-502",
+            "c": "A-45 - M-406 - M-506",
+            "d": "M-502 - M-45 - A-42"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "UNIVERSIDAD AUTÓNOMA HASTA NUEVOS MINISTERIOS",
+        "options": {
+            "a": "Ctra. Fuencarral el Pardo - P° Castellana",
+            "b": "Ctra. Colmenar Viejo - P° Castellana",
+            "c": "A-42 - P° Sta. Ma de la Cabeza - P° Delicias - P° Recoletos - P° Castellana",
+            "d": "Ctra. Castilla - Av. Séneca - Cea Bermúdez - José Abascal - P° Castellana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "AEROPUERTO HASTA SERRANO ESQUINA AYALA",
+        "options": {
+            "a": "Av. América - M-30 - Alcalá - Ayala",
+            "b": "Av. América - M-40 - Goya - Velázquez",
+            "c": "A-2 - Alcalá",
+            "d": "A-3 - M-30 - Ayala"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOSPITAL NIÑO JESUS HASTA SERRANO ESQUINA AYALA",
+        "options": {
+            "a": "A-3 - Ayala",
+            "b": "Príncipe de Vergara - Ayala - Velázquez - José Ortega y Gasset",
+            "c": "Príncipe de Vergara - Ayala",
+            "d": "A-5 - Gran Vía - Pza. España"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "MEJORADA DEL CAMPO Ó VELILLA DE SAN ANTONIO HASTA J.M.D. MORATALAZ",
+        "options": {
+            "a": "R-3 - M-50 - A-3 - M-30 - Fuente Carrantona",
+            "b": "M-203 - R-3 - M-40 - Fuente Carrantona",
+            "c": "R-2 - M-40",
+            "d": "R-4 - M-30"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MOSTOLÉS HASTA J.M.D. USERA",
+        "options": {
+            "a": "A-5 - M-40 - Av. Rafaela Ybarra",
+            "b": "A-5 - Av. De los Poblados - Av. Rafaela Ybarra",
+            "c": "M-40 - A-2",
+            "d": "M-30 - Av. Poblados"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "JEFATURA TRAFICO - COLMENAR VIEJO",
+        "options": {
+            "a": "Arturo Soria - Torrelaguna - M-30 - Carretera Colmenar Viejo",
+            "b": "Alcalá - M-40 - Ctra. Colmenar Viejo",
+            "c": "Av. Córdoba - M-30 - A-1",
+            "d": "M-40 - Ctra. Colmenar Viejo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AVENIDA DE LA AVIACIÓN HASTA CAMPUS DE SOMOSAGUAS",
+        "options": {
+            "a": "Av. Poblados - Ctra. Carabanchel a Aravaca",
+            "b": "M-40 - M-30 - Cita Castilla",
+            "c": "A-5 - Av. Aviación - Via Lusitana",
+            "d": "M-30 - Av. De los Poblados - Ctra. Humera a Aravaca"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "AYUNTAMIENTO SAN FERNANDO DE HENARES HASTA UNIVERSIDAD AUTÓNOMA",
+        "options": {
+            "a": "A-3 - Av. América - M-40 - Ctra. El Pardo",
+            "b": "A-2 - M-40 - Manuel Azaña - M-30 - Ctra. Colmenar Viejo",
+            "c": "A-2 - Av. Aragón - Av. América - Ma Molina - P° Castellana",
+            "d": "A-1 - M-30 - Ctra. Colmenar Viejo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "AYUNTAMIENTO SAN FERNANDO DE HENARES HASTA J.M.D. LATINA",
+        "options": {
+            "a": "A-2 - Av. Aragón - M-40 - Av. Carabanchel Alto - Av. Poblados - Av. Las Águilas",
+            "b": "M-21 - M-30 - A-5",
+            "c": "A-1 - M-30 - Av. Poblados",
+            "d": "A-2 - Av. Aragón - M-40"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PUENTE ALCOCER HASTA CAMPUS SOMOSAGUAS",
+        "options": {
+            "a": "Villalonso - Eduardo Barreiros - M-40 - Av. Carabanchel Alto - Av. Poblados - Ctra. Carabanchel",
+            "b": "Villalonso - P° Plata y Castañar - Av. Princesa Juana de Austria - Av. Poblados - Ctra. Carabanchel",
+            "c": "A-42 - M-30 - A-6",
+            "d": "A-4 - Av. Andalucía - Av. Poblados - Ctra. Carabanchel a Aravaca"
+        },
+        "solution": "b"
+    }
+]

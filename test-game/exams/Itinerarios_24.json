@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir de la Plaza de Puerto de Cruz a la parada de metro La coma, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ de Santiago de Compostela - C/ Isla de Tabarca - c/ Ramón Gómez de la Serna - c/ Rosalía de Castro",
+            "b": "C/ de Santiago de Compostela - C/ Isla de Tabarca - Av. Cardenal Herrera Oria - Av. Ventisquero de la condesa - C/ Del valle de Pinares Llanos",
+            "c": "C/ de Santiago de Compostela - C/ La Isla de Tabarca - C/ de Ramón Gómez de la Serna",
+            "d": "C/ de Santiago de Compostela - C/ Isla de Tabarca - Av. Cardenal Herrera Oria - Av. Ventisquero de la condesa - C/ Del valle de Pinares Llanos - C/ de Riscos de Polanco"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir del Centro Deportivo Municipal San Blas a la parada de metro Avda. de Guadalajara, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Pobladura del Valle - Av. Canillejas - Vicálvaro - Av. Arcentales - Calle Hermanos García Noblejas - C/ Aquitania",
+            "b": "C/ Pobladura del Valle - Av. Canillejas - Vicálvaro - Av. Arcentales - Calle Hermanos García Noblejas - C/ Av. De Guadalajara",
+            "c": "Av. Canillejas - Vicálvaro - Av. Guadalajara",
+            "d": "C/ Pobladura del Valle - Av. Canillejas - Vicálvaro - Av. Guadalajara"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital Carlos IIl a la parada de metro Cuzco, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Sinesio Delgado - Paseo de la Castellana - Av. General Perón",
+            "b": "C/ Sinesio Delgado - Paseo de la Castellana - c/ Raimundo Fdez. Villaverde",
+            "c": "C/ Sinesio Delgado - Paseo de la Castellana",
+            "d": "C/ Sinesio Delgado - Paseo de la Castellana - Av. Mateo Inurria"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la parada de metro Barrio del Pilar al Estadio Santiago Bernabéu, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ginzo de Limia - Av. De la llustración - M-30 - Paseo de la castellana",
+            "b": "C/ Ginzo de Limia - Av. Monforte de Lemos - Paseo de la Castellana",
+            "c": "C/ Ginzo de Limia - Av. de Asturias - Paseo de la Castellana",
+            "d": "Paseo de la castellana - Plaza de Lima"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Iglesia de San Agustín a la parada de metro Ópera, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Joaquín Costa - C/ Vitruvio - C/ Ríos Rosas - Av. Filipinas - C/ Guzmán El Bueno - C/ Serrano Jover - C/ Princesa - Plaza España - C/ Bailén - C/ Arrieta",
+            "b": "C/ Joaquín Costa - Av. Dr. Arce - C/ Ríos Rosas - Av. Filipinas - C/ Guzmán EI Bueno - C/ Serrano Jover - C/ Princesa - Plaza España - C/ Bailén - C/ Arrieta",
+            "c": "C/ Joaquín Costa - C/ Vitruvio - C/ Ríos Rosas - Sta - Engracia - c/ Bravo Murillo - Av. Filipinas - C/ Guzmán El Bueno - C/ Serrano Jover - C/ Princesa - Plaza España - C/ Bailén - C/ Arrieta",
+            "d": "C/ Joaquín Costa - C/ Vitruvio - C/ Ríos Rosas - Av. Filipinas - C/ Guzmán El Bueno - C/ Serrano Jover - C/ Princesa"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Canal de lsabel II - Depósito de San Blas a la parada de metro Quintana?",
+        "options": {
+            "a": "Av. Arcentales - c/ Julián Camarillo - C/ Hermanos García Noblejas - C/ Alcalá",
+            "b": "C/ Hermanos García Noblejas - C/ Virgen del Rosario",
+            "c": "C/ Hermanos García Noblejas - C/ Alcalá",
+            "d": "C/ Hermanos García Noblejas - c/ Alcalá - C/ Roberto Domingo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital Fundación Jímenez Díaz a la parada de metro La Elipa?",
+        "options": {
+            "a": "C/ Cea Bermúdez - C/ Bravo Murillo - C/ Fuencarral - C/ Génova - C/ Serrano - C/ O'Donnell Av. Marqués de Corbera",
+            "b": "C/ Cea Bermúdez - Isaac Peral - Av. de la Memoria - Av. Séneca - M-30 - Av. Ilustración - M. 30 C/ O'Donnell - Av. Marqués de Corbera",
+            "c": "C/ Cea Bermúdez - Paseo san Francisco de sales - Av. Pablo Iglesias - Francos Rodríguez - Sinesio Delgado - Av. Betanzos - M-30 - Av. Ilustración - M-30 C/ O'Donnell - Av. Marqués de Corbera",
+            "d": "C/ Cea Bermúdez - C/ Bravo Murillo - C/ San Bernardo C/ Carranza - C/ Génova - C/ Serrano. C/ O'Donnell - Av. Marqués de Corbera"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Colombia la sede del diario El Mundo?",
+        "options": {
+            "a": "Av. Pío XII - Cuesta del Sagrado Corazón - C/ Añastro - C/ Berlanga de Duero - C/ Santa Susana - Av. San Luis",
+            "b": "Av. Pío XII - Cuesta del Sagrado Corazón - Arturo Soria - Av. San Luis",
+            "c": "Av. Pío XII - Cuesta del Sagrado Corazón - C/ Añastro - C/ Berlanga de Duero - C/ Ramonet - Av. San Luis",
+            "d": "Av. Pío XII - M-30 - M-11 - salida Arturo Soria - Av. San Luis"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Plaza Mariana Pineda a la Parroquia de San Diego, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Cantalapiedra - C/ José Paulete - C/ Josefa Díaz - C/ Carlos Martín Álvarez - Av. San Diego - C/ del Puerto de Arlabán - C/ Sierra Molina",
+            "b": "C/ Cantalapiedra C/ Josefa Díaz - C/ Carlos Martín Álvarez - Av. San Diego - C/ del Puerto de Arlabán - C/ Sierra Molina",
+            "c": "C/ Cantalapiedra C/ Josefa Díaz - C/ Carlos Martín Álvarez - Av. San Diego - C/ del Puerto de Arlabán",
+            "d": "C/ José Paulete - C/ Josefa Díaz - C/ Carlos Martín Álvarez - Av. San Diego - C/ del Puerto de Arlabán - C/ Sierra Molina"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Mercado Puerta de Toledo a la parada de metro República Argentina, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Ronda de Toledo - C/ Ronda de Atocha - C/ Alfonso XII - C/ Velázquez",
+            "b": "Ronda de Toledo - C/ Ronda de Atocha - C/ Alfonso XII - C/ Velázquez - C/ Joaquín Costa",
+            "c": "Ronda de Toledo - Paseo de san Francisco - C/ mayor - Gran vía - Alcalá - Manuel becerra - Fco. Silvela",
+            "d": "Ronda de Toledo - C/ Toledo - Pirámides - M-30 - Nudo Ventas - Manuel becerra - Fco Silvela - "
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Alto de Extremadura al Hospital Nuestra Señora del Rosario?",
+        "options": {
+            "a": "A-3 - C/ Rosaleda - C/ Marqués de Urquijo - C/ Alberto Aguilera - C/ Luchana - Plaza de Chamberí - Paseo Eduardo Dato - C/ Juan Bravo",
+            "b": "A-5 - C/ Rosaleda - C/ Marqués de Urquijo - C/ Alberto Aguilera - Plaza de Chamberí - Paseo Eduardo Dato - C/ Juan Bravo",
+            "c": "A-5 - C/ Rosaleda - C/ Marqués de Urquijo - C/ Alberto Aguilera - C/ Luchana - Plaza de Chamberí - Paseo Eduardo Dato - C/ Jorge Juan",
+            "d": "A-5 - C/ Rosaleda - C/ Marqués de Urquijo - C/ Alberto Aguilera - C/ Luchana - Plaza de Chamberí - Paseo Eduardo Dato - C/ Juan Bravo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de la Rendición de Breda a la parada de metro Eugenia de Montijo?",
+        "options": {
+            "a": "Av. Abrantes - C/ Clara Campoamor - C/ Gral. Ricardos - C/ de la Oca - Cno. De los Ingenieros - C/ Ocaña",
+            "b": "Av. Abrantes - C/ Clara Campoamor - C/ Gral. Ricardos - Paseo Marcelino Camacho - Cno. De los Ingenieros - Eugenia de Montijo",
+            "c": "Av. Abrantes - C/ Clara Campoamor - C/ Gral. Ricardos - Paseo Marcelino Camacho - Cno. De los Ingenieros - C/ Eugenia de Montijo",
+            "d": "Av. Abrantes - C/ Clara Campoamor - C/ Gral. Ricardos - Paseo Marcelino Camacho - Cno. De los Ingenieros - C/ Ocaña"
+        },
+        "solution": "d"
+    }
+]

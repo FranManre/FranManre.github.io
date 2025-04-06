@@ -1,0 +1,432 @@
+[
+    {
+        "question": "¿El decreto 74/2005 así como la ordenanza municipal a qué hace referencia?",
+        "options": {
+            "a": "A las tarjetas de identificación.",
+            "b": "Al reglamento de los servicios de transporte público urbano de servicio público.",
+            "c": "Al reglamento sobre incorporación de mamparas.",
+            "d": "Ninguna es correcta"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la ordenanza municipal los vehículos que presten servicio de autotaxi sólo podrán ser conducidos por personas que tengan:",
+        "options": {
+            "a": "Carnet C.",
+            "b": "Permiso para ejercer la profesión.",
+            "c": "BTP",
+            "d": "A+VT"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Será necesario para la obtención de licencias municipales de autotaxi será necesario acreditar ante el órgano competente el cumplimiento de los siguientes requisitos.",
+        "options": {
+            "a": "Disponer de vehículos a los que han de referirse las licencias que cumplan con los requisitos previstos en el reglamento y no superen la antigüedad de 5 años, contados desde su primera matriculación, cualquiera que sea el país donde ésta se haya producido.",
+            "b": "Disponer de vehículos a los que han de referirse las licencias que cumplan con los requisitos previstos en el reglamento y no superen la antigüedad de 1 años, contados desde su primera matriculación, cualquiera que sea el país donde ésta se haya producido.",
+            "c": "Disponer de vehículos a los que han de referirse las licencias que cumplan con los requisitos previstos en el reglamento y no superen la antigüedad de 2 años, contados desde su primera matriculación, cualquiera que sea el país donde ésta se haya producido.",
+            "d": "Ninguna de las respuestas es correcta."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Municipal, las personas que obtengan licencias de autotaxi, deberán iniciar la prestación del servicio en el plazo máximo de... de la concesión de las normas.",
+        "options": {
+            "a": "60 días",
+            "b": "De 30 a 60 días.",
+            "c": "De 30 días consecutivos a 60 alternos.",
+            "d": "No tienen plazo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ordenanza Municipal los vehículos en circulación no podrán tomar viajeros a menos de... de los puntos de espera establecidos en el sentido de la marcha.",
+        "options": {
+            "a": "100 metros.",
+            "b": "100 metros en el mismo sentido en el que esté la parada.",
+            "c": "10 metros.",
+            "d": "1000 metros."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según el reglamento 74/2005, el municipio receptor de la solicitud conjunta de licencia de autotaxi y de la autorización de transporte público interurbano, la remitirá acompañada de una copia de la documentación prevista en el Nº1 del artículo anterior...",
+        "options": {
+            "a": "Al órgano competente para el otorgamiento de la autorización de transporte público interurbano.",
+            "b": "Al Ministerio de Defensa.",
+            "c": "Al Órgano Estatal.",
+            "d": "Ninguna de las respuestas es correcta."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El municipio receptor de la solicitud conjunta de licencia de autotaxi y de autorización de transporte público interurbano la remitirá a dicho órgano teniendo en cuenta la situación de la oferta y la demanda del transporte e informará con carácter autovinculante, en un plazo de...",
+        "options": {
+            "a": "3 años.",
+            "b": "3 meses",
+            "c": "3 días.",
+            "d": "6 meses."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según La Ordenanza Municipal las licencias de autotaxi serán transmisibles a favor de cualquier...",
+        "options": {
+            "a": "Persona juridica que lo solicite, dando cuenta al órgano municipal competente.",
+            "b": "Persona fisica o jurídica que lo solicite, previa autorización del órgano municipal competente",
+            "c": "Funcionario público que lo solicite, para posteriormente venderlas.",
+            "d": "Todas las respuestas son correctas."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Queda prohibido...",
+        "options": {
+            "a": "Instalar mamparas de seguridad en el vehículo auto-taxi",
+            "b": "El contrato de dos conductores para el taxi de la propiedad.",
+            "c": "El arrendamiento, cesión o traspaso de la explotación de las licencias y de los vehículos afectos a las mismas.",
+            "d": "Transportar comida en el vehículo mientras se le esté dando uso de auto-taxi."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Municipal no se permitirán modificaciones que impliquen aumento del número de plazas, salvo las excepciones contempladas en el artículo...",
+        "options": {
+            "a": "19 (vehículo adaptado para mascotas)",
+            "b": "20 (posibilidad de duplicar el nº de plazas cuando se trate de niños menores de 9 años.",
+            "c": "21 (excepciones especiales para familias numerosas)",
+            "d": "22 (vehículo adaptado para silla de ruedas)"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El reglamento 74/2005 se aprobó el día...",
+        "options": {
+            "a": "20 de abril",
+            "b": "28 de julio",
+            "c": "23 de septiembre",
+            "d": "28 de octubre"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Las licencias municipales para la prestación de servicios de transporte urbano en automóviles",
+        "options": {
+            "a": "Licencias de MT.",
+            "b": "BTP",
+            "c": "Licencias de autotaxi.",
+            "d": "A+VT."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Legislación habla de las limitaciones cuantitativas al otorgamiento de licencias en los municipios de hasta 100.000 habitantes y será de...",
+        "options": {
+            "a": "1 por cada 2000 habitantes.",
+            "b": "1 por cada 20000 habitantes.",
+            "c": "2 por cada 1000 habitantes.",
+            "d": "20 por cada 10000 habitantes."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ordenanza Municipal de Licencias Autotaxi dice que para la obtención de una licencia de autotaxi, será necesaria la presentación de la correspondiente solicitud, acompañada de original o fotocopia compulsada de los siguientes documentos:",
+        "options": {
+            "a": "DNI en vigor del solicitante, libro de familia, como en todo caso encontrarse en posesión del correspondiente número de identificación fiscal (CIF) y permiso de residencia y trabajo válido para efectuar transporte en nombre propio.",
+            "b": "DNI en vigor del solicitante, o cuando fuese extranjero el documento de identificación que surta efectos equivalentes en su país de origen, como en todo caso encontrarse en posesión del correspondiente número de identificación fiscal (CIF) y permiso de residencia y trabajo válido para efectuar transporte en nombre propio.",
+            "c": "DNI en vigor del solicitante, como en todo caso encontrarse en posesión del correspondiente número de identificación fiscal (CIF) y permiso de residencia y trabajo válido para efectuar transporte en nombre propio, y además la cartilla del INEM.",
+            "d": "DNI en vigor del solicitante, o cuando fuese extranjero el boleto de avión que indique el día en que llegó al país, como en todo caso encontrarse en posesión del correspondiente número de identificación fiscal (CIF) y permiso de residencia y trabajo válido para efectuar transporte en nombre propio."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para la obtención de una licencia de autotaxi será necesaria la presentación de la correspondiente solicitud, acompañada de original o fotocopia compulsada de...",
+        "options": {
+            "a": "DNI y tarjeta de la Seguridad Social.",
+            "b": "Certificación justificativa de inexistencia de deudas en periodo ejecutivo referida al impuesto de renta de las personas físicas (IRPF), al impuesto del valor añadido (IVA) y al impuesto sobre actividades económicas. Se considera que se cumple este requisito cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones.",
+            "c": "Certificación justificativa de existencia de deudas en periodo ejecutivo referida al impuesto de renta de las personas físicas (IRPF), al impuesto del valor añadido (IVA) y al impuesto sobre actividades económicas, así como la declaración del interesado de que no las piensa pagar. Se considera que se cumple este requisito cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones.",
+            "d": "Certificación justificativa de inexistencia de deudas en periodo ejecutivo referida al impuesto de renta de las personas físicas (IRPF), al impuesto del valor añadido (IVA) y al impuesto sobre actividades económicas. No se considera que se cumple este requisito si las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para la obtención de una licencia de autotaxi, cuando el solicitante ya sea titular de otras licencias otorgadas por el mismo municipio...",
+        "options": {
+            "a": "Deberá declarar sobre los ingresos que le aportan las mismas.",
+            "b": "Bastará con la presentación del DNI.",
+            "c": "Bastará con la presentación del correspondiente impreso de solicitud.",
+            "d": "Si ya tiene una licencia, no podrá obtener más."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Según la Ordenanza Municipal vehículos a los que hayan de adscribirse las licencias deberán estar dotados de:",
+        "options": {
+            "a": "Cilindrada y prestaciones técnicas idóneas que garanticen la correcta conducción y una adecuada prestación del servicio.",
+            "b": "Un motor superior al exigido para la misma marca de vehículo en el caso de que fuera a",
+            "c": "Mampara y luces de neón.",
+            "d": "Mampara de seguridad y cuentakilómetros digital."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué papeles tengo que presentar para obtener la tarjeta de identificación si soy autopatrono?",
+        "options": {
+            "a": "Solicitud dirigida al Ayuntamiento de Madrid, fotocopia de alta de la Seguridad Social y resguardo acreditativo de las tasas, entre otros.",
+            "b": "Fotocopia del DNI y fotocopia del libro de familia, entre otros.",
+            "c": "Fotocopia del DNI y fotocopia del título del Graduado Escolar.",
+            "d": "Permiso de residencia y alta IAE"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Los vehículos a los que se adscriban las licencias de autotaxi, deberán ir provistos de un aparato taxímetro y un módulo luminoso que permitan...",
+        "options": {
+            "a": "La entrega de facturas automáticas a los pasajeros.",
+            "b": "La aplicación de la tarifa vigente y su visualización.",
+            "c": "La aplicación de la tarifa vigente más el IVA.",
+            "d": "La aplicación de una iluminación tenue para los trayectos nocturnos."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál será la multa con la que se sancionará la carencia de cambio de moneda metálica o billetes hasta la cantidad que se encuentre reglamentariamente determinada?",
+        "options": {
+            "a": "Hasta 100€",
+            "b": "Hasta 200€",
+            "c": "De 300 a 500€",
+            "d": "Un mínimo de 1000€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿El instalador autorizado de un aparato taxímetro está facultado para precintarlo?",
+        "options": {
+            "a": "Sólo bajo autorización del ayuntamiento.",
+            "b": "Una vez al mes.",
+            "c": "Sólo bajo autorización del propietario del auto-taxi.",
+            "d": "Siempre. No hay limitaciones al respecto."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Como regla general, el número de plazas de los vehículos a los que se hayan adscrito las licencias de autotaxi, no podrá ser superior a...",
+        "options": {
+            "a": "Cuatro, incluida la del conductor.",
+            "b": "Cinco y el conductor.",
+            "c": "Cinco, incluida la del conductor",
+            "d": "Dependerá de si el conductor cuenta con autorización para sentar pasajeros en el asiento del copiloto."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Los titulares de licencia de autotaxi, deberán disponer en su plantilla de un número de conductores asalariados...",
+        "options": {
+            "a": "Inferior al de las licencias en activo que posean.",
+            "b": "Igual al de las licencias en activo que posean.",
+            "c": "De dos conductores por cada licencia en activo que posean.",
+            "d": "Ninguna respuesta es correcta."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Según la Ordenanza de los Servicios de Transporte Público Urbano en Automóviles de Turismo, dice que es obligatorio que el seguro cubra una responsabilidad civil de:",
+        "options": {
+            "a": "Se quitó de la Ordenanza la cobertura mínima obligatoria",
+            "b": "500.000.000",
+            "c": "5.000.000",
+            "d": "5.000"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el Decreto 74/2005, del 28 de Julio, ¿a quién competen las sanciones?",
+        "options": {
+            "a": "Comunidad Madrid.",
+            "b": "Ayuntamiento",
+            "c": "Fomento",
+            "d": "Instituto Nacional de Empleo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuándo prescriben las sanciones leves?",
+        "options": {
+            "a": "3 años",
+            "b": "6 meses",
+            "c": "4 años",
+            "d": "1 año"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según el Decreto 74/2005, del 28 de Julio (Reglamento de los servicios de transporte público urbano en automóviles de turismo), los inicios de los servicios interurbanos deberán ser:",
+        "options": {
+            "a": "Término municipal",
+            "b": "Fuera del término municipal",
+            "c": "Ninguna de las respuestas es correcta",
+            "d": "Fuera de los límites nacionales"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "En cuanto a las limitaciones cuantitativas en un municipio de 100.000 habitantes.",
+        "options": {
+            "a": "Una licencia por cada 2000",
+            "b": "Una por cada 1000",
+            "c": "Una licencia por cada 500",
+            "d": "Una por cada 1500"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La denominación de la Licencia es...",
+        "options": {
+            "a": "Auto-turismo",
+            "b": "Auto-taxi",
+            "c": "Auto-vehículo",
+            "d": "Eurotaxi"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para la obtención de una Licencia es necesario obtener simultáneamente la licencia y el...",
+        "options": {
+            "a": "V.T.",
+            "b": "BTP",
+            "c": "Auto-taxi",
+            "d": "GPS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según el decreto 74/2005 del 28 de Julio, del \"Reglamento de los servicios de transporte público urbano en automóviles de turismo\", los municipios podrán aumentar la cuantía de las licencias...",
+        "options": {
+            "a": "Observando las necesidades reales y la repercusión a las ya existentes.",
+            "b": "No observando las necesidades reales y la repercusión a las ya existentes.",
+            "c": "Por tener más de 3 licencias cada conductor.",
+            "d": "Para generar trabajo."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuántos conductores tiene que tener como mínimo por licencia?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Puede una persona trabajar en un auto-taxi sin haber obtenido previamente",
+        "options": {
+            "a": "B+ Cartilla B",
+            "b": "B+ BTP+C",
+            "c": "B+ BTP+ Cartilla municipal",
+            "d": "B+ Cartilla municipal Taxi"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Podría una persona física solicitar una licencia si tiene una deuda en la Seguridad Social?",
+        "options": {
+            "a": "Si, solicitando un papel especial.",
+            "b": "No, ya que no se podrá tener deudas en Renta/IVA/IAE",
+            "c": "Sí, siempre y cuando no exceda del máximo establecido",
+            "d": "No, salvo que ya disponga de otra licencia."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Las licencias,",
+        "options": {
+            "a": "No caducan.",
+            "b": "Sí caducan.",
+            "c": "Pueden compartirse entre dos propietarios",
+            "d": "No son hereditarias"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¡Es obligatorio llevar la tarjeta identificativa!, pero, ¿sabrías cuál es la multa por no Ilevarla?",
+        "options": {
+            "a": "1.800€",
+            "b": "1500 € a 5.000 €",
+            "c": "3301€ a 6.000€",
+            "d": "3.401€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según La Ordenanza Municipal no se puede sin causa justificada parar la actividad de una licencia.",
+        "options": {
+            "a": "15 días consecutivos, 30 alternos.",
+            "b": "30 días alternos, 60 consecutivos.",
+            "c": "60 días.",
+            "d": "30 días consecutivos, 60 días alternos."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál es el periodo máximo de una suspensión temporal?",
+        "options": {
+            "a": "60 días.",
+            "b": "30 a 60 días.",
+            "c": "15 días.",
+            "d": "1 año."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Es obligatorio estar a horas determinadas en puntos clave de nuestra ciudad (Aeropuertos, Renfe, Bus, etc.....), ¿Quién es el responsable?",
+        "options": {
+            "a": "Órgano municipal.",
+            "b": "Comunidad de Madrid",
+            "c": "Fomento",
+            "d": "Ministerio de Defensa"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Puede un auto-taxi recoger a un cliente a menos de 100 metros de una parada de taxi?",
+        "options": {
+            "a": "No.",
+            "b": "Sí, pero en sentido contrario.",
+            "c": "Sí, en cualquiera de los casos.",
+            "d": "Ninguna de las respuestas es correcta."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué dispositivo se utiliza para indicar que un auto-taxi está en condiciones de ser alquilado?",
+        "options": {
+            "a": "Cartel de libre, situado en el parabrisas, y luz verde de la capilla.",
+            "b": "Cartel de libre situado en el parabrisas.",
+            "c": "Luz verde tanto de día como de noche, situada en la capilla.",
+            "d": "Ninguna es correcta."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuándo se debe de poner en marcha el taxímetro?",
+        "options": {
+            "a": "En cuanto entre el cliente por la puerta.",
+            "b": "En el momento que me indica la dirección del destino.",
+            "c": "En el momento en el que el equipaje está acomodado, el cliente está sentado y me indica la dirección del destino.",
+            "d": "pasados 5 minutos desde el inicio del servicio."
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Cuándo se produce un accidente o avería en el vehículo llevando a un cliente...",
+        "options": {
+            "a": "Se cobrará el importe hasta el momento descontando la bajada de bandera.",
+            "b": "Se cobrará lo que indique el taximetro.",
+            "c": "No se cobrará nada.",
+            "d": "Se cobrará lo que indique el taxímetro más 5€ de suplemento."
+        },
+        "solution": "a"
+    }
+]

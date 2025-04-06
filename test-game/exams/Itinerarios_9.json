@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir del Hospital Carlos III a la Plaza de Castilla, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "C/ Arzobispo Morcillo - Paseo de la Castellana",
+            "c": "C/ Melchor Fdez. Almagro - Monforte de Lemos - Paseo de la Castellana",
+            "d": "C/ de Sinesio Delgado - Paseo de la Castellana"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la parada de metro Bilbao al Museo Taurino, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Luchana Paseo Eduardo Dato C/ Juan Bravo C/ Velázquez C/ Mª de Molina - Av. América - M-30 Lateral - C/ Alcalá",
+            "b": "C/ Luchana C/ Carranza C/ Alberto Aguilera C/ Princesa Av. de la Memoria M-30 Lateral - C/Alcalá",
+            "c": "C/ Luchana - Paseo Eduardo Dato - C/ Juan Bravo - C/Serrano - C/ Mª de Molina - Av. América - M-30 Lateral - C/ Alcalá",
+            "d": "C/ Luchana C/ Juan Bravo Paseo Eduardo Dato C/ Velázquez C/ Me de Molina - Av. América - M-30 Lateral - C/ Alcalá"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Barrio del Pilar a la parada de metro Duque de Pastrana, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. de Asturias C/ Mateo Inurria",
+            "b": "C/ Ginzo de Limia - Av. de Asturias - Paseo de la Castellana",
+            "c": "C/ Ginzo de Limia - Av. de Asturias - C/ Mateo Inurria",
+            "d": "C/ Ginzo de Limia - Av. De Asturias - C/ Mateo Inurria - Paseo de la Habana"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir del Hospital Universitario La Paz a la parada de metro Valdeacederas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo de la Castellana - C/ Bravo Murillo",
+            "c": "C/ Pedro Rico - Monforte de Lemos - Paseo de la Castellana - C/ Bravo Murillo",
+            "d": "C/ Pedro Rico - Monforte de Lemos - C/ Sinesio Delgado - Paseo de la Castellana - C/ Bravo Murillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del Hospital Central Gómez Ulla a la Plaza del Conde de Eleta, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ del Espinar - Paseo Marcelino Camacho - C/ San Melitón",
+            "b": "C/ del Espinar - C/ de la Oca - C/ del Gral. Ricardos - C/ San Melitón",
+            "c": "C/ del Espinar - C/ del Gral. Ricardos - C/ San Melitón",
+            "d": "C/ del Espinar - C/ San Melitón"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Plaza de Méndez Parada a la Plaza Hilanderas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/Alegría - C/ Con. Viejo de Leganés - C/ Carrero Juan Ramón - Av. Abrantes - Pza. Rendición de Breda",
+            "b": "C/Alegría - C/ Julio Antonio - C/ Con. Viejo de Leganés - C/ Carrero Juan Ramón - Vía Lusitana",
+            "c": "C/ Alegría - C/ Julio Antonio - C/ Con. Viejo de Leganés - C/ Carrero Juan Ramón - Av. Abrantes",
+            "d": "C/ Alegria - C/ Julio Antonio - C/ Con. Viejo de Leganés - C/ Carrero Juan Ramón - Av. Abrantes - Pza. Rendición de Breda"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Méndez Álvaro a la Catedral de la Almudena?",
+        "options": {
+            "a": "C/ Méndez Álvaro - Ronda de Atocha - C/ Concepción Jerónima - C/ Sacramento - C/Mayor",
+            "b": "Paseo Sta. Mª de la Cabeza - C/Atocha - C/Concepción Jerónima - C/Sacramento - C/Mayor",
+            "c": "C/ Méndez Álvaro - C/Atocha - C/ Concepción Jerónima - C/ Sacramento - C/Mayor",
+            "d": "Paseo Sta. Mª de la Cabeza - C/Atocha - C/ Concepción Jerónima - C/ Mayor"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro de Núñez Balboa a la Real Basílica San Francisco El Grande?",
+        "options": {
+            "a": "C/ Juan Bravo - C/ Príncipe de Vergara - C/ Alcalá - Ronda de Atocha - Ronda de Toledo - Gran Via San Francisco",
+            "b": "C/ Velázquez - C/ María de Molina - C/ Francisco Silvela C/ Alcalá - Ronda de Atocha - Ronda de Toledo - Gran Vía San Francisco",
+            "c": "C/ Juan Bravo - C/ Príncipe de Vergara - C/ Alcalá - Ronda de Atocha Ronda de Toledo - C/Toledo",
+            "d": "C/ Velázquez - C/ María de Molina - C/ Alcalá - Ronda de Atocha - Ronda de Toledo - Gran Vía San Francisco"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Caja Mágica a la parada de metro La Peseta, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Camino Perales - Av. de los Rosales - M-40 - Av. Carabanchel Alto - C/ Salvador Allende",
+            "b": "Camino Perales - Av. de los Rosales - M-30 - Av. Carabanchel Alto - C/ Salvador Allende",
+            "c": "Camino Perales - Av. de los Rosales - M-45 - Av. Carabanchel Alto C/ Salvador Allende",
+            "d": "Camino Perales - Av. de los Rosales - c/ Eduardo Barreiros - Av. Andalucía - M-40 - Av. Carabanchel Alto - C/ Salvador Allende"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del Centro de Exposiciones Arte del Canal a la parada de metro Pueblo Nuevo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Mateo Inurria - C/ Alcalá",
+            "b": "Paseo de la castellana - C/ Alcalá",
+            "c": "C/ Mateo Inurria - M-30 Lateral - C/Alcalá",
+            "d": "c/ Mateo Inurria - c/ caídos división azul - Cuesta Sagrado Corazón - C/ Arturo Soria - c/ Alcalá"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Puerta del Sol al aeropuerto Adolfo Suárez - Madrid Barajas?",
+        "options": {
+            "a": "C/Alcalá - C/O'Donnell - M-22 - E-5 - M-14",
+            "b": "C/ Alcalá - C/O'Donnell - M-23 - E-5 - M-11",
+            "c": "C/ Alcalá - C/O'Donnell - E-5 - M-14",
+            "d": "C/Alcalá - C/O'Donnell - M-23 - E-5 - M-14"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Dr. Laguna a la parada de metro Goya?",
+        "options": {
+            "a": "C/ Narváez",
+            "b": "Plaza Dr. Laguna - C/ Alcalde Sainz de Baranda - C/ Narváez",
+            "c": "Av. Menéndez Pelayo - C/Alcalá",
+            "d": "Plaza Dr. Laguna - C/ Dr. Esquerdo - C/ Narváez"
+        },
+        "solution": "b"
+    }
+]

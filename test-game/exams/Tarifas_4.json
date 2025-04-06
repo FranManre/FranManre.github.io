@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Iniciamos un servicio en el Parque Juan Carlos I, pasa después por el Aeropuerto espera 20 minutos y se dirige a la estación de Atocha, donde finaliza. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "7-2-4",
+            "b": "2-2-2",
+            "c": "4-4-4",
+            "d": "7-4-2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Parla a las 04.00h, pasando por Pinto a las 05.00h, pasando por Getafe a las 05.15h, para finalizar a las 05.49h en la estación Sur de Autobuses. Indique que tarifa Kilométrica se aplicará en cada punto.",
+        "options": {
+            "a": "1.50€-1.50€-1.50€-1.35€",
+            "b": "1.35€-1.35€-1.35€-1.50€",
+            "c": "1.35€-1.35€-1.50€-1.35€",
+            "d": "1.50€-1.50€-1.50€-1.50€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en la plaza Rocío Dúrcal a las 21.50h, pasando San Fernando de Henares a las 22.15h, para finalizar a las 22.55 en Alcalá de Henares. Indique que tarifas se aplicarán en cada punto",
+        "options": {
+            "a": "1-6-6",
+            "b": "2-5-6",
+            "c": "1-2-6",
+            "d": "2-2-6"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en El Escorial a las 18.23h, pasa por Torrelodones a las 19.00h, por Las Rozas a las 16.25h y finaliza en Pozuelo de Alarcón a las 20.25h ¿Qué tarifas aplicara en cada punto horario?",
+        "options": {
+            "a": "2-2-2-2",
+            "b": "3-3-3-3",
+            "c": "No se puede hacer esta fuera del APC",
+            "d": "1-1-1-1"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en Brunete a las 13.00h pasa por Móstoles a las 13.56h, por Alcorcón 14.19h y finaliza en el aeropuerto a las 15.00h ¿Qué tarifas aplicará en cada punto horario?",
+        "options": {
+            "a": "No se puede hacer esta fuera del APC",
+            "b": "2-2-2-1",
+            "c": "1-1-1-1",
+            "d": "2-2-2-1"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en Paracuellos de Jarama 03.11h, pasa por Mejorada del Campo a las 03.45h, para finalizar en Nuevo Baztán a las 04.46h ¿Qué tarifa aplicara en cada punto horario?",
+        "options": {
+            "a": "No se puede hacer, finaliza fuera del APC",
+            "b": "2-2-6",
+            "c": "No se puede hacer, se inicia fuera del APC",
+            "d": "2-2-5"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Torrejón de Ardoz a las 21.55h, pasa por San Fernando de Henares a las 21.58h, para finalizar en el aeropuerto a las 22.30h ¿Qué tarifas utilizara en cada punto horario?",
+        "options": {
+            "a": "2-2-2",
+            "b": "3-3-2",
+            "c": "No se puede hacer esta fuera del APC",
+            "d": "3-2-3"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en el aeropuerto en la Terminal 4, para finalizar en la terminal 1, ¿Qué tarifa se aplicará?",
+        "options": {
+            "a": "No se puede realizar ese servicio",
+            "b": "Tarifa 4",
+            "c": "Tarifa 3",
+            "d": "Tarifa 2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en la T4, pasa por la puerta del Sol, se dirige a la estación de Atocha y toma dos viajeros, para finalizar en la T3 ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "3-1-1-1",
+            "b": "4-1-1-1",
+            "c": "No se pueden tomar más viajeros en ninguna estación",
+            "d": "3-1-7-1"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál no pertenece al APC?",
+        "options": {
+            "a": "San Sebastián de los Reyes",
+            "b": "Paracuellos de Jarama",
+            "c": "Torrejón de Ardoz",
+            "d": "Valdemoro"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un lunes un servicio en la estación del AVE a las 13.35h, se dirige al aeropuerto finalizando a las 14.10h. indique que tarifa se aplicará.",
+        "options": {
+            "a": "7-1",
+            "b": "1-1",
+            "c": "4",
+            "d": "7-2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en la estación de Chamartín a las 15.20h, pasando por el Parque Ferial Juan Carlos I (IFEMA) a las 16h, y finalizando en el aeropuerto a las 16.10h. Indique qué tarifa se aplicará.",
+        "options": {
+            "a": "7-1-7-1",
+            "b": "4",
+            "c": "7-1-1-4",
+            "d": "7-1-1-1"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en el IFEMA a las 17.20h, pasando por Getafe a las 18.00h, Leganés a las 18.10h, y finaliza en la estación de Atocha son las 18.30h. indique que tarifa aplicará en cada punto.",
+        "options": {
+            "a": "7-1-1-1",
+            "b": "1-1-1-1",
+            "c": "7-2-2-2",
+            "d": "2-2-2-2"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la puerta del sol, se dirige a la estación de Chamartín y de ahí va al aeropuerto esperando 35 minutos y volviendo a la estación de Chamartín. Indique que tarifa se aplicarán",
+        "options": {
+            "a": "2-7-4-2",
+            "b": "2-2-4-2",
+            "c": "2-2-2-2",
+            "d": "2-7-2-2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Usted inicia un servicio en Valdemorillo ¿Qué cobra?",
+        "options": {
+            "a": "No se puede realizar el servicio, no está dentro del APC",
+            "b": "Siempre Tarifa 2",
+            "c": "Siempre la tarifa 3",
+            "d": "Lo que marque el taximetro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál es el importe de una hora de servicio en Titulcia a las 15.50h?",
+        "options": {
+            "a": "No se cobra por hora de servicio",
+            "b": "26.50€",
+            "c": "28.50€",
+            "d": "Lo que marque el taximetro más el retorno"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Un día festivo en Móstoles, un taxi toma un servicio a las 5.47h y a las 6.25h llega a Chamartín ¿Qué taridas aplicará en cada punto horario?",
+        "options": {
+            "a": "3-1",
+            "b": "2-1",
+            "c": "3-2",
+            "d": "2-2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Con qué coste por kilómetro finalizaremos un servicio un sábado festivo a las 2:45 en el centro comercial La Gavia?",
+        "options": {
+            "a": "1,20€ Si salimos del aeropuerto",
+            "b": "1,35€",
+            "c": "1,25€",
+            "d": "1,50€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué velocidad deberá alcanzar el vehículo para facturar por kilómetros si nos encontramos un sábado festivo a las 23:00 en la avenida de la llustración?",
+        "options": {
+            "a": "19 km/h",
+            "b": "17,60 km/h",
+            "c": "17,66 km/h",
+            "d": "19,63 km/h"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la Colonia el Viso a las 10h y finalice en Cuenca a las 13h, ¿Qué tarifa aplicaría?",
+        "options": {
+            "a": "2-2",
+            "b": "1-6",
+            "c": "2-5",
+            "d": "1-5"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos en Mejorada del Campo un sábado a las 6:15 con dos clientes. El primero se queda en Conde casal 30 minutos más tarde. Continuamos hasta el Aeropuerto a las 7:20. ¿Qué tarifas y bajada de bandera se aplicarán?",
+        "options": {
+            "a": "3.20€+2-2-2",
+            "b": "2.55€+2-2-1",
+            "c": "3.20€+2-2-1",
+            "d": "2.55€+2-2-2"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en Fuenlabrada el dia 24 de diciembre a las 20.58, entra en Madrid a las 21.30 y finaliza en la estación de Chamartin a las 22.05h ¿Qué tarifas y suplementos se aplicaran en dicho servicio?",
+        "options": {
+            "a": "2-1-2+6.70€",
+            "b": "1-2-2+6.70€",
+            "c": "2-1-1+6.70€",
+            "d": "2-2-2+6.70€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál es el precio por kilómetro de la tarifa 3 en un itinerario que no supera los 9 km de recorrido?",
+        "options": {
+            "a": "1, 10E / k * m",
+            "b": "1,35 €/km",
+            "c": "1,50 €/km",
+            "d": "Ninguna"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué velocidad de arrastre deberemos superar para facturar por kilómetro en un trayecto con destino en Torrejón de la calzada, un martes a las 21:01 h",
+        "options": {
+            "a": "17, 66km / h",
+            "b": "19, 63km / h",
+            "c": "19 km/h",
+            "d": "15, 83km / h"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en la Avenida Monforte de Lemos a las 11 de la mañana de un martes laborable con destino al aeropuerto, ¿qué tarifa se aplicará?",
+        "options": {
+            "a": "Tarifa 1",
+            "b": "Tarifa 7",
+            "c": "Tarifa 4",
+            "d": "Tarifa 3"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio un Domingo a las 18:00 en El Aeropuerto, para finalizar en Toledo a las 19:00, ¿qué tarifas se aplicarán?",
+        "options": {
+            "a": "3-2-6",
+            "b": "3-6",
+            "c": "4",
+            "d": "4-5-6"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en Madrid, a las 20:30 pasando por Pozuelo a las 21:05 y finalizar en Brunete a las 21:30 h, ¿qué tarifas se aplicarán?",
+        "options": {
+            "a": "1, 50E + 1, 25epsilon",
+            "b": "1, 30E + 1, 30E",
+            "c": "1,50€ + 1,50€",
+            "d": "1, 30 \\in 1, 50 \\in"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Dentro del APC, la tarifa 1,35 in/ km de 7 a 21 en festivo es aplicable a:",
+        "options": {
+            "a": "1",
+            "b": "4",
+            "c": "7",
+            "d": "Ninguno"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en Méndez Álvaro a las 20.30h pasamos por Getafe a las 20.45h, se dirige a Valdemoro 21.10h y finaliza en Griñon a las 22.00h ¿Qué tarifas aplicará en cada punto horario? ACADEMIA FINANTAXI Temario Cartilla Municipal AUTO-TAXI",
+        "options": {
+            "a": "1-1-2-6",
+            "b": "1-2-6-6",
+            "c": "7-1-2-6",
+            "d": "7-1-6-6"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Un servicio se inicia en la estación de Atocha con destino el aeropuerto. ¿Qué tarifa se aplicará?",
+        "options": {
+            "a": "7-4",
+            "b": "7-2",
+            "c": "7-1",
+            "d": "4"
+        },
+        "solution": "d"
+    }
+]

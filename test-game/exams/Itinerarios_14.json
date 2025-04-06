@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir de la parada de Metro de Carabanchel a la plaza Alcalde Brell, ¿Cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Guabairo - c/ Ntra. Sra. De la luz - c/ Gral. Ricardos - c/ Clara Campoamor",
+            "b": "c/ Guabairo - c/ Ntra. Sra. De la Luz - c/ Del Espinar - / c/ Gral. Ricardos - c/ Monseñor Oscar Romero - Plaza Parroquia - c/ Sombra - c/ Padre Amigo - c/ Carcastillo",
+            "c": "c/ Del Espinar - c/ Via Lusitana - c/ Carcastillo",
+            "d": "c/ Del Espinar - Av. Ntra. Sra. De Fátima - Paseo Marcelino Camacho - c/ Gral. Ricardos - c/ Clara Campoamor"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la Plaza Alcira a la parada de metro Alvarado, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Alcalde Martín de Alzaga - Antonio Machado - Francos Rodríguez - C/ Bravo Murillo",
+            "b": "Av. Santo Ángel de la Guarda - C/ Bravo Murillo",
+            "c": "C/ Ofelia Nieto - C/ Francos Rodriguez - C/ Bravo Murillo",
+            "d": "Av. Santo Ángel de la Guarda a C/ Francos Rodríguez a C/ Bravo Murillo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la Plaza Alcira a la parada de metro Estrecho, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Alcalde Martín de Alzaga - Antonio Machado - Francos Rodriguez",
+            "b": "Av. Santo Ángel de la Guarda - C/ Francos Rodriguez",
+            "c": "Av. Santo Ángel de la Guarda - C/ Bravo Murillo",
+            "d": "C/ Ofelia Nieto - C/ Francos Rodríguez"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cual de los siguientes itinerarios es mejor para ir de IFEMA/Feria de Madrid a la parada de Metro de Madrid/Atocha?",
+        "options": {
+            "a": "M-11 - Paseo de la Castellana - Paseo del Prado - Paseo de la Infanta Isabel",
+            "b": "C/ Ayacucho - Av. De la Gran vía de Hortaleza - M-30 Lateral - Av. del mediterráneo - Paseo de la Reina Cristina",
+            "c": "C/ Vía de los Poblados - c/ de Francisco Umbral - Av. Manuel Azaña",
+            "d": "Autopista de la Circunvalación M-40 - Av. Del Mediterráneo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro Estrecho al Hospital Fundación Jiménez Díaz ¿Cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "c/ Bravo Murillo - Av. Reina Victoria - c/ Gral. Ibáñez de lbero - Paseo de San Fco. De Sales - Av. Reyes Católicos",
+            "b": "c/ Bravo Murillo - c/ Raimundo Fdez. Villaverde - c/ Ponzano - c/ Rio Rosas - Av. Filipinas - Av. Reyes católicos",
+            "c": "c/ Bravo Murillo - Av. Reina Victoria - Av. Pablo lglesias - Paseo Juan XXIII - c/ Ramiro de Maeztu - c/ Isaac Peral - Paseo Juan XXIII - Av. Reyes Católicos",
+            "d": "c/ Bravo Murillo - Av. Monforte de Lemos - Av. Reyes católicos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Tetuán al Museo Taurino?",
+        "options": {
+            "a": "C/ Sor Ángela de la Cruz - Av. Alberto Alcocer - C/ Costa Rica - C/ Arturo Soria - C/ Alcalá",
+            "b": "/ Sor Ángela de la Cruz - Av. Alberto Alcocer - C/ Costa Rica - M-30 Lateral - C/ Alcalá",
+            "c": "C/ Sor Ángela de la Cruz - Paseo de la Castellana - Paseo de Recoletos - Paseo del Prado - Av. Ciudad de Barcelona C/ Dr. Esquerdo - C/ O'donnell - C/ Alcalá",
+            "d": "C/ Sor Ángela de la Cruz - Av. Alberto Alcocer - C/ Costa Rica - M-30 Lateral - C/ Alcalá"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Esperanza a la Biblioteca Pública Municipal José Hierro?",
+        "options": {
+            "a": "C/ Andorra - C/ Calanda - C/ Silvano - M-40 - Av. Logroño - Av. de Luis Aragonés - Av. Niza - C/ Ma Sevilla Diago",
+            "b": "C/ Andorra - C/ Calanda - C/ Silvano - M-30 - Av. Logroño - Av. de Luis Aragonés - Av. Niza - C/ Ma Sevilla Diago",
+            "c": "C/ Andorra - C/ Calanda - C/ Silvano - M-40 - Av. Logroño - Plaza Grecia - Av. Niza - C/ Ma Sevilla Diago",
+            "d": "C/ Andorra - C/ Calanda - C/ Silvano - M-40 - Av. Logroño - Av. de Luis Aragonés - Av. Niza - C/ Av. De Guadalajara"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Plaza de Toros de las Ventas a la parada de metro Plaza castilla, ¿Cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. Marqués de Corbera - M-30 Lateral - Av. Pío XII - Paseo de la Castellana",
+            "b": "Av. Marqués de Corbera - c/ O'Donnell - c/ Dr. Esquerdo - c/ Fco Silvela - c/ Joaquín Costa - Paseo de la Castellana",
+            "c": "Av. Daroca - c/ Fco Largo Caballero - Av. Arcentales - c/ San Romualdo",
+            "d": "Av. Marqués de Corbera - c/ O'Donnell - c/ Dr. Esquerdo - c/ Fco Silvela - c/ Joaquín Costa - Bravo Murillo - Paseo de la Castellana"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro de Palos de la Frontera al centro de salud Montseny?",
+        "options": {
+            "a": "Pe de las Delicias - paseo Infanta lsabel - Paseo reina Cristina - Av. Mediterráneo - Salida 3b - c/ Benjamín Palencia - Av. Miguel Hdez. - Av. Rafael Alberti",
+            "b": "Po Sta. Me de la cabeza - salida 2ª - Av. Manzanares - Autovía de Andalucía - M-40 - Av. Albufera - Av. Rafael Alberti.",
+            "c": "Po de las Delicias - Av. de Guadalajara - Av. Rafael Alberti.",
+            "d": "Po Sta. Me de la cabeza - salida 22 - Av. Manzanares - Av. De la Paz - Av. Mediterráneo - Salida 3B - c/ Benjamín Palencia - Av. Miguel Hdez. - Av. Rafael Alberti."
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir del hotel \"The Westin Palace Madrid\" a la parada de metro Suances, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Felipe IV - C/ Alfonso XII",
+            "b": "C/ Felipe V - C/ Alfonso XII - C/Alcalá",
+            "c": "C/ Felipe IV - C/ Alfonso XIl - C/Alcalá",
+            "d": "Av. Felipe II - C/ Felipe IV - C/ Alfonso XII - C/Alcalá"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Estadio Santiago Bernabéu al teatro Kapital?",
+        "options": {
+            "a": "Av. Gral. Perón - c/ Ávila - Av. Pablo Iglesias - c/ Francos Rodríguez - c/ Alcalde Martín de Alzaga.",
+            "b": "Paseo de la castellana - c/ Rio Rosas - c/ Bravo Murillo - c/ Fuencarral - c/ Génova - Paseo Recoletos - Paseo del Prado - c/ Atocha",
+            "c": "Av. Concha Espina - Av. Ramón y Cajal - M-30 Lateral - Av. Mediterráneo - Paseo R. Cristina - Paseo Infanta Isabel.",
+            "d": "Paseo de la Castellana - Paseo de recoletos - Paseo del prado - c/ Atocha"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de la parada de metro de Valdeacederas a plaza Virgen Guadalupana, ¿Cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "c/ Bravo Murillo - c/ Mateo Inurria - Av. Pio XII - c/ Príncipe de Vergara - c/ Serrano - Av. Concha Espina - Av. Ramón y Cajal",
+            "b": "c/ Bravo Murillo - Paseo de la Castellana - Paseo de la Habana - Av. Concha Espina - Av. Ramón y Cajal",
+            "c": "c/ Bravo Murillo - Paseo de la Castellana - Av. Concha Espina - Av. Ramón y Cajal",
+            "d": "c/ Bravo Murillo - c/ Serrano - Av. Asturias"
+        },
+        "solution": "c"
+    }
+]

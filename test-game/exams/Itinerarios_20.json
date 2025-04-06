@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Audiencia Nacional al Palacio Real?",
+        "options": {
+            "a": "C/ Goya - Paseo de Recoletos - Paseo del Prado - Ronda de Atocha - Ronda de Toledo - C/ Bailén - C/ Mayor",
+            "b": "C/ Goya - C/ Génova - C/ Sagasta - C/ Carranza - C/ Alberto Aguilera - C/ Princesa - C/ Bailen",
+            "c": "C/ Goya - C/ Dr. Esquerdo - Av. Ciudad de Barcelona - Ronda de Atocha - Ronda de Toledo - C/ Bailén",
+            "d": "C/ Goya - Paseo de Recoletos - Paseo del Prado - Ronda de Atocha - Ronda de Toledo - C/ Bailén"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Catedral de la Almudena a la Universidad Complutense?",
+        "options": {
+            "a": "C/ Bailén - C/ Ferraz - Paseo Moret - Av. Puerta de Hierro - Av. Complutense",
+            "b": "C/ Bailén - C/ Ferraz - Paseo Moret - Plaza de Moncloa - Isaac Peral - Av. de la Memoria - Av. Complutense",
+            "c": "C/ Bailén - C/ Ferraz - Paseo Moret - Av. de la Memoria",
+            "d": "C/ Bailén - C/ Ferraz - Paseo Moret - Av. de la Memoria - Av. Complutense"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Museo Taurino a la parada de metro Bilbao?",
+        "options": {
+            "a": "C/ Alcalá - C/ Francisco Silvela - C/ Juan Bravo - Paseo de Eduardo Dato - Luchana",
+            "b": "C/ Alcalá - C/ Francisco Silvela - C/ Jorge Juan - Paseo de Eduardo Dato - Luchana",
+            "c": "C/ Alcalá - C/ Goya - C/ Génova - C/ Sagasta",
+            "d": "C/ Alcalá - C/ Velázquez - C/ Goya - C/ Génova - C C/ Sagasta"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Tirso de Molina al Mercado de Las Ventas?",
+        "options": {
+            "a": "C/ Mesón de Paredes - Ronda de Atocha - Paseo de la Infanta lsabel - Paseo de la Reina Cristina - Av. del Mediterráneo - M-30 Lateral - C/ Virgen del Coro",
+            "b": "C/ Mesón de Paredes - Ronda de Atocha - Ronda valencia - Paseo de las Acacias - Gta Pirámides - M-30 Lateral - C/ Virgen del Coro",
+            "c": "C/ Mesón de Paredes - C/ Embajadores pe Sta. María de la Cabeza - Paseo de la Infanta Isabel - Paseo de la Reina Cristina - Av. del Mediterráneo - M-30 Lateral - C/ Virgen del Coro",
+            "d": "Ronda de Atocha - Paseo de la Infanta Isabel - Paseo de la Reina Cristina - Av. del Mediterráneo - M-30 Lateral - C/ Virgen del Coro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Nuevos Ministerios a la Plaza Cataluña?",
+        "options": {
+            "a": "C/ Raimundo Fdez. Villaverde - Paseo de la Habana - Av. Concha Espina - C/ Príncipe de Vergara",
+            "b": "Paseo de la Castellana - C/ López de Hoyos - C/ Príncipe de Vergara",
+            "c": "C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa - C/ Príncipe de Vergara",
+            "d": "Plaza san Juan De la Cruz - C7 Vitruvio - Av. Doctor Arce"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de la República Argentina a la Plaza de los Sagrados Corazones?",
+        "options": {
+            "a": "C/ Joaquín Costa - Velázquez - Dr. Arce - C/ Cinca - C/ Segre",
+            "b": "C/ Joaquín Costa - Paseo de la Castellana - Paseo de la Habana",
+            "c": "C/ Joaquín Costa - Alberto Alcocer",
+            "d": "C/ Joaquín Costa - C/ López de Hoyos - C/ Príncipe de Vergara - C/ Cinca - C/ Segre"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Virgen Guadalupana a la parada de metro Valdeacederas?",
+        "options": {
+            "a": "Av. Ramón y Cajal - Av. Concha Espina - C/ Poeta Joan Maragall - C/ Bravo Murillo",
+            "b": "Av. Ramón y Cajal - Av. Concha Espina - C/ Orense C/ Sor Ángela de la Cruz - C/ Bravo Murillo",
+            "c": "Av. Ramón y Cajal - Av. Concha Espina - C/ Ávila - C/ Bravo Murillo",
+            "d": "Av. Ramón y Cajal - Av. Concha Espina - C/ Bravo Murillo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Sainz de Baranda a la Plaza Murillo?",
+        "options": {
+            "a": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la Reina Cristina - C/ Paseo del Prado - Plaza Murillo",
+            "b": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la Reina Cristina - C/ Alfonso XII",
+            "c": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la Reina Cristina - C/ Alfonso XII - C/ Espalter",
+            "d": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - C/ Alcalá - C/ Alfonso XII - C/ Espalter"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza del Liceo a la Comisaría de Policía de Hortaleza?",
+        "options": {
+            "a": "C/ Alcorisa - C/ Montalbos - C/ Torrequemada - C/ Valdespina - C/ Javier del Quinto",
+            "b": "C/ Silvano - C/ Alcorisa - C/ Montalbos - Carretera de canillas",
+            "c": "C/ Silvano - C/ Alcorisa - C/ Montalbos - C/ Torrequemada - C/ Senda del Infante - C Valdespina - C/ Javier del Quinto",
+            "d": "C/ Silvano - C/ Alcorisa - C/ Montalbos - C/ Torrequemada - C/ Valdespina - C/ Javier del Quinto"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de Puerta del Ángel a la Plaza de España?",
+        "options": {
+            "a": "Paseo de Extremadura - C/ Segovia - C7 Juan Duque - Paseo Cd de Plasencia - Paseo de la Virgen del Puerto - Cuesta de San Vicente",
+            "b": "Paseo de Extremadura - C/ Segovia - Paseo de la Virgen del Puerto - Cuesta San Vicente",
+            "c": "Paseo de Extremadura - Av. Séneca",
+            "d": "Paseo de Extremadura - C/ Segovia - C/ Sacramento - C/ Mayor - C/ Bailén"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Lavapiés a la Plaza Gabriel Miró?",
+        "options": {
+            "a": "Ronda de Atocha - Ronda de Toledo - Gran Vía de San Francisco - C/ San Buenaventura",
+            "b": "C/ Argumosa - C/ Mallorca - Ronda de Atocha - Ronda de Toledo - Gran Vía de San Francisco - C/ Bailén",
+            "c": "C/ Argumosa - C/ Mallorca - Paseo de las Acacias - Ronda de Toledo - Gran Vía de San Francisco - C/ San Buenaventura",
+            "d": "C/ Argumosa - C/ Mallorca - Ronda de Atocha - Ronda de Toledo - Gran Vía de San Francisco - C/ San Buenaventura"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir desde el metro de Sainz de Baranda al Hospital Virgen de la Paloma?",
+        "options": {
+            "a": "Dr. Esquerdo - Joaquín Costa - Av. Reina Victoria - Av. del valle - c/ General Asensio Cabanillas",
+            "b": "Dr. Esquerdo - Av. Menéndez Pelayo - c/ Velázquez - c/ Joaquín costa - Av. Reina victoria - Av.del valle - General Asensio Cabanillas.",
+            "c": "Dr. Esquerdo - Av. Niza - General Asensio Cabanillas.",
+            "d": "Dr. Esquerdo - Av. del mediterráneo - M-30 lateral - Av. de América - Joaquín Costa - Av. Reina victoria - Av. del valle - General Asensio Cabanillas."
+        },
+        "solution": "a"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Iniciamos un servicio en la Calle Princesa un domingo a las 19.35h, pasa Alcobendas a las 20.00h y finaliza en Paracuellos del Jarama a las 22.24h. ¿Qué tarifas utilizara en cada punto kilométrico?",
+        "options": {
+            "a": "1-1-2",
+            "b": "2-2-2",
+            "c": "1-3-3",
+            "d": "2-3-3"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué municipio pertenece al APC?",
+        "options": {
+            "a": "Buitrago de Lozoya",
+            "b": "Morata de Tajuña",
+            "c": "Alcalá de Henares",
+            "d": "Ninguno"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Madrid la noche de Nochevieja a las 00.01h y finaliza en Madrid a las 03.12h ¿Qué tarifa aplicara?",
+        "options": {
+            "a": "1-2",
+            "b": "2-2",
+            "c": "2-1",
+            "d": "3-3"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Alcobendas a las 04.40h, se dirige a la estación de Chamartín llegando a las 05.00h, para terminar en el aeropuerto de Barajas a las 05.40h. Indique que tarifas aplicara en cada lugar.",
+        "options": {
+            "a": "1-1-1",
+            "b": "2-2-2",
+            "c": "2-2-7",
+            "d": "2-1-2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en la puerta del Sol un domingo y finaliza en la estación sur de autobuses. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "2",
+            "b": "7-2",
+            "c": "1",
+            "d": "7"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio el día de Nochebuena en el aeropuerto 5.30h, pasando por la puerta del Sol 05.52h y la estación de Atocha 6.30h y finalizando en el aeropuerto 07.10h ¿Qué suplementos aplicara?",
+        "options": {
+            "a": "Ninguno",
+            "b": "20€ si no supera los 9.5 km de recorrido",
+            "c": "6.70€",
+            "d": "3.00€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la Colonia el Viso a las 10h y finalice en Cuenca a las 13h ¿Qué tarifa aplicaría?",
+        "options": {
+            "a": "1-5",
+            "b": "2-2",
+            "c": "1-6",
+            "d": "2-5"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Un servicio se inicia en la estación de Atocha pasa por el aeropuerto, espera 10 minutos y finaliza en el IFEMA ¿Qué tarifas se cobrarán?",
+        "options": {
+            "a": "4-2-2",
+            "b": "7-2-2",
+            "c": "2-2-2",
+            "d": "4"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en el parque ferial Juan Carlos I (IFEMA) a las 22.01 h el día de Nochebuena, finalizando en el aeropuerto a las 22.10h ¿Qué tarifa y suplemento se aplicaría?",
+        "options": {
+            "a": "4 +6.70€",
+            "b": "7-2 +6.70€",
+            "c": "2 +6,70€",
+            "d": "6,70€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en el aeropuerto a las 11.50h en un día laborable y finaliza en Ciudad Real 4h más tarde ¿Cuál es el importe del servicio?",
+        "options": {
+            "a": "Lo que marque el taximetro",
+            "b": "Lo que marque el taximetro más 20€",
+            "c": "Lo que marque el taxímetro más 5.50€",
+            "d": "Lo que marque el taxímetro más 33€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Con qué tarifa se inicia a las 10.00h en Agustín de Foxá?",
+        "options": {
+            "a": "Tarifa 0",
+            "b": "Tarifa 3.",
+            "c": "Tarifa 7",
+            "d": "Tarifa 2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Velilla de San Antonio pertenece al APC?",
+        "options": {
+            "a": "No",
+            "b": "Sí",
+            "c": "Esta fuera del APC",
+            "d": "No se puede tomar viajeros"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Brunete está en el APC?",
+        "options": {
+            "a": "No",
+            "b": "Si",
+            "c": "Se incorpora inmediatamente",
+            "d": "Esta fuera de la Comunidad de Madrid"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La bajada de bandera es:",
+        "options": {
+            "a": "De día y de noche es la misma",
+            "b": "Los sábados y domingos es diferente",
+            "c": "2.55€",
+            "d": "Siempre es la misma"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Llevamos un viajero con un perro al Zoo de Madrid ¿es correcto cobrar suplemento?",
+        "options": {
+            "a": "Si, por el perro",
+            "b": "Sí, por el parque de atracciones",
+            "c": "Un suplemento por cada uno",
+            "d": "No"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál es el precio de inicio de servicio si empezamos en la estación sur un miércoles no festivo a las 23.15h?",
+        "options": {
+            "a": "3.20€",
+            "b": "2.55€",
+            "c": "Ninguno",
+            "d": "7.50€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál es la cuantía a pagar por maletas?",
+        "options": {
+            "a": "Las dos primeras son gratis, las demás 0.50€",
+            "b": "Las que entran en el maletero son gratis, las demás 1€",
+            "c": "Todas las que entran en el maletero son gratuitas",
+            "d": "Se cobran todas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Indique en que municipio se encuentra Aravaca",
+        "options": {
+            "a": "Madrid",
+            "b": "Fuera del APC",
+            "c": "Dentro del APC",
+            "d": "Pozuelo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Se puede empezar un servicio en Humanes de Madrid?",
+        "options": {
+            "a": "No",
+            "b": "Si",
+            "c": "Si, aunque está fuera del APC",
+            "d": "Esta fuera del APC"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Humanes de Madrid a las 10.23h, Llegando a Madrid a las 12.34h, indique que tarifas aplicara en cada punto horario.",
+        "options": {
+            "a": "No se puede hacer esta fuera del APC",
+            "b": "1-1",
+            "c": "2-1",
+            "d": "5-1"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de las siguientes poblaciones pertenece al APC?",
+        "options": {
+            "a": "Alcalá de Henares",
+            "b": "Torrejón de Ardoz",
+            "c": "Ninguna",
+            "d": "Colmenar Viejo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué pareja de municipios pertenecen al APC?",
+        "options": {
+            "a": "Colmenarejo - las Rozas de Madrid",
+            "b": "Torrejón de Ardoz - San Fernando de Henares",
+            "c": "Mejorada del Campo-Velilla de San Antonio",
+            "d": "Alcorcón - San Martín de Valdeiglesias"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Un servicio comienza en el Real Monasterio de San Lorenzo del Escorial a las 23h y finaliza en Madrid a las 00h. ¿Qué tarifa se aplica?",
+        "options": {
+            "a": "Tarifa 2-1",
+            "b": "Tarifa 3-2",
+            "c": "Tarifa 3-1",
+            "d": "No se puede realizar el servicio"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El precio por kilómetro de un servicio que inicia en Chamartín es de:",
+        "options": {
+            "a": "1.50€/km",
+            "b": "1.35€/km",
+            "c": "Ninguno",
+            "d": "1.15€/km"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué precio por hora se debe de cobrar en un servicio que finaliza a las 23:45h en la estación de Chamartín?",
+        "options": {
+            "a": "26.50€/h",
+            "b": "28.00€/h",
+            "c": "28.50€/h",
+            "d": "Ninguno"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál es el importe del kilómetro recorrido en Madrid un día de fiesta?",
+        "options": {
+            "a": "1,50€",
+            "b": "1,15€",
+            "c": "1,25€",
+            "d": "1,35€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál es la hora de trabajo en un día de fiesta en Mejorada del Campo a las 16.00h?",
+        "options": {
+            "a": "28.50€",
+            "b": "25,50€",
+            "c": "22,00€",
+            "d": "26,50€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En tarifa 3 cuál es el precio por kilómetro?",
+        "options": {
+            "a": "1,30€",
+            "b": "1,40€",
+            "c": "1,25€",
+            "d": "1,50€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En tarifa 4 cuál es el precio por kilómetro?",
+        "options": {
+            "a": "1.30€",
+            "b": "Ninguno",
+            "c": "1.40€",
+            "d": "1.50€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Alcalá meco pertenece al APC?",
+        "options": {
+            "a": "No",
+            "b": "Si",
+            "c": "Se incorpora inmediatamente",
+            "d": "Está fuera de la Comunidad de Madrid"
+        },
+        "solution": "a"
+    }
+]

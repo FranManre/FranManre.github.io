@@ -1,0 +1,122 @@
+[
+    {
+        "question": "AVENIDA OSA MAYOR HASTA CLUB DE CAMPO",
+        "options": {
+            "a": "A-5 - M-30 - Ctra. El Pardo",
+            "b": "M-500",
+            "c": "M-30 - Ctra. Castilla",
+            "d": "A-6 - Ctra. Castilla"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "HIPÓDROMO LA ZARZUELA HASTA PZA. ESPAÑA",
+        "options": {
+            "a": "Ctra. Hipódromo - M-30 - P° Camoens - Marqués de Urquijo - Princesa",
+            "b": "A-6 - M-30 - Av. Valladolid",
+            "c": "Ctra. Hipódromo - Ctra. Dehesa de la Villa - Av. Complutense - Princesa",
+            "d": "A-5 - P° Extremadura - Av. Poblados - Ctra. Boadilla"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "JEFATURA DE TRÁFICO HASTA ESTACIÓN DE ATOCHA",
+        "options": {
+            "a": "Arturo Soria - M-30 - P° Prado",
+            "b": "Av. América - Me Molina - P° Castellana - P° Recoletos - P° Prado",
+            "c": "M-40 - Av. América - P° Castellana",
+            "d": "M-30 - Méndez Álvaro"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "AEROPUERTO HASTA GLORIETA MARQUÉS DE VADILLO",
+        "options": {
+            "a": "M-30 - Gta. Marqués de Vadillo",
+            "b": "Av. América - M-30",
+            "c": "Av. De la Hispanidad - M-30 - Gta. Cádiz",
+            "d": "M-30 - Nudo Sur - Antonio López"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "TIRO DEL PICHÓN HASTA UNIVERSIDAD AUTÓNOMA",
+        "options": {
+            "a": "Ctra. El Pardo - M-40 - Universidad",
+            "b": "M-30 - Universidad",
+            "c": "M-605 - M-30 - M-6Q7",
+            "d": "M-603 - M-607"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CAMPUS SOMOSAGUAS HASTA UNIVERSIDAD AUTÓNOMA",
+        "options": {
+            "a": "A-6 - M-40 - M-607",
+            "b": "M-503 - M-50 - A-1",
+            "c": "M-503 - M-30 - M-607",
+            "d": "M-502 - M-40 - M-607"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "J.M.D. MORATALAZ HASTA J.M.D. VILLA DE VALLECAS",
+        "options": {
+            "a": "Av. Pablo Neruda - Av. Albufera - Sierra Vieja",
+            "b": "Fuente Carrantona - Av. Pablo Neruda - Sierra Gador",
+            "c": "Hacienda Pavones - M-40 - Av. Mediterráneo - Ctra. Toledo",
+            "d": "La Tacona - Encomienda de Palacios - Arroyo Fontarrón - Av. Pablo Neruda"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CEMENTERIO DE LA ALMUDENA HASTA LA VAGUADA",
+        "options": {
+            "a": "Marqués de Corbera - M-30 - Av. Ilustración",
+            "b": "Marqués de Corbera - M-40 - Monforte de Lemos",
+            "c": "M-30 - Av. De la Paz - Ginzo de Limia",
+            "d": "M-30 - Monforte de Lemos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "ANTENA 3 HASTA AEROPUERTO",
+        "options": {
+            "a": "A-1 - M-12 - M-110",
+            "b": "A-2 - M-12",
+            "c": "A-1 - Av. América",
+            "d": "M-40 - M-113"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CLUB CAMPO VILLA DE MADRID HASTA CEMENTERIO SUR",
+        "options": {
+            "a": "M-500 - Av. De los Poblados",
+            "b": "M-502 - M-511",
+            "c": "M-500 - Ctra. Carabanchel a Aravaca",
+            "d": "M-503 - M-502 - AV. De los Poblados"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "PLAZA DE ESPAÑA HASTA ATOCHA",
+        "options": {
+            "a": "Alcalá - Gran Vía - Pza. Cánovas del Castillo",
+            "b": "Gran Vía - Alcalá - Po Prado",
+            "c": "Alcalá - Cibeles - Alfonso XIl",
+            "d": "Princesa - Gta. Emperador Carlos V"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PLAZA TOROS VENTAS HASTA HOSPITAL GOMEZ ULLA",
+        "options": {
+            "a": "M-40 - Marcelo Usera - Pza. Carabanchel",
+            "b": "M-30 - General Ricardos - Oca",
+            "c": "M-40 - Odonell - General Ricardos",
+            "d": "M-30 - Pe Sta. Me de la Cabeza - Vía Lusitana - Padre Amigó"
+        },
+        "solution": "b"
+    }
+]

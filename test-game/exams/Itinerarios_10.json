@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Herrera Oria a la Plaza de Puerto de la Cruz?",
+        "options": {
+            "a": "C/ Ginzo de Limia - Monforte de Lemos - C/ césar Manrique",
+            "b": "C/ Ginzo de Limia - C/ de Santiago de Compostela",
+            "c": "Sinesio Delgado - Av. De Betanzos",
+            "d": "Sinesio Delgado - Monforte de Lemos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Menéndez Pelayo al Carlos Sainz Center Madrid?",
+        "options": {
+            "a": "Paseo Imperial - Paseo Infanta Isabel - C/ Ronda de Atocha - Ronda de Toledo - Paseo de los Pontones - C/ Vía Carpetana - C/ Sepúlveda",
+            "b": "Av. Ciudad de Barcelona - Paseo Infanta Isabel - C/ Ronda de Atocha Ronda de Toledo",
+            "c": "Av. Ciudad de Barcelona - Paseo Infanta Isabel - C/ Ronda de Atocha - Ronda de Toledo - Paseo de los Pontones - C/ Vía Carpetana",
+            "d": "Av. Ciudad de Barcelona - Paseo Infanta Isabel - C/ Ronda de Atocha - Ronda de Toledo - Paseo de los Pontones - C/ Vía Carpetana - C/ Sepúlveda"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Duque de Pastrana al Hospital Carlos III?",
+        "options": {
+            "a": "C/ Platerías - C/ Mateo Inurria - Paseo de la Castellana - C/ Sinesio Delgado",
+            "b": "Paseo de la Castellana - C/ Sinesio Delgado",
+            "c": "C/ Mateo Inurria - Paseo de la Castellana - C/ Sinesio Delgado",
+            "d": "C/ Mateo Inurria - C/ Sinesio Delgado"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Ventilla a la Hospital Universitario La Paz?",
+        "options": {
+            "a": "Av. de Asturias - Paseo de la Castellana - Av. Monforte de Lemos - C/ Pedro Rico - C/Arzobispo Morcilla",
+            "b": "Paseo de la Castellana",
+            "c": "Av. de Asturias - Paseo de la Castellana - Arzobispo Morcillo",
+            "d": "Av. de Asturias - Paseo de la Castellana - Av. Monforte de Lemos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Centro Deportivo Las Cruces al Hospital Central Gómez Ulla?",
+        "options": {
+            "a": "Av. de los Poblados Av. Ntra. Sra. de Fátima - c/San Sinesio - C/ De la Oca",
+            "b": "Vía de los Poblados - Av. Ntra. Sra. de Fátima - Paseo Marcelino Camacho",
+            "c": "Av. de los Poblados - Av. Ntra. Sra. de Fátima - Paseo Marcelino Camacho",
+            "d": "Av. de los Poblados - Av. Ntra. Sra. de la luz"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Oficina de Policía: Expedición DNI a la parada de metro Canal?",
+        "options": {
+            "a": "C/ Sta. Engracia - C/ Bravo Murillo",
+            "b": "C/ Sta. Engracia - C/ Eloy Gonzalo - C/ Bravo Murillo",
+            "c": "C/ Sta. Engracia - C/ Ríos Rosas - C/ Bravo Murillo",
+            "d": "C/ Sta. Engracia - C/ Sagasta - C/ Carranza - C/ Alberto Aguilera"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la Catedral de la Almudena a la parada de metro Méndez Álvaro, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Bailén - Gran Via San Fco. - Ronda de Toledo - Ronda de Valencia - Ronda de Atocha - Paseo de la Infanta Isabel - Av. Ciudad de Barcelona - C/ Méndez Álvaro",
+            "b": "C/ Bailén - Gran Vía San Fco. - Ronda de Toledo - Ronda de Valencia - Ronda de Atocha - Paseo de la Infanta lsabel - C/ Méndez Álvaro",
+            "c": "C/ Mayor - Gran Vía San Fco. - Ronda de Toledo - Ronda de Valencia - Ronda de Atocha - Paseo de la Infanta lsabel - Av. Ciudad de Barcelona - C/ Méndez Álvaro",
+            "d": "C/ Mayor - Gran Vía San Fco. - Ronda de Toledo - Ronda de Atocha - Paseo de la Infanta Isabel - Av. Ciudad de Barcelona - C/ Méndez Álvaro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de parada de metro Casa de Campo al Ateneo de Madrid, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "A-5 - Cuesta San Vicente - C/ Mayor - C/ Bailén - Carrera S. Jerónimo - C/ Sta. Catalina",
+            "b": "A-5 - Cuesta San Vicente - c/ Gran vía - C/ Alcalá - C/ Carretas",
+            "c": "A-5 - Cuesta San Vicente - c/ Gran vía - C/ Alcalá - c/ Sevilla - Carrera S. Jerónimo - C/ Sta. Catalina",
+            "d": "A-5 - Cuesta San Vicente - C/ Bailén - C/ Mayor - Carrera S. Jerónimo - C/ Sta. Catalina"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro República Argentina a la Plaza de Olavide?",
+        "options": {
+            "a": "C/ Joaquin Costa - Paseo de la Castellana - Paseo del Gral. Martinez Campos - C/ Eloy Gonzalo - C/ Trafalgar",
+            "b": "Av. Dr. Arce - Paseo de la Castellana - Paseo del Gral. Martínez Campos - C/ Eloy Gonzalo - C/ Trafalgar",
+            "c": "C/ Joaquín Costa - Paseo de la Castellana - Raimundo Fdez. Villaverde / Eloy Gonzalo - C/ Trafalgar",
+            "d": "C/ Joaquín Costa - Raimundo Fdez. Villaverde - Paseo del Gral. Martínez Campos - C/ Eloy Gonzalo - C/ Trafalgar"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Menéndez Pelayo a la Agencia",
+        "options": {
+            "a": "Av. Complutense - C/ Leonardo Prieto de Castro",
+            "b": "Av. Complutense - C/ Plaza Ciencias - C/ Leonardo Prieto de Castro",
+            "c": "Av. Complutense - Av. de la Memoria - Isaac Peral - Paseo Juan XXII - C/ Ramiro de Maeztu",
+            "d": "Av. Complutense - José Antonio Nováis - Av. Gregorio del Amo - Ramiro de Maeztu"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del aeropuerto Adolfo Suárez - Madrid Barajas a la Puerta del Sol, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "M-14 - E-5 - C/ O'Donnell - C/ Alcalá",
+            "b": "M-11 - E-5 - M-23 - C/ O'Donnell",
+            "c": "M-14 - E-5 - M-23 - C/ O'Donnell - C/ Alcalá",
+            "d": "M-113 - E-5 - M-23 - C/ O'Donnell - C/ Alcalá"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Para ir de la parada de metro Goya a la Plaza Dr. Laguna, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Narváez - Ibiza - Menéndez Pelayo - C/ Pío Baroja",
+            "b": "C/ Alcalá - Menéndez Pelayo - C/ Pío Baroja",
+            "c": "C/ Narváez - C/ Doce de Octubre - C/ Pio Baroja",
+            "d": "C/ Alcalá - C/ O'Donnell - C/ Narváez - C/ Doce de Octubre - C/ Pío Baroja"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Universidad Complutense a la Catedral de la Almudena?",
+        "options": {
+            "a": "Av. Complutense - Av. de la Memoria - C/ Princesa - C/ Ferraz - C/ Bailén",
+            "b": "Av. Complutense - Av. de la Memoria - C/ Princesa - C/ Altamirano - C/ Ferraz - C/ Bailén",
+            "c": "Av. Complutense - Av. de la Memoria - C/ Princesa - C/ Luisa Fernanda - C/ Ferraz - C/ Mayor",
+            "d": "Av. Complutense - Av. de la Memoria - C/ Princesa - C/ Luisa Fernanda - C/ Ferraz - C/ Bailén"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Pío XII a la sede del diario El Mundo?",
+        "options": {
+            "a": "Av. Pío XII - Arturo Soria - Av. San Luis",
+            "b": "Av. Pío XII - Cuesta del Sagrado Corazón - C/ Añastro - C/ Berlanga Duero - C/ Ramonet - Av. San Luis",
+            "c": "Av. Pio XII - Cuesta Sagrado Corazón - Arturo Soria - Av. San Luis",
+            "d": "Paseo de la Castellana - Mateo Inurria - Caídos División Azul - Cuesta del Sagrado Corazón - C/ Añastro - C/ Berlanga Duero - C/ Ramonet - Av. San Luis"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Arturo Soria a la parada de metro Pinar de Chamartín?",
+        "options": {
+            "a": "C/ Eladio López Vilches",
+            "b": "Av. De San Luis",
+            "c": "C/ Arturo Soria - Av. De San Luis",
+            "d": "C/ Arturo Soria"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Estadio Santiago Bernabéu a la Plaza Cataluña?",
+        "options": {
+            "a": "Pe Castellana - Joaquín Costa - Av. Dr. arce",
+            "b": "Pe Castellana - Príncipe de Vergara",
+            "c": "Av. De Concha Espina - C/ Serrano",
+            "d": "Av. De Concha Espina - C/ Príncipe de Vergara"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Universidad Politécnica a la Universidad Carlos IIl de Leganés?",
+        "options": {
+            "a": "Carr. De la Dehesa de la Villa - M-30 - A-4 - M-40 - M-421",
+            "b": "Carr. De la Dehesa de la Villa - M-30 - A-42 - M-40 - M-425",
+            "c": "Carr. De la Dehesa de la Villa - M-30 - A-42 - M-45 - M-425",
+            "d": "Carr. De la Dehesa de la Villa - M-30 - A-42 - M-40 - M-421"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de los Juzgados Plaza de Castilla a la Plaza Virgen Guadalupana?",
+        "options": {
+            "a": "Paseo de la Castellana a Av. Concha Espina a Av. Ramón y Cajal",
+            "b": "Mateo Inurria - C/ Planterías - C/ Caídos de la división azul - AV. Pio XII - Av. Príncipe de Vergara - Av. Ramón y Cajal",
+            "c": "Paseo de la Castellana - Vitruvio - Dr. Arce - Príncipe de Vergara - Ramón y Cajal",
+            "d": "Av. concha espina - Av. Ramón y Cajal"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital Central de la Cruz Roja San José y Santa Adela al Centro Comercial Dreams Palacio de Hielo?",
+        "options": {
+            "a": "Av. Reina Victoria - C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa - C/ Velázquez - C/ Príncipe de Vergara - C/ Moscatelar - C/ Silvano",
+            "b": "Pe Castellana C/ Joaquín Costa - C/ Velázquez - C/ Príncipe de Vergara - C/ Moscatelar - C/ Silvano",
+            "c": "Av. Reina Victoria - Paseo San Francisco de Sales - Av. Reyes Católicos A-6 - M-40 - C/ Silvano",
+            "d": "Av. Reina Victoria - C/ Raimundo Fdez. Villaverde - C/ Joaquín Costa - C/ Velázquez - C/ Príncipe de Vergara - C/ Moscatelar"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Estrecho al Hospita Central de la Cruz Roja San José y Santa Adela?",
+        "options": {
+            "a": "C/ Bravo Murillo - Av. Reina Victoria",
+            "b": "C/ Bravo Murillo - C/ Sor Ángela de la Cruz",
+            "c": "C/ Bravo Murillo - C/ San Germán",
+            "d": "C/ Bravo Murillo - Gta. Cuatro Caminos"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Catedral de la Almudena a la parada de metro Chueca?",
+        "options": {
+            "a": "C/ Bailén - C/ Mayor - Carrera de San Jerónimo - C/ Gran Vía - C/ Hortaleza - C/ Gravinia",
+            "b": "C/ Bailén - C/ Mayor - Carrera de San Jerónimo - C/ Cedaceros - C/ Gran Vía - C/ Hortaleza",
+            "c": "C/ Bailén - C/ Mayor - Carrera de San Jerónimo - C/ Cedaceros - C/ Gran Vía - C/ Hortaleza - C/Gravinia",
+            "d": "C/ Bailén - C/ Ferraz - C/ Marqués de Urquijo - C/ Alberto Aguilera - C/ Carranza - C/ Fuencarral"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Embajadores al Aparcamiento Plaza de Santa Ana?",
+        "options": {
+            "a": "Ronda de Valencia - C/ Sebastián Elcano - C/ Fray Luis de León - C/ Valencia - C/ Sta. Isabel - C/ Atocha - C/ León - C/ del Prado",
+            "b": "Ronda de Valencia - C/ Méndez Álvaro - C/ Fray Luis de León - C/ Valencia - C/ Sta. Isabel - C, Atocha - C/ León - C/ del Prado",
+            "c": "Ronda de Valencia - C/ Sebastián Elcano - C/ Fray Luis de León - C/ Valencia - C/ Sta. Isabel C/ Atocha - C/ León - P° del Prado",
+            "d": "Ronda de Valencia - C/ Sebastián Elcano - C/ Fray Luis de León - C/ Valencia - C/ Sta. Isabel - C/ Atocha - C/ Torrecilla del Leal - C/ del Prado"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Puerta de Toledo a la Puerta del Sol?",
+        "options": {
+            "a": "C/ Toledo - Gta. Pirámides M-30 - Plaza Moncloa - C/ Princesa C/ Bailén - C/ Mayor",
+            "b": "C/ Toledo - C/ Duque de Rivas - C/ Salvador - Plaza Provincia - Plaza de Sta. Cruz - C/ Esparteros - C/ Mayor",
+            "c": "C/ Toledo - C/ Colegiata - C/ Duque de Rivas - C/ Carretas",
+            "d": "C/ Toledo - C/ Colegiata - C/ Duque de Rivas - C/ Salvador - Plaza Provincia - Plaza de Sta. Cruz - C/ Esparteros - C/ Mayor"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Tribunal a la Plaza del Teniente Alcalde Pérez Pillado?",
+        "options": {
+            "a": "C/ Fuencarral - C/ Colón - C/ Gran Vía - C/ Princesa - C/ Isaac Peral - Paseo San Francisco de Sales",
+            "b": "C/ Fuencarral - C/ Colón - C/ Gran Vía - C/ Álamo - C/ Amaniel - C/ Conde Duque - C Vallehermoso",
+            "c": "C/ Fuencarral - C/ Colón - C/ Gran Vía - C/ Princesa - C/ Isaac Peral",
+            "d": "C/ Fuencarral - C/ Colón - C/ Gran Vía - C/ Princesa - C/ Isaac Peral - C/ Cea Bermúdez - C. José Abascal"
+        },
+        "solution": "b"
+    }
+]

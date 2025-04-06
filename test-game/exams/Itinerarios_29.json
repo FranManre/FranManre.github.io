@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Monumento a los Caídos por España a la parada de metro O'Donnell?",
+        "options": {
+            "a": "Paseo de Recoletos - C/ Alcalá - C/ Jorge Juan",
+            "b": "Paseo de la Castellana",
+            "c": "Paseo del Prado - C/ Alcalá - C/ Jorge Juan",
+            "d": "Paseo de la Castellana - Av. Ventisquero de la Condesa"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Duque de Pastrana a la sede del diario El Mundo?",
+        "options": {
+            "a": "C/ Platerías - C/ Caídos de la División Azul - C/ Arturo Soria - AV. San Luis",
+            "b": "Paseo de la Castellana - Mateo Inurria - C/ Platerías - C/ Caídos de la División Azul - C/ Añastro - C/ Berlanga de Duero - C/ Ramonet - Av. San Luis",
+            "c": "C/ Platerías - C/ Caídos de la División Azul - C/ Añastro - C/ Berlanga de Duero - C/ Ramonet - Av. San Luis",
+            "d": "C/ Platerías - C/ Caídos de la División Azul - C/ Arturo Soria"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la estación de Atocha al aeropuerto Adolfo Suárez - Madrid Barajas?",
+        "options": {
+            "a": "Paseo del Prado - C/ Alcalá - C/ O'Donnell a M-21 - E-5 a M-14",
+            "b": "Paseo del Prado - C/ Alcalá - C/ O'Donnell a M-23 - E-5 a M-11",
+            "c": "Paseo del Prado - C/ Alcalá - M-23 - E-5 a M-14",
+            "d": "Paseo del Prado - C/ Alcalá - C/ O'Donnell a M-23 - E-5 a M-14"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Jefatura Provincial de Tráfico (28043) a la Cámara de Madrid?",
+        "options": {
+            "a": "C/ Josefa Valcárcel - C/ Arturo Soria - C/ Pablo Vidal - C/ Pedro Salinas",
+            "b": "C/ Arturo Soria - C/ Pablo Vidal - C/ Pedro Salinas",
+            "c": "C/ Arturo Soria - C/ López de Hoyos - C/ Pedro Salinas",
+            "d": "C/ Josefa Valcárcel - C/ Arturo Soria - C/ López de Hoyos - C/ Pedro Salinas"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Gregorio Marañón a la parada de metro Concha Espina?",
+        "options": {
+            "a": "Paseo de la Castellana - María de Molina - C/ Príncipe de Vergara",
+            "b": "Paseo de la Castellana - C/ María de Molina - C/ López de Hoyos - C/ Príncipe de Vergara",
+            "c": "General Martínez Campos - C/ Diego de León - C/ Francisco Silvela - Príncipe de vergara",
+            "d": "Paseo del Prado - Paseo de Recoletos - Paseo de la Castellana - Mateo Inurria"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Biblioteca Pública Municipal José Hierro a la parada de metro Esperanza, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ José Hierro - Arturo Soria - C/ Ulises - C/ Moscatelar - C/ Silvano - C/ Calanda",
+            "b": "Av. de Canillejas a Vicálvaro - C/ Alcalá - Av. Veinticinco de Septiembre - Av. Machupichu a C/ Silvano - C/ Calanda",
+            "c": "Av. de Canillejas a Vicálvaro - C/ Alcalá - Av. Veinticinco de Septiembre - Av. Machupichu a C/ Silvano - C/ Asura",
+            "d": "Hermanos García Noblejas - C/ Arturo Soria - / Ulises - C/ Moscatelar - C/ Silvano - C/ Calanda"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Virgen Guadalupana a la Plaza San Amaro?",
+        "options": {
+            "a": "Av. Ramón y Cajal - Av. Concha Espina - Av. Gral. Perón - C/ Poeta Joan Maragall - C/ San Germán - C/ Fortunata y Jacinta - Av. Presidente Carmona",
+            "b": "Paseo de la Castellana - C San Germán - C/ Fortunata y Jacinta - Av. Presidente Carmona",
+            "c": "Av. Ramón y Cajal - Av. Concha Espina - Av. Gral. Perón - C/ Poeta Joan Maragall - C/ San Germán - C/ Gral. Oraá - Av. Presidente Carmona",
+            "d": "Príncipe de Vergara - Av. Pio XII - m-30 - Salida Plaza Castilla - C/ Bravo Murillo - C/Fortunata y Jacinta - Av. Presidente Carmona"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de Manuel Rodrigo a la parada de metro Mar de Cristal?",
+        "options": {
+            "a": "Avda. de Machupichu",
+            "b": "Avda. de Machupichu - C/ Aconcagua",
+            "c": "Avda. de Machupichu - C/ Emigrantes",
+            "d": "Avda. de Machupichu - Ctra. De Canillas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Esperanza al Centro Comerial Gran Vía Hortaleza?",
+        "options": {
+            "a": "C/ Andorra - C/ Ayacucho C/ Calandra - C/ Alcorisa - C/ Silvano - Av. Machupichu - C/ Emigrantes - C/",
+            "b": "C/ Andorra - C/ Calandra - C/ Alcorisa - C/ Silvano - C/ Arturo Soria - C/ Costa Rica - Gran vía de Hortaleza",
+            "c": "C/ Andorra - c/ Utrillas - Carretera de Canillas - C/ López de Hoyos - Gran vía de Hortaleza",
+            "d": "C/ Asura - C/ Arturo Soria - C/ Costa Rica - Gran vía de Hortaleza"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Sainz de Baranda al Hospital Virgen de la Paloma?",
+        "options": {
+            "a": "C/ Dr. Esquerdo - C/ Joaquín Costa - Av. Reina Victoria - Av. de Lo Andes - C/ Gral. Asensio Cabanillas",
+            "b": "C/ Dr. Esquerdo - C/ Joaquín Costa - Av. Reina Victoria - Av. del Valle - C/ Gral. Martínez Campos",
+            "c": "C/ Dr. Esquerdo - C/ Vitruvio - Av. Reina Victoria - Av. del Valle - C/ Gral. Asensio Cabanillas",
+            "d": "C/ Dr. Esquerdo - C/ Joaquín Costa - Av. Reina Victoria - Av. del Valle - C/ Gral. Asensio Cabanillas"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital del Aire a la parada de metro Manoteras, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Arturo Soria - C/ Julio Dánvila - C/ Cuevas de Almanzora - C/ Bacares",
+            "b": "C/ Princesa - M-30 - M-11 - C/ Arturo Soria - C/ Julio Dánvila - C/ Cuevas de Almanzora - C/ Bacares",
+            "c": "Pza. Moncloa - C/ Princesa - C/ Gran vía - C/ Alcalá - C/ Arturo Soria - C/ Julio Dánvila - C Cuevas de Almanzora - C/ Bacares",
+            "d": "Pza. Moncloa - C/ Princesa - C/ Gran vía - C/ Alcalá - Pe Castellana - Mateo Inurria - Caídos División Azul - C/ Arturo Soria - C/ Julio Dánvila - C/ Cuevas de Almanzora - C/ Bacares"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital Central de la Cruz Roja San José y Santa Adela a la parada de metro Tetuán?",
+        "options": {
+            "a": "Av. Pablo Iglesias - C/ Francos Rodríguez - C/ Bravo Murillo",
+            "b": "C/ Castillo Piñeiro - C/ Almansa - C/ Garellano - C/ Dr. Santero - C/ Bravo Murillo",
+            "c": "Av. Pablo Iglesias - C/ Reina Victoria - C/ Raimundo Fdez. Villaverde",
+            "d": "C/ Castillo Piñeiro - C/ Almansa - C/ Topete - C/ Juan Pantoja - C/ Bravo Murillo"
+        },
+        "solution": "d"
+    }
+]

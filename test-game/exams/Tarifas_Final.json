@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Iniciamos un servicio un sábado laborable a las 6:15 en Madrid con tres clientes que se dirigen a Talavera, se realiza una parada para repostar combustible en Móstoles y se reinicia el servicio 20 minutos más tarde, llegando al destino donde se quedan dos clientes mientras que el tercero se queda dentro del vehículo para llegar a su punto de destino Navalcarnero. ¿Qué tarifas se aplicarán en todo el recorrido?",
+        "options": {
+            "a": "2-6-0-6-2-0-2",
+            "b": "2-2-0-2-6",
+            "c": "2-2-0-6-0-2",
+            "d": "2-2-0-2-6-0-2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio un martes festivo a las 14:55 en Villanueva del Pardillo con cuatro viajeros que se dirigen al pantano de San Juan de San Martín de Valdeiglesias donde se quedan dos, de ahí nos dirigimos a Brunete donde se queda uno y esperamos al ultimo media hora para llevarlo finalmente a Las Navas del Marques. ¿Qué tarifas se aplicaran en cada punto del recorrido?",
+        "options": {
+            "a": "2-6-0-2-6",
+            "b": "2-5-0-2-5",
+            "c": "2-6-2-6",
+            "d": "2-5-0-6"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Si iniciamos un servicio en Brunete un martes 1 enero a las 4:05 ¿Qué importe se recaudará al iniciar el taxímetro?",
+        "options": {
+            "a": "3.20€",
+            "b": "3.20€ + Suplemento",
+            "c": "2,55€ + Suplemento",
+            "d": "Ninguna de las anteriores son correctas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la Puerta del Sol con dos clientes a las 17:30 dirección a la estación sur de autobuses. Allí recogemos un tercer cliente y nos dirigimos después al aeropuerto donde se quedan dos y finalizamos en el pueblo de Barajas 45 minutos más tarde. ¿Qué tarifas se aplicaran?",
+        "options": {
+            "a": "1-2",
+            "b": "1-7-2",
+            "c": "2",
+            "d": "1"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Con qué tarifa finalizaremos un servicio un miércoles festivo a las 20:45 en Motril?",
+        "options": {
+            "a": "Tarifa 1",
+            "b": "Tarifa 6",
+            "c": "Tarifa 5",
+            "d": "No se puede finalizar el servicio en dicha ubicación."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuáles de las siguientes ubicaciones no se encuentra en el APC?",
+        "options": {
+            "a": "Parque Montarco",
+            "b": "Polideportivo Gutiérrez Mellado",
+            "c": "Polígono Las Nieves",
+            "d": "Parque municipal O'Donnell"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué velocidad deberá alcanzar el vehículo para facturar por kilómetros si nos encontramos un sábado festivo a las 13:00 en la avenida de la Ilustración?",
+        "options": {
+            "a": "19.63 km/h",
+            "b": "19 km/h",
+            "c": "16, 92km / h",
+            "d": "17, 66km / h"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio el día de noche vieja a las 20:05 en la calle Gil y Polo para finalizar 35 minutos más tarde en el Parque Juan Carlos I (IFEMA). ¿Qué tarifas y suplementos se aplicarán?",
+        "options": {
+            "a": "7 + 6.7epsilon",
+            "b": "1",
+            "c": "1 + 6.7xi",
+            "d": "No se puede realizar el servicio."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio a las 11:22 en la estación de Velilla de San Antonio con tres viajeros y un trasportín con un animal doméstico que colocamos en el maletero, salimos dirección Majadahonda tomando la M-40 y llegando al punto de destino 35 minutos más tarde. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "1-1",
+            "b": "2-2",
+            "c": "2-1-2",
+            "d": "Ninguna de las anteriores son correctas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿A qué velocidad se empezará a tarificar por kilómetro si se inicia un servicio un martes 16 de marzo a las 19:34 en el centro comercial Plenilunio?",
+        "options": {
+            "a": "19 km/h",
+            "b": "19, 63km / h",
+            "c": "15.83 km/h",
+            "d": "17, 66km / h"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Se inicia un servicio el día 24 de diciembre a las 3:45 en el intercambiador de Avenida de América para dirigirse al parque Juan Carlos I (IFEMA) finalizando allí 20 minutos después. ¿Qué tarifas y suplementos se aplicarán?",
+        "options": {
+            "a": "7-2",
+            "b": "7-2 +6.70€",
+            "c": "2-2 +6.70€",
+            "d": "7-1"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes municipios no pertenece al APC?",
+        "options": {
+            "a": "Chinchón",
+            "b": "Villanueva del Pardillo",
+            "c": "Torrejón de la Calzada",
+            "d": "San Martín de Valdeiglesias"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Con qué tarifa finalizaremos un servicio un sábado festivo a las 2:45 en el centro comercial La Gavia?",
+        "options": {
+            "a": "tarifa 1",
+            "b": "tarifa 6",
+            "c": "tarifa 2",
+            "d": "tarifa 5"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio con dos clientes y varias maletas un martes a las 9:15 en centro comercial Plaza Norte 2 para dirigirse a Badajoz donde se queda uno de ello con todo el equipaje. Volvemos con el cliente hasta San Sebastián de los Reyes donde le esperamos 30 minutos para finalizar en Carranque. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "1-0-1",
+            "b": "1-5-0-1-5",
+            "c": "2-6-0-2-6",
+            "d": "1-0-5"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en la Pl. Emperador Carlos V un sábado no festivo a las 15:15h con dirección Villanueva del Pardillo. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "7-2",
+            "b": "1-2",
+            "c": "2-2",
+            "d": "2-6"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio un domingo en la calle Valeria con cuatro pasajeros dirección a la avenida Padre Piquer, donde a la llegada se quedan dos viajeros y sube otro. Con el resto del pasaje ponemos rumbo al Polígono El Carralero donde se quedan dos y esperamos al último una hora para finalmente acabar el servicio en el Polígono San Marcos. ¿Qué precio por kilómetro se facturará en cada punto del itinerario?",
+        "options": {
+            "a": "1.35€+1.35€+1.50€+1.50€",
+            "b": "1.50€+1.50€+1.30€+1.30€",
+            "c": "1.50€+1.50€+1.50€+1.50€",
+            "d": "Ninguna de las anteriores son correctas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en Humanes de Madrid un sábado a las 14:25 entrando en Madrid 35 minutos más tarde y finalizando en la plaza Conde Casal. ¿Qué tarifas se aplicarán en el recorrido?",
+        "options": {
+            "a": "5-1-2",
+            "b": "5-2",
+            "c": "2-1-2",
+            "d": "2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿A qué velocidad se empezará a tarificar por kilómetro si se inicia un servicio a las 10h un martes 15 de mayo en la calle Arenal?",
+        "options": {
+            "a": "19,63 km/h",
+            "b": "17,66 km/h",
+            "c": "19 km/h",
+            "d": "16,92 km/h"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuáles de las siguientes ubicaciones no tiene tarifa fija?",
+        "options": {
+            "a": "Estación de Chamartin",
+            "b": "Estación de Méndez Álvaro",
+            "c": "Aeropuerto de Barajas",
+            "d": "Parque Juan Carlos I (IFEMA)"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Mejorada del Campo un domingo a las 6:15 con dos clientes dirección Madrid. Se baja el primer cliente en la Plaza Mariano de Cavia 30 minutos más tarde y continuamos con el segundo cliente hasta el Aeropuerto de Barajas llegando a las 7:20. ¿Qué tarifas y bajada de bandera se aplicarán?",
+        "options": {
+            "a": "3.20€+2-2-2",
+            "b": "3.20€+2-2-1",
+            "c": "2.55€+2-2-1",
+            "d": "2.55€+2-2-2"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la calle Albarracín un viernes a las 20.00 con un cliente dirección Los Caños de Meca, se pactan 3 paradas con el cliente a lo largo del servicio. Llegando al punto de destino el cliente nos solicita que le esperemos 30 minutos. Acabado el tiempo de espera vuelve con un con otro cliente y anuncian su regreso al punto de origen. ¿Qué tarifas se aplicarán a lo largo del recorrido?",
+        "options": {
+            "a": "1-6-0-6-0-6-0-6-0-2",
+            "b": "1-2-6-0-6-0-6-0-2",
+            "c": "1-2-6-0-6-0-6-0-6-0-2",
+            "d": "No se puede realizar un itinerario de estas características"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio un jueves 9 de noviembre a las 13:40 en la Catedral de la Almudena con un cliente y un perro guía. Nos dirigimos a la plaza de toros de las Ventas donde esperamos al cliente una hora para finalizar en el tanatorio de San Isidro. ¿Qué tarifas se aplicarán y cuál será el cobro por la espera?",
+        "options": {
+            "a": "1 + 26.5 \\in",
+            "b": "2 + 28.5OE",
+            "c": "1+28.50€",
+            "d": "2+26.50€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en Navalcarnero un día laborable a las 7:15 con dirección Aldea del Fresno, recogemos a otro pasajero y finalizamos el servicio en Las Navas del Marqués. ¿Con qué tarifa finalizaremos el servicio?",
+        "options": {
+            "a": "2",
+            "b": "6",
+            "c": "5",
+            "d": "0"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio el día 31 de diciembre a la 01:35 en la estación Sur de autobuses con cuatro viajeros y tres maletas, nos dirigimos a la estación de Atocha donde se bajan dos viajeros y una maleta, de allí nos dirigimos al IFEMA donde esperamos media hora y descargamos las dos maletas. Nos dirigimos con los viajeros restantes a la estación de Chamartin donde se queda uno de ellos y finalizamos el servicio con el último pasajero en el aeropuerto de Barajas. ¿Qué tarifas y suplementos se aplicarán?",
+        "options": {
+            "a": "7-2-2-2-2+6.70€",
+            "b": "7-2-2-2-2",
+            "c": "7-2-2-4-2",
+            "d": "7-2-2-4-2 +6.70€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Con qué tarifa iniciaremos y finalizaremos un servicio que transcurre en el núcleo urbano de Madrid un martes festivo a las 23.05H teniendo en cuenta que el vehículo no supera los 18 Km/h?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "Ninguna de las anteriores son correctas"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio un lunes 20 de abril en Velilla de San Antonio con un viajero dirección Chichón. Llegando al municipio el cliente nos pide que le esperemos antes de continuar el servicio. Salimos con dirección Madrid para pasar brevemente por la carretera de Villaverde a Vallecas y finalizar en el centro comercial Alcalá Norte a las 18:40. ¿Cuál será el precio por kilómetro en cada uno de los puntos del itinerario?",
+        "options": {
+            "a": "1.35 \\in 1.35 \\in 1.35 \\in 1.35 \\in",
+            "b": "1.5epsilon + 1.5xi + 1.35epsilon + 1.35epsilon",
+            "c": "1.35 \\in 1.25 \\in 1.5 \\in 1.5 \\in",
+            "d": "1.35 \\in 1.35 \\in 1.35 \\in 1.5 \\in"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la calle Prim un domingo festivo a las 20:45h con dirección Toledo con tres clientes. A la llegada al municipio se bajan dos clientes y el tercero nos marca el punto de destino en Torrejón de la Calzada. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "1-2-6-0-2",
+            "b": "2-6-0-2",
+            "c": "1-2-6-0-2",
+            "d": "2-5-6-0-2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Si se inicia un servicio un día 6 de enero a las 16:00h en San Martín de la Vega. ¿Qué cobro inicial se realizara al bajar la bandera?",
+        "options": {
+            "a": "3.15€",
+            "b": "2.50€",
+            "c": "3.00€",
+            "d": "No se puede realizar el servicio"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuáles de las siguientes ubicaciones no pertenecen al APC?",
+        "options": {
+            "a": "Poligono Las Nieves",
+            "b": "Polígono Euronova",
+            "c": "Polígono Las Fronteras",
+            "d": "Poligono El Malvar"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en Arganda del Rey con un cliente con destino Valencia. Llegado al punto de destino el cliente se baja allí finalizando nuestro itinerario. ¿Cómo volveremos hasta el APC?",
+        "options": {
+            "a": "Con el taximetro y la capilla apagados como si fuese un coche particular aun siendo servicio público.",
+            "b": "Únicamente con el taximetro apagado pero la capilla encendida con la luz verde de servicio indicando el regreso del punto de destino.",
+            "c": "Con el taxímetro y la capilla encendidos indicando la disposición del vehículo.",
+            "d": "Todas las anteriores son correctas."
+        },
+        "solution": "a"
+    }
+]

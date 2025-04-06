@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Castilla a la Plaza de Puerto de Cruz?",
+        "options": {
+            "a": "Bravo Murillo - C/ Capitán blanco Argibay - Gta. Piedrafita del Cebrero - Av. Betanzos - Santiago de Compostela",
+            "b": "Av. de Asturias - C/ Ginzo de Limia - Av. de Monforte de Lemos - Camino de Ganapanes",
+            "c": "Av. de Asturias - C/ Ginzo de Limia - Av. de La llustración - Camino de Ganapanes",
+            "d": "Bravo Murillo - C/ Capitán blanco Argibay - Gta. Piedrafita del Cebrero - Av. Betanzos - Monforte de Lemos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Nueva Numancia a Conde Duque?",
+        "options": {
+            "a": "Av. de la Albufera - Av. de la Ciudad de Barcelona - Paseo de la Infanta Isabel - Paseo del Prado - C/ Alcalá - C/ Gran Via - C/ Conde Duque",
+            "b": "Av. de la Albufera - Av. de la Ciudad de Barcelona - Paseo de la Infanta Isabel - Paseo del Prado - C/ Alcalá - C/ Gran Vía",
+            "c": "Av. de la Albufera - M-30 - Av. Ilustración - M-30 - Plaza de Moncloa - C/ Princesa",
+            "d": "Av. de la Albufera - M-30 - Av. Ilustración - M-30 - Plaza de Moncloa - C/ Princesa - C/ Alberto Aguilera"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la parada de metro Valdeacederas al Hospital Carlos III?",
+        "options": {
+            "a": "C/ Bravo Murillo - Paseo de la Castellana - C/ Sinesio Delgado",
+            "b": "C/ Bravo Murillo - C/ Sinesio Delgado",
+            "c": "Paseo de la Castellana - C/ Sinesio Delgado",
+            "d": "Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital Universitario La Paz a la Plaza de Castilla?",
+        "options": {
+            "a": "Arzobispo Morcillo - Paseo de la Castellana",
+            "b": "Av. Padre Francisco Palau y Quer - Paseo de la Castellana",
+            "c": "Bravo Murillo",
+            "d": "Paseo de la Castellana"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Estación de Aluche a la Hospital Central Gómez Ulla?",
+        "options": {
+            "a": "Av. De Los poblados - Valmojado - A-5 - Cuesta de san Vicente - Gran vía - c/ Alcalá - c/ Dr. Gómez Ulla",
+            "b": "C/ Ocaña - C/ Ntra. Sra. de la Luz - Paseo Marcelino Camacho",
+            "c": "C/ Ocaña - C/ Ntra. Sra. de la Luz - Av. Ntra. Sra. de Fátima - Paseo Marcelino Camacho",
+            "d": "Av. De Los poblados - A-4 - M-30 - Nudo Ventas - C/ Alcalá - Manuel Becerra - C/ Dr. Gómez Ulla"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Comisaría Distrito Madrid",
+        "options": {
+            "a": "C/ Blasón - C/ Gral. Ricardos - C/ Río de Oro",
+            "b": "C/ Blasón - C/ Gral. Ricardos",
+            "c": "C/ Blasón - C/ Río de Oro",
+            "d": "C/ Blasón - C/ Eugenia de Montijo - C/ Río de Oro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza de Carabanchel a la Plaza de Tarifa?",
+        "options": {
+            "a": "C/ Blasón - C/ Gral. Ricardos - C/ Clara Campoamor - C/ Álvarez Abellán",
+            "b": "C/ Blasón - C/ Gral. Ricardos",
+            "c": "C/ Blasón - C/ Clara Campoamor - C/ Álvarez Abellán",
+            "d": "C/ Blasón - C/ Gral. Ricardos - C/ Clara Campoamor - C/ Camino Viejo de Leganés - C/ Álvarez Abellán"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Promesas a la Plaza Campo de Criptana?",
+        "options": {
+            "a": "C/ Censo - C/ de la Expropiación - Av. de los Poblados - Rafaela Ibarra - C/ Marcelo Usera - Av. Córdoba",
+            "b": "C/ Censo - C/ de la Expropiación - Av. de los Poblados - Eduardo Barreiros - Av. Andalucía - C/ Antonio López - C/ Socuéllamos",
+            "c": "C/ Censo - C/ de la Expropiación - Av. de los Poblados - Av. De los Rosales - Camino de Perales - C/ Antonio López - C/ Socuéllamos",
+            "d": "C/ Censo - C/ de la Expropiación - Av. de los Poblados - Av. Andalucía - C/ Antonio López - C/ Socuéllamos"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir de los Teatros del Canal a la parada de metro Menéndez Pelayo, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Bravo Murillo - C/ Sagasta - C/ Alfonso XIl - Paseo R. Cristina - Av. Menéndez Pelayo",
+            "b": "C/ Bravo Murillo - C/ Fuencarral - C/ Sagasta - C/ Serrano - C/ Alfonso XII - Paseo R. Cristina - Av. Menéndez Pelayo",
+            "c": "C/ Bravo Murillo - C/ Fuencarral - C/ Sagasta - C/ Serrano - C/ Alfonso XII - Paseo R. Cristina",
+            "d": "C/ Bravo Murillo - C/ Fuencarral - C/ Sagasta - C/Velázquez - C/ Alfonso XII - Paseo R. Cristina - Av. Menéndez Pelayo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza Ciencias a la Plaza de Alcira?",
+        "options": {
+            "a": "C/ Leonardo Prieto Castro - Av. De las Moreras - Av. Dr. Federico Rubio y Galí - Av. Santo Ángel de la Guarda",
+            "b": "Av. Dr. Federico Rubio y Gali - Av. Santo Ángel de la Guarda",
+            "c": "Av. De las Moreras - Av. Santo Ángel de la Guarda",
+            "d": "C/Leonardo Prieto Castro - Av. De las Moreras - Av. Dr. Federico Rubio y Gali"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la parada de metro Quintana al Canal de Isabel II - Depósito de San Blas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Ezequiel Solana - Av. De Daroca - C/ Francisco Largo Caballero",
+            "b": "C/ Ezequiel Solana - C/ Arriaga - Av. De Daroca - C/ Francisco Largo Caballero",
+            "c": "C/ Ezequiel Solana - C/ Francisco Villaespesa - Av. De Daroca - C/ Francisco Largo Caballero",
+            "d": "C/ Ezequiel Solana - C/ Alcalá - Av. De Daroca - C/ Francisco Largo Caballero"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la parada de metro del Retiro a la Plaza de los Reyes Magos, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Alcalá - C/ O'Donnell - Av. Menéndez Pelayo - C/ Alcalde Sainz de Baranda - Dr. Esquerdo - Av. Nazaret - C/ de los Reyes Magos",
+            "b": "C/ Alcalá - C/ O'Donnell - Av. Menéndez Pelayo - C/ Doce de Octubre - Dr. Esquerdo - Av. Nazaret - C/ de los Reyes Magos",
+            "c": "C/ Alcalá - C/ O'Donnell - C/ Alcalde Sainz de Baranda - Dr. Esquerdo - Av. Nazaret - C/ de los Reyes Magos",
+            "d": "C/ Alcalá - C/ O'Donnell - Av. Menéndez Pelayo - C/ Amado Nervo - C/ de los Reyes Magos"
+        },
+        "solution": "d"
+    }
+]

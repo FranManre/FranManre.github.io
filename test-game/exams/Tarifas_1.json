@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Iniciamos un servicio un domingo a las seis horas en Torrejón de Ardoz con un viajero invidente acompañado de un perro, hasta el Club de Campo finalizando a las 9 horas. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "1-2",
+            "b": "2-1",
+            "c": "3-1",
+            "d": "Esta fuera del Área de prestación conjunta"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio a las 04.10h de un domingo en la Plaza de Castilla, pasando 5.05h de un día festivo desde Móstoles hasta la Gta. de Quevedo. ¿Qué tarifas aplicará?",
+        "options": {
+            "a": "2-3-2",
+            "b": "1-2-1",
+            "c": "2-2-2",
+            "d": "2-1-2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en el club de campo a las 19.30 h, hasta la estación de Atocha, 19.55h de ahí continua hasta plaza de Castilla pasando a las 20.15h, de ahí se dirige a Alcorcón llegando a las 21.01h, de ahí al club de Campo donde llega a las 22.11h con dos viajeros para ir al Campo de las Naciones 23.05h ahí se baja uno y la otra continua hasta el Aeropuerto llegando a las 23.20h ¿Qué tarifas aplicara en cada punto horario?",
+        "options": {
+            "a": "1-1-1-3-2-2-2",
+            "b": "1-1-2-3-2-2-2",
+            "c": "1-1-1-2-2-2-2",
+            "d": "2-1-2-2-3-2-1"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en la estación de Atocha a las 18.30h hasta el Recinto Ferial Casa Campo ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "1-1",
+            "b": "7-1",
+            "c": "7-5",
+            "d": "2-2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en el aeropuerto en la Terminal 4 finalizando en el aeropuerto en la Terminal 2 ¿Qué tarifa se aplicará?",
+        "options": {
+            "a": "No se puede realizar este servicio",
+            "b": "Tarifa 4",
+            "c": "Tarifa 3",
+            "d": "Tarifa 7"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio un 6 de enero en la estación de Chamartín y finaliza en la estación de Atocha. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "7-2",
+            "b": "7",
+            "c": "Ninguna es correcta",
+            "d": "2"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿A cuántos está el kilómetro en tarifa 1?",
+        "options": {
+            "a": "1.25€",
+            "b": "1.35€",
+            "c": "1.00€",
+            "d": "1.40€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La hora de parada en nocturno es de:",
+        "options": {
+            "a": "28.00€",
+            "b": "23.75€",
+            "c": "28.50€",
+            "d": "26,50€"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "En Villalbilla a las 21.46h ¿qué tarifa se aplicará?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en la estación de autobuses de Av América y finaliza en la terminal 4 ¿Qué tarifa se aplicará?",
+        "options": {
+            "a": "7 los 1450 primeros metros",
+            "b": "4",
+            "c": "7",
+            "d": "2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en la estación de Chamartín, después pasa por la estación de Atocha de ahí al aeropuerto donde espera 30 minutos para finalizar en el Ifema. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "7-2-7-2-2",
+            "b": "2-7-4-2",
+            "c": "7-2-4-2",
+            "d": "7-2-2-2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿A cuánto está el kilómetro en tarifa 3?",
+        "options": {
+            "a": "1.35€",
+            "b": "Ninguno",
+            "c": "1.25€",
+            "d": "1,50€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en el Campo de las naciones a las 21:45h y finaliza en la Estación de Chamartín a las 22.10h ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "2-7",
+            "b": "7-2",
+            "c": "2-2",
+            "d": "1-2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en la Plaza Elíptica a las 20.30h pasa por Getafe a las 20.45h, se dirige a Valdemoro 21.10 h y finaliza en Colmenar de Oreja a las 22.00 h ¿Qué tarifas aplicará en cada punto horario?",
+        "options": {
+            "a": "1-1-5-5",
+            "b": "1-2-2-6",
+            "c": "1-1-2-6",
+            "d": "1-2-6-6"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál es la bajada de bandera de un sábado a las 22.10?",
+        "options": {
+            "a": "2,90€",
+            "b": "3,20€",
+            "c": "2,55€",
+            "d": "2,35€"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Iniciamos un servicio en Madrid a las 19.25h el día 24 de diciembre y finalizando a las 21.12h en la Aranjuez ¿Qué tarifa y suplemento se aplicará?",
+        "options": {
+            "a": "1-2-6.00€",
+            "b": "2-2-6.70€",
+            "c": "1-2",
+            "d": "1-2+6.70€"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en Madrid a las 18.40h de un sábado festivo y finalizando a las 19.05h ¿Con que tarifas iniciarías y finalizarías dicho servicio?",
+        "options": {
+            "a": "Tarifa 3",
+            "b": "Tarifa 2 y 5",
+            "c": "Tarifa 1",
+            "d": "Tarifas 2 y 2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en el aeropuerto a las 05.59h de un sábado laborable y finalizándolo a las 06.17h en la estación de Chamartín. ¿Qué tarifas se aplicarán?",
+        "options": {
+            "a": "4",
+            "b": "1-2",
+            "c": "1-5",
+            "d": "3"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en la estación de tren de Rivas a las 22.41h de un sábado laborable y lo finaliza a las 00.54h en Toledo. ¿Qué tarifas se aplicaran?",
+        "options": {
+            "a": "2-6",
+            "b": "2-5",
+            "c": "2-2",
+            "d": "5-6"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Sabría indicar cuál de los municipios que se citan no pertenece al APC?",
+        "options": {
+            "a": "No pertenece ninguno",
+            "b": "Arroyomolinos.",
+            "c": "Navalcarnero",
+            "d": "Torrejón de Ardoz"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Indique cuál de los municipios que se citan, no pertenece al APC de Madrid:",
+        "options": {
+            "a": "San Agustín de Guadalix",
+            "b": "Valdemorillo",
+            "c": "Villanueva de la Cañada",
+            "d": "Miraflores de la Sierra"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los lugares que se citan no pertenece al APC de Madrid?",
+        "options": {
+            "a": "Aeródromo de Cuatro Vientos",
+            "b": "Base Aérea de Torrejón de Ardoz",
+            "c": "Aeropuerto de Barajas",
+            "d": "Estación Sur de Autobuses"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué municipio pertenece al APC de Madrid?",
+        "options": {
+            "a": "Pozuelo del Rey",
+            "b": "Colmenarejo",
+            "c": "Ninguno",
+            "d": "Torrelodones"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en Fuenlabrada el día 24 de diciembre a las 20.58h, Entra en Madrid a las 21.30h y finaliza en la estación de Chamartín a las 22.05h ¿Qué tarifas y suplementos se aplicaran en dicho servicio?",
+        "options": {
+            "a": "1-2-7+6.70€",
+            "b": "2-2-7+6.70€",
+            "c": "1-2-2+6.70€",
+            "d": "1-1-2+6.70€"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en Madrid a las 20.25h finalizando en Colmenar de Oreja 30 minutos más tarde. ¿Qué tarifas y en qué orden, se aplicarán en dicho servicio?",
+        "options": {
+            "a": "Tarifas 2-5",
+            "b": "Tarifas 1-6",
+            "c": "Tarifas 1-5",
+            "d": "Tarifas 2-2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en Boadilla del Monte a las 4.45h, entrando en Madrid a las 5.10h, para dirigirse a la Estación de Chamartín a las 5.43h y de ahí al Aeropuerto llegando a las 6.02h ¿Qué tarifas kilométricas aplicará en cada punto horario?",
+        "options": {
+            "a": "1.50€-1.50€-1.50€-1.50€",
+            "b": "1.35€-1.50€-1.50€-1.35€",
+            "c": "No se puede tomar viajeros en Boadilla del Monte",
+            "d": "1.50€-1.50€-1.50€-1.35€"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos en la calle Alberto Aguilera a las 20.34h, pasa por la Puerta del Sol a las 20.45h, pasa por Pozuelo a las 21.15h, para finalizar en Brunete a las 21.40h. Indique que tarifas aplicará en los diferentes puntos horarios.",
+        "options": {
+            "a": "1-1-1-1",
+            "b": "1-1-2-6",
+            "c": "1-1-2-2",
+            "d": "1-2-2-2"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Iniciamos un servicio en San Martín de la Vega a las 11.00h, pasando por Morata de Tajuña a las 11.33h para dirigirse a Griñón a las 12.33h, de ahí a Quintanar de la Orden llegando a las 13.43 ¿Qué tarifas aplicará en cada punto horario?",
+        "options": {
+            "a": "No se puede realizar por estar fuera del APC",
+            "b": "2-2-0-5",
+            "c": "2-2-5-5",
+            "d": "1-1-5-5"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Iniciamos un servicio en Arganda del Rey a las 12.23h para pasar a las 13.02h por San Fernando de Henares, para finalizar en el Aeropuerto a las 13.45h ¿Qué tarifas se aplicaran en las diferentes zonas horarias?",
+        "options": {
+            "a": "1-1-1",
+            "b": "2-2-1",
+            "c": "2-0-1",
+            "d": "No se puede"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Iniciamos un servicio en el aeropuerto con tres viajeros con 4 maletas, de ahí se dirige al Parque Ferial Juan Carlos I (IFEMA), después se dirige a la estación de Atocha, donde se queda un viajero, para continuar a la Estación de Chamartín donde se queda otro viajero, para finalizar en la Terminal 4 de Barajas. ¿Qué tarifas se han de aplicar?",
+        "options": {
+            "a": "3-1-7-1-7-1",
+            "b": "4",
+            "c": "3-1-1-1-1",
+            "d": "No se pueden realizar tantas paradas en un servicio que inicia en el aeropuerto"
+        },
+        "solution": "c"
+    }
+]

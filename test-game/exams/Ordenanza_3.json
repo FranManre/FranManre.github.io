@@ -1,0 +1,152 @@
+[
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 ¿Cuál será el número mínimo de conductores asociados a una licencia cuyo titular es conductor del vehículo?",
+        "options": {
+            "a": "Dependiendo del número de tarjetas rojas de conductores a tiempo parcial que tenga la licencia",
+            "b": "Será al menos igual al número de licencias en activo",
+            "c": "Se da por supuesto que todo titular es conductor de licencia",
+            "d": "El mismo del número de licencias ecotaxi en activo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Cuando se determine bajo atestado policial y previo informe de revisión extraordinaria por manipulación del taxímetro, que el taxímetro no ha sido manipulado, ¿quién correrá con los gastos ocasionados?",
+        "options": {
+            "a": "Siempre el taxista",
+            "b": "El ayuntamiento pagará los gastos ocasionados",
+            "c": "El cliente pagará los gastos ocasionados",
+            "d": "La administración pagará los gastos ocasionados"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para asegurar una mejora en la calidad del servicio y cuidado del medio ambiente, la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula que quien deberá proporcionar las nuevas tecnologías será:",
+        "options": {
+            "a": "Las autoridades",
+            "b": "Los consumidores así como los concesionarios y marcas de vehiculos",
+            "c": "El gobierno de la Comunidad de Madrid así como los Municipios afectos por este reglamento",
+            "d": "Las asociaciones representativas del sector"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula un plazo máximo una vez finalizada la disposición para la prestación del servicio de hacer entrega del permiso municipal de...",
+        "options": {
+            "a": "15 días naturales",
+            "b": "10 días",
+            "c": "No hay limite específico de plazo",
+            "d": "30 días naturales o 60 alternos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué elemento distintivo de la tarjeta identificativa aparece para evitar falsificaciones?",
+        "options": {
+            "a": "El escudo holográfico del Ayuntamiento",
+            "b": "Número de identificación del conductor troquelado",
+            "c": "Marca de agua con el escudo de la comunidad de Madrid",
+            "d": "Banda en relieve"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula que la ubicación del taxímetro podrá encontrarse en:",
+        "options": {
+            "a": "En el exterior del vehículo, en la parte central del salpicadero y deberá iluminarse al funcionamiento.",
+            "b": "En el interior del vehículo, sobre del salpicadero y deberá iluminarse al funcionamiento.",
+            "c": "En el interior del vehículo, encima del salpicadero y deberá iluminarse al funcionamiento.",
+            "d": "En el interior del vehículo, en la parte central del salpicadero y deberá iluminarse al funcionamiento."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012, las licencias cuyos ordinales terminen en 1 y 2 tendrán su correspondiente día de descanso obligatorio en:",
+        "options": {
+            "a": "Lunes",
+            "b": "Martes",
+            "c": "Miércoles",
+            "d": "Jueves"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 en caso de accidente o avería durante un trayecto con un cliente, actuaremos de la siguiente forma:",
+        "options": {
+            "a": "Se cobrará al cliente la totalidad del trayecto hasta el punto de accidente o avería",
+            "b": "Se cobrará al cliente la totalidad del trayecto hasta el punto de avería o accidente excepto la bajada de bandera",
+            "c": "No se le cobrará nada al cliente",
+            "d": "Se cobrará lo que marque el taxímetro incluida la bajada de bandera pero no los suplementos."
+        },
+        "solution": "b"
+    },
+    {
+        "question": "A efectos de la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 se entiende por servicio de taxi...",
+        "options": {
+            "a": "El transporte público urbano de viajeros realizado en automóviles de turismo con aparato de control de tiempos",
+            "b": "El transporte público urbano de viajeros realizado en automóviles de turismo con aparato taxímetro",
+            "c": "El transporte público y privado de viajeros realizado en automóviles de turismo con aparato taxímetro",
+            "d": "El transporte privado urbano e interurbano de viajeros realizado en automóviles de turismo con aparato de control de tiempos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula que la tarjeta identificativa del conductor que deberá portarse siempre que se esté prestando servicio, se colocará:",
+        "options": {
+            "a": "En la parte inferior derecha de la luneta delantera del vehículo que resulte visible tanto desde el interior como desde el exterior del mismo",
+            "b": "En el interior del vehículo, que resulte visible desde el interior y exterior del mismo",
+            "c": "Junto con toda la documentación reglamentaria del vehículo y su licencia",
+            "d": "Sobre el salpicadero, visible desde el interior como el exterior del vehículo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Entre los derechos del viajero reglados por la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012, conforman:",
+        "options": {
+            "a": "Elegir en las paradas de taxi, salvo Aeropuertos y estaciones ferroviarias o de autobús, el taxi con el que desea realizar servicio.",
+            "b": "Pago con cualquier moneda oficial en circulación",
+            "c": "Conexión wifi gratuita para trayectos de largo recorrido",
+            "d": "Ninguna es correcta"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Según la Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 queda terminantemente prohibido:",
+        "options": {
+            "a": "Que los usuarios puedan accionar la apertura de las puertas durante el servicio",
+            "b": "llevar objetos en la Baca",
+            "c": "Todas son correctas",
+            "d": "La cesión el traspaso y el arrendamiento de vehículos"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 estipula un plazo para que en caso de fallecimiento de un titular los herederos los comuniquen al Ayuntamiento en el plazo de:",
+        "options": {
+            "a": "No hay plazo ya que las licencias son hereditarias",
+            "b": "10 días naturales",
+            "c": "15 días laborables",
+            "d": "En el plazo de un mes"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La Ordenanza Reguladora del Taxi del 28 de Noviembre de 2012 es válida pata todo el término de la Comunidad de Madrid",
+        "options": {
+            "a": "Si",
+            "b": "No",
+            "c": "No, salvo comunicación de los Ayuntamientos",
+            "d": "Si, incluidos los Municipios pertenecientes al APC y los que están fuera"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "En las situaciones de suspensión temporal, ¿se podrá prestar servicio?",
+        "options": {
+            "a": "Si",
+            "b": "Si, siempre y cuando no incumpla el régimen tarifario",
+            "c": "No, nunca",
+            "d": "No, salvo autorización de la administración"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Para ir de la Plaza de Puerto de Cruz a la Plaza Castilla, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Camino de Ganapanes - Av. Monforte de Lemos - P° de la Castellana",
+            "b": "C/ Camino de Ganapanes - C/ Becerreá - C/ de Sinesio Delgado - Av de Asturias",
+            "c": "C/ Camino de Ganapanes - Av. Monforte de Lemos - Sinesio Delgado - P° de la Castellana",
+            "d": "Ramón de Castroviejo - Paseo de la Vaguada - Pedro Rico - Monforte de Lemos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de Conde Duque a la parada de metro Nueva Numancia, icuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Conde Duque - C/ Joaquín Costa - C/ Génova - C/ Serrano - C/ Alfonso XII - Paseo Infanta Isabel - Av. Ciudad de Barcelona - Av. de la Albufera",
+            "b": "Conde Duque - C/ Alberto Aguilera - C/ Génova - C/ Serrano - C/ Alfonso XII - Paseo Infanta Isabel - Av. Ciudad de Barcelona - Av. de la Albufera",
+            "c": "C/ Princesa - C/ Alberto Aguilera - C/ Génova - C/ Serrano - C/ Alfonso XII - Paseo Infanta Isabel - Av. Ciudad de Barcelona - Av. de la Albufera",
+            "d": "Conde Duque - C/ Alberto Aguilera - C/ Génova - C/ Serrano - C/ Alfonso XII - Paseo Reina Cristina - Av. Ciudad de Barcelona - Av. de la Albufera"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir del Hospital Carlos III itinerarios es mejor? a la parada de metro Valdeacederas, ¿cuál de los siguientes",
+        "options": {
+            "a": "C/ de Sinesio Delgado - C/ Bravo Murillo",
+            "b": "C/ de Sinesio Delgado - Paseo de la Castellana - C/ Bravo Murillo",
+            "c": "C/ de Sinesio Delgado - Paseo de la Castellana",
+            "d": "C/ Bravo Murillo - Sor Ángela de la Cruz"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza de Castilla al Hospital Universitario La Paz, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Paseo de la Castellana - Sinesio Delgado",
+            "b": "Paseo de la Castellana - M-30 Nudo Manoteras - Pedro Rico",
+            "c": "Paseo de la Castellana - Av Monforte de Lemos - C/ Sinesio Delgado - C/ Arzobispo Morcillo",
+            "d": "Paseo de la Castellana - Av Monforte de Lemos - C/ Pedro Rico - C/ Arzobispo Morcillo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Hospital Central Gómez Ulla a la Estación de Aluche, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Guabairo - C/ Ntra. Sra. de la Luz - C/ Ocaña - C/ Valmojado",
+            "b": "Paseo Marcelino Camacho - General Ricardos - C/ Ntra. Sra. de la Luz - C/ Ocaña - C/ Valmojado",
+            "c": "Camino de los Ingenieros - C/ Ocaña - C/ Valmojado",
+            "d": "Camino de los Ingenieros - C/ Ntra. Sra. de la Luz - C/ Ocaña - C/ Valmojado"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Estadio Vicente Calderón al Palacio de los Deportes Barclaycard Center?",
+        "options": {
+            "a": "Pe de los Melancólicos - P° de Pontones - Ronda de Atocha - Alfonso XII - Jorge Juan - Narváez",
+            "b": "Pe Virgen del Puerto - M-30 Lateral - Salida plaza Castilla - Pe de la Castellana - C/ Goya - C/Narváez",
+            "c": "pe de los Melancólicos - Pe de Pontones - Ronda de Atocha - Avda. Alfonso XIIl - Jorge Juan - Narváez",
+            "d": "Pe de los Melancólicos - P° de los pontones - C/ Gran Vía de San Francisco - C/ Bailén - C/ Alcalá - C/ Narváez"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Para ir de la Plaza de Tarifa a la Plaza de Carabanchel, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Jilguero - C/ Con. Viejo de Leganés - Av. Oporto - General Ricardos",
+            "b": "C/ Jilguero - C/ Con. Viejo de Leganés - C/ Carcastillo - C/ Padre Amigo",
+            "c": "C/ Jilguero - C/ Con. Viejo de Leganés - C/ Clara Campoamor - General Ricardos",
+            "d": "C/ Jilguero - C/ Con. Viejo de Leganés - Av. Abrantes - Av. De los poblados - C/ Alba de Tormes"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Para ir de la Plaza de Campo de Criptana a la Plaza Promesas, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "C/ Tomelloso - C/ Vía Lusitana - C/ de la Expropiación - C/ Censo",
+            "b": "C/ Tomelloso - C/ Rafaela Ybarra - C/ de la Expropiación - C/ Censo",
+            "c": "C/ Tomelloso - C/ Dr. Tolosa Latour - C/ de la Expropiación - C/ Censo",
+            "d": "C/ Tomelloso - C/ Dr. Tolosa Latour - C/ de la Expropiación"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Plaza del 2 de Mayo a la parada de metro Ríos Rosas?",
+        "options": {
+            "a": "C/ San Andrés - C/ Carranza - C/ San Bernardo - C/ Eloy Gonzalo - C/ Santa Engracia",
+            "b": "C/ San Andrés - C/ Manuela Malasaña - Glorieta de Bilbao - C/ Sagasta - C/ Sta. Engracia",
+            "c": "C/ San Andrés - C/ Luchana - C/ Sta. Engracia",
+            "d": "C/ San Andrés - C/ Manuela Malasaña - Glorieta de Bilbao - C/ Luchana - C/ Sta. Engracia"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "Para ir del Arco de la Victoria a la parada de metro Pío XII, ¿cuál de los siguientes itinerarios es mejor?",
+        "options": {
+            "a": "Av. de la Memoria - Av. Reyes Católicos - C/ Cea Bermúdez - C/ José Abascal - C/ María de Molina - C/ López de Hoyos - C/ Príncipe de Vergara - Av. Pío XII",
+            "b": "Av. de la Memoria - M-30 - Avenida de la ilustración - M-30 - Pio XIl",
+            "c": "Av. de la Memoria - C/ Princesa - C/ Gran vía - Paseo de la Castellana - Av. Padre Francisco Palau y Quer",
+            "d": "Av. de la Memoria - C/ Princesa - C/ Gran vía - Paseo de la Castellana - Mateo Inurria - C/ Hiedra - Av. Pío XII"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir de la Policlinica Universitaria Alfonso X el Sabio a la parada de metro Ciudad Lineal?",
+        "options": {
+            "a": "C/ Miguel Fleta - c/ Albarracín - C/ Emilio Muñoz - C/ Hermanos García Noblejas - C/ Arturo Soria",
+            "b": "C/ Hermanos García Noblejas - C/ Arturo Soria",
+            "c": "C/ Miguel Fleta - C/ Hermanos García Noblejas - C/ Arturo Soria",
+            "d": "C/ Albarracín - C/ Emilio Muñoz - C/ Hermanos García Noblejas - C/ Arturo Soria"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes itinerarios es mejor para ir del Hospital General Universitario Gregorio Marañón a la Estación Atocha?",
+        "options": {
+            "a": "C/ Dr. Esquerdo - Av. Menéndez Pelayo - Paseo de la Reina Cristina - Paseo de la Infanta Isabel - C/ Méndez Álvaro",
+            "b": "C/ Dr. Esquerdo - Av. Del mediterráneo",
+            "c": "C/ Dr. Esquerdo - C/ O'Donnell - C/ Alcalá - Paseo del Prado",
+            "d": "C/ Alcalde Sainz De baranda - Menéndez Pelayo - C/ Alcalá - Paseo del Prado"
+        },
+        "solution": "a"
+    }
+]
