@@ -29,7 +29,7 @@ main {
     margin: 0 auto;
 }
 
-/* ===== SECCIONES Y CONTENEDORES ===== */
+/* ===== SECCIONES Y CONTROLES ===== */
 section {
     background: white;
     border-radius: 10px;
@@ -39,22 +39,72 @@ section {
 }
 
 .hidden {
-    opacity: 0;
-    visibility: hidden;
+    display: none !important;
 }
 
-.visible {
-    opacity: 1;
-}
-
-/* ===== CENTRAR CONTENIDO ===== */
-#exam-list h2,
+/* ===== SELECTOR DE CATEGORÍA ===== */
 #category-select {
-    text-align: center;
+    display: block;
+    width: 80%;
+    max-width: 300px;
+    margin: 1rem auto;
+    padding: 0.8rem;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 1rem;
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23007bff'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    background-size: 1em;
 }
 
-/* ===== BOTONES ===== */
+/* ===== BOTONES PRINCIPALES ===== */
 button {
     display: block;
-    margin-top: 10px auto;
+    width: 80%;
+    max-width: 300px;
+    margin: 0.5rem auto;
+    padding: 1rem;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background: #0056b3;
+    transform: translateY(-2px);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+/* ===== OPCIONES DE RESPUESTA ===== */
+#options button {
+    width: 100%;
+    text-align: left;
+    background: #f8f9fa;
+    color: #333;
+    border: 2px solid #ddd;
+    margin: 0.5rem 0;
+}
+
+#options button.selected {
+    background: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+/* ===== BOTONES DE NAVEGACIÓN ===== */
+#previous-question,
+#next-question {
+    display: inline-block;
+    width: auto;
+    margin: 1rem 0.5rem;
 }
