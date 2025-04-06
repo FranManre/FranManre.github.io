@@ -1,4 +1,4 @@
-* {//
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -81,8 +81,8 @@ button:active {
 }
 
 button.primary {
-    background-color: #17a2b8;
-    border: 2px solid #138496;
+    background-color: #17a2b8 !important;
+    border: 2px solid #138496 !important;
 }
 
 button.finish-btn {
@@ -94,7 +94,7 @@ button.finish-btn:hover {
 }
 
 #back-to-tests {
-    background: #6c757d;
+    background: #6c757d !important;
     margin: 1rem auto 0;
     width: auto;
 }
