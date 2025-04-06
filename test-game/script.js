@@ -85,22 +85,28 @@ document.addEventListener("DOMContentLoaded", () => {
         toggleSection(attemptsList);
         document.getElementById("test-title").textContent = formatText(examName);
     };
-
-    // ============== INICIAR EXAMEN ==============
-    const startExam = async (examName) => {
-        try {
-            const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
-            currentExam = await response.json();
-            currentIndex = 0;
-            userAnswers = new Array(currentExam.length).fill(null);
-            toggleSection(quizContainer);
-            document.getElementById("quiz-title").textContent = formatText(examName);
-            showQuestion();
-        } catch (error) {
-            console.error("Error cargando examen:", error);
-            alert("Error cargando examen");
-        }
-    };
+	
+	// ============== FUNCIÓN startExam ACTUALIZADA ==============
+	const startExam = async (examName) => {
+		try {
+			const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
+			currentExam = await response.json();
+			currentIndex = 0;
+			userAnswers = new Array(currentExam.length).fill(null);
+			toggleSection(quizContainer);
+			
+			// Guardar el nombre original del examen (ej: "historia_1.json")
+			document.getElementById("quiz-title").dataset.originalName = examName;
+			
+			// Mostrar nombre formateado (sin .json y con espacios)
+			document.getElementById("quiz-title").textContent = formatText(examName);
+			
+			showQuestion();
+		} catch (error) {
+			console.error("Error cargando examen:", error);
+			alert("Error cargando examen");
+		}
+	};
 
     // ============== MOSTRAR PREGUNTA ==============
     const showQuestion = () => {
@@ -144,33 +150,34 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // ============== GUARDAR INTENTO ==============
-    const saveAttempt = () => {
-        const examName = categorySelect.value;
-        const score = userAnswers.filter((ans, index) => ans === currentExam[index].solution).length;
-        const total = currentExam.length;
-        const percentage = ((score / total) * 100).toFixed(1);
-        const now = new Date();
-
-        const attempt = {
-            score: `${score}/${total}`,
-            percentage: percentage,
-            date: now.toLocaleDateString("es-ES"),
-            time: now.toLocaleTimeString("es-ES", { hour: '2-digit', minute: '2-digit' }),
-            answers: [...userAnswers]
-        };
-
-        attemptsHistory[examName] = attemptsHistory[examName] || [];
-        attemptsHistory[examName].push(attempt);
-
-        // Limitar a 5 intentos por examen
-        if (attemptsHistory[examName].length > 5) {
-            attemptsHistory[examName].shift();
-        }
-
-        localStorage.setItem("attemptsHistory", JSON.stringify(attemptsHistory));
-    };
-
+    // ============== FUNCIÓN saveAttempt CORREGIDA ==============
+	const saveAttempt = () => {
+		// Obtener el nombre del examen actual (usando el último archivo cargado)
+		const examName = document.getElementById("quiz-title").textContent.replace(/ /g, "_") + ".json";
+		
+		const score = userAnswers.filter((ans, index) => ans === currentExam[index].solution).length;
+		const total = currentExam.length;
+		const percentage = ((score / total) * 100).toFixed(1);
+		const now = new Date();
+	
+		const attempt = {
+			score: `${score}/${total}`,
+			percentage: percentage,
+			date: now.toLocaleDateString("es-ES"),
+			time: now.toLocaleTimeString("es-ES", { hour: '2-digit', minute: '2-digit' }),
+			answers: [...userAnswers]
+		};
+	
+		attemptsHistory[examName] = attemptsHistory[examName] || [];
+		attemptsHistory[examName].push(attempt);
+	
+		if (attemptsHistory[examName].length > 5) {
+			attemptsHistory[examName].shift();
+		}
+	
+		localStorage.setItem("attemptsHistory", JSON.stringify(attemptsHistory));
+	};
+	
     // ============== REVISIÓN DE INTENTOS ==============
     const loadReview = (examName, attemptIndex) => {
         const attempt = attemptsHistory[examName][attemptIndex];
