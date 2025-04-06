@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => {//
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
@@ -219,6 +219,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
+    // Event listeners globales
     document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
     document.getElementById("confirm-exit").addEventListener("click", () => {
         exitDialog.close();
@@ -228,5 +229,6 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("back-to-attempts").addEventListener("click", () => toggleSection(attemptsList));
     document.getElementById("back-to-tests").addEventListener("click", () => toggleSection(examList));
 
+    // Inicialización
     loadExamList();
 });
