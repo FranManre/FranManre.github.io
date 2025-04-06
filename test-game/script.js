@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => {/**/
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
@@ -102,14 +102,26 @@ document.addEventListener("DOMContentLoaded", () => {
         optionsDiv.innerHTML = "";
 
         Object.entries(question.options).forEach(([key, text]) => {
-            const button = document.createElement("button");
-            button.textContent = `${key.toUpperCase()}: ${text}`;
-            button.classList.toggle("selected", key === userAnswers[currentIndex]);
-            button.addEventListener("click", () => {
+            const label = document.createElement("label");
+            label.className = `radio-option ${userAnswers[currentIndex] === key ? "selected" : ""}`;
+            
+            label.innerHTML = `
+                <input 
+                    type="radio" 
+                    name="answer" 
+                    value="${key}" 
+                    ${userAnswers[currentIndex] === key ? "checked" : ""}
+                >
+                ${key.toUpperCase()}: ${text}
+            `;
+            
+            label.addEventListener("click", () => {
                 userAnswers[currentIndex] = key;
-                showQuestion();
+                document.querySelectorAll(".radio-option").forEach(opt => opt.classList.remove("selected"));
+                label.classList.add("selected");
             });
-            optionsDiv.appendChild(button);
+            
+            optionsDiv.appendChild(label);
         });
 
         const nextButton = document.getElementById("next-question");
@@ -131,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
             showQuestion();
         } else {
             saveAttempt();
-            loadAttemptsList(categorySelect.value);
+            loadAttemptsList(document.getElementById("quiz-title").dataset.originalName);
         }
     });
 
