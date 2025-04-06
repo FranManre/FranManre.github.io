@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // ============== VARIABLES GLOBALES ============== 2
+    // ============== VARIABLES GLOBALES ============== 1
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
@@ -14,6 +14,20 @@ document.addEventListener("DOMContentLoaded", () => {
     const examButtonsDiv = document.getElementById("exam-buttons");
     const attemptsButtonsDiv = document.getElementById("attempts-buttons");
     const exitDialog = document.getElementById("exit-dialog");
+
+	// ============== MANEJO DE DIÁLOGO ==============
+    document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
+    document.getElementById("confirm-exit").addEventListener("click", () => {
+        exitDialog.close();
+        toggleSection(attemptsList);
+    });
+    document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());
+	
+	// ============== MANEJO DE BOTONES DE NAVEGACIÓN ==============
+	document.getElementById("back-to-attempts").addEventListener("click", () => {
+		toggleSection(attemptsList);
+	});
+
 
     // ============== FUNCIONES UTILITARIAS ==============
     const toggleSection = (sectionToShow) => {
@@ -179,51 +193,54 @@ document.addEventListener("DOMContentLoaded", () => {
 	};
 	
     // ============== REVISIÓN DE INTENTOS ==============
-    const loadReview = (examName, attemptIndex) => {
-        const attempt = attemptsHistory[examName][attemptIndex];
-        const reviewContent = document.getElementById("review-content");
-        reviewContent.innerHTML = "";
-
-        currentExam.forEach((question, index) => {
-            const questionDiv = document.createElement("div");
-            questionDiv.classList.add("question-review");
-            
-            questionDiv.innerHTML = `
-                <h3>Pregunta ${index + 1}</h3>
-                <p>${question.question}</p>
-                <div class="options-review"></div>
-            `;
-
-            const optionsDiv = questionDiv.querySelector(".options-review");
-            Object.entries(question.options).forEach(([key, text]) => {
-                const option = document.createElement("div");
-                option.classList.add("option-review");
-                
-                if (key === attempt.answers[index]) {
-                    option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
-                }
-                
-                if (key === question.solution && key !== attempt.answers[index]) {
-                    option.classList.add("correct-answer");
-                }
-
-                option.textContent = `${key.toUpperCase()}: ${text}`;
-                optionsDiv.appendChild(option);
-            });
-
-            reviewContent.appendChild(questionDiv);
-        });
-
-        toggleSection(reviewContainer);
-    };
-
-    // ============== MANEJO DE DIÁLOGO ==============
-    document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
-    document.getElementById("confirm-exit").addEventListener("click", () => {
-        exitDialog.close();
-        toggleSection(attemptsList);
-    });
-    document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());
+	const loadReview = async (examName, attemptIndex) => {
+		try {
+			// Cargar el examen correspondiente
+			const response = await fetch(`https://raw.githubusercontent.com/FranManre/FranManre.github.io/main/test-game/exams/${examName}`);
+			currentExam = await response.json();
+	
+			const attempt = attemptsHistory[examName][attemptIndex];
+			const reviewContent = document.getElementById("review-content");
+			reviewContent.innerHTML = "";
+	
+			currentExam.forEach((question, index) => {
+				const questionDiv = document.createElement("div");
+				questionDiv.classList.add("question-review");
+				
+				questionDiv.innerHTML = `
+					<h3>Pregunta ${index + 1}</h3>
+					<p>${question.question}</p>
+					<div class="options-review"></div>
+				`;
+	
+				const optionsDiv = questionDiv.querySelector(".options-review");
+				Object.entries(question.options).forEach(([key, text]) => {
+					const option = document.createElement("div");
+					option.classList.add("option-review");
+					
+					// Respuesta seleccionada por el usuario
+					if (key === attempt.answers[index]) {
+						option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
+					}
+					
+					// Respuesta correcta (si el usuario falló)
+					if (key === question.solution && key !== attempt.answers[index]) {
+						option.classList.add("correct-answer");
+					}
+	
+					option.textContent = `${key.toUpperCase()}: ${text}`;
+					optionsDiv.appendChild(option);
+				});
+	
+				reviewContent.appendChild(questionDiv);
+			});
+	
+			toggleSection(reviewContainer);
+		} catch (error) {
+			console.error("Error cargando revisión:", error);
+			alert("Error al cargar la revisión");
+		}
+	};
 
     // ============== INICIALIZACIÓN ==============
     loadExamList();
