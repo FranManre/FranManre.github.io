@@ -158,6 +158,14 @@ button.finish-btn:hover {
     border-radius: 12px;
     border: none;
     box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+#exit-dialog div {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1.5rem;
 }
 
 #exit-dialog::backdrop {
