@@ -229,7 +229,7 @@ button {
 }
 
 .review-question {
-    margin-bottom: 2rem;
+    margin-bottom: -2px;
     padding: 0.3rem 0.5rem;
     border: 2px solid #dee2e6;
     border-radius: 8px;
