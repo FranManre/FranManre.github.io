@@ -58,6 +58,19 @@ section {
     text-align: center;
 }
 
+button {
+    display: block;
+    padding: 1rem;
+    background: #007bff;
+    color: white;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: auto;
+    margin: 0.5rem auto;
+}
+
 button:hover {
     filter: brightness(0.9);
 }
@@ -183,21 +196,8 @@ button.finish-btn:hover {
     margin: 0.5rem auto;
 }
 
-button.primary, button#back-to-tests {
+#attempts-list button.primary, button#back-to-tests {
     color: white !important;
-}
-
-button {
-    display: block;
-    padding: 1rem;
-    background: #007bff;
-    color: white;
-    border-radius: 8px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    width: auto;
-    margin: 0.5rem auto;
 }
 
 #attempts-list button:hover {
