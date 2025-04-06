@@ -225,6 +225,7 @@ button {
 .option-review {
     background: #f8f9fa;
     border: 2px solid #dee2e6;
+    margin: 0.2rem 0;
 }
 
 .review-question {
@@ -242,7 +243,6 @@ button {
 .review-question p {
     font-size: 1.1rem;
     color: #495057;
-    padding-bottom: 0.5rem;
 }
 
 .review-answer {
