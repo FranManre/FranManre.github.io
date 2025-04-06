@@ -181,11 +181,15 @@ document.addEventListener("DOMContentLoaded", () => {
             const attempt = attemptsHistory[examName][attemptIndex];
             const reviewContent = document.getElementById("review-content");
             reviewContent.innerHTML = "";
+            
+            const [correctAnswers, totalQuestions] = attempt.score.split('/');
+            const reviewStats = document.getElementById("review-stats");
+            reviewStats.innerHTML = `${attempt.score} (${attempt.percentage}%) - ${attempt.time} ${attempt.date}`;
 
             currentExam.forEach((question, index) => {
                 const questionDiv = document.createElement("div");
                 questionDiv.classList.add("review-question");
-                
+            
                 questionDiv.innerHTML = `
                     <h3>Pregunta ${index + 1}</h3>
                     <p>${question.question}</p>
@@ -196,11 +200,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 Object.entries(question.options).forEach(([key, text]) => {
                     const option = document.createElement("div");
                     option.classList.add("option-review");
-                    
+                
                     if (key === attempt.answers[index]) {
                         option.classList.add(key === question.solution ? "correct-answer" : "incorrect-answer");
                     }
-                    
+                
                     if (key === question.solution && key !== attempt.answers[index]) {
                         option.classList.add("correct-answer");
                     }
@@ -218,6 +222,7 @@ document.addEventListener("DOMContentLoaded", () => {
             alert("Error al cargar la revisión");
         }
     };
+
 
     document.getElementById("exit-quiz").addEventListener("click", () => exitDialog.showModal());
     document.getElementById("confirm-exit").addEventListener("click", () => {
