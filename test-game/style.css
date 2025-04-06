@@ -80,10 +80,9 @@ button:active {
     transform: scale(0.98);
 }
 
-/* Botones especiales (sobrescriben #attempts-list button) */
 button.primary,
 #back-to-tests {
-    color: white !important; /* Fuerza texto blanco */
+    color: white !important;
 }
 
 button.primary {
@@ -167,7 +166,6 @@ button.finish-btn:hover {
     text-align: center;
 }
 
-/* Contenedor de botones en diálogo (margen manual) */
 #exit-dialog div {
     display: flex;
     gap: 1rem;
@@ -176,8 +174,8 @@ button.finish-btn:hover {
 }
 
 #exit-dialog button {
-    margin: 0; /* Anula el margin: 0.5rem auto de button */
-    flex: 1; /* Distribuye el espacio equitativamente */
+    margin: 0;
+    flex: 1;
 }
 
 #exit-dialog::backdrop {
@@ -199,7 +197,7 @@ button.finish-btn:hover {
 
 #attempts-list button {
     background: #f8f9fa;
-    color: #333; /* Solo afecta a estos botones */
+    color: #333;
     border: 2px solid #dee2e6;
     white-space: nowrap;
     text-align: left;
@@ -216,6 +214,66 @@ button.finish-btn:hover {
     display: block;
     width: auto;
     margin: 0.5rem auto !important;
+}
+
+#review-container {
+    text-align: center;
+}
+
+#review-container h2 {
+    font-size: 1.4rem;
+    margin: 0 0 1.5rem;
+    color: #2c3e50;
+}
+
+#review-container h2 span {
+    display: block;
+    margin: 0.3rem 0;
+    font-weight: normal;
+    font-size: 1.1rem;
+}
+
+#review-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.review-question {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 2px solid #dee2e6;
+    border-radius: 8px;
+}
+
+.review-question h3 {
+    font-size: 1.3rem;
+    margin: 0 0 1rem;
+    color: #007bff;
+}
+
+.review-question p {
+    font-size: 1.1rem;
+    margin: 0 0 1.5rem;
+    color: #495057;
+}
+
+.review-answer {
+    padding: 0.8rem;
+    border-radius: 6px;
+    margin: 0.5rem 0;
+    font-weight: 500;
+}
+
+.correct-answer {
+    background-color: #e8f5e9 !important;
+    border: 2px solid #4caf50 !important;
+    color: #2e7d32 !important;
+}
+
+.selected-answer {
+    background-color: #ffebee !important;
+    border: 2px solid #f44336 !important;
+    color: #c62828 !important;
 }
 
 @media (max-width: 600px) {
