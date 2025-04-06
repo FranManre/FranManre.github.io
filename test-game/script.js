@@ -111,21 +111,37 @@ document.addEventListener("DOMContentLoaded", () => {
         Object.entries(question.options).forEach(([key, text]) => {
             const button = document.createElement("button");
             button.textContent = `${key.toUpperCase()}: ${text}`;
-            button.classList.toggle("selected", key === userAnswers[currentIndex]);
+        
+            // Clase para estilos específicos de opciones
+            button.classList.add("option-btn");
+        
+            // Marcar selección actual
+            if (key === userAnswers[currentIndex]) {
+                button.classList.add("selected");
+            }
+
             button.addEventListener("click", () => {
+                // Reiniciar selección
+                document.querySelectorAll("#options .option-btn").forEach(btn => {
+                    btn.classList.remove("selected");
+                });
+            
                 userAnswers[currentIndex] = key;
-                showQuestion();
+                button.classList.add("selected");
             });
+
             optionsDiv.appendChild(button);
         });
 
+        // Actualizar estado de botones de navegación
         document.getElementById("previous-question").disabled = currentIndex === 0;
         document.getElementById("next-question").disabled = currentIndex === currentExam.length - 1;
-    };
+        };
 
-    // ============== NAVEGACIÓN ==============
-    document.getElementById("previous-question").addEventListener("click", () => {
-        if (currentIndex > 0) {
+
+        // ============== NAVEGACIÓN ==============
+        document.getElementById("previous-question").addEventListener("click", () => {
+            if (currentIndex > 0) {
             currentIndex--;
             showQuestion();
         }
