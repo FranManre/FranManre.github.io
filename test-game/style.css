@@ -75,6 +75,13 @@ button.finish-btn:hover {
     padding: 2rem;
 }
 
+/*#test-title, #quiz-title {
+    text-align: center;
+    margin: 0.5rem 0 !important;
+    font-size: 1.5rem;
+    color: #2c3e50;
+}*/
+
 .title {
     text-align: center;
     margin: 0.5rem 0 !important;
