@@ -62,7 +62,7 @@ button {
     display: block;
     padding: 1rem;
     background: #007bff;
-    color: white !important;
+    color: white;
     border-radius: 8px;
     font-size: 1rem;
     cursor: pointer;
@@ -78,6 +78,11 @@ button:hover {
 button.primary {
     background-color: #17a2b8 !important;
     border: 2px solid #138496 !important;
+}
+
+button.primary,
+button#back-to-tests {
+    color: white !important;
 }
 
 button.finish-btn {
@@ -187,7 +192,7 @@ button.finish-btn:hover {
 
 #attempts-list button {
     background: #f8f9fa;
-    color: #333;
+    color: #333 !important;
     border: 2px solid #dee2e6;
     white-space: nowrap;
     text-align: left;
