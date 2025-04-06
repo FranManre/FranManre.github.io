@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         attempts.slice(-5).reverse().forEach((attempt, index) => {
             const button = document.createElement("button");
-            button.textContent = `Intento ${attempts.length - index}: ${attempt.score} (${attempt.percentage}%) - ${attempt.date} ${attempt.time}`;
+            button.textContent = `${attempt.score} (${attempt.percentage}%) [${attempt.time} - ${attempt.date}]`;
             button.addEventListener("click", () => loadReview(examName, attempts.length - 1 - index));
             attemptsButtonsDiv.appendChild(button);
         });
