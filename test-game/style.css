@@ -264,21 +264,7 @@ button {
         padding: 1rem;
     }
 
-    button {
-        width: 100%;
-        margin: 0.5rem 0;
-    }
-
     select {
         width: 90%;
-    }
-
-    #nav-buttons {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-
-    #nav-buttons button {
-        width: 100%;
     }
 }
