@@ -1,4 +1,3 @@
-/* ===== RESET Y ESTILOS GENERALES ===== */
 * {
     margin: 0;
     padding: 0;
@@ -29,7 +28,6 @@ main {
     margin: 0 auto;
 }
 
-/* ===== SECCIONES Y CONTROLES ===== */
 section {
     background: white;
     border-radius: 10px;
@@ -42,7 +40,6 @@ section {
     display: none !important;
 }
 
-/* ===== SELECTOR DE CATEGORÍA ===== */
 #category-select {
     display: block;
     width: 80%;
@@ -60,7 +57,6 @@ section {
     background-size: 1em;
 }
 
-/* ===== BOTONES PRINCIPALES ===== */
 button {
     display: block;
     width: 80%;
@@ -85,7 +81,6 @@ button:active {
     transform: translateY(0);
 }
 
-/* ===== OPCIONES DE RESPUESTA ===== */
 #options button {
     width: 100%;
     text-align: left;
@@ -101,7 +96,6 @@ button:active {
     border-color: #007bff;
 }
 
-/* ===== BOTONES DE NAVEGACIÓN ===== */
 #previous-question,
 #next-question {
     display: inline-block;
@@ -109,11 +103,28 @@ button:active {
     margin: 1rem 0.5rem;
 }
 
-/* ===== BOTÓN FINALIZAR ===== */
-#next-question.finalizar {
-    background-color: #28a745;
+#next-question.finish-btn {
+    background-color: #28a745 !important;
 }
 
-#next-question.finalizar:hover {
-    background-color: #218838;
+#next-question.finish-btn:hover {
+    background-color: #218838 !important;
+}
+
+#exit-dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 400px;
+    padding: 2rem;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+#exit-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
 }
