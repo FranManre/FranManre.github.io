@@ -196,8 +196,7 @@ button.finish-btn:hover {
     margin: 0.5rem auto;
 }
 
-button.primary,
-button#back-to-tests {
+button.primary, button#back-to-tests {
     color: white !important;
 }
 
