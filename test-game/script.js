@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         attempts.slice(-5).reverse().forEach((attempt, index) => {
             const button = document.createElement("button");
-            button.textContent = `${attempt.score} (${attempt.percentage}%) [${attempt.time} - ${attempt.date}]`;
+            button.textContent = `[${attempt.time} - ${attempt.date}]: ${attempt.score} (${attempt.percentage}%)`;
             button.addEventListener("click", () => loadReview(examName, attempts.length - 1 - index));
             attemptsButtonsDiv.appendChild(button);
         });
@@ -184,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             const [correctAnswers, totalQuestions] = attempt.score.split('/');
             const reviewStats = document.getElementById("review-stats");
-            reviewStats.innerHTML = `${attempt.score} (${attempt.percentage}%) - ${attempt.time} ${attempt.date}`;
+            reviewStats.innerHTML = `[${attempt.time} - ${attempt.date}]: ${attempt.score} (${attempt.percentage}%)`;
 
             currentExam.forEach((question, index) => {
                 const questionDiv = document.createElement("div");
@@ -234,36 +234,4 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("back-to-tests").addEventListener("click", () => toggleSection(examList));
     
     loadExamList();
-
-    function showReview(examName, attemptIndex) {
-        const attempt = attemptsHistory[examName][attemptIndex];
-        const reviewContainer = document.getElementById("review-container");
-        const reviewContent = document.getElementById("review-content");
-    
-        const reviewTitle = document.getElementById("review-container").querySelector("h2");
-        reviewTitle.textContent = `
-            Revisión del Intento
-            ${attempt.score} (${attempt.percentage}%) - ${attempt.date} ${attempt.time}
-        `;
-
-        reviewContent.innerHTML = currentExam.map((question, index) => {
-            const userAnswer = attempt.answers[index];
-            const isCorrect = userAnswer === question.solution;
-            
-            return `
-                <div class="review-question">
-                    <h3>Pregunta ${index + 1}</h3>
-                    <p>${question.question}</p>
-                    <div class="review-answer ${isCorrect ? 'correct-answer' : 'incorrect-answer'}">
-                        Tu respuesta: ${userAnswer ? userAnswer.toUpperCase() : 'Sin respuesta'}
-                    </div>
-                    <div class="review-answer correct-answer">
-                        Respuesta correcta: ${question.solution.toUpperCase()}
-                    </div>
-                </div>
-            `;
-        }).join("");
-
-        toggleSection(reviewContainer);
-    }
 });
