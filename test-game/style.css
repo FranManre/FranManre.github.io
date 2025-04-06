@@ -80,6 +80,12 @@ button:active {
     transform: scale(0.98);
 }
 
+/* Botones especiales (sobrescriben #attempts-list button) */
+button.primary,
+#back-to-tests {
+    color: white !important; /* Fuerza texto blanco */
+}
+
 button.primary {
     background-color: #17a2b8 !important;
     border: 2px solid #138496 !important;
@@ -161,11 +167,17 @@ button.finish-btn:hover {
     text-align: center;
 }
 
+/* Contenedor de botones en diálogo (margen manual) */
 #exit-dialog div {
     display: flex;
     gap: 1rem;
     justify-content: center;
     margin-top: 1.5rem;
+}
+
+#exit-dialog button {
+    margin: 0; /* Anula el margin: 0.5rem auto de button */
+    flex: 1; /* Distribuye el espacio equitativamente */
 }
 
 #exit-dialog::backdrop {
@@ -187,7 +199,7 @@ button.finish-btn:hover {
 
 #attempts-list button {
     background: #f8f9fa;
-    color: #333;
+    color: #333; /* Solo afecta a estos botones */
     border: 2px solid #dee2e6;
     white-space: nowrap;
     text-align: left;
