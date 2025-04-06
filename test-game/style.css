@@ -117,18 +117,21 @@ button.finish-btn:hover {
 }
 
 .radio-option {
-    display: flex;
-    align-items: center;
+    width: 100%;
     padding: 1rem;
+    margin: 0.5rem 0;
     border: 2px solid #dee2e6;
     border-radius: 8px;
     cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
 }
 
 .radio-option input {
     margin-right: 1rem;
-    width: 1.2em;
-    height: 1.2em;
+    min-width: 18px;
+    min-height: 18px;
 }
 
 .radio-option.selected {
@@ -154,15 +157,41 @@ button.finish-btn:hover {
     backdrop-filter: blur(2px);
 }
 
+#nav-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+#nav-buttons button {
+    width: auto;
+    min-width: 160px;
+    margin: 0;
+}
+
 #attempts-list button {
     background: #f8f9fa;
     color: #333;
     border: 2px solid #dee2e6;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     text-align: left;
+    padding: 0.8rem 1.2rem;
+    width: 100%;
+    max-width: 500px;
 }
 
 #attempts-list button:hover {
     background: #e9ecef;
+}
+
+#test-title, #quiz-title {
+    text-align: center;
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    color: #2c3e50;
 }
 
 @media (max-width: 600px) {
@@ -177,5 +206,14 @@ button.finish-btn:hover {
 
     select {
         width: 90%;
+    }
+
+    #nav-buttons {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    #nav-buttons button {
+        width: 100%;
     }
 }
