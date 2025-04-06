@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué teatro podemos encontrar en la calle del Principe?",
+        "options": {
+            "a": "Teatro Español",
+            "b": "Teatro real",
+            "c": "Teatro Marquina",
+            "d": "Teatro Alfil"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde se encuentra el Estadio Santiago Bernabéu?",
+        "options": {
+            "a": "Avda. General Perón",
+            "b": "calle Orense",
+            "c": "Calle del Profesor Waksman",
+            "d": "Avda. de Concha Espina"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué restaurante hace esquina entre las calles San Simón y Torrecilla del Leal?",
+        "options": {
+            "a": "Casa Mingo",
+            "b": "Viridiana",
+            "c": "Taberna \"El Sur\"",
+            "d": "Zalacaín"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué Iglesia encontramos en la calle Toledo?",
+        "options": {
+            "a": "Catedral de Nuestra Señora de la Almudena",
+            "b": "Iglesia de San José",
+            "c": "Iglesia de San Isidro",
+            "d": "Iglesia de Santiago"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En frente de qué parada de metro está El Palacio de Liria?",
+        "options": {
+            "a": "Ventura Rodríguez",
+            "b": "Plaza Elíptica",
+            "c": "Plaza Castilla",
+            "d": "Banco de España"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En cuál de las siguientes plazas está situado el Arènes de las Ventas?",
+        "options": {
+            "a": "Plaza de Cuzco",
+            "b": "Plaza de Agustín González",
+            "c": "Plaza de Manuel Becerra",
+            "d": "Plaza de ciudad Lineal"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La confluencia de las calles: Serrano, Joaquín Costa, Vitruvio y Avda., Dr. Arce, da lugar a:",
+        "options": {
+            "a": "Plaza de la República Argentina",
+            "b": "Plaza De Mariano de Cavia",
+            "c": "Plaza de Cataluña",
+            "d": "Plaza de Ecuador"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué calle se encuentra situado el restaurante \"El Landó\"?",
+        "options": {
+            "a": "Plaza de Pilar Miró",
+            "b": "Plaza de Cánovas del Castillo",
+            "c": "Plaza de Francisco Morano",
+            "d": "Plaza de Gabriel Miró"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La parada de metro de Tribunal se encuentra en las inmediaciones de:",
+        "options": {
+            "a": "Junta Municipal Usera",
+            "b": "Discoteca Kapital",
+            "c": "Teatro Arlequin",
+            "d": "El Museo de Historia"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El Hospital de San Rafael se encuentra en...",
+        "options": {
+            "a": "Calle Postas",
+            "b": "Paseo de la Castellana",
+            "c": "Príncipe de Vergara",
+            "d": "Calle Serrano"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El teatro Lope de Vega se encuentra en la calle:",
+        "options": {
+            "a": "Infanta Isabel",
+            "b": "Reina Cristina",
+            "c": "Santa Isabel",
+            "d": "Isabel la Católica"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué otro edificio encontramos al lado del Madrid Arena?",
+        "options": {
+            "a": "Caja Mágica",
+            "b": "Vicente Calderón",
+            "c": "Plaza de toros de Vistalegre",
+            "d": "Pabellón de Cristal"
+        },
+        "solution": "d"
+    }
+]

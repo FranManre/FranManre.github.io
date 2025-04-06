@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE SE ENCUENTRA EL HOSPITAL MONTEPRÍNCIPE...",
+        "options": {
+            "a": "MAJADAHONDA",
+            "b": "BOADILLA DEL MONTE",
+            "c": "POZUELO DE ALARCÓN",
+            "d": "LAS ROZAS DE MADRID"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CUÁL DE LOS SIGUIENTES COLEGIOS MAYORES NO ESTÁN SITUADOS EN LA AVENIDA SÉNECA...",
+        "options": {
+            "a": "ANTONIO DE NEBRIJA",
+            "b": "BARBERÁN",
+            "c": "ZURBARAN",
+            "d": "MARQUES DE LA ENSENADA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "REAL COLEGIO SANTA ISABEL...",
+        "options": {
+            "a": "RONDA DE ATOCHA, 10",
+            "b": "SAN ILDEFONSO, 2",
+            "c": "Pº DEL PRADO, 4",
+            "d": "SANTA ISABEL, 4"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA LA CLÍNICA RÚBER...",
+        "options": {
+            "a": "Pº CASTELLANA",
+            "b": "ALCALÁ",
+            "c": "VELÁZQUEZ",
+            "d": "JUAN BRAVO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿QUÉ LUGAR DE INTERÉS SE ENCUENTRA EN EL KM. 7,600 DE LA CARRETERA DE LA CORUÑA?",
+        "options": {
+            "a": "FARO DE MONCLOA",
+            "b": "HIPODROMO DE LAZARZUELA",
+            "c": "MUSEO LÁZARO GALDIANO",
+            "d": "CLÍNICA MONCLOA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "A QUÉ DISTRITO PERTENECE EL Pº EDUARDO",
+        "options": {
+            "a": "TETUAN",
+            "c": "CHAMBERÍ",
+            "b": "ARGANZUELA",
+            "d": "SALAMANCA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL POLÍGONO DE BUTARQUE...",
+        "options": {
+            "a": "COSLADA",
+            "b": "GETAFE",
+            "c": "ALCORCÓN",
+            "d": "LEGANÉS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "LA EMBAJADA DE PERÚ SE ENCUENTRA EN LA CALLE...",
+        "options": {
+            "a": "GOYA",
+            "b": "VELÁZQUEZ",
+            "c": "ZURBANO",
+            "d": "Pº CASTELLANA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRAN SITUADAS LAS TORRES KIO...",
+        "options": {
+            "a": "PLAZA DE COLÓN",
+            "b": "PLAZADE CIBELES",
+            "c": "PLAZA DE LIMA",
+            "d": "PLAZA DE CASTILLA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL TEATRO MONUMENTAL...",
+        "options": {
+            "a": "ATOCHA, 65",
+            "b": "PR CASTELLANA,4",
+            "c": "GRAN VÍA,32",
+            "d": "ALCALÁ, 212"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL HOSPITAL GREGORIO MARAÑÓN...",
+        "options": {
+            "a": "DOCTOR ESQUERDO",
+            "b": "AVDA DAROCA",
+            "c": "AVDA MENENDEZ PELAYO",
+            "d": "SERRANO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL CASINO DE MADRID...",
+        "options": {
+            "a": "Pº CASTELLANA, 88",
+            "b": "ALCALÁ, 15",
+            "c": "SERRANO, 76",
+            "d": "GRAN VIA, 18"
+        },
+        "solution": "b"
+    }
+]

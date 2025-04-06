@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DONDE SITUARÍAS LA BIBLIOTECA NACIONAL...",
+        "options": {
+            "a": "PASEO RECOLETOS, 20",
+            "b": "PASEO DEL PRADO, 5",
+            "c": "PLAZA DE CUZCO",
+            "d": "PLAZA DE CASTILLA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "SI ESTÁS SITUADO EN EL CAMINO DEL BARRIAL DÓNDE TE ENCUENTRAS...",
+        "options": {
+            "a": "ARAVACA",
+            "b": "POZUELO",
+            "c": "LEGANÉS",
+            "d": "GETAFE"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADA LA ESCUELA TÉCNICA DE INGENIEROS DE MINAS...",
+        "options": {
+            "a": "RIOS ROSAS",
+            "b": "BRAVO MURILLO",
+            "c": "GUZMÁN EL BUENO",
+            "d": "JOSE ABASCAL"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "QUE HOTEL SE ENCUENTRA EN LA PLAZA DE LA INDEPENDENCIA...",
+        "options": {
+            "a": "GAUDÍ",
+            "b": "HOSPES MADRID",
+            "c": "VELÁZQUEZ",
+            "d": "WELLINGTON"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "HOTEL SITUADO EN LA CALLE ARENAL, 2, JUNTO A LA PUERTA DEL SOL...",
+        "options": {
+            "a": "CENTRO NORTE",
+            "b": "TRYP CIBELES",
+            "c": "MODERNO",
+            "d": "REGENTE"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DISTRITO DE LA ESCUELA UNIVERSITARIA DEÓPTICA, SITUADA EN ARCOS DE JALÓN s/n...",
+        "options": {
+            "a": "HORTALEZA",
+            "b": "SAN BLAS",
+            "c": "CHAMARTÍN",
+            "d": "VILLAVERDE"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL PARQUE MÓVIL DEL ESTADO...",
+        "options": {
+            "a": "CEA BERMÚDEZ",
+            "b": "JOSEA BASCAL",
+            "c": "PLAZA MAYOR",
+            "d": "PLAZA DE CRISTO REY"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DE LA JUNTA MUNICIPAL DE BARAJAS...",
+        "options": {
+            "a": "FUENTE CARRANTONA",
+            "b": "PLAZA DE MERCURIO",
+            "c": "CTRA. CANILLAS",
+            "d": "GLORIETA PILAR MIRÓ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ MUNICIPIO SE ENCUENTRA EL HOTEL ACLA FINCA...",
+        "options": {
+            "a": "ARAVACA",
+            "b": "POZUELO DE ALARCÓN",
+            "c": "LAS ROZAS DE MADRID",
+            "d": "MAJADAHONDA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DISTRITO AL QUE PERTENECE EL CEMENTERIO DE LA ALMUDENA...",
+        "options": {
+            "a": "MORATALAZ",
+            "b": "HORTALEZA",
+            "c": "CIUDAD LINEAL",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO ESPAÑOL...",
+        "options": {
+            "a": "PLAZA TIRSO DE MOLINA",
+            "b": "MONTERA",
+            "c": "PRÍNCIPE",
+            "d": "HUERTAS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LOS CINES ROXY...",
+        "options": {
+            "a": "FUENCARRAL 123",
+            "b": "FUENCARRAL 12",
+            "c": "SAGASTA 20",
+            "d": "CARRANZA 8"
+        },
+        "solution": "a"
+    }
+]

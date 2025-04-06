@@ -1,0 +1,122 @@
+[
+    {
+        "question": "LA REAL ACADEMIA DE ARTE DRAMÁTICO (escuela oficial de teatro) ESTÁ EN...",
+        "options": {
+            "a": "ESPRONCEDA, 12",
+            "b": "PLAZA SAN JUAN DE LACRUZ, 5",
+            "c": "AVDA CIUDAD BARCELONA, 44",
+            "d": "AVDA NAZARET, 2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL CENTRO DE PROTECCIÓN DE ANIMALES (C.P.A.)...",
+        "options": {
+            "a": "AVDA CARABANCHEL, 88",
+            "b": "AVDA AVIACIÓN, 16",
+            "c": "CTRA BARRIO DE LA FORTUNA, 33",
+            "d": "LUCERO, 22"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA LA ORGANIZACIÓN DE CONSUMIDORES Y USUARIOS...",
+        "options": {
+            "a": "SANTA ANA, 12",
+            "b": "ALBARRACÍN, 21",
+            "c": "SANTA CECILIA, 24",
+            "d": "FUENCARRAL, 2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA CONFERENCIA EPISCOPAL ESPAÑOLA...",
+        "options": {
+            "a": "ALMAGRO, 25",
+            "b": "BARQUILLO, 19",
+            "c": "RAFAEL CALVO, 33",
+            "d": "AÑASTRO, 1"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA AGENCIA EFE...",
+        "options": {
+            "a": "BRAVOMURILLO, 44",
+            "b": "ESPRONCEDA, 32",
+            "c": "QUEVEDO, 25",
+            "d": "JUAN BRAVO, 22"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ DIRECCIÓN SE ENCUENTRA EL TEATRO ARLEQUÍN...",
+        "options": {
+            "a": "PRINCESA, 8",
+            "b": "ALBERTO AGUILERA, 16",
+            "c": "ALCALÁ, 2",
+            "d": "SAN BERNARDO, 5"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA LA FUNDACIÓN BANESTO...",
+        "options": {
+            "a": "HERMANOS RUIZ, 1",
+            "b": "DOCTOR ESQUERDO, 5",
+            "c": "MESENA, 80",
+            "d": "AVDA CIUDAD DE BARCELONA, 23"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "QUÉ PLAZA ES LA MÁS CERCANA AL HOSPITAL SAN RAFAEL...",
+        "options": {
+            "a": "PLZA REPÚBLICA DE CHILE",
+            "b": "PLZA DE ORIENTE",
+            "c": "PLZA REPÚBLICA ECUADOR",
+            "d": "PLZA DE CASTILLA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "NOMBRE DEL CENTRO COMERCIAL DE POZUELO DE ALARCÓN...",
+        "options": {
+            "a": "HERÓN CITY",
+            "b": "EQUINOCCIO",
+            "c": "FACTORY",
+            "d": "ZIELO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "CERCANÍAS PRÓXIMO A LA BIBLIOTECA NACIONAL",
+        "options": {
+            "a": "AVENIDA DE AMÉRICA",
+            "b": "NUEVOS MINISTERIOS",
+            "c": "RECOLETOS",
+            "d": "PIRÁMIDES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "QUÉ DOS CLÍNICAS ESTÁN SITUADAS EN LA CALLEJ UAN BRAVO...",
+        "options": {
+            "a": "CEMTRO-QUIRÓN",
+            "b": "MENORCA-SANTA ELENA",
+            "c": "RÚBER-SAN CAMILO",
+            "d": "MONCLOA-LAZARZUELA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL CENTRO COMERCIAL LOS ÁNGELES",
+        "options": {
+            "a": "AVENIDA ANDALUCÍA KM 7,000",
+            "b": "AVENIDA MANOTERAS",
+            "c": "PASEO GIGANTES Y CABEZUDOS",
+            "d": "PASEO DE EXTREMADURA"
+        },
+        "solution": "a"
+    }
+]

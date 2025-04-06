@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿En qué calle está el hotel Ritz?",
+        "options": {
+            "a": "Plaza de la Lealtad",
+            "b": "Paseo de la Castellana",
+            "c": "Cuesta de la Vega",
+            "d": "Dr. Fleming"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Con qué plaza hace esquina el Banco de España?",
+        "options": {
+            "a": "Emilio Castelar",
+            "b": "Plaza de Cibeles",
+            "c": "San Juan de la Cruz",
+            "d": "Cánovas del Castillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La dirección Calle Trueba y Fernández, 16 se corresponde con el restaurante:",
+        "options": {
+            "a": "Zalacaín",
+            "b": "Horcher",
+            "c": "Maitia",
+            "d": "Casa Labra"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué rascacielos encontramos en Plaza de España, 18?",
+        "options": {
+            "a": "Torres Kio",
+            "b": "Cuatro Torres",
+            "c": "Torre Madrid",
+            "d": "Torre Picasso"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de las siguientes calles no rodea la Plaza Salvador Dalí?",
+        "options": {
+            "a": "Av. Felipe II",
+            "b": "Calle de Alcalá",
+            "c": "Calle Lombia",
+            "d": "Antonia Mercé"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes parques está comprendido por la Avda. de Francisco Javier Sáenz de Oiza y Avda. de las Fuerzas Armada?",
+        "options": {
+            "a": "Parque Norte",
+            "b": "Parque enrique Tierno Galván",
+            "c": "Parque de la cuña verde",
+            "d": "Parque Felipe VI"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué calle podemos encontrar la Audiencia Nacional?",
+        "options": {
+            "a": "Calle Goya",
+            "b": "Calle de Ortega y Gasset",
+            "c": "Calle de Diego de León",
+            "d": "Calle de María de Molina"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de las siguientes calles llega a la Plaza del Marqués de Salamanca?",
+        "options": {
+            "a": "Calle José Ortega y Gasset",
+            "b": "Velázquez",
+            "c": "Serrano",
+            "d": "General Pardillas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué club encontramos en la carretera de Castilla Km. 2?",
+        "options": {
+            "a": "Club de Tenis Chamartín",
+            "b": "Club de Campo Villa de Madrid",
+            "c": "Real Club Puerta de Hierro",
+            "d": "Club de Tiro"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué famoso jardín se encuentra al lado del Retiro?",
+        "options": {
+            "a": "Parque Norte",
+            "b": "Parque Juan Carlos I",
+            "c": "Casa de Campo",
+            "d": "Real Jardín Botánico"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La dirección calle de Álvarez de Baena, 4 se corresponde con:",
+        "options": {
+            "a": "Restaurante Zalacaín",
+            "b": "Restaurante la Paella de la Reina",
+            "c": "Restaurante Asador Donostiarra",
+            "d": "Restaurante Las Moreras"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué plaza podemos encontrar el Teatro Español?",
+        "options": {
+            "a": "Plaza de Jacinto Benavente",
+            "b": "Plaza Tirso de Molina",
+            "c": "Plaza de Santa Ana",
+            "d": "Plaza de Cascorro"
+        },
+        "solution": "c"
+    }
+]

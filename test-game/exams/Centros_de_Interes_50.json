@@ -1,0 +1,122 @@
+[
+    {
+        "question": "EN QUÉ MUNICIPIO ESTÁ EL HOTELLA MORALEJA",
+        "options": {
+            "a": "ALCOBENDAS",
+            "b": "SAN SEBASTIÁN DE LOS REYES",
+            "c": "GETAFE",
+            "d": "LAS ROZAS DE MADRID"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DE LA ASAMBLEA DEMADRID...",
+        "options": {
+            "a": "VILLA DEVALLECAS",
+            "b": "ARGANZUELA",
+            "c": "PUENTE DE VALLECAS",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "EL HOSPITAL DE LA MORALEJA SITUADO EN SANCHINARRO DIRECCIÓN...",
+        "options": {
+            "a": "AVDA FRANCISCO PIY MARGALL, 81",
+            "b": "SERRANO, 199",
+            "c": "OÑA, 10",
+            "d": "CARTAGENA, 111"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "A QUÉ DISTRITO PERTENECE EL HOSPITAL CLARA CAMPALEN, LA C/OÑA, 10...",
+        "options": {
+            "a": "CHAMARTÍN",
+            "b": "VILLAVERDE",
+            "c": "HORTALEZA",
+            "d": "CHAMBERÍ"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "SEÑALELA CALLE CERCANA AL INTERCAMBIADOR AVENIDA DE AMÉRICA...",
+        "options": {
+            "a": "DIEGO DE LEÓN",
+            "b": "ARTURO SORIA",
+            "c": "CAVANILLES",
+            "d": "JOAQUÍN COSTA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL MAJADAHONDA...",
+        "options": {
+            "a": "CTRA DE CANILLEJAS A VICÁLVARO",
+            "b": "CTRA DE BRUNETE A VILLAVICIOSA",
+            "c": "CTRA DE BOADILL A AMAJADAHONDA",
+            "d": "CTRA VILLAVICIOSA DE ODÓN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "QUÉ CLÍNICA ESTÁ CERCA DE LA ESTACIÓN METROPOLITANO...",
+        "options": {
+            "a": "CLÍNICA DATOR",
+            "b": "CLÍNICA MONCLOA",
+            "c": "CLÍNICA SANTA ELENA",
+            "d": "CLÍNICA LAZARZUELA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA J.M.D. SAN BLAS... meras",
+        "options": {
+            "a": "AVENIDA ARCENTALES, 28",
+            "b": "FUENTE CARRANTONA, 8",
+            "c": "ARROYO BUENO, 53",
+            "d": "CARRETERA DE CANILLAS, 2"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DE LA AVDA DOCTOR ARCE, 24 DÓNDE ESTÁ LA EMBAJADA DE GRECIA...",
+        "options": {
+            "a": "CHAMBER",
+            "b": "VALLECAS",
+            "c": "HORTALEZA",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DIRECCIÓN DEL CAFÉ GIJÓN...",
+        "options": {
+            "a": "Pº CASTELLANA",
+            "b": "C/BARQUILLO",
+            "c": "Pº RECOLETOS",
+            "d": "PLAZA DE LA MARINA ESPAÑOLA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA FUNDACIÓN DE LOS FERROCARRILES ESPAÑOLES...",
+        "options": {
+            "a": "TORRELAGUNA, 56",
+            "b": "SANTAISABEL, 44",
+            "c": "CASTELLÓ, 77",
+            "d": "AVDA.GENERAL, 40"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA CLÍNICA MENORCA...",
+        "options": {
+            "a": "JUAN BRAVO, 49",
+            "b": "PLÉYADES, 25",
+            "c": "MENORCA, 12",
+            "d": "HERMANO GÁRATE, 4"
+        },
+        "solution": "c"
+    }
+]

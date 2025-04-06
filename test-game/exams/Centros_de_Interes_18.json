@@ -1,0 +1,122 @@
+[
+    {
+        "question": "El hotel Francisco I se encuentra en la calle:",
+        "options": {
+            "a": "Calle del Arenal",
+            "b": "Calle Montera",
+            "c": "Calle Valderrey",
+            "d": "Calle Mayor"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "En la plaza del Rey encontramos:",
+        "options": {
+            "a": "La casa de las Alhajas",
+            "b": "Casa América",
+            "c": "Edificio Torres Blancas",
+            "d": "La Casa de las Siete Chimeneas"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué Museo está al lado del Faro de Moncloa?",
+        "options": {
+            "a": "Museo thyssen Bornemisza",
+            "b": "Museo de América",
+            "c": "Museo Romántico",
+            "d": "Museo del Aire"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Junto a qué Parroquia está situado El Tribunal Supremo?",
+        "options": {
+            "a": "Parroquia San José",
+            "b": "Parroquia Santa Bárbara",
+            "c": "Parroquia Virgen de la Paloma",
+            "d": "Parroquia Santa Catalina Labouré"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle está ubicado el Consejo General del Poder Judicial?",
+        "options": {
+            "a": "Calle Marqués de Casa Riera",
+            "b": "Calle Marqués de Villa Magna",
+            "c": "Calle Marqués de la Ensenada",
+            "d": "calle Marqués de Villa Mejor"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El Instituto de Salud Carlos III está en:",
+        "options": {
+            "a": "Av. Monforte de Lemos",
+            "b": "Av. Asturias",
+            "c": "Av. Ginzo de Limia",
+            "d": "Av. Concha Espina"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El Parque Emperatriz María de Austria está situado en:",
+        "options": {
+            "a": "General Ricardos",
+            "b": "Av. Los rosales",
+            "c": "Av. Oporto",
+            "d": "Abrantes"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes barrios no pertenece al distrito de Retiro?",
+        "options": {
+            "a": "Marroquina",
+            "b": "Ibiza",
+            "c": "Estrella",
+            "d": "Niño Jesús"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "\"Fernán Gómez Centro Cultural de la Villa\" está situado en:",
+        "options": {
+            "a": "Plaza de Cardenal Cisneros",
+            "b": "Plaza de Colón",
+            "c": "Plaza de San Juan de la Cruz",
+            "d": "Plaza Ópera"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La calle que va desde la Estación Sur hasta la Estación de Atocha es:",
+        "options": {
+            "a": "Menéndez Pelayo",
+            "b": "Av. Planetario",
+            "c": "Méndez Álvaro",
+            "d": "Paseo de las Delicias"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué organismo público se encuentra frente a la parada de metro de Cuzco?",
+        "options": {
+            "a": "Ministerio de Agricultura",
+            "b": "Ministerio de Sanidad",
+            "c": "Ministerio de Economía y Competitividad",
+            "d": "Ministerio de Hacienda"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué encontramos en la Av. de Pío XII, 110?",
+        "options": {
+            "a": "Comité Olímpico Español (COE)",
+            "b": "Metro de Madrid",
+            "c": "Administrador de Infraestructuras Ferroviarias (ADIF)",
+            "d": "Estación de Chamartin"
+        },
+        "solution": "c"
+    }
+]

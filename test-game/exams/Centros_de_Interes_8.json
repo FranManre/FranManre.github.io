@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué hospital está en la calle Diego de León?",
+        "options": {
+            "a": "Hospital de la Cruz Roja",
+            "b": "Hospital San Rafael",
+            "c": "Hospital de la Princesa",
+            "d": "Hospital Maternidad"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Escuela de Golf de Beamonte se encuentra en:",
+        "options": {
+            "a": "Calle Sierra Morena",
+            "b": "Calle Vitruvio",
+            "c": "Calle Balbina Valverde",
+            "d": "Calle de Embajadores"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué monumento histórico encontramos en la Plaza de la Independencia?",
+        "options": {
+            "a": "Templo de Debod",
+            "b": "La Puerta de Alcalá",
+            "c": "Diosa Cibeles",
+            "d": "Monumento a Colón"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué famoso museo se encuentra próximo al aeropuerto Cuatro Vientos?",
+        "options": {
+            "a": "Museo Cerámica",
+            "b": "Museo de Aeronáutica y Astronáutica de España",
+            "c": "Museo Romántico",
+            "d": "Museo de Historia"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes hospitales está situado en Majadahonda?",
+        "options": {
+            "a": "Hospital Universitario Puerta de Hierro",
+            "b": "Hospital del Sur-este",
+            "c": "Hospital Infanta Cristina",
+            "d": "Hospital San Rafael"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde está situado el club: Golf Park?",
+        "options": {
+            "a": "Parque de las Vistillas",
+            "b": "Parque lineal del Manzanares",
+            "c": "Parque Empresarial La Moraleja",
+            "d": "Casa de campo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Avda. América une las paradas de metro de:",
+        "options": {
+            "a": "Avenida de América y Cruz del rayo",
+            "b": "Avenida de América y Prosperidad",
+            "c": "Cartagena y Colombia",
+            "d": "Cartagena y Avenida de América"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "La plaza Santa Bárbara colinda con:",
+        "options": {
+            "a": "La Plaza Alonso Martínez",
+            "b": "La Puerta del Sol",
+            "c": "La plaza del Carmen",
+            "d": "La plaza de Mariano de cavia"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El famoso tablao flamenco \"Corral de la Morería\" se encuentra situado en:",
+        "options": {
+            "a": "Calle Mayor",
+            "b": "Paseo de la Florida",
+            "c": "Calle de la Morería",
+            "d": "Paseo Virgen del Puerto"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La clínica Ruber está situada en...",
+        "options": {
+            "a": "O'Donnell",
+            "b": "Calle de Juan Bravo",
+            "c": "Alcalá",
+            "d": "Arturo Soria"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El Hospital 12 de Octubre se encuentra situado en:",
+        "options": {
+            "a": "Avda. de Córdoba",
+            "b": "Avda. Las Águilas",
+            "c": "Rafael Finat",
+            "d": "Valmojado"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "En la Avda. Séneca encontramos el siguiente centro educativo:",
+        "options": {
+            "a": "Universidad Complutense de Madrid",
+            "b": "Campus de cantoblanco",
+            "c": "Hospital Carlos III",
+            "d": "Edificio España"
+        },
+        "solution": "a"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Entre qué dos plazas se encuentra el teatro \"Español\"?",
+        "options": {
+            "a": "Plaza del Carmen y Puerta del Sol",
+            "b": "Canalejas y Santa Ana",
+            "c": "Ópera y Santa Ana",
+            "d": "Plaza Jacinto Benavente y Conde Casal"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "En el Paseo del General Martínez Campos, está situado el:",
+        "options": {
+            "a": "Museo Lázaro Galdiano",
+            "b": "Museo Sorolla",
+            "c": "Museo Reina Sofía",
+            "d": "Museo Arqueológico"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle encontramos los \"Jardines de Sabatini\"?",
+        "options": {
+            "a": "Calle Princesa",
+            "b": "Calle Cea Bermúdez",
+            "c": "Calle de Bailén",
+            "d": "Calle Valderrey"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes monumentos no se encuentra en el Paseo de la Castellana?",
+        "options": {
+            "a": "Monumento a Emilio Castelar",
+            "b": "Monumento a José Calvo Sotelo",
+            "c": "Monumento a Alfonso XII",
+            "d": "Monumento al Marqués de Duero"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué famosa plaza está situado el Palacio de Linares?",
+        "options": {
+            "a": "Plaza de Cibeles",
+            "b": "Plaza de Olavide",
+            "c": "Plaza de Las cortes",
+            "d": "Plaza de Conde casal"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La confluencia de las calles: Costa Rica y Príncipe de Vergara, da lugar a:",
+        "options": {
+            "a": "Plaza de la República Dominicana",
+            "b": "Plaza de Lima",
+            "c": "Plaza de Cuzco",
+            "d": "Plaza de cataluña"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Residencia Militar Don Quijote está situada en:",
+        "options": {
+            "a": "Calle Jesús Maestro",
+            "b": "Av. Reina Victoria",
+            "c": "Avda. del Doctor Federico Rubio y Galí",
+            "d": "Av. Monforte de Lemos"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La calle de la Ribera de Curtidores transcurre desde la Plaza de Cascorro hasta:",
+        "options": {
+            "a": "Paseo de las Acacias",
+            "b": "Gta. Pirámides",
+            "c": "Gta. Embajadores",
+            "d": "Paseo del Rey"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuáles de éstas calles atraviesa la Plaza de los Sagrados Corazones?",
+        "options": {
+            "a": "Rafael Salgado",
+            "b": "Avda. de Concha Espina",
+            "c": "Serrano",
+            "d": "Mateo Inurria"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes edificios está situado en Camino de Perales?",
+        "options": {
+            "a": "Tanatorio Sur",
+            "b": "Hospital Doce de octubre",
+            "c": "La Caja Mágica",
+            "d": "Clínica"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué paseo encontramos el hotel \"Hesperia\"?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo de San Francisco de Sales",
+            "c": "Paseo de la Habana",
+            "d": "Paseo de los Pontones"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué paseo encontramos al Hospital Universitario La Paz?",
+        "options": {
+            "a": "Paseo de recoletos",
+            "b": "Paseo del Prado",
+            "c": "Paseo Imperial",
+            "d": "Paseo de la Castellana"
+        },
+        "solution": "d"
+    }
+]

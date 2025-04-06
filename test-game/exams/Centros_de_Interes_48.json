@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE SITUAS EL COLEGIO RAMIRO DE MAEZTU...",
+        "options": {
+            "a": "VELÁZQUEZ, 66",
+            "b": "SERRANO, 127",
+            "c": "GOYA, 88",
+            "d": "MALDONADO, 44"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL CAFÉ CENTRAL...",
+        "options": {
+            "a": "PLAZA DE SANTA ANA, 10",
+            "b": "HUERTAS, 34",
+            "c": "PLAZA DEL ÁNGEL, 10",
+            "d": "ATOCHA, 64"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL BOE...",
+        "options": {
+            "a": "Pº CASTELLANA, 166",
+            "b": "SINESIO DELGADO, 22",
+            "c": "AVDA MANOTERAS, 54",
+            "d": "FRANCOS RODRIGUEZ, 34"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE TORRESPAÑA O PIRULÍ EN LA PROLONGACIÓN DE O'DONNELL...",
+        "options": {
+            "a": "PRÍNCIPE DE VARGARA, 34",
+            "b": "ALCALDE SAINZ DE BARANDA, 92",
+            "c": "GOYA, 166",
+            "d": "CONDE DE PEÑALVER, 21"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUÉ COLEGIO MAYORNO EXISTE....",
+        "options": {
+            "a": "SAN JUAN EVANGELISTA",
+            "b": "ARGENTINO NTRA SRA LUJÁN",
+            "c": "JUAN XIII",
+            "d": "FUNDACIÓN SEPI"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "EN QUÉ DISTRITO ESTÁ EL PARQUE DE ATRACCIONES...",
+        "options": {
+            "a": "CHAMBERÍ",
+            "b": "CARABANCHEL",
+            "c": "SAN BLAS",
+            "d": "MONCLOA-ARAVACA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA LA FUNDACIÓN JIMÉNEZ DÍAZ...",
+        "options": {
+            "a": "ISAAC PERAL",
+            "b": "CEA BERMÚDEZ",
+            "c": "AVDA REYES CATÓLICOS",
+            "d": "AVDA SAN JUAN BAUTISTA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "ELCENTRO CULTURAL ÁGATA (Villaverde) ESTÁ EN LA CALLE...",
+        "options": {
+            "a": "DOCTOR MARTÍN ARÉVALO, 2",
+            "b": "HUERTA DE VILLAVERDE, 18",
+            "c": "SAN JENARO, 12",
+            "d": "VILLALONSO, 22"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EL CENTRO CULTURAL ANTONIO MACHADO ESTÁ EN SAN ROMÁN DEL VALLE, 8 EN QUÉ DISTRITO...",
+        "options": {
+            "a": "HORTALEZA",
+            "b": "USERA",
+            "c": "SAN BLAS",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "ENTRE LA AVENIDA DEL MEDITERRÁNEO Y ELPASEO REINA CRISTINA LA PLAZA...",
+        "options": {
+            "a": "PLAZA DOCTOR MARAÑÓN",
+            "b": "PLAZA CONDE CASAL",
+            "c": "PLAZA MARIANO DE CAVIA",
+            "d": "PLAZA DE ALSACIA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "LA DIRECCIÓN GENERAL DE LA GUARDIA CIVIL ESTÁ EN...",
+        "options": {
+            "a": "GUZMÁN EL BUENO, 110",
+            "b": "AVDA ISLAS FILIPINAS, 1",
+            "c": "CEA BERMÚDEZ, 32",
+            "d": "PRINCESA, 57"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁLA DISCOTECA KAPITAL...",
+        "options": {
+            "a": "GTA EMPERADOR CARLOS V",
+            "b": "PASEO DELPRADO, 23",
+            "c": "JUAN DEAUSTRIA, 8",
+            "d": "ATOCHA, 125"
+        },
+        "solution": "d"
+    }
+]

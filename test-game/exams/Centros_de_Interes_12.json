@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué museo de la calle Paseo del Prado está más próximo a la fuente de Neptuno?",
+        "options": {
+            "a": "Museo Pintor Soroya",
+            "b": "Museo del Prado",
+            "c": "Museo Arqueológico",
+            "d": "Museo Thyssen Bornemisza"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué calle está situado el restaurante \"Casa Lucio\"?",
+        "options": {
+            "a": "Cava de San Miguel",
+            "b": "Cava Baja",
+            "c": "Calle Zalacaín",
+            "d": "Calle Vitruvio"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué discoteca podemos encontrar en la calle del Arenal?",
+        "options": {
+            "a": "Kapital",
+            "b": "Macumba",
+            "c": "Joy Eslava",
+            "d": "Balcón de rosales"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué plaza está situado el hotel ME Madrid Reina Victoria?",
+        "options": {
+            "a": "Plaza Del Carmen",
+            "b": "Plaza de Santa Ana",
+            "c": "Plaza Del ángel Caído",
+            "d": "Plaza De la Independencia"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle se encuentra situada la Real Fábrica de Tapices?",
+        "options": {
+            "a": "Calle de Carril del Conde",
+            "b": "Calle de Fuenterrabía",
+            "c": "Calle de Juan Bravo",
+            "d": "Calle Platerías"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En cuál de las siguientes calles está situado el El Club de Tenis Chamartín?",
+        "options": {
+            "a": "Calle reina Victoria",
+            "b": "Calle Agustín de Foxá",
+            "c": "Calle Hiedra",
+            "d": "Calle Federico Salmón"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué parque hace esquina con La plaza Guadalupana?",
+        "options": {
+            "a": "Parque de la Cuña Verde",
+            "b": "Parque del Pradolongo",
+            "c": "Parque de Berlín",
+            "d": "Parque de las Vistillas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El restaurante Ramón Freixa está ubicado en:",
+        "options": {
+            "a": "Calle Sor Ángela de la Cruz",
+            "b": "Calle de Claudio Coello",
+            "c": "Calle del San Germán",
+            "d": "Calle de bravo Murillo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué importante calle pasa al lado de la Plaza de Callao?",
+        "options": {
+            "a": "Serrano",
+            "b": "Gran Vía",
+            "c": "Velázquez",
+            "d": "Princesa"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El Palacio Real de Madrid se encuentra frente a una plaza, ¿cuál es?",
+        "options": {
+            "a": "Plaza del General san Martín",
+            "b": "Plaza de Callao",
+            "c": "Plaza de Cascorro",
+            "d": "Plaza de Oriente"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué calle se encuentra el cine \"Cinesa Proyecciones\"?",
+        "options": {
+            "a": "Fuencarral",
+            "b": "Hermosilla",
+            "c": "Ayala",
+            "d": "Alcalá"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La discoteca \"Teatro Kapital\" está situada en:",
+        "options": {
+            "a": "Calle Fuencarral, 125",
+            "b": "Calle Atocha, 125",
+            "c": "Calle Alcalá",
+            "d": "Av. Ciudad de Barcelona"
+        },
+        "solution": "b"
+    }
+]

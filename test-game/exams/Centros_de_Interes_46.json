@@ -1,0 +1,122 @@
+[
+    {
+        "question": "COLEGIO MAYOR SITUADO EN LA AVENIDA DE SÉNECA...",
+        "options": {
+            "a": "ZURBARÁN",
+            "b": "LOYOLA",
+            "c": "BARBERÁN",
+            "d": "SAN JUAN BOSCO"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "MERCADO AL LADO DEL TEATRO LA LATINA...",
+        "options": {
+            "a": "CEBADA",
+            "b": "MARAVILLAS",
+            "c": "REMONTA",
+            "d": "CHAMBERI"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DEL TEATRO GALILEO, EN LA C/GALILEO,39...",
+        "options": {
+            "a": "MORATALAZ",
+            "b": "SALAMANCA",
+            "c": "CENTRO",
+            "d": "CHAMBERI"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "MUNICIPIO CERCANO AL CENTRO COMERCIAL OPCION...",
+        "options": {
+            "a": "GETAFE",
+            "b": "LAS ROZAS",
+            "c": "MAJADAHONDA",
+            "d": "RIVAS VACIAMADRID"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PARA IR DE LA GRAN VÍA A LA PLAZA ALONSO MARTINEZ LACALLE DIRECTA ES...",
+        "options": {
+            "a": "FUENCARRAL",
+            "b": "HORTALEZA",
+            "c": "ALMAGRO",
+            "d": "SAN BERNARDO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA EMBAJADA DE EL SALVADOR...",
+        "options": {
+            "a": "JUAN RAMÓN JIMÉNEZ, 8",
+            "b": "ARENAL, 16",
+            "c": "EMILIO FERRARI, 25",
+            "d": "Po Castellana, 178"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL TANATORIO DE LA M-30...",
+        "options": {
+            "a": "SALVADOR DE MADARIAGA, 11",
+            "b": "AVENIDA DE OROVILLA, 2",
+            "c": "CASA DE CAMPO",
+            "d": "VIRGEN DEL PORTILLO, 3"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "IGLESIA MÁS CERCANA A CASA LUCIO...",
+        "options": {
+            "a": "IGLESIA ADVENTISTA",
+            "b": "ORTODOXA DE LOS SANTOS",
+            "c": "SAN ANDRÉS",
+            "d": "EVANGELISTA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁEL MUSEO AMÉRICA...",
+        "options": {
+            "a": "AVENIDA PLANETARIO",
+            "b": "AVDA REYES CATÓLICOS",
+            "c": "CONDE DUQUE",
+            "d": "AVENIDA ISLAS FILIPINAS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "SEÑALA TRES EDIFICIOS HISTÓRICOS EN LA PLAZA DE LA VILLA...",
+        "options": {
+            "a": "CASA AMÉRICA, PALACIO DE LINARES Y CASA DE VACAS.",
+            "b": "CASA DEVACAS, CASA CISNEROS Y PALACIO DE LINARES.",
+            "c": "TORRE DE LUJANES, AYUNTAMIENTO Y CASA DE VACAS.",
+            "d": "AYUNTAMIENTO, CASA CISNEROS Y TORRE DE LUJANES."
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DIRECCIÓN EXACTA DEL PARQUE DEL CAPRICHO...",
+        "options": {
+            "a": "MÉNDEZ ALVARO",
+            "b": "PASEO ALAMEDA DE OSUNA",
+            "c": "PASEO DE LA HABANA",
+            "d": "PASEO DE RECOLETOS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL RESTAURANTE COMBARRO...",
+        "options": {
+            "a": "ORENSE, 28",
+            "b": "HERMANOS GÁRATE, 34",
+            "c": "BRAVO MURILLO, 155",
+            "d": "REINA MERCEDES, 12"
+        },
+        "solution": "d"
+    }
+]

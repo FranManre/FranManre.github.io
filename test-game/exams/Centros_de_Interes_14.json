@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Cuál de las siguientes direcciones corresponde a los \"Cines Capitol\"?",
+        "options": {
+            "a": "Paseo de la castellana, 41",
+            "b": "Gran Vía, 41",
+            "c": "San Germán 56",
+            "d": "Sor Angela de la Cruz, 22"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Entre qué calles se encuentra el restaurante \"El Paraguas\"?",
+        "options": {
+            "a": "Eduardo dato/Juan Bravo",
+            "b": "Joaquín Costa/Raimundo Fdez. Villaverde",
+            "c": "Jorge Juan/Lagasca",
+            "d": "Goya/Paseo de la Castellana"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué hotel está situado en la Puerta del Sol?",
+        "options": {
+            "a": "Hotel Agumar",
+            "b": "Hotel Zenit Conde Orgaz",
+            "c": "Hotel Husa Serrano Royal",
+            "d": "Hotel Europa"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "El centro de ocio \"Platea\" está situado en la calle:",
+        "options": {
+            "a": "Calle Zurbano",
+            "b": "Calle Vitruvio",
+            "c": "Calle de Goya",
+            "d": "Calle Ponzano"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En frente de qué plaza encontramos el Centro Comercial Las Rosas?",
+        "options": {
+            "a": "Plaza Alsacia",
+            "b": "Plaza De Ciudad Lineal",
+            "c": "Plaza de don Antonio Andrés",
+            "d": "Plaza de de Cardenal Cisneros"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué calle encontramos la parada de metro Ciudad Universitaria?",
+        "options": {
+            "a": "Avda. Complutense",
+            "b": "Avda. Miraflores",
+            "c": "Calle Rector Royo Villanova",
+            "d": "Calle José Antonio Novais"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Frente a qué plaza se encuentra situada la Iglesia de San Andrés?",
+        "options": {
+            "a": "Plaza de la Lealtad",
+            "b": "Plaza de la Independencia",
+            "c": "Plaza de Rocío Durcal",
+            "d": "Plaza de Carros"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El barrio de Las Águilas pertenece al distrito de:",
+        "options": {
+            "a": "Latina",
+            "b": "Arganzuela",
+            "c": "Chamberi",
+            "d": "Chamartín"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Llamamos Fuente de Neptuno a:",
+        "options": {
+            "a": "Plaza de Cardenal Cisneros",
+            "b": "Plaza de San Juan de la Cruz",
+            "c": "Plaza de Dr. Marañón",
+            "d": "Plaza Cánovas del Castillo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "En la Avda. Comunidades podemos encontrar...",
+        "options": {
+            "a": "Hotel Los Olivos",
+            "b": "Faunia",
+            "c": "Conferencia Episcopal",
+            "d": "La Marina Española"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle está situado en hotel \"Novotel Madrid Campo de las Naciones\"?",
+        "options": {
+            "a": "Calle Berlin",
+            "b": "Calle Gibraltar",
+            "c": "Calle Amsterdam",
+            "d": "Calle Génova"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué área de negocios está situada en el Paseo de la Castellana?",
+        "options": {
+            "a": "Cuatro Torres",
+            "b": "Poligono Empresarial Julián Camarillo",
+            "c": "Ciudad deportiva del Real Madrid",
+            "d": "Centro ABC Serrano"
+        },
+        "solution": "a"
+    }
+]

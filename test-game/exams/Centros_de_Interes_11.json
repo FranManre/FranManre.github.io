@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué espacio de ocio encontramos en Chueca?",
+        "options": {
+            "a": "Mercado Maravillas",
+            "b": "Mercado de San Antón",
+            "c": "Mercado De la cebada",
+            "d": "Mercado de Chamartín"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El restaurante \"Casa Labra\" se encuentra en la calle:",
+        "options": {
+            "a": "Calle Mayor",
+            "b": "Calle Bailen",
+            "c": "Calle Arenal",
+            "d": "Calle Tetuán"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué cuatro calles bordean el Palacio de los Deportes?",
+        "options": {
+            "a": "Jorge Juan/Dr. Esquerdo/Goya/lombia",
+            "b": "Dr. Esquerdo/Goya/Alcalá",
+            "c": "Jorge Juan/Goya/Fuente del Berro/Lombía",
+            "d": "Alcalá/Goya/Príncipe de Vergara/Lombia"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué paseo encontramos el Casino Gran Madrid Colón?",
+        "options": {
+            "a": "Paseo del Prado",
+            "b": "Paseo de Recoletos",
+            "c": "Paseo Infanta Isabel",
+            "d": "Paseo reina Cristina"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué calle no rodea La Embajada de Italia?",
+        "options": {
+            "a": "Calle Ortega y Gasset",
+            "b": "Calle Velazquez",
+            "c": "Calle Juan Bravo",
+            "d": "Calle Lagasca"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "La Plaza Salvador Dalí es atravesada por las calles:",
+        "options": {
+            "a": "Antonia Mercé y Goya",
+            "b": "Calle de Lombia y Francisco Silvela",
+            "c": "Calle de Fernán González y Avda. de Felipe II",
+            "d": "Calle de Fernán González y Velázquez"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La calle Alberto Aguilera une las paradas de metro de:",
+        "options": {
+            "a": "Argüelles y San Bernardo",
+            "b": "Moncloa y Ventura Rodríguez",
+            "c": "Plaza de España y Callao",
+            "d": "P. Pío y Ópera"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes barrios no forma parte del distrito de Tetuán?",
+        "options": {
+            "a": "Aluche",
+            "b": "Valdeacederas",
+            "c": "Cuatro Caminos",
+            "d": "Berruguete"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué calle une la Plaza de Cibeles y la Puerta de Alcalá?",
+        "options": {
+            "a": "Paseo del prado",
+            "b": "Paseo de la Castellana",
+            "c": "C/ Gran Vía",
+            "d": "Calle Alcalá"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué calle está la Comisión Nacional del Mercado de Valores (CNMV)?",
+        "options": {
+            "a": "Calle Edison, 4",
+            "b": "Calle Picasso, 4",
+            "c": "Calle Carcastillo, 4",
+            "d": "Calle Pedro Rico, 4"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde está situado el Instituto Nacional de Estadística?",
+        "options": {
+            "a": "Marqués de Vadillo",
+            "b": "Av. General perón",
+            "c": "Paseo de la Castellana",
+            "d": "Raimundo Fdez. Villaverde"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué paseo está el Museo Sorolla?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo San Francisco de Sales",
+            "c": "Paseo del General Martínez Campos",
+            "d": "Paseo del Pintor Rosales"
+        },
+        "solution": "c"
+    }
+]

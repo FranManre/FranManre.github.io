@@ -1,0 +1,122 @@
+[
+    {
+        "question": "CINE SITUADO EN LA CALLE MONTERA...",
+        "options": {
+            "a": "CALLAO",
+            "b": "LUNA",
+            "c": "CAPITOL",
+            "d": "ACTEÓN"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "PARQUE CERCANO A LA PLAZA MANUEL BECERRA...",
+        "options": {
+            "a": "PRADOLONGO",
+            "b": "OLOF PALME",
+            "c": "ENTREVÍAS",
+            "d": "EVA DUARTE DE PERÓN"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "JUNTA MUNICIPAL DE DISTRITO CERCANA A LA PLAZA DE CASTILLA...",
+        "options": {
+            "a": "VILLAVERDE",
+            "b": "TETUAN",
+            "c": "CHAMARTÍN",
+            "d": "RÍOS ROSAS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ CALLE ESTÁ BOWLING CHAMARTÍN...",
+        "options": {
+            "a": "PLAZA DE CASTILLA",
+            "b": "ENRIQUE LARRETA",
+            "c": "MATEO INURRRIA",
+            "d": "AGUSTIN DE FOXÁ"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "METRO CERCANO AL PASEO DE LA CASTELLANA nº15...",
+        "options": {
+            "a": "CUZCO",
+            "b": "COLÓN",
+            "c": "PLAZA DE CASTILLA",
+            "d": "SANTIAGO BERNABEU"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CEMENTERIO CERCANO AL CEMENTERIO DE SANISIDRO...",
+        "options": {
+            "a": "CEMENTERIO BRITÁNICO",
+            "b": "SACRAMENTAL DE SANTA MARÍA",
+            "c": "SACRAMENTAL DE SANJUSTO",
+            "d": "CEMENTERIO CIVIL"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿DÓNDE SE ENCUENTRAN LOS JARDÍNES DE CECILIO RODRIGUEZ?",
+        "options": {
+            "a": "PARQUE JUAN CARLOS I",
+            "b": "PARQUE ROMA",
+            "c": "PARQUE CUÑA VERDE",
+            "d": "PARQUE BUEN RETIRO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿CON QUÉ OTRO NOMBRE SE CONOCE EL HOSPITAL CLÍNICO?",
+        "options": {
+            "a": "UNIVERSITARIO SAN CARLOS",
+            "b": "FUNDACIÓN RAMÓN ARECES",
+            "c": "FUNDACIÓN JIMÉNEZ DÍAZ",
+            "d": "FUNDACIÓN JUAN MARCH"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CALLES QUE CONFLUYEN EN LA PLAZA DE CIBELES...",
+        "options": {
+            "a": "ALCALÁ PR CASTELLANA-GRAN VÍA",
+            "b": "ALCALA-P RECOLETOS-PR PRADO",
+            "c": "PLZA DEL CALLAO-ALCALÁ GRAN VÍA",
+            "d": "PLAZA DE ESPAÑA-ALCALÁ-RECOLETOS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL ARCHIVO HISTÓRICO NACIONAL...",
+        "options": {
+            "a": "VELÁZQUEZ, 88",
+            "b": "SERRANO, 27",
+            "c": "Pº CASTELLANA, 66",
+            "d": "Pº RECOLETOS, 51"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUÉ FACULTAD NO SE ENCUENTRA EN LA CIUDAD UNIVERSITARIA DE LAS QUE SE CITAN A CONTINUACIÓN...",
+        "options": {
+            "a": "DERECHO",
+            "b": "FARMACIA",
+            "c": "VETERINARIA",
+            "d": "INDUSTRIALES"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "LA EMBAJADA DE RUSIA SE ENCUENTRA EN LA CALLE VELÁZQUEZ, 155; JUNTO A QUÉ PLAZA CERCANA...",
+        "options": {
+            "a": "REPÚBLICA ARGENTINA",
+            "b": "EMILIO CASTELAR",
+            "c": "DOCTOR MARAÑÓN",
+            "d": "PLAZA DE LIMA"
+        },
+        "solution": "a"
+    }
+]

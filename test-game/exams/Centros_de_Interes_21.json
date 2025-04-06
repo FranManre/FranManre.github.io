@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿A qué Municipio pertenecen las nuevas Urbanizaciones de Miramadrid?",
+        "options": {
+            "a": "Madrid",
+            "b": "Arganda del Rey",
+            "c": "Móstoles",
+            "d": "Paracuellos de Jarama"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué calle une la plaza de Conde Casal con la Av. Ciudad de Barcelona?",
+        "options": {
+            "a": "Av. Menéndez Pelayo",
+            "b": "Av. Del Mediterráneo",
+            "c": "C/ Cavanilles",
+            "d": "C/ Dr. Esquerdo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "METRO CERCANO AL MUSEO ROMÁNTICO SITUADOEN LA C/SAN MATEO...",
+        "options": {
+            "a": "TRIBUNAL",
+            "b": "GRANVIA",
+            "c": "VINATEROS",
+            "d": "SOL"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DEL TEATRO MARÍA GUERRERO...",
+        "options": {
+            "a": "CENTRO",
+            "b": "MORATALAZ",
+            "c": "RETIRO",
+            "d": "MONCLOA-ARAVACA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "MUNICIPIO DEL CENTRO COMERCIAL LAS RAMBLAS...",
+        "options": {
+            "a": "TRES CANTOS",
+            "b": "COSLADA",
+            "c": "ALCORCÓN",
+            "d": "POZUELO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL RESTAURANTE EL CUCHI...",
+        "options": {
+            "a": "CAÑIZARES",
+            "b": "ARCO DE CUCHILLEROS",
+            "c": "CAVA BAJA",
+            "d": "Pº RECOLETOS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DISTRITO AL QUE PERTENECE LA CAJA MÁGICA...",
+        "options": {
+            "a": "VILLAVERDE",
+            "b": "CARABANCHEL",
+            "c": "USERA",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "METRO CERCANO AL REGISTRO CIVIL...",
+        "options": {
+            "a": "ALFONSO XIII",
+            "b": "RIOS ROSAS",
+            "c": "CHAMARTÍN",
+            "d": "HORTALEZA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA LA IGLESIA DE SAN PEDRO EL VIEJO...",
+        "options": {
+            "a": "CAVABAJA",
+            "b": "PUERTA DE MOROS",
+            "c": "PLAZAPUERTA CERRADA",
+            "d": "COSTANILLA DE SANPEDRO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "HOTEL SITUADO ENTRELAS CALLES DE SAN GERMÁN Y PEDRO TEIXEIRA...",
+        "options": {
+            "a": "HOTEL ORENSE",
+            "b": "HOTEL CONVENCIÓN",
+            "c": "HOTELCUZCO",
+            "d": "HOTEL FOXÁ"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CUÁL ES LA CALLE QUE UNE ALMAGRO CON LA CALLE SANTA ENGRACIA DONDE SE ENCUENTRA LA EMBAJADA DE SUECIA...",
+        "options": {
+            "a": "MONTE ESQUINZA",
+            "b": "CARACAS",
+            "c": "ZURBANO",
+            "d": "FERNÁNDEZ DE LA HOZ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CÓMO SE LLAMAN LOS JARDINES QUE HAY DETRÁS DEL PALACIO REAL...",
+        "options": {
+            "a": "JARDINES DE CECILIO RODRIGUEZ",
+            "b": "JARDINES DEL CAMPO DE LMORO",
+            "c": "JARDINES ARQUITECTO RIBERA",
+            "d": "JARDINES VISTILLAS"
+        },
+        "solution": "b"
+    }
+]

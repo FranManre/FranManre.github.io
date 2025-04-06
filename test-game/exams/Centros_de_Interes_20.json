@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿En qué calle está situado el Hotel NH Collection Madrid Palacio de Tepa?",
+        "options": {
+            "a": "Calle de San Sebastián",
+            "b": "Calle O'Donnell",
+            "c": "Calle Antonio Machado",
+            "d": "Calle Compostela"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué plaza está situada la Puerta de Alcalá?",
+        "options": {
+            "a": "Plaza de Cibeles",
+            "b": "Plaza de la Lealtad",
+            "c": "Plaza de la Independencia",
+            "d": "Plaza de las Cortes"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El Hospital Nuestra Señora Del Rosario está rodeado por las calles:",
+        "options": {
+            "a": "Padilla/Juan Bravo/Príncipe de Vergara/Castelló",
+            "b": "Diego de León/Juan Bravo/Príncipe de Vergara/Castelló",
+            "c": "Juan Bravo/Príncipe de Vergara/Castelló/Francisco Silvela",
+            "d": "Padilla/Juan Bravo/María de Molina/Castelló"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de las siguientes calles rodea la Plaza de los Reyes Magos?",
+        "options": {
+            "a": "Menéndez Pelayo",
+            "b": "Avenida de Nazaret",
+            "c": "Calle de Juan de Urbieta",
+            "d": "Calle del Conde de Cartagena"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué carretera encontramos el Club de Campo Villa de Madrid?",
+        "options": {
+            "a": "Vía de las Dos Castillas",
+            "b": "Carretera Madrid al Pardo",
+            "c": "Carretera de Castilla",
+            "d": "Carretera de San Blas a Coslada"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué calle está situado el campo de Golf La Moraleja?",
+        "options": {
+            "a": "Calle Blas de Otero",
+            "b": "Avenida de Valdelaparra",
+            "c": "Paseo de la Marquesa Viuda de Aldama",
+            "d": "Calle del Nardo"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El Parque De Cuña Verde se encuentra próximo a la parada de metro de:",
+        "options": {
+            "a": "Laguna",
+            "b": "Aluche",
+            "c": "Alto de Extremadura",
+            "d": "Casa de Campo"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Indique qué barrio no forma parte del distrito de Latina",
+        "options": {
+            "a": "Sol",
+            "b": "Aluche",
+            "c": "Lucero",
+            "d": "Puerta del Ángel"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué calle se encuentra el hotel \"Princesa\"?",
+        "options": {
+            "a": "Calle Pizarro",
+            "b": "Calle Ocaña",
+            "c": "Calle de la Princesa",
+            "d": "Calle Gran Vía"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El hotel \"Villa Magna\" se encuentra en:",
+        "options": {
+            "a": "Calle Zurbano",
+            "b": "Calle Vitruvio",
+            "c": "Paseo de la Castellana",
+            "d": "Calle Joaquín Costa"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué podemos ver entre la calles Génova y el Paseo de Recoletos?",
+        "options": {
+            "a": "La estatua de Colón",
+            "b": "El Arco de la Victoria",
+            "c": "El parque del Retiro",
+            "d": "El centro Cultural Jaramilla"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué centro de ocio está situado en la Carretera Nacional II, km 22.5?",
+        "options": {
+            "a": "Oasiz Madrid",
+            "b": "Karting de Carlos Sainz",
+            "c": "Xanadú",
+            "d": "Parque de Atracciones"
+        },
+        "solution": "a"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "PARQUE SITUADO ENTRE LA A-5 Y LA M-30...",
+        "options": {
+            "a": "CASA DE CAMPO",
+            "b": "VISTILLAS",
+            "c": "OESTE",
+            "d": "VENTILLA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOTEL CERCANO A LA PLAZA DE SANTO DOMINGO...",
+        "options": {
+            "a": "COLOSO",
+            "b": "SOFITEL",
+            "c": "SANVY",
+            "d": "NOVOTEL"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "MUNICIPIO DEL TEATRO FEDERICO GARCÍA LORCA...",
+        "options": {
+            "a": "LEGANÉS",
+            "b": "GETAFE",
+            "c": "ALCORCÓN",
+            "d": "MOSTÓLES"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EDIFICIO SITUADO EN GRAN VÍA, 32...",
+        "options": {
+            "a": "TELEFONICA",
+            "b": "METRÓPOLIS",
+            "c": "BANCO DE ESPAÑA",
+            "d": "CIRCULO DE BELLAS ARTES"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DONDE PODEMOS IR PARA COMPRAR EN UN HIPERCOR...",
+        "options": {
+            "a": "PARLA-MÓSTOLES",
+            "b": "VILLANUEVA DEL PARDILLO-GETAFE",
+            "c": "ALCORCÓN-POZUELO",
+            "d": "LAS ROZAS-LEGANÉS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "ENTRE QUE DOS CALLES SE ENCUENTRA LA IGLESIA DE SAN PEDRO EL VIEJO...",
+        "options": {
+            "a": "COSTANILLA DE SAN PEDRO-NUNCIO",
+            "b": "NUNCIO-DONPEDRO",
+            "c": "COSTANILLA DE SAN PEDRO-CAVA ALTA",
+            "d": "CAVA BAJA-CAVA ALTA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO CINESA LAS ROSAS...",
+        "options": {
+            "a": "MORATALAZ",
+            "b": "VILLAVERDE",
+            "c": "CHAMARTÍN",
+            "d": "SAN BLAS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "HOTEL SITUADO EN GRAN VÍA,74...",
+        "options": {
+            "a": "EMPERATRIZ",
+            "b": "MENFIS",
+            "c": "TRYP ALCALÁ",
+            "d": "AC COSLADA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DISTRITO AL QUE PERTENECE LA COMISARÍA DE POLICÍA QUE ESTÁ SITUADA ENTRE ARROYO FONTARRÓN Y ENCOMIENDA DE PALACIOS...",
+        "options": {
+            "a": "HORTALEZA",
+            "b": "CENTRO",
+            "c": "PUENTA DE VALLECAS",
+            "d": "MORATALAZ"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "EMBAJADA SITUADA EN EL PASEO DE LA CASTELLANA,30...",
+        "options": {
+            "a": "BRASIL",
+            "b": "ARGENTINA",
+            "c": "EE UU",
+            "d": "REPÚBLICA DOMINICANA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL PARQUE DE LAS ENCINAS...",
+        "options": {
+            "a": "COSLADA",
+            "b": "LAS ROZAS",
+            "c": "TRES CANTOS",
+            "d": "LEGANÉS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL TRYP REINA VICTORIA...",
+        "options": {
+            "a": "Pº CASTELLANA, 59",
+            "b": "ANTONIOLÓPEZ, 65",
+            "c": "SALUD, 3",
+            "d": "PLAZA SANTA ANA, 14"
+        },
+        "solution": "d"
+    }
+]

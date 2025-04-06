@@ -1,0 +1,122 @@
+[
+    {
+        "question": "JUNTO A QUÉ PLAZA ESTÁ SITUADO EL MINISTERIO DE ASUNTOS EXTERIORES...",
+        "options": {
+            "a": "CUZCO",
+            "b": "MAYOR",
+            "c": "COLÓN",
+            "d": "ESPAÑA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUE COLEGIO MAYOR NO ESTÁ SITUADO EN EL PºJUAN XXIII...",
+        "options": {
+            "a": "LOYOLA",
+            "b": "MARA",
+            "c": "CHAMINADE",
+            "d": "JUAN XXIII"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "UNE HERMOSILLA CON AYALA Y EN ELLA ESTÁ SITUADA LA EMBAJADA DE PERÚ...",
+        "options": {
+            "a": "GOYA",
+            "b": "VELÁZQUEZ",
+            "c": "SERRANO",
+            "d": "PRÍNCIPE DE VERGARA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "EN QUE CALLE SITUAS EL CENTRO COMERCIAL MÉNDEZ ALVARO...",
+        "options": {
+            "a": "ACANTO",
+            "b": "RETAMA",
+            "c": "MÉNDEZ ALVARO",
+            "d": "AVDA ENTREVÍAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EN QUÉ CALLE SE ENCUENTRA EL HIPERCOR DEMÉNDEZ ALVARO...",
+        "options": {
+            "a": "RETAMA",
+            "b": "PEDRO BOSCH",
+            "c": "AVDA PLANETARIO",
+            "d": "MÉNDEZ ALVARO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "ESTAMENTO SITUADO EN JOSEFA VALCÁRCEL nº28...",
+        "options": {
+            "a": "INSTITUTO DE LA VIVIENDA",
+            "b": "DIRECCIÓN GENERAL TRÁFICO",
+            "c": "REGISTRO MERCANTIL",
+            "d": "REGISTRO DE LA PROPIEDAD"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DE LA FUNDACION CULTURAL MAPFRE...",
+        "options": {
+            "a": "ORENSE, 60",
+            "b": "SERRANO, 60",
+            "c": "Pº CASTELLANA, 15",
+            "d": "GENERALPERÓN, 40"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "HOTEL SITUADO EN LA PLAZA DE LAS CORTES Nº7...",
+        "options": {
+            "a": "HOTEL PALACE",
+            "b": "HOTEL SENATOR",
+            "c": "HOTEL RITZ",
+            "d": "HOTEL WELLINGTON"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "MUSEO EN EL PASEO DEL PRADO Nº 8...",
+        "options": {
+            "a": "PRADO",
+            "b": "THYSSEN BORNEZSMIZA",
+            "c": "FERROCARRIL",
+            "d": "CERRALBO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "ENTRE QUE DOS CALLES SITUAS EL HOTEL VILLAMAGNA...",
+        "options": {
+            "a": "SERRANO-GOYA",
+            "b": "SERRANO-DIEGO DE LEÓN",
+            "c": "MARQUÉS DE VILLAMAGNA-ORTEGA Y GASSET",
+            "d": "MARQUÉS DE VILLAMAGNA-HERMOSILLA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "METRO CERCANO A PUERTA DE ARGANDA...",
+        "options": {
+            "a": "VALDEBERNARDO",
+            "b": "VICALVARO",
+            "c": "ARGANDA",
+            "d": "ESTRELLA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "URBANIZACIÓN EN LAQUE SE ENCUENTRA LA UNIVERSIDAD DE INFORMÁTICA DE LA POLITÉCNICA...",
+        "options": {
+            "a": "LAS LOMAS",
+            "b": "MONTEPRÍNCIPE",
+            "c": "CAMPODÓN",
+            "d": "MONTECLARO"
+        },
+        "solution": "b"
+    }
+]

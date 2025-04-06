@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué teatro está situado entre las plazas: del Oriente y Santa Catalina?",
+        "options": {
+            "a": "Teatro Real",
+            "b": "Teatro Victoria",
+            "c": "Teatro Reina Victoria",
+            "d": "teatro Arlequin"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué museo se encuentra en la Avenida de Juan de Herrera?",
+        "options": {
+            "a": "Museo del Traje",
+            "b": "Museo del Prado",
+            "c": "Museo de Cera",
+            "d": "Museo de Historia"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué hotel se corresponde con la dirección: Carrera de S. Jerónimo, 34?",
+        "options": {
+            "a": "Urban Hotel Madrid",
+            "b": "Zénit Conde Orgaz",
+            "c": "Rex",
+            "d": "Villamagna"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "En la Calle de Julián Gayarre está situado:",
+        "options": {
+            "a": "El Panteón de Hombres Ilustres",
+            "b": "Templo de Debod",
+            "c": "Monumento al ángel Caído",
+            "d": "Plaza de la Independencia"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de los siguientes cementerios no se encuentra en San Isidro?",
+        "options": {
+            "a": "Cementerio de Sta. María",
+            "b": "Cementerio de San Isidro",
+            "c": "Cementerio Sacramental de san Justo Pastor",
+            "d": "Cementerio Sur"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué avenida separa el Hospital Central de la Cruz Roja San José y Santa Adela y el Centro de Salud Reina Victoria?",
+        "options": {
+            "a": "Av. Concha Espina",
+            "b": "Avda. de La Reina Victoria",
+            "c": "Bravo Murillo",
+            "d": "Avda. Cardenal herrera Oria"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La calle que une las paradas de metro de Vista Alegre y Carabanchel es:",
+        "options": {
+            "a": "Calle Guabairo",
+            "b": "Calle de la Oca",
+            "c": "Av. De Oporto",
+            "d": "General Ricardos"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La calle del Barquillo es:",
+        "options": {
+            "a": "Paralela a la calle Prim",
+            "b": "Perpendicular al Paseo de recoletos",
+            "c": "Perpendicular a la calle de Prim",
+            "d": "Paralela a la calle Infantas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué dos calles conducen a la Plaza de Manuel Rodrigo?",
+        "options": {
+            "a": "Avda. Machupichu/Calle Chicuelo",
+            "b": "C/ Silvano/ctra. De Canillas",
+            "c": "Avda. Machupichu/avda. de los Andes",
+            "d": "C/ Silvano/ c/ Emigrantes"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué calle podemos encontrar el Tribunal Constitucional?",
+        "options": {
+            "a": "C/ Añastro",
+            "b": "Calle de Doménico Scarlatti",
+            "c": "C/ Conde Vilches",
+            "d": "C/ Tordesillas"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El restaurante \"Ten Con Ten\" se encuentra en:",
+        "options": {
+            "a": "Calle Alcalá",
+            "b": "Calle Juan Bravo",
+            "c": "Calle Francisco Silvela",
+            "d": "Calle Ayala"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué calle está situada la sala de conciertos \"Siroco\"?",
+        "options": {
+            "a": "San Epifanio",
+            "b": "Modesto Lafuente",
+            "c": "San Dimas",
+            "d": "San Germán"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "NOMBRE DE LA COMISARÍA DE BARAJAS...",
+        "options": {
+            "a": "AEROPUERTO",
+            "b": "ALAMEDA DE OSUNA",
+            "c": "BARAJAS",
+            "d": "CANILLAS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL TRYP MENFIS...",
+        "options": {
+            "a": "MESONERO ROMANOS, 13",
+            "b": "PLAZA DEL CALLAO, 2",
+            "c": "GRAN VÍA, 74",
+            "d": "PLAZA DE COLÓN, 4"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "QUÉ PLAZA ESTÁ A LA ALTURA DE VELÁZQUEZ, 155",
+        "options": {
+            "a": "EMILIO CASTELAR",
+            "b": "REPÚBLICA ARGENTINA",
+            "c": "REPÚBLICA DEL SALVADOR",
+            "d": "SAGRADOS CORAZONES"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO ALCÁZAR...",
+        "options": {
+            "a": "ALCALÁ, 20",
+            "b": "PRÍNCIPE, 25",
+            "c": "PLAZA ISABEL II",
+            "d": "MANUELA MALASAÑA, 6"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "MUNICIPIO RTV ESPAÑOLA...",
+        "options": {
+            "a": "BOADILLA",
+            "b": "MAJADAHONDA",
+            "c": "POZUELO",
+            "d": "ARAVACA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA FUNDACIÓN EMPRESAS DE LA CIUDAD UNIVERSITARIA...",
+        "options": {
+            "a": "RAMIRO DEMAEZTU",
+            "b": "AVDA GREGORIO DEL AMO",
+            "c": "AVDA SENECA",
+            "d": "RECTOR ROYO VILANOVA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PLAZA CERCANA AL HOSPITAL SAN RAFAEL...",
+        "options": {
+            "a": "REPÚBLICA DEL SALVADOR",
+            "b": "CASTILLA",
+            "c": "SERRANO",
+            "d": "LIMA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRALA MURALLA ÁRABE...",
+        "options": {
+            "a": "MAYOR",
+            "b": "TOLEDO",
+            "c": "CUESTA DE LAVEGA",
+            "d": "PLAZA PUERTA DE MOROS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "PLAZA CERCANA AL RESTAURANTE LUIS CANDELAS",
+        "options": {
+            "a": "PLAZA DE LA CEBADA",
+            "b": "PLAZA MAYOR",
+            "c": "PLAZA DEL ENCUENTRO",
+            "d": "PLAZA CASTILLA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DE LA REAL ESCUELA DE DANZA...",
+        "options": {
+            "a": "AVDA NAZARET, 2",
+            "b": "REAL DE ARGANDA, 3",
+            "c": "SORIA, 2",
+            "d": "EMBAJADORES, 23"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CENTRO COMERCIAL EN LA AVDA DE LA VICTORIA, 2...",
+        "options": {
+            "a": "ELTORREÓN",
+            "b": "SEXTA AVENIDA",
+            "c": "EQUINOCCIO",
+            "d": "LA ESTACIÓN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO FLORIDA PARK...",
+        "options": {
+            "a": "PARQUE RETIRO",
+            "b": "PARQUE ROMA",
+            "c": "PARQUE DEL OESTE",
+            "d": "PARQUE PRADOLONGO"
+        },
+        "solution": "a"
+    }
+]

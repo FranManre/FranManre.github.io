@@ -1,0 +1,122 @@
+[
+    {
+        "question": "PLAZA CERCANA AL RESTAURANTE EL CUCHI...",
+        "options": {
+            "a": "PLAZA MAYOR",
+            "b": "PUER",
+            "c": "PUERTA DE TOLEDO",
+            "d": "PLAZA DE CANALEJAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "QUÉ CALLE CONFLUYE AL CENTRO COMERCIAL SANCHINARRO...",
+        "options": {
+            "a": "AVENIDA NICETO ALCALÁ ZAMORA",
+            "b": "MARGARITA DEPARMA",
+            "c": "ANA DEAUSTRIA",
+            "d": "PRINCESA DE ÉBOLI"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL PARQUE DE LAS VISTILLAS...",
+        "options": {
+            "a": "RONDA DE SEGOVIA",
+            "b": "GRAN VÍA DE SAN FRANCISCO",
+            "c": "CALLE TOLEDO",
+            "d": "CALLES EGOVIA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "PARA IR DIRECCIÓN BURGOS...",
+        "options": {
+            "a": "M-40, A-6, A-1",
+            "b": "M-40, A-1",
+            "c": "A-1",
+            "d": "M-30, A-1"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA EMBAJADA DE ALEMANIA...",
+        "options": {
+            "a": "GARCÍA DEPAREDES,65",
+            "c": "ZURBANO, 42",
+            "b": "FORTUNY, 8",
+            "d": "Pº GENERAL MARTINEZCAMPOS, 33"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PLAZA CERCANA A LAS CORTES GENERALES...",
+        "options": {
+            "a": "PLAZA DE CÁNOVAS DEL CASTILLO",
+            "b": "PLAZA DE CANALEJAS",
+            "c": "PLAZA DE LAS CORTES",
+            "d": "PLAZA DE LA LEALTAD"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA EMBAJADA DE MARRUECOS...",
+        "options": {
+            "a": "JUAN BRAVO, 14",
+            "b": "PRÍNCIPE DE VERGARA, 149",
+            "c": "SERRANO, 179",
+            "d": "VELAZQUEZ, 88"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CENTRO DE OCIO SITUADO EN LA A-2, EN TORREJON DE ARDOZ...",
+        "options": {
+            "a": "WARNER BROSS",
+            "b": "MADRID XANADÚ",
+            "c": "OASIZ MADRID",
+            "d": "NASSICA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA EMBAJADA DE JAPÓN...",
+        "options": {
+            "a": "VELÁZQUEZ, 150",
+            "b": "LAGASCA, 98",
+            "c": "SERRANO, 109",
+            "d": "CLAUDIOCOELLO, 78"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "HOSPITAL PRIVADO EN BOADILLA DEL MONTE...",
+        "options": {
+            "a": "SANITAS LA MORALEJA",
+            "b": "MONTEPRÍNCIPE",
+            "c": "RUBER INTERNACIONAL",
+            "d": "VIRGEN DE LA TORRE"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUÉ HOTEL SE ENCUENTRA EN EL Pº CASTELLANA, 57...",
+        "options": {
+            "a": "SILKEN PUERTA CASTILLA",
+            "b": "CASTELLANA INTERCONTINENTAL",
+            "c": "ABBA CASTILLA",
+            "d": "HESPERIA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DISTRITO DEL CENTRO COMERCIAL ALCALÁ-NORTE...",
+        "options": {
+            "a": "SALAMANCA",
+            "b": "CIUDAD LINEAL",
+            "c": "SAN BLAS",
+            "d": "MONCLOA"
+        },
+        "solution": "b"
+    }
+]

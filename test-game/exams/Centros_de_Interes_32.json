@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE ESTÁ SITUADA LA EMBAJADA DE PORTUGAL...",
+        "options": {
+            "a": "CLAUDIO COELLO",
+            "b": "PINAR",
+            "c": "VELÁZQUEZ",
+            "d": "SERRANO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MINISTERIO CERCANO A LA PLAZA DE CUZCO...",
+        "options": {
+            "a": "INDUSTRIA",
+            "b": "SANIDAD Y CONSUMO",
+            "c": "AGRICULTURA, PESCA ALIMENTACIÓN",
+            "d": "FOMENTO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EN LA GLORIETA DEL EMPERADOR CARLOS V QUÉ MUSEO NO ESTÁ CERCANO...",
+        "options": {
+            "a": "ETNOLÓGICO",
+            "b": "LÁZARO GALDIANO",
+            "c": "CERRALBO",
+            "d": "DE CIENCIAS NATURALES"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "JUNTA MUNICIPAL JUNTO AL RÍO MANZANARES...",
+        "options": {
+            "a": "VILLAVERDE",
+            "b": "SALAMANCA",
+            "c": "ARGANZUELA",
+            "d": "CENTRO"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "EN LA CALLE SANTA ISABEL, 53, QUE HAY...",
+        "options": {
+            "a": "REAL CONSERVATORIO DE MÚSICA",
+            "b": "TEATRO LARA",
+            "c": "TEATRO REINA VICTORIA",
+            "d": "REAL ACADEMIA DE LA LENGUA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CENTRO COMERCIAL CERCANO A LA ESTACIÓN SUR...",
+        "options": {
+            "a": "MÉNDEZALVARO",
+            "b": "LA VAGUADA",
+            "c": "LA OCA",
+            "d": "LAGAVIA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DEL MERCADO DE CHAMARTÍN...",
+        "options": {
+            "a": "BOLIVIA",
+            "b": "AGUSTÍN DE FOXÁ",
+            "c": "PLAZADE CASTILLA",
+            "d": "MATEO INURRIA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁN LOS CINES YELMO CINEPLEX IDEAL...",
+        "options": {
+            "a": "GRANVÍA",
+            "b": "MESONERO ROMANOS",
+            "c": "ALCALÁ",
+            "d": "DOCTOR CORTEZO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL TEATRO ALBENIZ...",
+        "options": {
+            "a": "ALCALÁ",
+            "b": "GRAN VÍA",
+            "c": "PAZ",
+            "d": "MARTINDE LOS HEROS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "PLAZA CERCANA AL CLUB DE TENIS CHAMARTÍN...",
+        "options": {
+            "a": "REPÚBLICA DOMINICANA",
+            "b": "JOSEMARÍA SOLER",
+            "c": "CUZCO",
+            "d": "COLÓN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ EDIFICIO SIMBÓLICO DE GRAN VÍA 32 ESTÁ LA CADENA SER...",
+        "options": {
+            "a": "METRÓPOLIS",
+            "b": "PALACIO DE LINARES",
+            "c": "TELEFÓNICA",
+            "d": "LA UNIÓN Y EL FÉNIX"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL JARDÍN BOTÁNICO...",
+        "options": {
+            "a": "Pº DELPRADO",
+            "b": "Pº RECOLETOS",
+            "c": "SANTA ISABEL",
+            "d": "PLAZA DE MURILLO"
+        },
+        "solution": "d"
+    }
+]

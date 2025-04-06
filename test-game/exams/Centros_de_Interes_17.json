@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿Qué centro comercial encontramos en Alcorcón?",
+        "options": {
+            "a": "C. C Plaza Norte II",
+            "b": "C. C Gran Plaza II",
+            "c": "C.C Tres Aguas",
+            "d": "C. C Xanadú"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué calle está situado el Colegio Público San Ildefonso?",
+        "options": {
+            "a": "Calle Alfonso XII",
+            "b": "Calle de Alfonso VI",
+            "c": "Calle Alfonso XI",
+            "d": "Calle Alfonso XIII"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El Palacio de Liria está situada en:",
+        "options": {
+            "a": "Calle Ventura Rodriguez",
+            "b": "Calle Alberto Aguilera",
+            "c": "Calle de la Princesa",
+            "d": "Calle Cea Bermúdez"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué emblemático edificio encontramos haciendo esquina entre las calles Alcalá y Sevilla?",
+        "options": {
+            "a": "Edificio Banesto",
+            "b": "Edificio Torre España",
+            "c": "Edificio España",
+            "d": "Torre Picasso"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde encontramos el Centro Comercial Plaza Norte 2?",
+        "options": {
+            "a": "Alcobendas",
+            "b": "San Sebastián de los Reyes",
+            "c": "Tres Cantos",
+            "d": "Pozuelo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle encontramos la Jefatura Provincial de Tráfico?",
+        "options": {
+            "a": "Josefa Valcárcel",
+            "b": "Calle Silvano",
+            "c": "Calle Hermanos García Noblejas",
+            "d": "Calle de Arturo Soria"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes parques se encuentra situado detrás del Centro de Salud Virgen de Begoña?",
+        "options": {
+            "a": "Parque Del Oeste",
+            "b": "Parque Begoña",
+            "c": "Parque del Tío Pío",
+            "d": "Parque Pradolongo"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿En qué calle se encuentra el restaurante asturiano \"El Ñeru\"?",
+        "options": {
+            "a": "Calle Mayor",
+            "b": "Calle Tetuán",
+            "c": "Calle Bailén",
+            "d": "Calle de Bordadores"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué edificio de gran relevancia encontramos en la dirección: Calle Bailén, 3?",
+        "options": {
+            "a": "El Senado",
+            "b": "COE",
+            "c": "Las Cortes",
+            "d": "Edificio Unión y el Fénix"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El Congreso de los Diputados se encuentra frente a la plaza:",
+        "options": {
+            "a": "De las Cortes",
+            "b": "De la Lealtad",
+            "c": "De Cánovas del Castillo",
+            "d": "Del Emperador Carlos V"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué centro comercial podemos encontrar el Carlos Sainz Center?",
+        "options": {
+            "a": "Centro Comercial Box Alcalá Norte",
+            "b": "Centro Comercial Los Ángeles",
+            "c": "Centro Comercial La Ermita",
+            "d": "Centro Comercial Xanadú"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué zona encontramos los estudios de Atresmedia?",
+        "options": {
+            "a": "San Sebastián de los Reyes",
+            "b": "Pozuelo",
+            "c": "Boadilla del Monte",
+            "d": "Coslada"
+        },
+        "solution": "a"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE ESTÁ EL HOTEL SANTO DOMINGO...",
+        "options": {
+            "a": "MESONERO ROMANOS",
+            "b": "SAN BERNARDO, 1",
+            "c": "PLAZA DE LAS CORTES",
+            "d": "GRAN VÍA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EL MONASTERIO DE LA ENCARNACIÓN, QUE TEATRO TIENE CERCANO...",
+        "options": {
+            "a": "AMAYA",
+            "b": "LOPE DE VEGA",
+            "c": "REAL",
+            "d": "ESPAÑOL"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "EN QUÉ MUNICIPIO SITÚAS EL MUSEO DEL VIDRIO EN LA AVDA DE LOS CASTILLOS...",
+        "options": {
+            "a": "PINTO",
+            "b": "VALDEMORO",
+            "c": "FUENLABRADA",
+            "d": "ALCORCÓN"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SITUAS EL MUSEO DE MADRID...",
+        "options": {
+            "a": "ALCALÁ, 51",
+            "b": "PASEO DEL PRADO, 1",
+            "c": "PRÍNCIPE DE VERGARA, 146",
+            "d": "Pº DELICIAS, 42"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL HOTEL MELÍA LOS GALGOS... MAGYAR",
+        "options": {
+            "a": "CLAUDIO COELLO, 139",
+            "b": "BRAVO MURILLO, 139",
+            "c": "ALCALÁ, 139",
+            "d": "PAZ, 11"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOTEL ENTRE LA AVDA GENERAL PERÓN Y RAIMUNDO FERNÁNDEZ VILLAVERDE...",
+        "options": {
+            "a": "ABBA MADRID",
+            "b": "RITZ",
+            "c": "GRAN ATLANTA",
+            "d": "PUERTA MADRID"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CLÍNICA CERCANA A LA AVENIDA PADRE HUIDOBRO...",
+        "options": {
+            "a": "LA LUZ",
+            "b": "LA ZARZUELA",
+            "c": "RUBER",
+            "d": "ALFONSO X ELSABIO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL HOTEL CARLTON...",
+        "options": {
+            "a": "CAÑIZARES, 26",
+            "b": "PLAZA MAYOR",
+            "c": "PLAZA FELIPE II",
+            "d": "PASEO DE DELICIAS, 26"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "PLAZA CERCANA AL GRAN HOTEL VERSALLES EN LA C/COVARRUBIAS, 4...",
+        "options": {
+            "a": "PLAZA SIERRA GADOR",
+            "b": "PLAZA ALONSO MARTINEZ",
+            "c": "PLAZA LEGAZPI",
+            "d": "PLAZA JACINTO BENAVENTE"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA EMBAJADA DE ITALIA...",
+        "options": {
+            "a": "OQUENDO, 98",
+            "b": "SERRANO, 98",
+            "c": "LAGASCA,98",
+            "d": "Pº CASTELLANA, 98"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CUÁL ES EL METRO CERCANO A LA EMBAJADA DE AUSTRIA EN Pº CASTELLANA, 91...",
+        "options": {
+            "a": "SANTIAGO BERNABÉU",
+            "b": "CUZCO",
+            "c": "PLAZA DE CASTILLA",
+            "d": "GREGORIO MARAÑÓN"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DEL COLEGIO MAYOR SANTILLANA EN LA C/MARBELLA, 60...",
+        "options": {
+            "a": "LATINA",
+            "b": "USERA",
+            "c": "MONCLOA-ARAVACA",
+            "d": "FUENCARRAL-EL PARDO"
+        },
+        "solution": "d"
+    }
+]

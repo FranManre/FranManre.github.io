@@ -1,0 +1,122 @@
+[
+    {
+        "question": "ENTRE QUE DOS CALLES SITÚAS LA EMBAJADA DE LUXEMBURGO EN LA CALLE CLAUDIO COELLO, 78...",
+        "options": {
+            "a": "ORTEGA Y GASSET-GENERAL DÍAZ PORLIER",
+            "b": "ORTEGA Y GASSET-DON RAMON DE LA CRUZ",
+            "c": "PADILLA-GENERAL DÍAZ PORLIER",
+            "d": "AYALA-HERMOSILLA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MUNICIPIO EN EL QUE HAY UN HOSPITAL GENERAL...",
+        "options": {
+            "a": "LEGANÉS",
+            "b": "ALCORCÓN",
+            "c": "GETAFE",
+            "d": "MÓSTOLES"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "CLÍNICA EN LA AVENIDA VALLADOLID...",
+        "options": {
+            "a": "BELÉN",
+            "b": "MONCLOA",
+            "c": "SAN JOSÉ",
+            "d": "RUBER"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL BAUZÁ...",
+        "options": {
+            "a": "Pº CASTELLANA, 133",
+            "b": "PR REINA CRISTINA, 7",
+            "c": "LEGANITOS, 13",
+            "d": "GOYA, 79"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL HUSA CHAMARTÍN...",
+        "options": {
+            "a": "MAURICIO LEGENDRE",
+            "b": "AGUSTIN DE FOXÁ",
+            "c": "ENRIQUE LARRETA",
+            "d": "SALUD"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL PRAGA...",
+        "options": {
+            "a": "ANTONIO LÓPEZ, 65",
+            "b": "ORENSE, 38",
+            "c": "FLOR BAJA, 3",
+            "d": "GOYA, 3"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "ENTRE LA PLAZA DEL CALLAO Y LA PLAZA DE SANTO DOMINGO QUE HOTEL HAY...",
+        "options": {
+            "a": "EUROBUILDING",
+            "b": "FOXÁ",
+            "c": "SANTO DOMINGO",
+            "d": "CONVENCIÓN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "SITÚA EL TEATRO DE LA LATINA...",
+        "options": {
+            "a": "JOVELLANOS,4",
+            "b": "PLAZA DE LA CEBADA, 2",
+            "c": "PLAZA DEL CARMEN, 1",
+            "d": "PLAZA DE TIRSO DE MOLINA, 1"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CON QUÉ OTRO NOMBRE SE CONOCE EL CENTRO COMERCIAL DE BOADILLA...",
+        "options": {
+            "a": "KINEPOLIS",
+            "b": "EQUINOCCIO",
+            "c": "EL PALACIO",
+            "d": "HERON CITY"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "QUÉ LUGAR DE LOS QUE SE CITAN A CONTINUACIÓN NO PERTENECE AL APC...",
+        "options": {
+            "a": "TIRO DE PICHÓN",
+            "b": "HIPERCOR DE POZUELO",
+            "c": "LA MORALEJA",
+            "d": "PARQUE EUROPA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "LA ERMITA VIRGEN DEL PUERTO JUNTO A QUÉ PUENTE ESTÁ...",
+        "options": {
+            "a": "DE LA PAZ",
+            "b": "DE PRAGA",
+            "c": "DE TOLEDO",
+            "d": "SEGOVIA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "ENTRE QUE DOS CALLES SITÚAS EL HOTEL PRÍNCIPE DE VERGARA...",
+        "options": {
+            "a": "PRÍNCIPE DE VERGARA-CASTELLÓ",
+            "b": "GENERAL PARDIÑAS-MARÍA DE MOLINA",
+            "c": "GENERAL ORAÁ-MARÍA DE MOLINA",
+            "d": "PADILLA-MARÍA DE MOLINA"
+        },
+        "solution": "c"
+    }
+]

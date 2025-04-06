@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿En qué plaza está situado el Bingo Roma?",
+        "options": {
+            "a": "Plaza de Ciudad Lineal",
+            "b": "Plaza Roma",
+            "c": "Plaza de Manuel Becerra",
+            "d": "Plaza Aluche"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué calle está situado el hotel Gran Meliá Fénix?",
+        "options": {
+            "a": "Juan Bravo",
+            "b": "Bravo Murillo",
+            "c": "Hermosilla",
+            "d": "Peñuelas"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "El Consejo Superior de Deportes está situado en la calle:",
+        "options": {
+            "a": "Gregorio del Amo",
+            "b": "Sor Ángela de la Cruz",
+            "c": "Martín Fierro",
+            "d": "Calle Goya"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué conocido hospital infantil se encuentra en la Avda. Menéndez Pelayo, 65?",
+        "options": {
+            "a": "Hospital del Niño Jesús",
+            "b": "Hospital de la Princesa",
+            "c": "Clínica Ruber Internacional",
+            "d": "Nuestra Señora de belén"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de las siguientes calles no rodea la Plaza Perseo?",
+        "options": {
+            "a": "Calle Piscis",
+            "b": "Calle liria",
+            "c": "Calle del Dr. Esquerdo",
+            "d": "Calle de Sirio"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué paseo podemos encontrar la Biblioteca Nacional de España?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Paseo de los pontones",
+            "c": "Paseo de Recoletos",
+            "d": "Paseo Imperial"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué centro comercial está situado en Avda. de Monforte de Lemos?",
+        "options": {
+            "a": "C. C Dolce Vita",
+            "b": "C. C Zielo",
+            "c": "C.C La Vaguada",
+            "d": "C. C la sexta Avenida"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿A qué barrio del distrito Retiro pertenece el Museo del Prado?",
+        "options": {
+            "a": "Jerónimos",
+            "b": "Justicia",
+            "c": "Cortes",
+            "d": "Ibiza"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "En la Plaza de Cibeles podemos encontrar...",
+        "options": {
+            "a": "El Círculo de Bellas Artes",
+            "b": "El Palacio de Linares",
+            "c": "Edificio Metrópolis",
+            "d": "Edificio Unión y el fénix"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué vía pasa soterrada bajo la Plaza de Puerto de la Cruz?",
+        "options": {
+            "a": "M-14",
+            "b": "M-40",
+            "c": "M-30",
+            "d": "M-23"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué glorieta está próxima al Centro Comercial Gran Vía de Hortaleza?",
+        "options": {
+            "a": "Glorieta Pilar Miró",
+            "b": "Glorieta del Mar Caribe",
+            "c": "Plaza del Liceo",
+            "d": "Glorieta Mar de Cristal"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál está ubicado en la Carretera del Pardo?",
+        "options": {
+            "a": "Palacio de la Zarzuela",
+            "b": "Palacio Real",
+            "c": "Palacio de Liria",
+            "d": "Palacio de Cristal"
+        },
+        "solution": "a"
+    }
+]

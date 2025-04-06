@@ -1,0 +1,122 @@
+[
+    {
+        "question": "El hotel \"Iberostar Las Letras\" está situado en la calle:",
+        "options": {
+            "a": "San Bernardo",
+            "b": "Gran Via",
+            "c": "Alcalá",
+            "d": "Princesa"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué lugar de ocio encontramos en frente de la Biblioteca Pública Municipal Ciudad Lineal?",
+        "options": {
+            "a": "C. C Las rosas",
+            "b": "Museo africano",
+            "c": "Bingo Las Vegas",
+            "d": "DGT"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué calle se encuentra el Centro Deportivo Municipal Marqués de Samaranch?",
+        "options": {
+            "a": "Paseo Imperial",
+            "b": "Paseo Acacias",
+            "c": "Calle Toledo",
+            "d": "Calle Embajadores"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué organismo público encontramos en la Plaza de Cibeles?",
+        "options": {
+            "a": "Ministerio de Educación",
+            "b": "Presidencia de la Comunidad de Madrid",
+            "c": "El Ayuntamiento de Madrid",
+            "d": "Audiencia Nacional"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "En la calle de Jorge Juan, 6 está situado un organismo público, ¿cuál es?",
+        "options": {
+            "a": "Juzgados de lo Penal",
+            "b": "Ministerio del Interior",
+            "c": "Hospital San Rafael",
+            "d": "Agencia Española de Protección de Datos"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué monumento encontramos en frente de la parada de metro Moncloa?",
+        "options": {
+            "a": "Puerta de Hierro",
+            "b": "Puerta de Alcalá",
+            "c": "Templo de Debod",
+            "d": "Arco de la Victoria"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué calle une las paradas de metro de Bilbao y Alonso Martínez?",
+        "options": {
+            "a": "Calle Carranza",
+            "b": "Calle Alonso Martínez",
+            "c": "Calle de Sagasta",
+            "d": "Calle Alberto Aguilera"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Avda. de la Ciudad de Barcelona une las paradas de metro de:",
+        "options": {
+            "a": "Pacífico, Puente de Vallecas y Menéndez Pelayo",
+            "b": "Atocha, Menéndez Pelayo y Nueva Numancia",
+            "c": "Pacífico, Atocha y Méndez Álvaro",
+            "d": "Conde Casal, Puente de Vallecas y Atocha"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿A qué distrito pertenecen Chueca, Lavapiés y Malasaña?",
+        "options": {
+            "a": "Centro",
+            "b": "Chamberí",
+            "c": "Chamartín",
+            "d": "Arganzuela"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El Teatro Real se encuentra próximo a la parada de metro de:",
+        "options": {
+            "a": "Opera",
+            "b": "Príncipe Pío",
+            "c": "Sol",
+            "d": "Ventas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué famoso lugar está situado en la calle Génova, 13?",
+        "options": {
+            "a": "Palacio de Linares",
+            "b": "Sede PP",
+            "c": "Jefatura Provincial de tráfico",
+            "d": "hacienda"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El Tribunal Supremo está en...",
+        "options": {
+            "a": "Plaza de la república de chile",
+            "b": "Plaza de Olavide",
+            "c": "Plaza Mayor",
+            "d": "Plaza de la Villa de París"
+        },
+        "solution": "d"
+    }
+]

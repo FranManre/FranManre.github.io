@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DOS PUEBLOS DE LOS QUE UNO NO PERTENECE AL APC...",
+        "options": {
+            "a": "CHINCHÓN-PARACUELLOS DE JARAMA",
+            "b": "ALCOBENDAS-GETAFE",
+            "c": "CAMPOREAL-PARLA",
+            "d": "SAN MARTÍN DE VALDEIGLESIAS-PINTO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "CEMENTERIO DEL PARDO...",
+        "options": {
+            "a": "SANISIDRO",
+            "b": "MINGORRUBIO",
+            "c": "SANJUSTO",
+            "d": "MONTECARMELO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "FACULTAD QUE NO ESTÁ EN EL CAMPUS DE VALLECAS...",
+        "options": {
+            "a": "TOPOGRAFÍA Y CARTOGRAFÍA",
+            "b": "FORESTALES",
+            "c": "INFORMÁTICA",
+            "d": "TELECOMUNICACIONES"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CUÁL DE LOS SIGUIENTES COLEGIOS ESTÁ EN AVDA GREGORIO DEL AMO...",
+        "options": {
+            "a": "RONCALLI",
+            "b": "MARA",
+            "c": "SAN JUAN EVANGELISTA",
+            "d": "BERROSPE"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "EL PALACIO MARQUÉS DE SALAMANCA QUÉ FUNDACIÓN ALBERGA...",
+        "options": {
+            "a": "ICO",
+            "b": "LA CAIXA",
+            "c": "JUAN MARCH",
+            "d": "BBVA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "QUÉ METRO ES EL CERCANO AL PALACIO DE HIELO DE SILVANO, 77...",
+        "options": {
+            "a": "CANILLAS",
+            "b": "PLAZA DE CASTILLA",
+            "c": "PÍO XII",
+            "d": "ALAMEDA DE OSUNA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CON QUÉ OTRO NOMBRE SE CONOCE AL PALACIO DE LINARES...",
+        "options": {
+            "a": "CENTRO DE ARTE REINA SOFÍA",
+            "b": "MUSEO DEL PRADO",
+            "c": "CASA DE AMÉRICA",
+            "d": "JARDÍN BOTÁNICO"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CUÁL DE LOS SIGUIENTES PUNTOS DE INTERÉS NO ESTÁ PRÓXIMO A CERCANÍAS DE RENFE...",
+        "options": {
+            "a": "BERNABEU",
+            "b": "CALDERÓN",
+            "c": "TERESA RIVERO",
+            "d": "PALACIO DE LOS DEPORTES"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "RENFE CERCANA A LA ESTACIÓN SUR....",
+        "options": {
+            "a": "MÉNDEZ ALVARO",
+            "b": "PIRÁMIDES",
+            "c": "AUTORES",
+            "d": "RECOLETOS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "QUÉ HAY FRENTE AL TEATRO MARQUINA...",
+        "options": {
+            "a": "MUSEO DEL PRADO",
+            "b": "CUARTEL GENERAL DEL EJÉRCITO",
+            "c": "FUNDACIÓN ICO",
+            "d": "GOBIERNO MILITAR"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CALLE DEL CORTE INGLÉS DE NUEVOS MINISTERIOS...",
+        "options": {
+            "a": "RAIMUNDO FDEZ VILLAVERDE",
+            "b": "HERNANI",
+            "c": "ORENSE",
+            "d": "Pº CASTELLANA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "MUNICIPIO DEL CENTRO COMERCIAL M-40...",
+        "options": {
+            "a": "GETAFE",
+            "b": "LEGANÉS",
+            "c": "POZUELO DE ALARCÓN",
+            "d": "MAJADAHONDA"
+        },
+        "solution": "b"
+    }
+]

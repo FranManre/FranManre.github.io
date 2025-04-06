@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DIRECCIÓN DEL JARDÍN BOTÁNICO...",
+        "options": {
+            "a": "PLAZA DE COLÓN",
+            "b": "PLAZA EMILIO CASTELAR",
+            "c": "PLAZA DE MURILLO",
+            "d": "PLAZA DE ESPAÑA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DISTRITO DE LA PLAZA DE ORIENTE...",
+        "options": {
+            "a": "CHAMBERÍ",
+            "b": "FUENCARRAL",
+            "c": "CENTRO",
+            "d": "ARGANZUELA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL SITUADO EN LA PLAZA DE LAS CORTES 10...",
+        "options": {
+            "a": "PALACE",
+            "b": "RITZ",
+            "c": "VILLA REAL",
+            "d": "MAYORAZGO"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO REAL...",
+        "options": {
+            "a": "PLAZA DE LAS COMENDADORAS",
+            "b": "CALLE BAILÉN",
+            "c": "CALLE MAYOR",
+            "d": "PLAZA DE ISABEL II"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DIRECCIÓN DEL PALACIO DE JUSTICIA...",
+        "options": {
+            "a": "ALONSO MARTINEZ",
+            "b": "FUENCARRAL",
+            "c": "VILLA DE PARÍS",
+            "d": "RECOLETOS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA AUDIENCIA NACIONAL...",
+        "options": {
+            "a": "GÉNOVA, 13",
+            "b": "GARCÍA GUTIERREZ, 1",
+            "c": "ALONSO MARTINEZ, 12",
+            "d": "SAGASTA, 22"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL BALCÓN DE ROSALES...",
+        "options": {
+            "a": "PASEO DE ZORRILLA",
+            "b": "SAGASTA",
+            "c": "PASEO PINTOR ROSALES",
+            "d": "GAZTAMBIDE"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL PETIT PALACE POSADA DEL PEINE...",
+        "options": {
+            "a": "POSTAS, 17",
+            "b": "PLZA DE LA PAJA",
+            "c": "CARRETAS, 13",
+            "d": "PLZA COMENDADORAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DEL MUSEO ARQUEOLÓGICO NACIONAL",
+        "options": {
+            "a": "VELÁZQUEZ, 46",
+            "b": "GOYA, 65",
+            "c": "SERRANO, 13",
+            "d": "JUAN BRAVO, 66"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL MUSEO DE ANGEL NIETO...",
+        "options": {
+            "a": "MÉNDEZ ALVARO, 44",
+            "b": "AVDA DEL PLANETARIO, 4",
+            "c": "NTRA SRA DE FÁTIMA, 10",
+            "d": "AVDA DE LA ALBUFERA, 16"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CENTRO CULTURAL VILLA DE MADRID...",
+        "options": {
+            "a": "GÉNOVA",
+            "b": "PASEO RECOLETOS",
+            "c": "PLZA COLÓN",
+            "d": "SAGASTA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "HOSPITAL CERCANO A LA COLONIA MIRASIERRA...",
+        "options": {
+            "a": "CLÍNICO",
+            "b": "RAMÓN Y CAJAL",
+            "c": "LA PAZ",
+            "d": "RUBER INTERNACIONAL"
+        },
+        "solution": "d"
+    }
+]

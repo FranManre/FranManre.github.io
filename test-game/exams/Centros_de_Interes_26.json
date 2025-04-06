@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DISTRITO AL QUE PERTENECE EL PLANΤΙΟ...",
+        "options": {
+            "a": "MONCLOA-ARAVACA",
+            "b": "FUENCARRAL-EL PARDO",
+            "c": "ARGANZUELA",
+            "d": "CHAMBERÍ"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL DIARIO LA RAZÓN...",
+        "options": {
+            "a": "MIGUEL YUSTE",
+            "b": "JUAN IGNACIO LUCA DE TENA",
+            "c": "JOSEFA VALCÁRCEL",
+            "d": "CONDESA DE VENADITO"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "SITUAR EN SU CALLE EXACTA LA CAJA MÁGICA...",
+        "options": {
+            "a": "AVDA ANDALUCÍA",
+            "b": "AVDA MANOTERAS",
+            "c": "CAMINO DE PERALES",
+            "d": "AVDA ARCENTALES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL CAMPO DE FÚTBOL DEL RAYO VALLECANO...",
+        "options": {
+            "a": "AVDA ENTREVÍAS",
+            "b": "BENJAMIN PALENCIA",
+            "c": "PAYASO FOFÓ",
+            "d": "ENCOMIENDA DE PALACIOS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL LICEO FRANCÉS...",
+        "options": {
+            "a": "ARROYO FONTARRÓN, 3",
+            "b": "AVENIDA DE LA ALBUFERA, 75",
+            "c": "SILVANO, 77",
+            "d": "PLAZA DEL LICEO, 1"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿DÓNDE ESTÁ EL HOTEL SOFITEL MADRID AEROPUERTO?",
+        "options": {
+            "a": "AVENIDA DE AMÉRICA, 41",
+            "b": "AVENIDA DE LOGROÑO, 305",
+            "c": "AVENIDA CAPITAL DE ESPAÑA-MADRID, 10",
+            "d": "AVENIDA GENERAL, 43"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA JUNTA MUNICIPAL DE DISTRITO DE SALAMANCA...",
+        "options": {
+            "a": "PRÍNCIPE DE VERGARA",
+            "b": "VELAZQUEZ",
+            "c": "SERRANO",
+            "d": "JOSE ORTEGA Y GASSET"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL COLEGIO MARQUÉS DE LA ENSENADA...",
+        "options": {
+            "a": "AVENIDA DE SÉNECA, 18",
+            "b": "PASEO RUPERTO CHAPÍ, 8",
+            "c": "PASEO JUAN XXIII, 17",
+            "d": "AVENIDA GREGORIO DELAMO, 8"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADA LA SALA SOL...",
+        "options": {
+            "a": "JARDINES, 3",
+            "b": "ARENAL, 15",
+            "c": "SILVA, 8",
+            "d": "PLAZA MAYOR, 1"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL RESTAURANTE SANTCELONI...",
+        "options": {
+            "a": "PINAR, 15",
+            "b": "CAVA BAJA, 18",
+            "c": "ALVAREZ DE BAENA, 5",
+            "d": "Pº CASTELLANA, 57"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "QUÉ HAY SITUADO EN LA C/ POETA JOAN MARAGALL,1...",
+        "options": {
+            "a": "EDIFICIO BBVA",
+            "b": "EL CORTE INGLÉS",
+            "c": "TORRE PICASO",
+            "d": "EMBAJADA DE VENEZUELA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL MUSEO AL AIRE LIBRE...",
+        "options": {
+            "a": "PLAZA DE CUZCO",
+            "b": "PLAZA EMILIO CASTELAR",
+            "c": "PLAZA DE COLÓN",
+            "d": "PLAZA GREGORIO MARAÑON"
+        },
+        "solution": "b"
+    }
+]

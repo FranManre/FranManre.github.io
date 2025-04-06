@@ -1,0 +1,122 @@
+[
+    {
+        "question": "El hotel Santo Mauro se encuentra en la calle:",
+        "options": {
+            "a": "Calle de Zurbano",
+            "b": "Calle Silvano",
+            "c": "Calle Puerto Rico",
+            "d": "Calle santo Muro"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué calles bordean el Museo Arqueológico Nacional?",
+        "options": {
+            "a": "Génova/Goya/Recoletos/Prado",
+            "b": "Goya/Armada Española/Recoletos y Prado",
+            "c": "Serrano/Villanueva/Recoletos/Armada Española",
+            "d": "Armada Española/Paseo de la Castellana/ Villanueva/Goya"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes centros comerciales está en San Sebastián de los Reyes?",
+        "options": {
+            "a": "C. C Gran Plaza 2",
+            "b": "C. C. La vaguada",
+            "c": "C. C Parque Corredor",
+            "d": "C.C Plaza Norte 2"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué campus universitario está situado en la Ronda de Toledo?",
+        "options": {
+            "a": "Universidad Carlos III",
+            "b": "Universidad Francisco de Vitoria",
+            "c": "Universidad San Pablo CEU",
+            "d": "Universidad Complutense de Madrid"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El Cementerio Sur está situado en la calle:",
+        "options": {
+            "a": "Dr. Tolosa Latour",
+            "b": "Vía de poblados",
+            "c": "Joaquín Turina",
+            "d": "Calle Ildefonso González Valencia"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué conocido palacio está situado en la Calle de la Princesa?",
+        "options": {
+            "a": "Palacio de Gaviria",
+            "b": "Palacio de Liria",
+            "c": "Palacio de Linares",
+            "d": "Palacio Real"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El Centro de Exposiciones Arte Canal se encuentra situado en:",
+        "options": {
+            "a": "Paseo del Prado",
+            "b": "Paseo de la Castellana",
+            "c": "Paseo san Francisco de Sales",
+            "d": "Av. De Valladolid"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "Si queremos ir a la Casa de la Panadería, ¿a dónde debemos dirigirnos?",
+        "options": {
+            "a": "Plaza Mayor",
+            "b": "Plaza del rey",
+            "c": "Plaza de ángel Caído",
+            "d": "Plaza de la Independencia"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué centro cultural está en las inmediaciones del Cuartel General de la Armada?",
+        "options": {
+            "a": "Museo Arqueológico",
+            "b": "Museo Geominero",
+            "c": "Museo Naval de Madrid",
+            "d": "Museo Africano"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "Las Vistillas se encuentran en...",
+        "options": {
+            "a": "Plaza Pilar Miró",
+            "b": "Plaza de España",
+            "c": "Plaza de Gabriel Miró",
+            "d": "Plaza de la cebada"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué calle están los \"Teatros del Canal\"?",
+        "options": {
+            "a": "Bravo Murillo",
+            "b": "Cuatro caminos",
+            "c": "Cea Bermúdez",
+            "d": "Paseo Marcelino Camacho"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En cuál de las siguientes calles está situado el Museo del Ferrocarril?",
+        "options": {
+            "a": "Paseo Santa María de la cabeza",
+            "b": "Méndez Álvaro",
+            "c": "Paseo de las Delicias",
+            "d": "Menéndez Pelayo"
+        },
+        "solution": "c"
+    }
+]

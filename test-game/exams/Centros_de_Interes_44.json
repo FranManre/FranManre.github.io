@@ -1,0 +1,122 @@
+[
+    {
+        "question": "JUNTO A QUÉ CALLE CONOCIDA ESTÁ SITUADO EL TEMPLO DE DEBOD...",
+        "options": {
+            "a": "MARQUÉS DE URQUJO",
+            "b": "Pº PINTOR ROSALES",
+            "c": "PRINCESA",
+            "d": "Pº DE LA FLORIDA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CALLE DÓNDE SITÚAS EL MERCADO DE CHAMBERÍ...",
+        "options": {
+            "a": "ALONSO CANO, 10",
+            "b": "SANTA ENGRACIA,84",
+            "c": "GARCÍA DE PAREDES, 3",
+            "d": "JOSEA BASCAL, 52"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO MUNICIPAL DE ALCOBENDAS...",
+        "options": {
+            "a": "AVDA BAUNATAL, 9",
+            "b": "AVDA DE LA SIERRA, 15",
+            "c": "AVDA DE ESPAÑA, 2",
+            "d": "BLAS DE OTERO, 4"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "LA EMBAJADA DE JAPÓN SE ENCUENTRA EN SERRANO, 109 JUNTO A QUE ORGANISMO OFICIAL...",
+        "options": {
+            "a": "AUDITORIO NACIONAL",
+            "b": "CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS",
+            "c": "TRIBUNAL SUPREMO",
+            "d": "AUDIENCIA NACIONAL"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUE SITUAS EN EL Pº CASTELLANA, 81...",
+        "options": {
+            "a": "RESTAURANTE JAIALAI",
+            "b": "EDIFICIO BANCO DE BILBAO",
+            "c": "EMBAJADA URUGUAY",
+            "d": "HOTEL GAUDÍ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL CERCANÍAS DE VALDELASFUENTES...",
+        "options": {
+            "a": "ALCORCÓN",
+            "b": "ALCOBENDAS",
+            "c": "MÓSTOLES",
+            "d": "LAS ROZAS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL RESTAURANTE JAIALAI...",
+        "options": {
+            "a": "SERRANO",
+            "b": "JOAQUÍN COSTA",
+            "c": "VELÁZQUEZ",
+            "d": "ALCALÁ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DE LA JEFATURA SUPERIOR DEPOLICÍA...",
+        "options": {
+            "a": "DOCTOR FEDERICO RUBIO",
+            "b": "FUENTE CARRANTOΝΑ",
+            "c": "AVENIDA GUADALAJARA",
+            "d": "LA TACONA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DE LA FUNDACIÓN RAMÓN ARECES...",
+        "options": {
+            "a": "SERRANO",
+            "b": "PINAR",
+            "c": "GOYA",
+            "d": "VITRUVIO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "ANTIGUO MINISTERIO DE AGRICULTURA AHORA...",
+        "options": {
+            "a": "MEDIO RURAL Y MARINO",
+            "b": "PESCA Y ALIMENTACIÓN",
+            "c": "FOMENTO",
+            "d": "AGENCIA ESTATAL METEOROLOGÍA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO MARAVILLAS...",
+        "options": {
+            "a": "GRAN VÍA",
+            "b": "MONTERA",
+            "c": "MANUELA MALASAÑA",
+            "d": "PLAZA DEL CALLAO"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA CADENA COPE, CERCANA AL RESTAURANTEH ORCHER...",
+        "options": {
+            "a": "ALFONSO XI",
+            "b": "PLAZA DE ESPAÑA",
+            "c": "PASEO DEL PRADO",
+            "d": "ALCALÁ"
+        },
+        "solution": "a"
+    }
+]

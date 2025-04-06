@@ -1,0 +1,122 @@
+[
+    {
+        "question": "ENTRE LA GLORIETA DE CHAMBERI Y LA GLORIETA DE RUBÉN DARÍO...",
+        "options": {
+            "a": "PASEO GENERAL MARTINEZ CAMPOS",
+            "b": "PASEO EDUARDO DATO",
+            "c": "JOSE ABASCAL",
+            "d": "FERNÁNDEZ DE LA HOZ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL VELÁZQUEZ...",
+        "options": {
+            "a": "GOYA, 23",
+            "b": "VELÁZQUEZ, 62",
+            "c": "SERRANO, 15",
+            "d": "VELÁZQUEZ, 66"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EL HOTEL INTERCONTINENTAL CASTELLANA ESTÁ SITUADO EN EL Nº 49 DEL PASEO DE LA CASTELLANA JUNTO AQUÉ CALLE...",
+        "options": {
+            "a": "GENERAL ORAÁ",
+            "b": "SANTA ENGRACIA",
+            "c": "Pº RECOLETOS",
+            "d": "Pº GENERAL MARTINEZ CAMPOS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "QUÉ CALLE UNE LA PLAZA DE SANTA ANA Y LA PLAZA DE LAS CORTES...",
+        "options": {
+            "a": "CALLE DEL PRADO",
+            "b": "Pº DEL PRÍNCIPE",
+            "c": "CARRERA DE SAN JERÓNIΜΟ",
+            "d": "CARRETAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "QUÉ COLEGIO MAYOR ESTÁ EN EL PASEO JUAN XXIII...",
+        "options": {
+            "a": "CHAMINADE",
+            "b": "MENDEL",
+            "c": "RON CALLI",
+            "d": "XIMÉNEZ CISNEROS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "QUE HAY SITUADO JUNTO AL PARQUE JUAN CARLOS I...",
+        "options": {
+            "a": "PLANETARIO",
+            "b": "RECINTO FERIAL",
+            "c": "TELEFÉRICO",
+            "d": "TEMPLO DE DEBOD"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CALLE DEL CENTRO CULTURAL EL MADROÑO...",
+        "options": {
+            "a": "VELÁZQUEZ",
+            "b": "VILLARDONDIEGO",
+            "c": "SERRANO",
+            "d": "FRANCISCO SILVELA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CALLE DE LA COMISARÍA DE TETUÁN...",
+        "options": {
+            "a": "SINESIO DELGADO",
+            "b": "REINA VICTORIA",
+            "c": "MATEO INURRIA",
+            "d": "MAESTRO LADILLEROS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "PLAZA DEL HOTEL RITZ...",
+        "options": {
+            "a": "PLAZA DE LAS CORTES",
+            "b": "PLAZA DE LA LEALTAD",
+            "c": "PLAZA DEL EMPERADOR CARLOS V",
+            "d": "PLAZA DE CUZCO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CENTRO COMERCIAL DE LOS CINES VALDEBERNARDO...",
+        "options": {
+            "a": "JARDÍN DE SERRANO",
+            "b": "ISLAZUL",
+            "c": "MADRID SUR",
+            "d": "VALDEBERNARDO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "CARRETERA NACIONAL MÁS CERCANA AL CLUB DE CAMPO VILLA DE MADRID...",
+        "options": {
+            "a": "N-I",
+            "b": "N-V",
+            "c": "N-VI",
+            "d": "N-III"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "PLAZA CERCANA AL RESTAURANTE HORCHER...",
+        "options": {
+            "a": "PLAZA DE ALSACIA",
+            "b": "PLAZA DE LA INDEPENDENCIA",
+            "c": "PLAZACOLÓN",
+            "d": "PLAZA GREGORIO MARAÑÓN"
+        },
+        "solution": "b"
+    }
+]

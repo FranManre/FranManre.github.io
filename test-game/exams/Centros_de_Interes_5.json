@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿En qué calle está el Teatro Alcázar?",
+        "options": {
+            "a": "Calle Alcalá",
+            "b": "Calle Magdalena",
+            "c": "Calle Bailén",
+            "d": "Calle Mayor"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Dónde se encuentra la Plaza de Toros de las Ventas?",
+        "options": {
+            "a": "Calle de Alcalá, 237",
+            "b": "Calle de Alcalá, 58",
+            "c": "Calle de Alcalá, 111",
+            "d": "Calle de Alcalá, 414"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué gran centro de ocio encontramos en M-301, Km 15.5 de San Martín de la Vega?",
+        "options": {
+            "a": "Parque Warner Madrid",
+            "b": "Parque de Atracciones",
+            "c": "Caja Mágica",
+            "d": "Karting de Carlos Sainz"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "Si queremos visitar el Arco de la Victoria, debemos dirigirnos a:",
+        "options": {
+            "a": "Plaza de España",
+            "b": "Plaza de Cardenal Cisneros",
+            "c": "Plaza de Moncloa",
+            "d": "Plaza de la Lealtad"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿En qué zona está situado el Parque del Tío Pío?",
+        "options": {
+            "a": "Vallecas",
+            "b": "Chamberi",
+            "c": "Chamartín",
+            "d": "barajas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál es la calle que une las paradas de metro de Alvarado y Estrecho?",
+        "options": {
+            "a": "Calle Bravo Murillo",
+            "b": "San Germán",
+            "c": "Sor Ángela de la Cruz",
+            "d": "Francos Rodríguez"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué estación encontramos en la calle de Dulce Chacón?",
+        "options": {
+            "a": "Arturo Soria",
+            "b": "Pinar del Rey",
+            "c": "Las tablas",
+            "d": "Fuente de la Mora"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué famoso edificio está situado en la esquina de Gran Vía con la calle Alcalá?",
+        "options": {
+            "a": "Edificio Fénix",
+            "b": "Edificio de Torre España",
+            "c": "Edificio Grassy",
+            "d": "Edificio Metrópolis"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de las siguientes calles está próxima al centro social y cultural el Matadero?",
+        "options": {
+            "a": "Paseo de la Chopera",
+            "b": "Antonio López",
+            "c": "General Ricardos",
+            "d": "Paseo de la Castellana"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El hotel TRYP Madrid Chamartín está en...",
+        "options": {
+            "a": "Calle Belisana",
+            "b": "Calle Mauricio Ravel",
+            "c": "Calle Silvano",
+            "d": "Calle Hiedra"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué organismo público se encuentra en Paseo de la Castellana, 109?",
+        "options": {
+            "a": "Ministerios de Sanidad y Consumo",
+            "b": "Ministerio de Defensa",
+            "c": "Ministerio de Hacienda",
+            "d": "Ministerio de Agricultura"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La siguiente dirección se corresponde con:\"ICADE Business School\"",
+        "options": {
+            "a": "Calle Rey Francisco, 4",
+            "b": "Calle Segovia",
+            "c": "Calle Raimundo Fdez. Villaverde",
+            "d": "Calle Ocaña"
+        },
+        "solution": "a"
+    }
+]

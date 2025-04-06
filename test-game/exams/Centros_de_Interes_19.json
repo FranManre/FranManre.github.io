@@ -1,0 +1,122 @@
+[
+    {
+        "question": "¿En qué famosa plaza se encuentra situada la Casa de La Panadería?",
+        "options": {
+            "a": "Plaza Mayor",
+            "b": "Plaza Del Rey",
+            "c": "Plaza de Conde Casal",
+            "d": "Plaza de Ópera"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué plaza podemos encontrar el Museo de San Isidro?",
+        "options": {
+            "a": "Plaza de San Andrés",
+            "b": "Plaza de la Cebada",
+            "c": "Plaza de Cascorro",
+            "d": "Plaza de Embajadores"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "El edificio Torre Picasso se encuentra en:",
+        "options": {
+            "a": "Plaza del Ecuador",
+            "b": "Plaza de Pablo Ruiz Picasso",
+            "c": "Plaza de República Dominicana",
+            "d": "Plaza de Cataluña"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué organismo público encontramos en el Paseo del Prado?",
+        "options": {
+            "a": "Ministerio de Educación",
+            "b": "Alcaldía de Madrid",
+            "c": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+            "d": "Presidencia de la Comunidad de Madrid"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Cuál de las siguientes plazas está al lado de la Parroquia de San Marcos?",
+        "options": {
+            "a": "Plaza Cristino Martos",
+            "b": "Plaza Del General San Martin",
+            "c": "Plaza de Bilbao",
+            "d": "Plaza de España"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "A la Plaza Manolete se puede acceder desde:",
+        "options": {
+            "a": "El Paseo de la Castellana",
+            "b": "Arturo Soria",
+            "c": "Calle Hermanos García Noblejas",
+            "d": "Francos Rodriguez"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué podemos encontrar en la Calle Jorge Juan, 106?",
+        "options": {
+            "a": "Cadena SER",
+            "b": "DGT",
+            "c": "Metro de Madrid",
+            "d": "Fábrica Nacional de Moneda y Timbre"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de los siguientes barrios no pertenece al distrito Centro?",
+        "options": {
+            "a": "Sol",
+            "b": "Cortes",
+            "c": "Aluche",
+            "d": "Universidad"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La calle San Bernardo une la parada de metro de San Bernardo y la parada de:",
+        "options": {
+            "a": "Gran Vía",
+            "b": "callao",
+            "c": "Ventura Rodríguez",
+            "d": "Quevedo"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "En El Parque de Enrique Tierno Galván está situado...",
+        "options": {
+            "a": "El Planetario",
+            "b": "Faunia",
+            "c": "Teleférico",
+            "d": "Tanatorio M-40"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Cuál de las siguientes instalaciones deportivas se encuentra en la Avda. Miraflores, s/n?",
+        "options": {
+            "a": "Club de Tenis Chamartin",
+            "b": "Canoe",
+            "c": "Aeropuerto",
+            "d": "Real Club de Golf de la Puerta de Hierro"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Cuál de las siguientes estaciones está situada en la calle Méndez Álvaro?",
+        "options": {
+            "a": "Estación Norte",
+            "b": "Estación Sur",
+            "c": "Estación Av. América",
+            "d": "Estación Chamartin"
+        },
+        "solution": "b"
+    }
+]

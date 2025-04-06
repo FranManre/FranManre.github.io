@@ -1,0 +1,122 @@
+[
+    {
+        "question": "CUÁLES EL NOMBRE DEL HOTEL QUE TIENE SU DIRECCIÓN EN O'DONNELL 53...",
+        "options": {
+            "a": "HOTEL AMURA",
+            "b": "HOTEL CONVENCIÓN",
+            "c": "HOTEL PRAGA",
+            "d": "HOTEL FLORIDA NORTE"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUE CALLE SE ENCUENTRA LA COMISARÍA DEL BARRIO DE SALAMANCA...",
+        "options": {
+            "a": "PRÍNCIPE DE ASTURIAS, 8",
+            "b": "JOSÉ ORTEGAYGASSET, 56",
+            "c": "SERRANO, 18",
+            "d": "VELÁZQUEZ, 23"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CADENA DE RADIO MUY CONOCIDA QUE ESTÁ EN GRAN VÍA, 32...",
+        "options": {
+            "a": "SER",
+            "b": "INTERCONTINENTAL",
+            "c": "COPE",
+            "d": "CADENA RADIOINDEPENDIENTE"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOSPITAL SITUADO EN LA CALLE SERRANO, 199...",
+        "options": {
+            "a": "SAN RAFAEL",
+            "b": "SANTA CRISTINA",
+            "c": "CLÍNICA MADRID",
+            "d": "RAMÓN Y CAJAL"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CUÁL DE LOS SIGUIENTES CENTROS SANITARIOS SE ENCUENTRAN EN LA CALLE ARTURO SORIA, CERCA DEL CUARTEL DE INFANTERÍA DE MARINA...",
+        "options": {
+            "a": "POLICLÍNICA NAVAL",
+            "b": "CLÍNICA NTRA. SRA. DE BELÉN",
+            "c": "HOSPITAL DEL AIRE",
+            "d": "HOSPITAL DE SAN RAFAEL"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿A QUÉ DISTRITO PERTENECE EL HOSPITAL NIÑO JESÚS?",
+        "options": {
+            "a": "CENTRO",
+            "b": "RETIRO",
+            "c": "SALAMANCA",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "ESTÁ DENTRO DEL ÁREA DE PRESTACIÓN CONJUNTA EL KARTING CARLOS SAINZ?",
+        "options": {
+            "a": "SI, PERTENECE A MAJADAHONDA",
+            "b": "SI, PERTENECE A LAS ROZAS",
+            "c": "NO, PERTENECE A COSLADA",
+            "d": "NO ESTÁ EN LA COMUNIDAD DE MADRID"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿DÓNDE ESTÁ SITUADO EL REGISTRO CIVIL?",
+        "options": {
+            "a": "ALFONSO XIII, 22",
+            "b": "PRADILLO, 66",
+            "c": "PLAZA DE CATALUÑA, 1",
+            "d": "PRÍNCIPE DE VERGARA, 140"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ CALLE SE ENCUENTRAN SITUADAS LAS DEPENDENCIAS DEL AYUNTAMIENTO DE MADRID, DEDICADAS A LA GESTIÓN DE TODOS LOS DOCUMENTOS RELATIVOS A LAS LICENCIAS DE AUTOTAXI...",
+        "options": {
+            "a": "ALBARRACIN, 43",
+            "b": "ALBARRACÍN, 33",
+            "c": "ALBARRACÍN, 23",
+            "d": "ALBARRACÍN, 53"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿DÓNDE ESTÁ SITUADA LA JUNTA MUNICIPAL DE DISTRITO DE LATINA?",
+        "options": {
+            "a": "RAFAEL FINAT",
+            "b": "AVENIDA DE LA AVIACIÓN",
+            "c": "AVENIDA DE LOS POBLADOS",
+            "d": "AVENIDA DE LAS ÁGUILAS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿EN QUÉ MUNICIPIO SE ENCUENTRA EL LUGAR DE OCIO SNOWZONE?",
+        "options": {
+            "a": "ALCORCÓN",
+            "b": "NAVALCARNERO",
+            "c": "PARLA",
+            "d": "ARROYOMOLINOS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿DÓNDE SE ENCUENTRA ELMUSEO THYSSEN BORNEMISZA?",
+        "options": {
+            "a": "Pº PRADO, 8",
+            "b": "SANTA ISABEL, 4",
+            "c": "Pº RECOLETOS, 36",
+            "d": "ATOCHA, 18"
+        },
+        "solution": "a"
+    }
+]

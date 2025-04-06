@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DIRECCIÓN DEL PALACIO DE BUENAVISTA...",
+        "options": {
+            "a": "PLAZA DE CIBELES",
+            "b": "Pº DEL PRADO",
+            "c": "Pº RECOLETOS",
+            "d": "GRAN VÍA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOSPITAL VIRGEN DEL MAR...",
+        "options": {
+            "a": "PRÍNCIPE DE VERGARA",
+            "b": "HONDURAS",
+            "c": "FRANCISCO SILVELA",
+            "d": "ALBERTO ALCOCER"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PARQUE CERCANO AL MUSEO ANGEL NIETO...",
+        "options": {
+            "a": "PARQUE HUERTA DEL OBISPO",
+            "b": "PARQUE TIERNO GALVAN",
+            "c": "PARQUE ROMA",
+            "d": "PARQUE NORTE"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MUNICIPIO AL QUE PERTENECE EL CERRO DE LO SANGELES...",
+        "options": {
+            "a": "LEGANÉS",
+            "b": "PINTO",
+            "c": "GETAFE",
+            "d": "MÓSTOLES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL COLEGIO MAYOR TERESA DE JESÚS...",
+        "options": {
+            "a": "RAMIRO DE MAEZTU",
+            "b": "AVDA GREGORIO DEL AMO",
+            "c": "Pº JUAN XXIII",
+            "d": "AVDA SENECA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "HOTEL CERCANO A LA URBANIZACIÓN RESIDENCIAL BARAJAS...",
+        "options": {
+            "a": "TRYP DIANA",
+            "b": "SUECIA",
+            "c": "SENATOR",
+            "d": "DIANA PLUS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "NOMBRE ACTUAL DE LA ANTIGUA ESTACIÓN DEL NORTE...",
+        "options": {
+            "a": "CHAMARTÍN",
+            "b": "ATOCHA",
+            "c": "PRÍNCIPE PÍO",
+            "d": "EL BARRIAL"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "PARQUE CERCANO A IMAX MADRID...",
+        "options": {
+            "a": "VENTILLA",
+            "b": "PALOMERAS",
+            "c": "PRADOLONGO",
+            "d": "TIERNO GALVAN"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA LA SALA SOL...",
+        "options": {
+            "a": "CAÑIZARES",
+            "b": "JARDINES",
+            "c": "ATOCHA",
+            "d": "GÉNOVA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUÉ PAREJA DE MUNICIPIOS PERTENECEN LOS DOS AL APC...",
+        "options": {
+            "a": "COSLADA-COLMENAREJO",
+            "b": "CHAPINERÍA-PARLA",
+            "c": "CAMPOREAL-TORREJON DE ARDOZ",
+            "d": "TRES CANTOS-ALCOBENDAS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADA LA ASOCIACIÓN GREMIAL DEL TAXI...",
+        "options": {
+            "a": "SANTA ENGRACIA",
+            "b": "ALBARRACÍN",
+            "c": "PAYAS OFOFÓ",
+            "d": "JOSE ABASCAL"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "JUNTO A QUÉ JUNTA MUNICIPAL ESTÁ SITUADO EL CUARTEL GENERAL DEL EJÉRCITO DEL AIRE",
+        "options": {
+            "a": "CENTRO",
+            "b": "CHAMARTÍN",
+            "c": "MONCLOA",
+            "d": "HORTALEZA"
+        },
+        "solution": "c"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DIRECCIÓN DEL COLEGIO MAYOR MIGUEL ANTONIO CARO...",
+        "options": {
+            "a": "RAMIRO DE MAZTU",
+            "b": "AVDA GREGORIO DEL AMO",
+            "c": "AVDA SENECA",
+            "d": "PLZDE LA MONCLOA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LA REAL ACADEMIA DE LAS ARTES DE SAN FERNANDO...",
+        "options": {
+            "a": "GRAN VÍA, 2",
+            "b": "SERRANO, 13",
+            "c": "ALCALÁ, 13",
+            "d": "VELÁZQUEZ, 32"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "QUÉ JUNTA MUNICIPAL DE DISTRITO SE ENCUENTRA EN LA CRUZ DE LOS CAÍDOS...",
+        "options": {
+            "a": "CIUDAD LINEAL",
+            "b": "HORTALEZA",
+            "c": "CHAMARTÍN",
+            "d": "ARGANZUELA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOTEL CERCANO AL HOSPITAL DE LA PAZ...",
+        "options": {
+            "a": "MADRID TOWER",
+            "b": "PALACE",
+            "c": "EUROBUILDING",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "QUÉ ALBERGA EL PALACIO DE LONGORIA...",
+        "options": {
+            "a": "CASA AMÉRICA",
+            "b": "S.G.A.E (sociedad de autores)",
+            "c": "THYSSEN BORNEMISZA",
+            "d": "CÁMARA DE COMERCIO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CEMENTERIO CERCANO AL PARQUE DE LATINA...",
+        "options": {
+            "a": "LA ALMUDENA",
+            "b": "SAN JUSTO",
+            "c": "SAN ISIDRO",
+            "d": "CEMENTERIO SUR"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "MINISTERIO QUE NO ESTÁ EN EL PºCASTELLANA...",
+        "options": {
+            "a": "FOMENTO",
+            "b": "EDUCACIÓN",
+            "c": "INDUSTRIA",
+            "d": "AGRICULTURA (ahora del medio rural y marino)"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "PARQUE CERCANO A LA AVENIDA RAMÓN Y CAJAL...",
+        "options": {
+            "a": "ROMA",
+            "b": "LATINA",
+            "c": "BERLÍN",
+            "d": "BREOGÁN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO MADRID...",
+        "options": {
+            "a": "GRAN VÍA, 78",
+            "b": "RONDA DE ATOCHA, 35",
+            "c": "AVDA ILUSTRACIÓN s/n",
+            "d": "SAN BERNARDO, 5"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "CASA PATAS JUNTO A QUÉ GRAN AVENIDA CONOCIDA ESTÁ...",
+        "options": {
+            "a": "PRÍNCIPE DE VERGARA",
+            "b": "CALLE ATOCHA",
+            "c": "Pº CASTELLANA",
+            "d": "PRINCESA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL COLEGIO MAYOR SAN AGUSTIN...",
+        "options": {
+            "a": "Pº JUAN XXIII, 11",
+            "b": "AVDA SÉNECA, 7",
+            "c": "RECTOR ROYO VILLANOVA, 8",
+            "d": "AVDA MONCLOA, 2"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "HOTEL CERCANO A PºCASTELLANA, 57...",
+        "options": {
+            "a": "PRAGA",
+            "b": "VILLAMAGNA",
+            "c": "SANVY",
+            "d": "MIGUEL ANGEL"
+        },
+        "solution": "d"
+    }
+]

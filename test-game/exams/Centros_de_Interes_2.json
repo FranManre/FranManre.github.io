@@ -1,0 +1,122 @@
+[
+    {
+        "question": "El hotel Axor Barajas Feria se encuentra en la calle:",
+        "options": {
+            "a": "Calle Campezo",
+            "b": "Av. Logroño",
+            "c": "Av. 25 de Septiembre",
+            "d": "Via de Dublín"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué centro comercial encontramos en Ensanche de Carabanchel?",
+        "options": {
+            "a": "C.C Isla azul",
+            "b": "C.C La Gavia",
+            "c": "C.C Valdebernardo",
+            "d": "C.C Las Rosas"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Sabría indicar dónde se encuentra situado el Club de Golf Puerta de Hierro?",
+        "options": {
+            "a": "Av. Complutense",
+            "b": "Av. Rafaela Ibarra",
+            "c": "Avda. Miraflores, s/n",
+            "d": "Av. Monforte de Lemos"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué museo ubicado en una antigua estación encontramos en el Paseo de las Delicias?",
+        "options": {
+            "a": "Museo Romántico",
+            "b": "Museo del Ferrocarril",
+            "c": "Museo Historia Natural",
+            "d": "Museo de Cera"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Casa Árabe está situada en la calle:",
+        "options": {
+            "a": "Méndez Álvaro",
+            "b": "Calle de Alcalá",
+            "c": "Menéndez Pelayo",
+            "d": "Av. Ciudad de Barcelona"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "La Dirección General de Tráfico se encuentra situada en:",
+        "options": {
+            "a": "Calle Emilio Muñoz, 41",
+            "b": "Calle Marcelino Camacho, 28",
+            "c": "Calle Albarracín, 33",
+            "d": "Calle Julián Camarillo 118"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué calle une las paradas de metro de Avda. de la Paz y Arturo Soria?",
+        "options": {
+            "a": "Calle Ulises",
+            "b": "Calle Belisana",
+            "c": "Calle José Silva",
+            "d": "Av. Ramón y Cajal"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "La Casa de las Torrijas está situada en la calle:",
+        "options": {
+            "a": "La fe",
+            "b": "La Paz",
+            "c": "La Felicidad",
+            "d": "José Silva"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Qué famoso lugar encontramos en la Avda. Portugal s/n?",
+        "options": {
+            "a": "Estadio Vicente Calderón",
+            "b": "Caja Mágica",
+            "c": "Estadio Vallehermoso",
+            "d": "Estadio Madrid Arena"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿En qué calle se encuentra la Policlínica Universitaria Alfonso X El Sabio?",
+        "options": {
+            "a": "Calle Julián Camarillo",
+            "b": "Calle Argos",
+            "c": "Calle Emilio Muñoz",
+            "d": "Calle de Miguel Fleta"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué hospital se encuentra rodeado por la avenida de Francisco Pi y Margal y la calle de Isabel de Valois?",
+        "options": {
+            "a": "Hospital del Sur-Este",
+            "b": "Hospital Infanta Cristina",
+            "c": "Hospital Carlos III",
+            "d": "Hospital Sanitas La Moraleja"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Qué calles bordean el Instituto nacional de Estadística?",
+        "options": {
+            "a": "Poeta Joan Maragall/Mateo Inurria/Castellana",
+            "b": "Mateo Inurria/Alberto Alcocer/Rosario Pino",
+            "c": "Castellana/Rosario Pino/Infanta Mercedes",
+            "d": "Poeta Joan Maragall/Estébanez Calderón/Castellana"
+        },
+        "solution": "d"
+    }
+]

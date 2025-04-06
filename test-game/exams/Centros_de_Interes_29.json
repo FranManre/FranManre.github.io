@@ -1,0 +1,122 @@
+[
+    {
+        "question": "QUÉ BIBLIOTECA NO ESTÁ EN LA CALLE CONDE DUQUE...",
+        "options": {
+            "a": "CENTRAL",
+            "b": "MUNICIPAL",
+            "c": "REGIONAL",
+            "d": "MUSICAL"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "A QUÉ DISTRITO PERTENECE LA AVENIDA MIRAFLORES...",
+        "options": {
+            "a": "MONCLOA-ARAVACA",
+            "b": "FUENCARRAL-ELPARDO",
+            "c": "CHAMARTÍN",
+            "d": "MORATALAZ"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ LA JUNTA MUNICIPAL DE CENTRO...",
+        "options": {
+            "a": "MAYOR",
+            "b": "PLAZA MAYOR",
+            "c": "BAILÉN",
+            "d": "ARENAL"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "METRO CERCANO AL CENTRO CULTURAL EL MADROÑO...",
+        "options": {
+            "a": "SAN CIPRIANO VICALVARO",
+            "b": "ALVARADO",
+            "c": "NUÑEZ DE BALBOA",
+            "d": "PARQUE DE LAS AVENIDAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "NO PERTENECE AL APC...",
+        "options": {
+            "a": "LEGANES",
+            "b": "EL ESCORIAL",
+            "c": "ARGANDA DEL REY",
+            "d": "ALCORCÓN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ PLAZA CONFLUYEN MATEO INURRIA, AVENIDA DE ASTURIAS, PRCASTELLANA,",
+        "options": {
+            "a": "PLAZA DE CUZCO",
+            "b": "PLAZA DE CASTILLA",
+            "c": "PLAZA DE CIBELES",
+            "d": "PLAZA DECOLÓN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁSITUADO EL HOTEL TRYP CIBELES...",
+        "options": {
+            "a": "GRAN VÍA",
+            "b": "MESONERO ROMANOS",
+            "c": "ARENAL",
+            "d": "ALCALÁ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL AC LAS ROZAS...",
+        "options": {
+            "a": "ARAVACA",
+            "b": "LAS MATAS",
+            "c": "LAS ROZAS DE MADRID",
+            "d": "TORRELODONES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL AC SAN SEBASTIAN DE LOS REYES...",
+        "options": {
+            "a": "ALCOBENDAS",
+            "b": "SAN SEBASTIAN DE LOS REYES",
+            "c": "SANCHINARRO",
+            "d": "EL ENCINAR DE LOS REYES"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUE CALLE SITUAS LA EMBAJADA DE EEUU...",
+        "options": {
+            "a": "SERRANO, 15",
+            "b": "P CASTELLANA, 91",
+            "c": "SERRANO, 75",
+            "d": "LAGASCA, 88"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁLA CLÍNICA SAN JOSÉ...",
+        "options": {
+            "a": "AVENIDA DE VALLADOLID, 83",
+            "b": "JOSE SILVA, 7",
+            "c": "GRANJA, 8",
+            "d": "CARTAGENA, 111"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL TEATRO ABADÍA...",
+        "options": {
+            "a": "DONOSO CORTÉS",
+            "b": "FERNÁNDEZ DE LO SRÍOS",
+            "c": "ALCALÁ",
+            "d": "GRAN VÍA"
+        },
+        "solution": "b"
+    }
+]

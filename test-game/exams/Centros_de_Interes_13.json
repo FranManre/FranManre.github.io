@@ -1,0 +1,122 @@
+[
+    {
+        "question": "En la Av. Monforte de Lemos, 5 está ubicado un instituto de investigación, ¿cuál es?",
+        "options": {
+            "a": "Instituto de Salud García Noblejas",
+            "b": "Centro de Investigación de Neuropsiquiatria",
+            "c": "Centro de Formación Virgen de la Paloma",
+            "d": "Instituto de Salud Carlos III"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "¿Dónde se encuentra el Museo Nacional Centro de Arte Reina Sofía?",
+        "options": {
+            "a": "Calle Santa Isabel",
+            "b": "Calle Barceló",
+            "c": "Calle Santa Engracia",
+            "d": "Calle santa Paula"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué lugar de ocio está situado en Torrejón de Ardoz?",
+        "options": {
+            "a": "Parque Europa",
+            "b": "Parque Capricho",
+            "c": "Parque de la Cuña Verde",
+            "d": "Parque Norte"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué famosa plaza se encuentra situado el restaurante \"Gourmet Experience Gran Vía\"?",
+        "options": {
+            "a": "Plaza de las ventas",
+            "b": "Plaza del Callao",
+            "c": "Plaza de General San Martín",
+            "d": "Plaza de Olavide"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿Cuál de los siguientes edificios no rodea la Plaza de España?",
+        "options": {
+            "a": "Edificio España",
+            "b": "Banco de España",
+            "c": "Teatro Coliseum",
+            "d": "Plaza de España"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "El restaurante \"Casa Mingo\" se encuentra en:",
+        "options": {
+            "a": "Paseo de Pintor Rosales, 34",
+            "b": "Paseo de la Florida, 34",
+            "c": "Paseo de Moret, 44",
+            "d": "Paseo de la castellana, 144"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "¿A qué calle tenemos que dirigirnos si queremos ir al Centro Superior de Estudios de la Defensa Nacional?",
+        "options": {
+            "a": "Gran vía, 55",
+            "b": "Paseo de la Castellana, 61",
+            "c": "Av. Ciudad de Barcelona, 25",
+            "d": "Av. Monforte de Lemos, 17"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "En la Avda. de la Ciudad de Barcelona, 1 encontramos:",
+        "options": {
+            "a": "La Tumba de Goya",
+            "b": "La Cripta de los desamparados",
+            "c": "La Basílica de Nuestra Señora de Atocha",
+            "d": "La basílica de san Francisco el Grande"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿A qué distrito pertenece la Ciudad Deportiva del real Madrid?",
+        "options": {
+            "a": "Barajas",
+            "b": "Moncloa - Aravaca",
+            "c": "Centro",
+            "d": "Latina"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿En qué dirección podemos encontrar Torrespaña?",
+        "options": {
+            "a": "Calle O'Donnell 77",
+            "b": "Dr. Esquerdo, 27",
+            "c": "C/ Alcalá, 58",
+            "d": "c) Federico Rubio y Galí, 11"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "¿Qué tres calles rodean el \"Teatro Rialto\"?",
+        "options": {
+            "a": "Gran Vía, San Bernardo, Montera",
+            "b": "Princesa, Alberto Aguilera, Marqués de Urquijo",
+            "c": "Gran Via, Libreros y Flor Alta",
+            "d": "Mateo Inurria, Bravo Murillo, Av. Asturias"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "¿Qué hospital está situado en Calle de Joaquín Costa, 28?",
+        "options": {
+            "a": "Hospital San Francisco de Asís",
+            "b": "Hospital Carlos III",
+            "c": "Hospital San Rafael",
+            "d": "Hospital del Sur Este"
+        },
+        "solution": "a"
+    }
+]

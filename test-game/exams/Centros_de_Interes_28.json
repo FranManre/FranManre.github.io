@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE SE ENCUENTRA LA EMBAJADA DE MÉXICO...",
+        "options": {
+            "a": "CARRERA DE SAN JERÓNIMO, 46",
+            "b": "SERRANO, 90",
+            "c": "GENERAL MARTINEZ CAMPOS, 48",
+            "d": "LAGASCA, 98"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "CENTRO MÉDICO ONCOLÓGICO EN ARTURO SORIA...",
+        "options": {
+            "a": "SAN RAFAEL",
+            "b": "M. D. ANDERSON",
+            "c": "CLÍNICA SAN CAMILO",
+            "d": "CLÍNICA BELÉN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "COLEGIO MAYOR EN LA AVENIDA DE SÉNECA...",
+        "options": {
+            "a": "NUESTRA SEÑORA DE ÁFRICA",
+            "b": "NUESTRA SEÑORA DE GUADALUPE",
+            "c": "NUESTRA SEÑORA DE LUJÁN",
+            "d": "NUESTRA SEÑORA DE LAS VICTORIAS"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EL COLEGIO KINGS COLLEGE ESTÁ EN LA AVENIDA DE LOS ANDES, ¿DE QUÉ LOCALIDAD?",
+        "options": {
+            "a": "ALCOBENDAS",
+            "b": "SAN SEBASTIAN DE LOS REYES",
+            "c": "LAS ROZAS DEMADRID",
+            "d": "TRES CANTOS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADA LA EMBAJADA REPÚBLICA POPULAR DE CHINA...",
+        "options": {
+            "a": "ARTURO SORIA, 113",
+            "b": "Pº DE LA HABANA, 194",
+            "c": "CLAUDIO COELLO, 91",
+            "d": "VELAZQUEZ, 69"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DEL TEATRO NUEVO APOLO...",
+        "options": {
+            "a": "ARGANZUELA",
+            "b": "RETIRO",
+            "c": "SALAMANCA",
+            "d": "CENTRO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "EDIFICIO SITUADO ENTRE LA CALLE ALCALÁ Y GRAN VÍA...",
+        "options": {
+            "a": "TORRE SPAÑA",
+            "b": "METRÓPOLIS",
+            "c": "TORRE DE MADRID",
+            "d": "PALACIO DE GAVIRIA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "ENTRE QUÉ DOS CALLES ESTÁ SITUADO EL REGISTRO DE LA PROPIEDAD...",
+        "options": {
+            "a": "FRANCISCO SILVELA-SANTAENGRACIA",
+            "b": "C/ALCALÁ-C/CRONOS",
+            "c": "Pº CASTELLANA-PRÍNCIPE DEVERGARA",
+            "d": "AVENIDADE AMÉRICA-MARÍA DE MOLINA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL CAFÉ DE ORIENTE...",
+        "options": {
+            "a": "PLAZA MAYOR",
+            "b": "PLAZA DE ORIENTE",
+            "c": "PLAZA DE ESPAÑA",
+            "d": "PUERTADELSOL"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "ENTRE QUÉ PLAZAS ESTÁ EL TEATRO ESPAÑOL...",
+        "options": {
+            "a": "PUERTA DELSOL-CANALEJAS",
+            "b": "RAMALES-SANTA ISABEL",
+            "c": "SANTA ANA - CANALEJAS",
+            "d": "CANALEJAS-CORTES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL HOTEL MAYORAZGO...",
+        "options": {
+            "a": "GRAN VÍA",
+            "b": "FLOR BAJA",
+            "c": "VELÁZQUEZ",
+            "d": "SERRANO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MONUMENTO CERCANO AL TELEFÉRICO...",
+        "options": {
+            "a": "PUERTA DE ALCALÁ",
+            "b": "CIBELES",
+            "c": "PALACIO REAL",
+            "d": "TEMPLO DE DEBOD"
+        },
+        "solution": "d"
+    }
+]

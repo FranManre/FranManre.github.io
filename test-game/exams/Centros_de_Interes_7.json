@@ -1,0 +1,110 @@
+[
+    {
+        "question": "El Cine Doré se encuentra situado en la calle:",
+        "options": {
+            "a": "Mesoneros Romanos",
+            "b": "Santa Isabel",
+            "c": "Comuneros de Castilla",
+            "d": "Paseo Infanta Isabel"
+        }
+    },
+    {
+        "question": "El Museo Casa de la Moneda está situado en la calle:",
+        "options": {
+            "a": "Gran vía",
+            "b": "Princesa",
+            "c": "Dr. Esquerdo",
+            "d": "Joaquín Costa"
+        }
+    },
+    {
+        "question": "¿Cuál de las siguientes calles no rodea el Centro Comercial Castellana 200?",
+        "options": {
+            "a": "Paseo de la Castellana",
+            "b": "Calle Bravo Murillo",
+            "c": "Carlos Maurrás",
+            "d": "Dr. Fleming"
+        }
+    },
+    {
+        "question": "En el centro de la Plaza de la Lealtad está situado:",
+        "options": {
+            "a": "El Monumento a los Caídos por España",
+            "b": "Centro de Arte reina Sofía",
+            "c": "Observatorio Astronómico Nacional",
+            "d": "Banco de España"
+        }
+    },
+    {
+        "question": "El Parque Eva Duarte está rodeado por las calles:",
+        "options": {
+            "a": "Florestan Aguilar, Francisco Silvela y Dr. Esquerdo",
+            "b": "Calle del Dr. Gómez Ulla, Florestan Aguilar y Dr. Esquerdo",
+            "c": "Florestan Aguilar, Francisco Silvela y Alcalá",
+            "d": "Calle del Dr. Gómez Ulla, Florestan Aguilar y Francisco Silvela"
+        }
+    },
+    {
+        "question": "¿Qué organismo encontramos en la Calle Marqués de la Ensenada, 8?",
+        "options": {
+            "a": "Concejalía de Urbanismo y Vivienda",
+            "b": "COE",
+            "c": "Consejo General del Poder Judicial",
+            "d": "Tribunal Constitucional"
+        }
+    },
+    {
+        "question": "¿Qué glorieta encontramos a lo largo de la Avda. de Logroño a su paso por la M-11?",
+        "options": {
+            "a": "Glorieta Ermita de la Virgen de la Soledad",
+            "b": "Plaza Pajarones",
+            "c": "Gta. Playa de san Lorenzo",
+            "d": "Gta. Almendrera"
+        }
+    },
+    {
+        "question": "Lista es un barrio perteneciente al distrito:",
+        "options": {
+            "a": "Salamanca",
+            "b": "Chamberi",
+            "c": "Moncloa - Aravaca",
+            "d": "Centro"
+        }
+    },
+    {
+        "question": "¿Dónde está ubicado el gestor de navegación aérea de España (ENAIRE), antiguamente conocida como AENA?",
+        "options": {
+            "a": "Av. Del mediterráneo",
+            "b": "Av. de Aragón",
+            "c": "Av. General perón",
+            "d": "Av. Ventisquero de la Condesa"
+        }
+    },
+    {
+        "question": "¿Qué parque se encuentra próximo al Paseo Imperial?",
+        "options": {
+            "a": "Parque de la cuña verde",
+            "b": "Parque de la Bombilla",
+            "c": "Parque de la tinaja",
+            "d": "Parque Madrid Rio"
+        }
+    },
+    {
+        "question": "El Teatro Figaro se encuentra en frente de:",
+        "options": {
+            "a": "Los cines \"Yelmo Cines Ideal\"",
+            "b": "El museo Sorolla",
+            "c": "Embajada de Italia",
+            "d": "Hotel NH Eurobuilding"
+        }
+    },
+    {
+        "question": "¿Qué calles bordean el Museo Lázaro Galdiano?",
+        "options": {
+            "a": "Serrano/Gral. Oraá/Mª de Molina/Príncipe de Vergara",
+            "b": "Serrano/Gral. Oraá/Mª de Molina/Claudio Coelho",
+            "c": "Gral. Oraá/Mª de Molina/Principe de Vergara/López de Hoyos",
+            "d": "Mª de Molina/Claudio Coelho/Eduardo Dato/ José Ortega y Gasset"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL MINISTERIO DE FOMENTO...",
+        "options": {
+            "a": "VELÁZQUEZ",
+            "b": "Pº CASTELLANA",
+            "c": "CUZCO",
+            "d": "SERRANO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "EN QUÉ DISTRITO SE ENCUENTRA EL COLEGIO MAYOR VEDRUNA...",
+        "options": {
+            "a": "USERA",
+            "b": "SALAMANCA",
+            "c": "TETUAN",
+            "d": "CHAMBERÍ"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "CASA MINGO ESTÁ CERCANA A...",
+        "options": {
+            "a": "Pº ERMITA DEL SANTO",
+            "b": "PLAZA DE ESPAÑA",
+            "c": "LA ALMUDENA",
+            "d": "PUENTE DE SEGOVIA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PARADA DE METRO CERCANA A LAS OFICINAS DE METRO DE MADRID...",
+        "options": {
+            "a": "ATOCHA",
+            "b": "PLAZA DE CASTILLA",
+            "c": "MÉNDEZ ALVARO",
+            "d": "CUATRO CAMINOS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "METRO CERCANO AL TRIBUNAL CONSTITUCIONAL...",
+        "options": {
+            "a": "ISLAS FILIPINAS",
+            "b": "CUATRO CAMINOS",
+            "c": "METROPOLITANO",
+            "d": "PRÍNCIPE PÍO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "METRO CERCANO AL SENADO...",
+        "options": {
+            "a": "SOL",
+            "b": "LAVAPIÉS",
+            "c": "SANTO DOMINGO",
+            "d": "BUENOS AIRES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "PARADA DE METRO CERCANA AL HOSPITAL NIÑO JESÚS...",
+        "options": {
+            "a": "IBIZA",
+            "b": "ESTRELLA",
+            "c": "BANCO DE ESPAÑA",
+            "d": "RETIRO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "FRENTE AL PALACIO DE BUENAVISTA...",
+        "options": {
+            "a": "PALACIO REAL",
+            "b": "BANCO DE ESPAÑA",
+            "c": "IGLESIA DESANFRANCISCO EL GRANDE",
+            "d": "MUSEO DE ANTROPOLOGÍA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PARADA DE METRO CERCANA A FAUNIA...",
+        "options": {
+            "a": "VILLA DEVALLECAS",
+            "b": "MAR DE CRISTAL",
+            "c": "VALDEBERNARDO",
+            "d": "PAVONES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DIRECCIÓN DE LOS CINES PAZ...",
+        "options": {
+            "a": "MARTIN DE LOS HEROS",
+            "b": "LUCHANA",
+            "c": "ACANTO",
+            "d": "FUENCARRAL"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DIRECCIÓN DEL TEATRO AMAYA...",
+        "options": {
+            "a": "TAMAYO Y BAUS",
+            "b": "Pº GENERAL MARTINEZ CAMPOS",
+            "c": "PRIM",
+            "d": "GRANVÍA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "SEDE DE LA EMPRESA MUNICIPAL DE TRANSPORTES...",
+        "options": {
+            "a": "CERRO DE LA PLATA",
+            "b": "AGUSTÍN DE FOXÁ",
+            "c": "SERRANO",
+            "d": "FELIPE II"
+        },
+        "solution": "a"
+    }
+]

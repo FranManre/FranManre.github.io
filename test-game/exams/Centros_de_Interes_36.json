@@ -1,0 +1,122 @@
+[
+    {
+        "question": "OTRO NOMBRE DE LA CLÍNICA NUESTRA SEÑORA DE LA CONCEPCIÓN...",
+        "options": {
+            "a": "LAZARZUELA",
+            "b": "SAN CARLOS",
+            "c": "MONCLOA",
+            "d": "FUNDACIÓN JIMÉNEZ DÍAZ"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL HOTEL SANVY...",
+        "options": {
+            "a": "GOYA",
+            "b": "PLAZA DE COLÓN",
+            "c": "AYALA",
+            "d": "SERRANO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CINE CERCANO A MÉNDEZ ALVARO...",
+        "options": {
+            "a": "ALPHAVILLE",
+            "b": "GOLEM",
+            "c": "UGC CINE CITÉ",
+            "d": "CINESA LAS ROSAS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "COMISARÍA CERCANA A LA AVDA ANDALUCÍA...",
+        "options": {
+            "a": "LOS CÁRMENES",
+            "b": "CARABANCHEL",
+            "c": "USERA",
+            "d": "VALLECAS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "MINISTERIO FRENTE AL MUSEO DEL PRADO...",
+        "options": {
+            "a": "SANIDAD",
+            "b": "MEDIO AMBIENTE",
+            "c": "INDUSTRIA",
+            "d": "FOMENTO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO DONDE SE ENCUENTRA LA NUNCIATURA APOSTÓLICA...",
+        "options": {
+            "a": "LATINA",
+            "b": "CHAMARTÍN",
+            "c": "ARGANZUELA",
+            "d": "CHAMBERÍ"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUÉ SE ENCUENTRA CERCANO AL PALACIO DE LINARES...",
+        "options": {
+            "a": "COMUNIDAD DE MADRID",
+            "b": "MUSEO DEL PRADO",
+            "c": "AYUNTAMIENTO DE MADRID",
+            "d": "PALACIO DE LIRIA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "MUSEO CERCANO AL PASEO DE LAS DELICIAS...",
+        "options": {
+            "a": "CERRALBO",
+            "b": "FERROCARRIL",
+            "c": "MUNICIPAL",
+            "d": "SOROLLA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "CALLE FRENTE A LA ROSALEDA...",
+        "options": {
+            "a": "ALCALÁ",
+            "b": "FERRAZ",
+            "c": "MENÉNDEZ PELAYO",
+            "d": "JESÚS APRENDIZ"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "JUNTA MUNICIPAL DE DISTRITO JUNTO A LA GLORIETA PILAR MIRÓ...",
+        "options": {
+            "a": "CENTRO",
+            "b": "MONCLOA-ARAVACA",
+            "c": "HORTALEZA",
+            "d": "CHAMBERÍ"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE SITUAS LAS OFICINAS DE METRO DE MADRID...",
+        "options": {
+            "a": "ABTAO",
+            "b": "CAVANILLES",
+            "c": "DOCTOR ESQUERDO",
+            "d": "MENÉNDEZ PELAYO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MERCADO EN EL DISTRITO DE VALLECAS....",
+        "options": {
+            "a": "LA GUINDALERA",
+            "b": "MARAVILLAS",
+            "c": "DOÑA CARLOTA",
+            "d": "VAGUADA"
+        },
+        "solution": "c"
+    }
+]

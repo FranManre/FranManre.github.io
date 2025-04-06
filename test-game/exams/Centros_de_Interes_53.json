@@ -1,0 +1,92 @@
+[
+    {
+        "question": "GRAN AVENIDA CONOCIDA JUNTO AL HOTEL SANVY...",
+        "options": {
+            "a": "ATOCHA",
+            "b": "SERRANO",
+            "c": "CASTELLANA",
+            "d": "PRÍNCIPE DE VERGARA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DISTRITO AL QUE PERTENECE EL PARQUE JUAN CARLOS I...",
+        "options": {
+            "a": "BARAJAS",
+            "b": "VICALVARO",
+            "c": "HORTALEZA",
+            "d": "CHAMARTÍN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "ESCUELA TÉCNICA JUNTO AL MUSEO DE CIENCIAS NATURALES...",
+        "options": {
+            "a": "INDUSTRIALES",
+            "b": "FARMACIA",
+            "c": "FORESTALES",
+            "d": "MINAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOTEL SITUADO EN LA CALLE HERMOSILLA, 2...",
+        "options": {
+            "a": "TRYPFÉNIX",
+            "b": "DIANA PLUS",
+            "c": "WELLINGTON",
+            "d": "SANVY"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "LA ESTACIÓN DE CERCANÍAS DE EL SOTO EN QUÉ MUNICIPIO SE ENCUENTRA...",
+        "options": {
+            "a": "LEGANÉS",
+            "b": "MÓSTOLES",
+            "c": "ALCOBENDAS",
+            "d": "RIVASVACIAMADRID"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "LA SALA HEINEKEN (antigua ARENA) ¿ESTÁ MÁS CERCA DE QUÉ PLAZA?",
+        "options": {
+            "a": "ESPAÑA",
+            "b": "CUZCO",
+            "c": "SOL",
+            "d": "MONCLOA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "MERCADO CERCANO A LA GLORIETA PINTOR SOROLLA...",
+        "options": {
+            "a": "CHAMBERÍ",
+            "b": "LATINA",
+            "c": "CHAMARTÍN",
+            "d": "MARAVILLAS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EL MONASTERIO DE LAS DESCALZAS REALES DE QUÉ ZONA ESTÁ CERCA...",
+        "options": {
+            "a": "SOL",
+            "b": "RETIRO",
+            "c": "CHAMBERÍ",
+            "d": "PRINCESA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DIRECCIÓN DE LA EMBAJADA DE UZBEQUISTAN",
+        "options": {
+            "a": "SERRANO, 36",
+            "b": "VELAZQUE, 67",
+            "c": "PO.CASTELLANA, 45",
+            "d": "ALCALA, 452"
+        },
+        "solution": "c"
+    }
+]

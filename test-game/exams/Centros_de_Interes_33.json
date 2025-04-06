@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE ESTÁEL MUSEO ETNOLÓGICO...",
+        "options": {
+            "a": "ALFONSO XII, 68",
+            "b": "SANTA ISABEL, 52",
+            "c": "Pº DELPRADO, 8",
+            "d": "SERRANO, 122"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "A QUÉ DISTRITO PERTENECE LA IGLESIA DE SAN MANUEL Y SAN BENITO...",
+        "options": {
+            "a": "CHAMARTÍN",
+            "b": "ARGANZUELA",
+            "c": "CHAMBERÍ",
+            "d": "RETIRO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL MUSEO TIFOLÓGICO DE LA ONCE...",
+        "options": {
+            "a": "SERRA",
+            "b": "CORUÑA, 18",
+            "c": "MATEO INURRIA, 1",
+            "d": "BRAVO MURILLO, 359"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "QUÉ FACULTAD SE SITÚA EN EL KM.7 DE LA CARRETERA DE VALENCIA...",
+        "options": {
+            "a": "VETERINARIA",
+            "b": "INFORMÁTICA",
+            "c": "TELECOMUNICACIONES",
+            "d": "INDUSTRIALES"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "RESTAURANTE SITUADO ENTRE BRETÓN DE LOS HERREROS Y JOSÉ ABASCAL...",
+        "options": {
+            "a": "CASA LUCIO",
+            "b": "HORCHER",
+            "c": "SANTCELONI",
+            "d": "ZALACAÍN"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "METRO CERCANO A LA GERENCIA DE URBANISMO...",
+        "options": {
+            "a": "VALDEZARZA",
+            "b": "COLOMBIA",
+            "c": "NUÑEZ DE BALBOA",
+            "d": "PLAZA DE CASTILLA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL GRAN HOTEL COLÓN...",
+        "options": {
+            "a": "ALCALDE SAINZ DE BARANDA",
+            "b": "AVENIDA DEL MEDITERRANEO",
+            "c": "DOCTOR ESQUERDO",
+            "d": "PEZ VOLADOR"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DIRECCIÓN DEL HOTEL AMURA...",
+        "options": {
+            "a": "AVDA DE LA INDUSTRIA",
+            "b": "PINTOR VELÁZQUEZ",
+            "c": "Pº DE LA CHOPERA",
+            "d": "AVDA VALDELAPARRA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "QUÉ MINISTERIO ALBERGA EL PALACIO DE VILLAMEJOR...",
+        "options": {
+            "a": "VIVIENDA",
+            "b": "INDUSTRIA",
+            "c": "SANIDAD",
+            "d": "ADMINISTRACIONES PÚBLICAS"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DOS CALLES QUE CONFLUYEN EN LA GLORIETA DECHAMBERI...",
+        "options": {
+            "a": "SANTA ENGRACIA-ALMAGRO",
+            "b": "Pº EDUARTO DATO-SANTA ENGRACIA",
+            "c": "GARCIA DE PAREDES-SAGASTA",
+            "d": "SAGASTA-ZURBANO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "PARQUE CERCANO AL METRO VALDEACEDERAS...",
+        "options": {
+            "a": "PARQUE DE PRADOLONGO",
+            "b": "PARQUE EVA DUARTE DE PERÓN",
+            "c": "PARQUE HUERTA DEL OBISPO",
+            "d": "PARQUE DE PALOMERAS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADA LA OFICINA DE OBJETOS PERDIDOS...",
+        "options": {
+            "a": "EMBAJADORES",
+            "b": "PASEO DE LAS DELICIAS",
+            "c": "PASEO DEL MOLINO",
+            "d": "AVENIDA DEL MANZANARES"
+        },
+        "solution": "c"
+    }
+]

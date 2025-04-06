@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DÓNDE ESTÁ LA SALA CLEOFÁS...",
+        "options": {
+            "a": "GOYA, 7",
+            "b": "CRUZ, 26",
+            "c": "BARCELÓ, 11",
+            "d": "HERMOSILLA, 15"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL TEATRO CALDERÓN...",
+        "options": {
+            "a": "GALILEO, 39",
+            "b": "ATOCHA, 18",
+            "c": "GRANVÍA, 54",
+            "d": "PLAZA DE ORIENTE"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA EL MUSEO DE CIENCIAS NATURALES...",
+        "options": {
+            "a": "RIOS ROSAS, 23",
+            "b": "AVDA.REYES CATÓLICOS, 6",
+            "c": "JOSÉ GUTIERREZ ABASCAL, 2",
+            "d": "Pº CASTELLANA, 5"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "LA FUNDACIÓN DE PERROS GUÍA DE LA ONCE, SE ENCUENTRA EN...",
+        "options": {
+            "a": "ALCORCÓN",
+            "b": "BOADILLA DEL MONTE",
+            "c": "MÓSTOLES",
+            "d": "VILLAVICIOSA DE ODÓN"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "LA EMBAJADA DE MARRUECOS ESTÁ ¿EN LA CALLE?",
+        "options": {
+            "a": "JOAQUÍN COSTA",
+            "b": "SERRANO",
+            "c": "GENERAL PERÓN",
+            "d": "Pº HABANA"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DIRECCIÓN DEL CEMENTERIO SACRAMENTAL DE SANTA MARÍA...",
+        "options": {
+            "a": "Pº ERMITA DEL SANTO",
+            "b": "AVDA CARABANCHEL",
+            "c": "COMUNEROS DE CASTILLA",
+            "d": "VÍA LUSITANA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "EN QUÉ CALLE EXACTA SE ENCUENTRA EL PALACIO DE VISTALEGRE...",
+        "options": {
+            "a": "AVDA PLAZA DE TOROS",
+            "b": "Pº DEL PRADO",
+            "c": "ALCALÁ",
+            "d": "GENERAL RICARDOS"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EL DIARIO DEL MUNDO ¿DÓNDE ESTÁ?",
+        "options": {
+            "a": "AVENIDA DE SAN LUIS",
+            "b": "AVENIDA DAROCA",
+            "c": "C/JOSEFA VALCARCEL",
+            "d": "C/GRAN VÍA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EL PALACIO DE VILLAHERMOSA CUÁL DE LOS SIGUIENTES MUSEOS ALBERGA...",
+        "options": {
+            "a": "PRADO",
+            "b": "GEOMINERO",
+            "c": "GEOLÓGICO",
+            "d": "THYSSEN BORNESMIZA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "QUÉ JUNTA MUNICIPAL ESTÁ SITUADA JUNTO A UN INTERCAMBIADOR...",
+        "options": {
+            "a": "MONCLOA-ARAVACA",
+            "b": "ARGANZUELA",
+            "c": "SALAMANCA",
+            "d": "CENTRO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DISTRITO AL QUE PERTENECE PUENTE ALCOCER...",
+        "options": {
+            "a": "CARABANCHEL",
+            "b": "FUENCARRAL",
+            "c": "CHAMARTÍN",
+            "d": "VILLAVERDE"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "LA EMBAJADA DE NICARAGUA ESTÁ FRENTE AL MINISTERIO DE INDUSTRIA EN QUÉ CALLE...",
+        "options": {
+            "a": "POETA JOAN MARAGALL",
+            "b": "PADRE DAMIAN",
+            "c": "GENERAL PERÓN",
+            "d": "Pº CASTELLANA"
+        },
+        "solution": "d"
+    }
+]

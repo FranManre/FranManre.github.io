@@ -1,0 +1,122 @@
+[
+    {
+        "question": "QUÉ ZONAS DE OCIO DE LAS QUE SE MUESTRAN PERTENECEN AL A.P.C....",
+        "options": {
+            "a": "WARNER BROSS PARK",
+            "b": "PARQUE CORREDOR",
+            "c": "LA DEHESA",
+            "d": "EL VENTANAL DE LA SIERRA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOTEL SITUADO ENTRE LA PLAZA DEL CALLAO Y LA RED DE SAN LUIS...",
+        "options": {
+            "a": "HOTEL CLARIDGE",
+            "b": "HOTEL PRÍNCIPEPÍO",
+            "c": "HOTEL ATLÁNTICO",
+            "d": "HOTEL MEDIODÍA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL MERCADO DOÑA CARLOTA...",
+        "options": {
+            "a": "PLAZA DEL DOCTOR LOZANO",
+            "c": "PEÑA PRIETA",
+            "b": "SIERRA ELVIRA",
+            "d": "SIERRA TOLEDANA"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁEL HOSPITAL DE MADRID...",
+        "options": {
+            "a": "PLAZA CONDE VALLE SUCHIL",
+            "b": "BRAVO MURILLO",
+            "c": "AVDA REINA VICTORIA",
+            "d": "DOCTOR ESQUERDO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL CONSULADO DE IRLANDA...",
+        "options": {
+            "a": "Pº CASTELLANA",
+            "c": "ORENSE",
+            "b": "NUEVOS MINISTERIOS",
+            "d": "CUZCO"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL CINE JUANA DE AUSTRIA",
+        "options": {
+            "a": "C/ PRÍNCIPE DE VERGARA",
+            "b": "C/SANTA ENGRACIA",
+            "c": "C/ARTURO SORIA",
+            "d": "C/PRIM"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "A QUÉ DISTRITO PERTENECE EL PARQUE DE ATRACCIONES...",
+        "options": {
+            "a": "ARGANZUELA",
+            "b": "MONCLOA-ARAVACA",
+            "c": "LATINA",
+            "d": "CASA DE CAMPO"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DÓNDE ESTÁ SITUADO EL BOSQUE DE LOS AUSENTES...",
+        "options": {
+            "a": "PARQUE BERLIN",
+            "b": "PARQUE ROMA",
+            "c": "PARQUE DE PRADOLONGO",
+            "d": "PARQUE DEL BUEN RETIRO"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "ENTRE QUE DOS CALLES ESTÁ EL CAFÉ GIJÓN...",
+        "options": {
+            "a": "Pº CASTELLANA-C/GÉNOVA",
+            "b": "BARBARA DE BRAGANZA-CONDE XIQUENA",
+            "c": "PIAMONTE-SAN LUCAS",
+            "d": "ALMIRANTE-PRIM"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "DÓNDE ESTÁ EL MUSEO LÁZARO GALDIANO...",
+        "options": {
+            "a": "SERRANO 122",
+            "b": "PRÍNCIPE DE VERGARA 36",
+            "c": "GOYA 47",
+            "d": "VELÁZQUE 88"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "DÓNDE SE ENCUENTRA CREACIÓN MATADERO DE MADRID...",
+        "options": {
+            "a": "Pº YESERÍAS",
+            "b": "Pº DELICIAS",
+            "c": "EMBAJADORES",
+            "d": "PASEO DE LA CHOPERA"
+        },
+        "solution": "d"
+    },
+    {
+        "question": "EN QUÉ CALLE SITUARÍA EL HOTEL GAUDÍ...",
+        "options": {
+            "a": "VELÁZQUEZ",
+            "b": "GRAN VÍA",
+            "c": "ALCALÁ",
+            "d": "LEGANITOS"
+        },
+        "solution": "b"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "DONDE SE ENCUENTRAN LOS MULTICINES COSLADA...",
+        "options": {
+            "a": "AVENIDA DELA CONSTITUCIÓN, 74",
+            "b": "AVENIDA DE ESPAÑA, 4",
+            "c": "AVENIDA DE MADRID s/n",
+            "d": "PLAZA MAYOR s/n"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "LA EMBAJADA DE FINLANDIA A QUÉ ALTURA DE Pº CASTELLANASE ENCUENTRA...",
+        "options": {
+            "a": "POCASTELLANA, 31",
+            "b": "Pº CASTELLANA, 164",
+            "c": "Pº CASTELLANA, 15",
+            "d": "PR CASTELLANA, 45"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "LA ESTACIÓN DE ZARZA QUEMADA A QUÉ MUNICIPIO PERTENECE...",
+        "options": {
+            "a": "GETAFE",
+            "b": "LEGANÉS",
+            "c": "PARLA",
+            "d": "MÓSTOLES"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "DONDE SE ENCUENTRA LA BOLSA DE MADRID...",
+        "options": {
+            "a": "PLAZA DE LA INDEPENDENCIA",
+            "b": "PLAZA CÁNOVAS DEL CASTILLO",
+            "c": "PLAZA DE LALEALTAD",
+            "d": "PLAZA DE CIBELES"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DISTRITO DONDE SE ENCUENTRA EL CENTRO CULTURAL LA CHATA...",
+        "options": {
+            "a": "VALLECAS",
+            "b": "USERA",
+            "c": "CARABACHEL",
+            "d": "BARAJAS"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DISTRITO DEL COLEGIO SAN PABLO CEU...",
+        "options": {
+            "a": "TETUAN",
+            "b": "MONCLOA-ARAVACA",
+            "c": "SALAMANCA",
+            "d": "ARGANZUELA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "HOTEL CERCANO A LA ESTACIÓN DE CHAMARTÍN...",
+        "options": {
+            "a": "HUSA CHAMARTÍN",
+            "b": "ABBA CASTILLA PLAZA",
+            "c": "PIRÁMIDES",
+            "d": "EUROBUILDING"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "EN QUÉ PARQUE SE ENCUENTRA EL JARDÍN DE ROSALES...",
+        "options": {
+            "a": "PARQUE DEL RETIRO",
+            "b": "PARQUE DE PRADOLONGO",
+            "c": "PARQUE DEL OESTE",
+            "d": "PARQUE ROMA"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DONDE SE ENCUENTRA EL CENTRO COMERCIAL MODA SHOPPING...",
+        "options": {
+            "a": "AVENIDA GENERAL PERÓN",
+            "b": "Pº CASTELLANA",
+            "c": "POETA JOAN MARAGALL",
+            "d": "HERNANI"
+        },
+        "solution": "a"
+    },
+    {
+        "question": "HOTEL CERCANO AL METRO GREGORIO MARAÑÓN...",
+        "options": {
+            "a": "AMURA",
+            "b": "MIGUEL ANGEL",
+            "c": "TRYP CIBELES",
+            "d": "SENATOR"
+        },
+        "solution": "b"
+    },
+    {
+        "question": "MUNICIPIO DEL POLÍGONO URTINSA...",
+        "options": {
+            "a": "PARLA",
+            "b": "MÓSTOLES",
+            "c": "ALCORCÓN",
+            "d": "LAS ROZAS DE MADRID"
+        },
+        "solution": "c"
+    },
+    {
+        "question": "DÓNDE SITUAS LA COMISARÍA DE ARGANZUELA...",
+        "options": {
+            "a": "RONDA DE TOLEDO, 26",
+            "b": "PEÑATREVINCA, s/n",
+            "c": "PADRE AMIGÓ, 3",
+            "d": "ALBERIQUE s/n"
+        },
+        "solution": "a"
+    }
+]
