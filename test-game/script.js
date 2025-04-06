@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const navButtons = document.getElementById("nav-buttons");
         navButtons.innerHTML = `
-            <button id="previous-question">Anterior pregunta</button>
+            <button id="previous-question">Anterior</button>
             <button id="next-question" class="${currentIndex === currentExam.length - 1 ? "finish-btn" : ""}">
                 ${currentIndex === currentExam.length - 1 ? "Finalizar" : "Siguiente"}
             </button>
