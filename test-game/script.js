@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {/**/
+document.addEventListener("DOMContentLoaded", () => {
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
@@ -16,7 +16,6 @@ document.addEventListener("DOMContentLoaded", () => {/**/
     const toggleSection = (sectionToShow) => {
         [examList, quizContainer, attemptsList, reviewContainer].forEach(section => {
             section.classList.toggle("hidden", section !== sectionToShow);
-            section.classList.toggle("visible", section === sectionToShow);
         });
     };
 
@@ -59,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {/**/
     };
 
     const loadAttemptsList = (examName) => {
-        const attempts = attemptsHistory[examName] ? [...attemptsHistory[examName]] : [];
+        const attempts = attemptsHistory[examName] || [];
         attemptsButtonsDiv.innerHTML = "";
 
         attempts.slice(-5).reverse().forEach((attempt, index) => {
@@ -124,28 +123,31 @@ document.addEventListener("DOMContentLoaded", () => {/**/
             optionsDiv.appendChild(label);
         });
 
-        const nextButton = document.getElementById("next-question");
-        nextButton.textContent = currentIndex === currentExam.length - 1 ? "Finalizar Test" : "Siguiente pregunta";
-        nextButton.classList.toggle("finish-btn", currentIndex === currentExam.length - 1);
-        document.getElementById("previous-question").disabled = currentIndex === 0;
+        const navButtons = document.getElementById("nav-buttons");
+        navButtons.innerHTML = `
+            <button id="previous-question">Anterior pregunta</button>
+            <button id="next-question" class="${currentIndex === currentExam.length - 1 ? "finish-btn" : ""}">
+                ${currentIndex === currentExam.length - 1 ? "Finalizar Test" : "Siguiente pregunta"}
+            </button>
+        `;
+
+        document.getElementById("previous-question").addEventListener("click", () => {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showQuestion();
+            }
+        });
+
+        document.getElementById("next-question").addEventListener("click", () => {
+            if (currentIndex < currentExam.length - 1) {
+                currentIndex++;
+                showQuestion();
+            } else {
+                saveAttempt();
+                loadAttemptsList(document.getElementById("quiz-title").dataset.originalName);
+            }
+        });
     };
-
-    document.getElementById("previous-question").addEventListener("click", () => {
-        if (currentIndex > 0) {
-            currentIndex--;
-            showQuestion();
-        }
-    });
-
-    document.getElementById("next-question").addEventListener("click", () => {
-        if (currentIndex < currentExam.length - 1) {
-            currentIndex++;
-            showQuestion();
-        } else {
-            saveAttempt();
-            loadAttemptsList(document.getElementById("quiz-title").dataset.originalName);
-        }
-    });
 
     const saveAttempt = () => {
         const examName = document.getElementById("quiz-title").dataset.originalName;
@@ -224,6 +226,7 @@ document.addEventListener("DOMContentLoaded", () => {/**/
     });
     document.getElementById("cancel-exit").addEventListener("click", () => exitDialog.close());
     document.getElementById("back-to-attempts").addEventListener("click", () => toggleSection(attemptsList));
+    document.getElementById("back-to-tests").addEventListener("click", () => toggleSection(examList));
 
     loadExamList();
 });
