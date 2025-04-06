@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", () => {
         navButtons.innerHTML = `
             <button id="previous-question">Anterior pregunta</button>
             <button id="next-question" class="${currentIndex === currentExam.length - 1 ? "finish-btn" : ""}">
-                ${currentIndex === currentExam.length - 1 ? "Finalizar Test" : "Siguiente pregunta"}
+                ${currentIndex === currentExam.length - 1 ? "Finalizar" : "Siguiente"}
             </button>
         `;
 
