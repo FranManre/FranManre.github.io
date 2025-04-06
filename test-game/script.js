@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // ============== VARIABLES GLOBALES ============== 1
+    // ============== VARIABLES GLOBALES ============== 2
     let currentExam = [];
     let currentIndex = 0;
     let userAnswers = [];
