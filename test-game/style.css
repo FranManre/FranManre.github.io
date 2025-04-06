@@ -62,7 +62,7 @@ button {
     display: block;
     padding: 1rem;
     background: #007bff;
-    color: white;
+    color: white !important;
     border-radius: 8px;
     font-size: 1rem;
     cursor: pointer;
@@ -211,7 +211,6 @@ button.finish-btn:hover {
     margin: 0.5rem auto !important;
 }
 
-/* ===== ESTILOS PARA REVISIONES ===== */
 #review-container {
     text-align: center;
 }
