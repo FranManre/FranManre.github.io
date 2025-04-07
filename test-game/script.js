@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const examButtonsDiv = document.getElementById("exam-buttons");
     const attemptsButtonsDiv = document.getElementById("attempts-buttons");
     const exitDialog = document.getElementById("exit-dialog");
-    const homebButton = document.getElementById("home-button");
+    const homeButton = document.getElementById("home-button");
 
     const toggleSection = (sectionToShow) => {
         [examList, quizContainer, attemptsList, reviewContainer].forEach(section => {
