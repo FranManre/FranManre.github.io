@@ -20,11 +20,13 @@
 </head>
 <body>
     <div id="main">
-    <h1>Trivia APC Madrid</h1>
-    <h2 id="question">Cargando...</h2>
-    <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
-    <button onclick="toggleDarkMode()">🌙 Modo oscuro</button>
-    <button onclick="reset()">Reset</button></div>
+        <h1>Trivia APC Madrid</h1>
+        <h2 id="question">Cargando...</h2>
+        <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
+        <button onclick="toggleDarkMode()">🌙 Modo oscuro</button>
+        <button onclick="reset()">Reset</button>
+        <button onclick="goHome()"> Salir</button>
+    </div>
     <div id="map-container"></div>
     <p id="logro" class="hidden">🏆 ¡Logro desbloqueado!</p>
 
@@ -62,6 +64,10 @@
 
         document.getElementById("score").innerText = score;
         document.getElementById("combo").innerText = combo;
+
+        function goHome() {
+            window.location.href = "../index.html";
+        }
 
         function adjustMapSize() {
             let svg = document.querySelector("#map-container svg");
