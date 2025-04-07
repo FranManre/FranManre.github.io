@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const toggleSection = (sectionToShow) => {
         [examList, quizContainer, attemptsList, reviewContainer].forEach(section => {
             section.classList.toggle("hidden", section !== sectionToShow);
-            homeButton.classList.toggle("hidden", section == quizContainer);
+            homeButton.classList.toggle("hidden", quizContainer == sectionToShow);
         });
     };
 
