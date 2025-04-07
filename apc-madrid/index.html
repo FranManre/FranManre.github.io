@@ -120,9 +120,11 @@
         }
         
         function reset() {
-            localStorage.setItem("score", score = 0);
-            localStorage.setItem("combo", combo = 0);
-            left = names.sort(() => Math.random() - 0.5);
+            score = 0;
+            combo = 0;
+            localStorage.setItem("score", score);
+            localStorage.setItem("combo", combo);
+            left = [...names].sort(() => Math.random() - 0.5);
             document.getElementById("score").innerText = score;
             document.getElementById("combo").innerText = combo;
             next();
