@@ -15,7 +15,8 @@
         .incorrect { fill: red !important; }
         .highlight { fill: yellow !important; }
         .hidden { display: none; }
-        button { padding: 10px; margin: 10px; cursor: pointer; }
+        .button-container { display: flex; justify-content: center; }
+        button { display: flex; justify-content: center; align-items: center; width: 3rem; height: 3rem; background-color: #f4f4f4; border: 2px solid #ccc; border-radius: 50%; font-size: 25px; cursor: pointer; margin: 0 0.3rem; }
     </style>
 </head>
 <body>
@@ -23,9 +24,11 @@
         <h1>Trivia APC Madrid</h1>
         <h2 id="question">Cargando...</h2>
         <p>Puntuación: <span id="score">0</span> | Aciertos seguidos: <span id="combo">0</span></p>
-        <button onclick="toggleDarkMode()">🌙 Modo oscuro</button>
-        <button onclick="reset()">♻️ Reset</button>
-        <button onclick="window.location.href='../index.html'">🏠 Salir</button>
+        <div class="button-container">
+            <button onclick="toggleDarkMode()" title="Modo oscuro">🌙</button>
+            <button onclick="reset()" title="Reset">♻️</button>
+            <button onclick="window.location.href='../index.html'" title="Salir">🏠</button>
+        </div>
     </div>
     <div id="map-container"></div>
     <p id="logro" class="hidden">🏆 ¡Logro desbloqueado!</p>
