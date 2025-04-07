@@ -14,6 +14,7 @@ body {
 }
 
 main {
+    position: relative;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -47,6 +48,7 @@ section {
     background-size: 1em;
     text-align: center;
 }
+
 button:hover {
     filter: brightness(0.9);
 }
@@ -79,6 +81,25 @@ button.finish-btn:hover {
     text-align: center;
     font-size: 1.5rem;
     color: #2c3e50;
+}
+
+.btn-float {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.btn-float:hover {
+    background-color: #0056b3;
 }
 
 .title {
